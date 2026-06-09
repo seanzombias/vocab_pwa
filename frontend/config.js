@@ -12,7 +12,7 @@ export const API_BASE = (() => {
     return "http://localhost:8765";
   }
   // Cloudflare Worker（部署后 wrangler 会显示实际 URL）
-  return "https://vocab-pwa-api.seanzombias.workers.dev";
+  return "https://vocab-pwa-api.756121162.workers.dev";
 })();
 
 /** GitHub Pages 直接用打包 JSON；本地开发可走 Worker API */

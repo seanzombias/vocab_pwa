@@ -1,3 +1,5 @@
+name: Deploy Cloudflare Worker
+
 on:
   push:
     branches: [main]
@@ -6,13 +8,9 @@ on:
       - ".github/workflows/worker.yml"
   workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # 在 Job 级别将 secrets 映射为 env 变量，以便在下面的 step if 中安全读取
     env:
       TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
 
@@ -25,7 +23,7 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Validate Cloudflare secrets
+      - name: Validate secrets
         run: |
           missing=0
           if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then
@@ -35,6 +33,9 @@ jobs:
           if [ -z "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}" ]; then
             echo "::error::缺少 GitHub Secret: CLOUDFLARE_ACCOUNT_ID"
             missing=1
+          fi
+          if [ -z "${{ secrets.TURSO_AUTH_TOKEN }}" ]; then
+            echo "::warning::未配置 TURSO_AUTH_TOKEN，部署后 Worker 无法连接 Turso"
           fi
           if [ "$missing" -eq 1 ]; then
             echo "请到 Settings → Secrets and variables → Actions 添加以上 Secret"
@@ -49,29 +50,30 @@ jobs:
         working-directory: worker
         run: npm run typecheck
 
+      - name: Verify Cloudflare auth
+        working-directory: worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler whoami
+
       - name: Deploy Worker
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          workingDirectory: worker
-          wranglerVersion: "4"
-          command: deploy
+        working-directory: worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler deploy
 
       - name: Upload Turso secrets
-        # 使用映射好的 env 变量代替直接引用 secrets
         if: ${{ env.TURSO_AUTH_TOKEN != '' }}
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          workingDirectory: worker
-          wranglerVersion: "4"
-          secrets: |
-            TURSO_DATABASE_URL
-            TURSO_AUTH_TOKEN
-            VOCAB_API_TOKEN
+        working-directory: worker
         env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           TURSO_DATABASE_URL: ${{ secrets.TURSO_DATABASE_URL }}
-          # 依然可以安全引用，且最后一行已修复乱码
+          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
           VOCAB_API_TOKEN: ${{ secrets.VOCAB_API_TOKEN }}
+        run: |
+          printf '%s' "$TURSO_DATABASE_URL" | npx wrangler secret put TURSO_DATABASE_URL
+          printf '%s' "$TURSO_AUTH_TOKEN" | npx wrangler secret put TURSO_AUTH_TOKEN
+          printf '%s' "$VOCAB_API_TOKEN" | npx wrangler secret put VOCAB_API_TOKEN
