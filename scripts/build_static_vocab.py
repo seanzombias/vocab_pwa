@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = [
     ROOT / "backend" / "data" / "axios_article_vocab.json",
+    ROOT / "backend" / "data" / "axios_analog_learning_vocab.json",
 ]
 OUTPUT = ROOT / "frontend" / "data" / "vocab.json"
 DATE_PATTERN = re.compile(r"\((\d{4}-\d{2}-\d{2})\)")

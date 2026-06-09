@@ -1,0 +1,258 @@
+[
+  {
+    "word": "curb",
+    "phrase": "curb classroom screen use",
+    "meaning": "限制、遏制（curb 原义「路缘石」，引申为把某事物压下去）",
+    "sentence": "Parents, educators and lawmakers are pushing schools to curb classroom screen use amid concerns about student attention, behavior and learning.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "verb"]
+  },
+  {
+    "word": "amid",
+    "phrase": "amid concerns about student attention",
+    "meaning": "在……之中；伴随着（多指复杂背景下的情况）",
+    "sentence": "Schools are pushing to curb classroom screen use amid concerns about student attention, behavior and learning.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "preposition", "句式"]
+  },
+  {
+    "word": "guardrails",
+    "phrase": "establish guardrails around AI in education",
+    "meaning": "防护栏、界限（比喻政策或规则上的安全边界）",
+    "sentence": "School cellphone bans are expanding into broader efforts to limit screen use and establish guardrails around AI in education.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "AI", "noun"]
+  },
+  {
+    "word": "the big picture",
+    "phrase": "The big picture: At least 16 states",
+    "meaning": "宏观图景、大局（Axios 专栏固定用语）",
+    "sentence": "The big picture: At least 16 states — both red and blue — have introduced bills to limit classroom technology.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "politics", "phrase", "Axios专栏"]
+  },
+  {
+    "word": "case in point",
+    "phrase": "Case in point: Schools Beyond Screens",
+    "meaning": "典型例证、恰好的例子",
+    "sentence": "Case in point: Schools Beyond Screens formed with fewer than a dozen parents in Los Angeles Unified School District last year.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "phrase", "Axios专栏"]
+  },
+  {
+    "word": "nonprofit",
+    "phrase": "the nonprofit has grown to include thousands",
+    "meaning": "非营利组织",
+    "sentence": "Schools Beyond Screens formed last year, but the nonprofit has grown to include thousands of parents and educators nationwide.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "resolution",
+    "phrase": "pass a resolution limiting classroom screen time",
+    "meaning": "决议（议会或董事会通过的正式决定）",
+    "sentence": "SBS worked with the school board to pass a resolution limiting classroom screen time and eliminating school-issued devices for students in first grade and younger.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "politics", "noun"]
+  },
+  {
+    "word": "school-issued",
+    "phrase": "eliminating school-issued devices",
+    "meaning": "学校配发的（由学校统一发放的设备）",
+    "sentence": "The resolution calls for eliminating school-issued devices for students in first grade and younger.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "adjective"]
+  },
+  {
+    "word": "Zoom in",
+    "phrase": "Zoom in: McPherson Middle School",
+    "meaning": "聚焦细节、拉近镜头（Axios 专栏用语，与 Zoom out 相对）",
+    "sentence": "Zoom in: McPherson Middle School principal Inge Esping told Axios that the suspension rate at her Kansas school fell 70% after cellphones were banned in 2022.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "suspension rate",
+    "phrase": "the suspension rate fell 70%",
+    "meaning": "停学率（因违纪被暂时停学的学生比例）",
+    "sentence": "The suspension rate at her Kansas school fell 70% after cellphones were banned in 2022.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "safeguard",
+    "phrase": "implemented more safeguards",
+    "meaning": "保障措施、防护手段",
+    "sentence": "Suspensions continued to decline as she implemented more safeguards, but Esping says progress was still limited behaviorally and culture-wise.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "culture-wise",
+    "phrase": "behaviorally and culture-wise",
+    "meaning": "在文化层面（-wise 后缀表「在……方面」）",
+    "sentence": "Esping says \"we weren't quite making the progress that we wished, behaviorally and culture-wise.\"",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "adverb", "句式"]
+  },
+  {
+    "word": "discipline data",
+    "phrase": "The school's discipline data showed",
+    "meaning": "纪律记录数据（违纪、停学等统计）",
+    "sentence": "The school's discipline data showed behavioral issues involving Chromebooks, including gaming in class.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "secure a grant",
+    "phrase": "secured a grant allowing students to return the devices",
+    "meaning": "获得拨款/资助（grant 指政府或基金会的专项资助）",
+    "sentence": "The school secured a grant allowing students to return the devices after it shifted to storing them in carts.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "phrase"]
+  },
+  {
+    "word": "cap",
+    "phrase": "doesn't cap Chromebook use",
+    "meaning": "设上限、限制（cap 作动词）",
+    "sentence": "The school doesn't cap Chromebook use. Instead, teachers are encouraged to use devices only when they enhance learning.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "verb"]
+  },
+  {
+    "word": "enhance",
+    "phrase": "when they enhance learning",
+    "meaning": "增强、促进（enhance learning 促进学习效果）",
+    "sentence": "Teachers are encouraged to use devices only when they enhance learning.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "verb"]
+  },
+  {
+    "word": "the intrigue",
+    "phrase": "The intrigue: Epsing says students tell her",
+    "meaning": "值得关注之处、有趣的一面（Axios 专栏用语）",
+    "sentence": "The intrigue: Epsing says students tell her binders and pencils feel lighter than Chromebooks and help them focus better.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "analog learning",
+    "phrase": "analog learning is coming to more classrooms",
+    "meaning": "模拟/非数字化学习（用纸笔、实体材料，相对 digital）",
+    "sentence": "Though challenges remain, Body says she's optimistic that analog learning is coming to more classrooms.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "on board with",
+    "phrase": "appear on board with the shift",
+    "meaning": "支持、认同（原义「在船上」，引申为加入某方）",
+    "sentence": "It helps that some teachers appear on board with the shift.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "phrase"]
+  },
+  {
+    "word": "prekindergarten",
+    "phrase": "prekindergarten through second grade",
+    "meaning": "学前班（正式入学前的幼儿教育阶段，常缩写 pre-K）",
+    "sentence": "The plan would ban screens for students in prekindergarten through second grade unless there is a compelling reason.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "compelling reason",
+    "phrase": "unless there is a compelling reason",
+    "meaning": "充分理由、令人信服的理由",
+    "sentence": "The plan would limit AI use and ban screens for students in prekindergarten through second grade \"unless there is a compelling reason.\"",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "phrase"]
+  },
+  {
+    "word": "harness",
+    "phrase": "harness the benefits of technology",
+    "meaning": "利用、驾驭（原义给马套缰绳 → 掌控并运用）",
+    "sentence": "The teachers' union wants to get \"the balance right to harness the benefits of technology while mitigating the harms.\"",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "AI", "verb"]
+  },
+  {
+    "word": "mitigate",
+    "phrase": "mitigating the harms",
+    "meaning": "减轻、缓解（损害或风险）",
+    "sentence": "The union wants to harness the benefits of technology while mitigating the harms.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "verb"]
+  },
+  {
+    "word": "ed tech",
+    "phrase": "ed tech can support differentiation",
+    "meaning": "教育科技（education technology 的缩写）",
+    "sentence": "\"When used with intention and balance,\" ed tech \"can support differentiation, accessibility, enrichment, and workforce preparation in the K-12 classroom.\"",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "differentiation",
+    "phrase": "support differentiation",
+    "meaning": "差异化教学（根据学生水平调整教学内容和方法）",
+    "sentence": "Ed tech can support differentiation, accessibility, enrichment, and workforce preparation in the K-12 classroom.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "enrichment",
+    "phrase": "accessibility, enrichment, and workforce preparation",
+    "meaning": "拓展/深化学习（超出基础课纲的 enrichment 课程）",
+    "sentence": "Ed tech can support differentiation, accessibility, enrichment, and workforce preparation.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "noun"]
+  },
+  {
+    "word": "workforce preparation",
+    "phrase": "workforce preparation in the K-12 classroom",
+    "meaning": "就业准备、职场技能培养",
+    "sentence": "Ed tech can support workforce preparation in the K-12 classroom.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "phrase"]
+  },
+  {
+    "word": "policy briefing",
+    "phrase": "a policy briefing for state leaders",
+    "meaning": "政策简报会（向决策者介绍政策议题的会议）",
+    "sentence": "Beth Holland said during a policy briefing for state leaders posted to CoSN's YouTube channel last month.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "politics", "noun"]
+  },
+  {
+    "word": "mindful of",
+    "phrase": "be mindful of when tech can be bad",
+    "meaning": "留心、注意（mindful 有意识地关注）",
+    "sentence": "But she says educators need to be mindful of when tech can be bad and how it enhances learning.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "phrase"]
+  },
+  {
+    "word": "not all ... is the same",
+    "phrase": "not all screen time is the same",
+    "meaning": "并非所有……都一样（区分不同类型）",
+    "sentence": "Esping agrees with Holland's assessment that \"not all screen time is the same\" and that there are differences between ed tech and Big Tech.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "句式"]
+  },
+  {
+    "word": "Big Tech",
+    "phrase": "differences between ed tech and Big Tech",
+    "meaning": "大型科技公司（Google、Meta、Amazon 等）",
+    "sentence": "There are differences between ed tech and Big Tech.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "technology", "noun"]
+  },
+  {
+    "word": "the bottom line",
+    "phrase": "The bottom line: tech alone is not an enhancement",
+    "meaning": "归根结底、要点是（Axios 专栏结语用语）",
+    "sentence": "The bottom line: \"We also need to recognize that tech alone is not an enhancement of learning,\" Esping says.",
+    "source": "Axios — Classrooms lean into analog learning (2026-05-30)",
+    "tags": ["education", "Axios专栏", "phrase"]
+  }
+]
