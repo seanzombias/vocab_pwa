@@ -6,13 +6,15 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 from pathlib import Path
 from urllib import error, request
 
 ROOT = Path(__file__).resolve().parents[1]
 BACKEND_DIR = ROOT / "backend"
-DEFAULT_API = "https://vocab-pwa-api.seanzombias.workers.dev"
+DEFAULT_API = "https://vocab-pwa-api.756121162.workers.dev"
+DATE_PATTERN = re.compile(r"\((\d{4}-\d{2}-\d{2})\)")
 
 
 def load_items(path: Path) -> list:
@@ -23,15 +25,29 @@ def load_items(path: Path) -> list:
     return data
 
 
+def enrich_items(items: list) -> list:
+    enriched = []
+    for item in items:
+        entry = dict(item)
+        if not entry.get("created_at"):
+            source = entry.get("source") or ""
+            match = DATE_PATTERN.search(source)
+            date = match.group(1) if match else "2026-05-29"
+            entry["created_at"] = f"{date}T12:00:00+00:00"
+        enriched.append(entry)
+    return enriched
+
+
 def import_remote(api_base: str, token: str, items: list) -> dict:
     url = f"{api_base.rstrip('/')}/api/vocab/import"
-    payload = json.dumps(items).encode("utf-8")
+    payload = json.dumps(enrich_items(items)).encode("utf-8")
     req = request.Request(
         url,
         data=payload,
         headers={
             "Content-Type": "application/json",
             "Authorization": f"Bearer {token}",
+            "User-Agent": "vocab-pwa-import/1.0",
         },
         method="POST",
     )

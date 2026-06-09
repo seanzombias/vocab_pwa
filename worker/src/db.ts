@@ -116,6 +116,14 @@ export async function listVocab(
     rows = rows.filter((item) => item.tags.includes(options.tag!));
   }
 
+  if (options.today && rows.length === 0) {
+    const dates = await getDates(client);
+    const latest = dates[0];
+    if (latest) {
+      return listVocab(client, { ...options, today: false, date: latest });
+    }
+  }
+
   return rows;
 }
 

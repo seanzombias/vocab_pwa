@@ -198,7 +198,16 @@ async function loadToday() {
     setStatus(todayStatusMessage(data.count || 0, data.items || [], allItems));
     return;
   }
-  setStatus(`今日 ${data.count || 0} 条`);
+  const prefix = new Date().toISOString().slice(0, 10);
+  const count = data.count || 0;
+  const firstDate = (data.items?.[0]?.created_at || "").slice(0, 10);
+  if (count > 0 && firstDate === prefix) {
+    setStatus(`今日 ${count} 条`);
+  } else if (count > 0 && firstDate) {
+    setStatus(`今日暂无新词，显示 ${firstDate} 共 ${count} 条`);
+  } else {
+    setStatus(`共 ${count} 条`);
+  }
 }
 
 async function loadBrowse() {
