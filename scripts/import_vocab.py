@@ -12,7 +12,7 @@ from urllib import error, request
 
 ROOT = Path(__file__).resolve().parents[1]
 BACKEND_DIR = ROOT / "backend"
-DEFAULT_API = "https://vocab-pwa-api.onrender.com"
+DEFAULT_API = "https://vocab-pwa-api.seanzombias.workers.dev"
 
 
 def load_items(path: Path) -> list:

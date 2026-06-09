@@ -7,10 +7,10 @@
 | 部分 | 托管 | 地址 |
 | ---- | ---- | ---- |
 | 前端 PWA | GitHub Pages | https://seanzombias.github.io/vocab_pwa/ |
-| 后端 API | Render `vocab-pwa-api` | https://vocab-pwa-api.onrender.com |
+| 后端 API | Cloudflare Workers | https://vocab-pwa-api.\<账号\>.workers.dev |
 | 数据库 | Turso | 生产环境 |
 
-详细方案见 [PLAN.md](PLAN.md)。
+Worker 部署见 [docs/CLOUDFLARE_SETUP.md](docs/CLOUDFLARE_SETUP.md)。本机仍可用 Flask `backend/` 开发。
 
 ## 本地开发
 
@@ -38,12 +38,12 @@ python -m http.server 8080
 
 ```bash
 python scripts/import_vocab.py backend/data/sample_import.json --local
-python scripts/import_vocab.py backend/data/sample_import.json --api https://vocab-pwa-api.onrender.com --token YOUR_TOKEN
+python scripts/import_vocab.py backend/data/sample_import.json --api https://vocab-pwa-api.<账号>.workers.dev --token YOUR_TOKEN
 ```
 
 ## 部署
 
 1. 推送 Public 仓库到 `github.com/seanzombias/vocab_pwa`
-2. GitHub Pages 使用 `.github/workflows/pages.yml`
-3. Render 连接同一仓库，Root Directory 设为 `backend`，服务名 `vocab-pwa-api`
-4. 在 Render 配置 `TURSO_DATABASE_URL` 与 `TURSO_AUTH_TOKEN`
+2. GitHub Pages：`.github/workflows/pages.yml`
+3. Cloudflare Worker：见 [docs/CLOUDFLARE_SETUP.md](docs/CLOUDFLARE_SETUP.md)
+4. 配置 Turso 环境变量并 `import_vocab.py` 导入词汇

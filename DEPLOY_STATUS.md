@@ -6,81 +6,76 @@
 
 | 组件 | URL | 状态 |
 |------|-----|------|
-| 前端 PWA | https://seanzombias.github.io/vocab_pwa/ | 已上线（静态词汇模式） |
-| 后端 API | https://vocab-pwa-api.onrender.com | **未部署**（Render 需信用卡） |
+| 前端 PWA | https://seanzombias.github.io/vocab_pwa/ | 已上线 |
+| 后端 API | https://vocab-pwa-api.<账号>.workers.dev | **待部署 Cloudflare Worker** |
+| 数据库 | Turso `vocab-pwa-seanzombias` | 已创建 |
 | GitHub 仓库 | https://github.com/seanzombias/vocab_pwa | 已推送 |
 
 ---
 
 ## 已完成
 
-- [x] GitHub Public 仓库 + `main` 推送
-- [x] GitHub Pages（workflow 部署成功）
-- [x] Turso 数据库已创建：`vocab-pwa-seanzombias`（东京区域）
-- [x] Turso 凭证已写入本机 `backend/.env`（未提交 Git）
-- [x] `db.py` 支持 `libsql://` → `https://` 自动转换
-- [x] `/api/health` 返回 `db` / `db_ok` 状态
+- [x] GitHub Pages 前端
+- [x] Turso 数据库（东京）
+- [x] 静态词汇回退（`frontend/data/vocab.json`，Worker 未就绪时可用）
+- [x] Cloudflare Worker 代码（`worker/`，Hono + Turso）
+- [x] GitHub Actions：`.github/workflows/worker.yml`
 
-## 当前方案（无需 Render）
+## 待完成（Cloudflare，无需信用卡）
 
-GitHub Pages 上已启用 **静态词汇模式**：
+详见 **[docs/CLOUDFLARE_SETUP.md](docs/CLOUDFLARE_SETUP.md)**
 
-- 35 条 Axios 词汇打包在 `frontend/data/vocab.json`
-- 「今日」若无当天新词，自动显示最近一批（2026-05-29）
-- 「添加」页新词保存在浏览器 localStorage（仅本机）
-- 推送 `main` 后 workflow 会自动重新生成词汇 JSON
+### 1. Cloudflare 账号 + Token
 
-## 待完成（可选，需 Render 或其他后端）
+1. 注册 https://dash.cloudflare.com
+2. 创建 API Token（Edit Cloudflare Workers）
+3. GitHub 仓库 Secrets 添加 `CLOUDFLARE_API_TOKEN`、`CLOUDFLARE_ACCOUNT_ID`
 
-### 1. 部署 API 服务（Render 需信用卡）
-
-1. 打开 https://dashboard.render.com → **New → Blueprint**
-2. 连接仓库 `seanzombias/vocab_pwa`
-3. 确认识别根目录 `render.yaml`，服务名 **vocab-pwa-api**
-4. 填入环境变量（详见 [docs/RENDER_SETUP.md](docs/RENDER_SETUP.md)）：
-
-| 变量 | 值 |
-|------|-----|
-| `TURSO_DATABASE_URL` | `libsql://vocab-pwa-seanzombias.aws-ap-northeast-1.turso.io` |
-| `TURSO_AUTH_TOKEN` | Turso Dashboard 中的 token |
-| `ALLOWED_ORIGINS` | `https://seanzombias.github.io` |
-| `VOCAB_API_TOKEN` | 自设或 Render 自动生成 |
-| `SECRET_KEY` | 自设或 Render 自动生成 |
-
-5. 等待 Deploy 成功
-
-### 2. 验证 API
+### 2. 配置 Worker Secrets
 
 ```powershell
-(Invoke-WebRequest https://vocab-pwa-api.onrender.com/api/health).Content
-# 期望: {"status":"ok","db":"turso","db_ok":true}
+cd worker
+npx wrangler login
+npx wrangler secret put TURSO_DATABASE_URL
+npx wrangler secret put TURSO_AUTH_TOKEN
+npx wrangler secret put VOCAB_API_TOKEN
+npm run deploy
 ```
 
-### 3. 导入 Axios 词汇（35 条）
+或使用 GitHub Actions 自动部署（需先配置 Secrets）。
+
+### 3. 更新前端 API 地址
+
+`wrangler deploy` 输出的 URL 填入 `frontend/config.js` 的 `API_BASE`，push 到 `main`。
+
+### 4. 导入词汇到 Turso
 
 ```powershell
-cd C:\Users\Administrator\Desktop\vocab_pwa
 python scripts/import_vocab.py backend/data/axios_article_vocab.json `
-  --api https://vocab-pwa-api.onrender.com --token <VOCAB_API_TOKEN>
+  --api https://vocab-pwa-api.<账号>.workers.dev `
+  --token <VOCAB_API_TOKEN>
 ```
 
-### 4. 手机 PWA
+### 5. 验证
 
-1. 打开 https://seanzombias.github.io/vocab_pwa/
-2. 「添加」页填入与 Render 相同的 **VOCAB_API_TOKEN**
-3. 添加到主屏幕
+```powershell
+(Invoke-WebRequest "https://vocab-pwa-api.<账号>.workers.dev/api/health").Content
+# {"status":"ok","db":"turso","db_ok":true}
+```
 
 ---
 
-## 本机说明
+## 架构
 
-- **Turso 直连**：本机访问东京 Turso 可能超时；属网络问题，**Render 上通常正常**。
-- **本地开发**：清空 `backend/.env` 中 `TURSO_*` 即用 SQLite；或只用 `http://localhost:8765` + 本地库。
-- **安全**：Turso Token 曾在聊天中出现，**部署后请轮换 Token** 并更新 Render 环境变量。
+```
+GitHub Pages → Cloudflare Worker → Turso
+     ↑ Worker 失败时回退 frontend/data/vocab.json
+```
 
 ---
 
 ## 变更日志
 
-- 2026-06-09：GitHub + Pages 上线；Turso 凭证配置；Render 待部署
-- 2026-06-09：db 健康检查、Turso URL 规范化
+- 2026-06-09：Cloudflare Worker 后端（替代 Render）
+- 2026-06-09：静态词汇模式 + Pages 上线
+- 2026-06-09：Turso 凭证、db 健康检查

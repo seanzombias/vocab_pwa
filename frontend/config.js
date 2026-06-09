@@ -11,11 +11,12 @@ export const API_BASE = (() => {
   if (host === "localhost" || host === "127.0.0.1") {
     return "http://localhost:8765";
   }
-  return "https://vocab-pwa-api.onrender.com";
+  // Cloudflare Worker（部署后 wrangler 会显示实际 URL）
+  return "https://vocab-pwa-api.seanzombias.workers.dev";
 })();
 
-/** GitHub Pages 无 Render 后端时使用本地 JSON */
-export const USE_STATIC_DATA = window.location.hostname.endsWith("github.io");
+/** Worker 不可用时回退到打包 JSON */
+export const USE_STATIC_DATA = false;
 
 export function asset(path) {
   return `${BASE_PATH}${path.startsWith("/") ? path : `/${path}`}`;

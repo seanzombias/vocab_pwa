@@ -4,4 +4,7 @@ __pycache__/
 venv/
 .env
 backend/data/vocab.db
+worker/node_modules/
+worker/.dev.vars
+worker/.wrangler/
 *.log

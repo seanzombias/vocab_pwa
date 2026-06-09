@@ -55,31 +55,45 @@ function buildQuery(params) {
   return query.toString();
 }
 
+const FALLBACK_STATIC = window.location.hostname.endsWith("github.io");
+
+function staticApiGet(path, params = {}) {
+  if (path === "/api/vocab") {
+    return staticListVocab({
+      today: params.today === "1",
+      date: params.date || "",
+      tag: params.tag || "",
+      query: params.q || "",
+    });
+  }
+  if (path === "/api/vocab/dates") {
+    return staticGetDates();
+  }
+  if (path === "/api/vocab/tags") {
+    return staticGetTags();
+  }
+  throw new Error(`静态模式不支持: ${path}`);
+}
+
 async function apiGet(path, params = {}) {
   if (USE_STATIC_DATA) {
-    if (path === "/api/vocab") {
-      return staticListVocab({
-        today: params.today === "1",
-        date: params.date || "",
-        tag: params.tag || "",
-        query: params.q || "",
-      });
-    }
-    if (path === "/api/vocab/dates") {
-      return staticGetDates();
-    }
-    if (path === "/api/vocab/tags") {
-      return staticGetTags();
-    }
+    return staticApiGet(path, params);
   }
 
   const query = buildQuery(params);
   const url = `${API_BASE}${path}${query ? `?${query}` : ""}`;
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`请求失败: ${response.status}`);
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`请求失败: ${response.status}`);
+    }
+    return response.json();
+  } catch (error) {
+    if (FALLBACK_STATIC) {
+      return staticApiGet(path, params);
+    }
+    throw error;
   }
-  return response.json();
 }
 
 async function apiWrite(path, body) {
