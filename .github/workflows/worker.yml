@@ -8,6 +8,9 @@ on:
       - ".github/workflows/worker.yml"
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -18,11 +21,31 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
+
+      - name: Validate Cloudflare secrets
+        run: |
+          missing=0
+          if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then
+            echo "::error::缺少 GitHub Secret: CLOUDFLARE_API_TOKEN"
+            missing=1
+          fi
+          if [ -z "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}" ]; then
+            echo "::error::缺少 GitHub Secret: CLOUDFLARE_ACCOUNT_ID"
+            missing=1
+          fi
+          if [ "$missing" -eq 1 ]; then
+            echo "请到 Settings → Secrets and variables → Actions 添加以上 Secret"
+            exit 1
+          fi
 
       - name: Install dependencies
         working-directory: worker
         run: npm install
+
+      - name: Typecheck
+        working-directory: worker
+        run: npm run typecheck
 
       - name: Deploy Worker
         uses: cloudflare/wrangler-action@v3
@@ -30,3 +53,22 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           workingDirectory: worker
+          wranglerVersion: "4"
+          command: deploy
+
+      - name: Upload Turso secrets
+        if: ${{ secrets.TURSO_AUTH_TOKEN != '' }}
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: worker
+          wranglerVersion: "4"
+          secrets: |
+            TURSO_DATABASE_URL
+            TURSO_AUTH_TOKEN
+            VOCAB_API_TOKEN
+        env:
+          TURSO_DATABASE_URL: ${{ secrets.TURSO_DATABASE_URL }}
+          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
+          VOCAB_API_TOKEN: ${{ secrets.VOCAB_API_TOKEN }}

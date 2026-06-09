@@ -84,10 +84,15 @@ python scripts/import_vocab.py backend/data/axios_article_vocab.json `
 
 在 GitHub 仓库 Settings → Secrets 添加：
 
-| Secret | 说明 |
-|--------|------|
-| `CLOUDFLARE_API_TOKEN` | 上一步创建的 Token |
-| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare Account ID |
+| Secret | 必填 | 说明 |
+|--------|------|------|
+| `CLOUDFLARE_API_TOKEN` | **是** | Edit Cloudflare Workers Token |
+| `CLOUDFLARE_ACCOUNT_ID` | **是** | Dashboard 右侧 Account ID |
+| `TURSO_DATABASE_URL` | 推荐 | `libsql://vocab-pwa-seanzombias.aws-ap-northeast-1.turso.io` |
+| `TURSO_AUTH_TOKEN` | 推荐 | Turso Dashboard Token |
+| `VOCAB_API_TOKEN` | 推荐 | 写操作鉴权，自设字符串 |
+
+> 缺少 `CLOUDFLARE_*` 时 Actions 会明确报错；Turso 相关 Secret 也可部署后用 `wrangler secret put` 手动设置。
 
 推送 `worker/` 变更到 `main` 会自动部署（见 `.github/workflows/worker.yml`）。
 
