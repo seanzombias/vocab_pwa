@@ -1,180 +1,77 @@
 ﻿# vocab_pwa 部署状态
 
-> 最后更新：2026-06-09（本机自动部署脚本执行结果）
+> 最后更新：2026-06-09
 
-## 目标 URL
+## 线上地址
 
-| 组件 | URL |
+| 组件 | URL | 状态 |
+|------|-----|------|
+| 前端 PWA | https://seanzombias.github.io/vocab_pwa/ | 已上线 |
+| 后端 API | https://vocab-pwa-api.onrender.com | **待部署 Render** |
+| GitHub 仓库 | https://github.com/seanzombias/vocab_pwa | 已推送 |
+
+---
+
+## 已完成
+
+- [x] GitHub Public 仓库 + `main` 推送
+- [x] GitHub Pages（workflow 部署成功）
+- [x] Turso 数据库已创建：`vocab-pwa-seanzombias`（东京区域）
+- [x] Turso 凭证已写入本机 `backend/.env`（未提交 Git）
+- [x] `db.py` 支持 `libsql://` → `https://` 自动转换
+- [x] `/api/health` 返回 `db` / `db_ok` 状态
+
+## 待完成（需你在 Render Dashboard 操作）
+
+### 1. 部署 Render 服务 `vocab-pwa-api`
+
+1. 打开 https://dashboard.render.com → **New → Blueprint**
+2. 连接仓库 `seanzombias/vocab_pwa`
+3. 确认识别根目录 `render.yaml`，服务名 **vocab-pwa-api**
+4. 填入环境变量（详见 [docs/RENDER_SETUP.md](docs/RENDER_SETUP.md)）：
+
+| 变量 | 值 |
 |------|-----|
-| 前端 PWA | https://seanzombias.github.io/vocab_pwa/ |
-| 后端 API | https://vocab-pwa-api.onrender.com |
-| GitHub 仓库 | https://github.com/seanzombias/vocab_pwa |
+| `TURSO_DATABASE_URL` | `libsql://vocab-pwa-seanzombias.aws-ap-northeast-1.turso.io` |
+| `TURSO_AUTH_TOKEN` | Turso Dashboard 中的 token |
+| `ALLOWED_ORIGINS` | `https://seanzombias.github.io` |
+| `VOCAB_API_TOKEN` | 自设或 Render 自动生成 |
+| `SECRET_KEY` | 自设或 Render 自动生成 |
 
----
+5. 等待 Deploy 成功
 
-## 已完成（本机）
-
-- [x] Git 仓库初始化，分支 **`main`**
-- [x] 初始提交：`34b5305` — Flask API、PWA 前端、Pages workflow、`backend/render.yaml`
-- [x] **未提交** `backend/.env`（已被 `.gitignore` 中 `.env` 规则忽略）
-- [x] **未提交** `backend/data/vocab.db`、`__pycache__/`
-- [x] 本地 Git 用户（仅本仓库）：`seanzombias` / `zjy1987zjy@gmail.com`（未改 global git config）
-- [x] 本地 API 自检：`GET /api/health` → 200 `{"status":"ok"}`
-- [x] 已安装 **GitHub CLI**（`gh` 2.93.0，winget）
-- [x] 已在仓库根目录添加 **`render.yaml`**（与 `backend/render.yaml` 相同，便于 Render Blueprint 自动发现）
-- [x] 审阅 **`.github/workflows/pages.yml`**：push `main` 时上传 `frontend/` 并 deploy-pages
-- [x] 审阅 **`backend/render.yaml`**：服务名 `vocab-pwa-api`，`rootDir: backend`，gunicorn，Turso 与 Token 环境变量
-
-## 已完成（云端）
-
-### 1. GitHub 仓库与推送
-
-- [x] `gh` 已登录 `seanzombias`
-- [x] 仓库已创建：https://github.com/seanzombias/vocab_pwa
-- [x] `main` 已推送
-
-### 2. GitHub Pages
-
-- [x] Pages 已启用（`build_type: workflow`）
-- [x] Deploy workflow 成功
-- [x] 前端地址：https://seanzombias.github.io/vocab_pwa/
-
-若不用 `gh`，在 GitHub 网页新建空仓库 `vocab_pwa` 后：
+### 2. 验证 API
 
 ```powershell
-git remote add origin https://github.com/seanzombias/vocab_pwa.git
-git push -u origin main
+(Invoke-WebRequest https://vocab-pwa-api.onrender.com/api/health).Content
+# 期望: {"status":"ok","db":"turso","db_ok":true}
 ```
 
-推送后确认 Actions 里 **Deploy GitHub Pages** workflow 能跑通。
-
----
-
-### 2. GitHub Pages 启用
-
-**状态：** workflow 已就绪，但需在仓库设置里启用一次。
-
-**操作：**
-
-1. 仓库 → **Settings** → **Pages**
-2. **Build and deployment** → Source 选 **GitHub Actions**
-3. 等待 workflow 成功；访问 https://seanzombias.github.io/vocab_pwa/
-
----
-
-### 3. Turso 数据库
-
-**状态：** 本机 **未安装** `turso` CLI，无法自动建库。
-
-**操作（Dashboard，推荐）：**
-
-1. 注册/登录 [Turso](https://turso.tech)
-2. 创建数据库，名称建议：**`vocab-pwa`**
-3. 在数据库页面复制：
-   - **Database URL** → Render 环境变量 `TURSO_DATABASE_URL`（形如 `libsql://...`）
-   - **Auth Token** → `TURSO_AUTH_TOKEN`
-4. （可选）本地 CLI 安装后：
+### 3. 导入 Axios 词汇（35 条）
 
 ```powershell
-# 安装后
-turso auth login
-turso db create vocab-pwa
-turso db show vocab-pwa --url
-turso db tokens create vocab-pwa
+cd C:\Users\Administrator\Desktop\vocab_pwa
+python scripts/import_vocab.py backend/data/axios_article_vocab.json `
+  --api https://vocab-pwa-api.onrender.com --token <VOCAB_API_TOKEN>
 ```
 
-**勿将 token 提交到 Git。** 可写入本机 `backend/.env` 做联调；生产只放在 Render。
+### 4. 手机 PWA
 
-**凭证存放建议：**
-
-- 生产：`TURSO_*` 仅 Render Dashboard → vocab-pwa-api → Environment
-- 本地：`C:\Users\Administrator\Desktop\vocab_pwa\backend\.env`（已在 .gitignore）
+1. 打开 https://seanzombias.github.io/vocab_pwa/
+2. 「添加」页填入与 Render 相同的 **VOCAB_API_TOKEN**
+3. 添加到主屏幕
 
 ---
 
-### 4. Render 后端
+## 本机说明
 
-**状态：** 本机无 `render` CLI；`https://vocab-pwa-api.onrender.com/api/health` 当前 **404**（服务未部署或未就绪）。
-
-**方式 A — Blueprint（推荐，使用根目录 `render.yaml`）：**
-
-1. [Render Dashboard](https://dashboard.render.com) → **New** → **Blueprint**
-2. 连接 GitHub 仓库 `seanzombias/vocab_pwa`
-3. 识别 `render.yaml` 后创建服务 **vocab-pwa-api**
-4. 在创建/服务环境变量中**手动填入**（Blueprint 里 `sync: false` 的项）：
-   - `TURSO_DATABASE_URL`
-   - `TURSO_AUTH_TOKEN`
-5. 保存并等待首次 deploy
-
-**方式 B — 手动 Web Service：**
-
-1. **New Web Service** → 同一仓库
-2. **Root Directory：** `backend`
-3. **Build：** `pip install -r requirements.txt`
-4. **Start：** `gunicorn app:app --bind 0.0.0.0:$PORT`
-5. 环境变量见下表
-
-| 变量 | 说明 |
-|------|------|
-| `PYTHON_VERSION` | `3.12` |
-| `ALLOWED_ORIGINS` | `https://seanzombias.github.io`（与 `render.yaml` 一致；本地调试可加逗号分隔 origin） |
-| `SECRET_KEY` | Render 可自动生成或自设 |
-| `VOCAB_API_TOKEN` | **API 与 PWA 鉴权用** — 部署后在 Render 复制，**手机 PWA 设置里填写同一值** |
-| `TURSO_DATABASE_URL` | Turso 库 URL |
-| `TURSO_AUTH_TOKEN` | Turso token |
-
-**部署后验证：**
-
-```powershell
-curl https://vocab-pwa-api.onrender.com/api/health
-# 期望: {"status":"ok"}
-```
-
-**import 脚本示例：**
-
-```powershell
-python scripts/import_vocab.py backend/data/sample_import.json --api https://vocab-pwa-api.onrender.com --token <VOCAB_API_TOKEN>
-```
+- **Turso 直连**：本机访问东京 Turso 可能超时；属网络问题，**Render 上通常正常**。
+- **本地开发**：清空 `backend/.env` 中 `TURSO_*` 即用 SQLite；或只用 `http://localhost:8765` + 本地库。
+- **安全**：Turso Token 曾在聊天中出现，**部署后请轮换 Token** 并更新 Render 环境变量。
 
 ---
 
-### 5. 手机 / PWA 配置
+## 变更日志
 
-- [ ] 打开 https://seanzombias.github.io/vocab_pwa/
-- [ ] 在应用设置中填入与 Render **`VOCAB_API_TOKEN`** 相同的 token
-- [ ] （可选）添加到主屏幕
-
----
-
-## 工具链摘要
-
-| 工具 | 本机状态 |
-|------|----------|
-| `git` | 可用 |
-| `gh` | 已安装，**需 `gh auth login`** |
-| `turso` | 未安装 |
-| `render` CLI | 未安装 |
-
----
-
-## 本地开发速查
-
-```powershell
-cd C:\Users\Administrator\Desktop\vocab_pwa\backend
-pip install -r requirements.txt
-# .env 已存在则直接：
-python app.py
-```
-
-另开终端：
-
-```powershell
-cd C:\Users\Administrator\Desktop\vocab_pwa\frontend
-python -m http.server 8080
-```
-
----
-
-## 变更日志（部署脚本）
-
-- 2026-06-09：初始 commit、安装 gh、添加根目录 `render.yaml`、生成本文件
+- 2026-06-09：GitHub + Pages 上线；Turso 凭证配置；Render 待部署
+- 2026-06-09：db 健康检查、Turso URL 规范化

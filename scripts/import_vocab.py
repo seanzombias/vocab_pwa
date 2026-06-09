@@ -46,9 +46,9 @@ def import_remote(api_base: str, token: str, items: list) -> dict:
 
 def import_local(items: list) -> dict:
     sys.path.insert(0, str(BACKEND_DIR))
-    from db import db  # noqa: WPS433
+    from db import get_db  # noqa: WPS433
 
-    created = db.create_many(items)
+    created = get_db().create_many(items)
     return {"count": len(created), "items": created}
 
 

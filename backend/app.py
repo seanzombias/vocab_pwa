@@ -7,7 +7,7 @@ from flask import Flask, jsonify, request, Response
 from flask_cors import CORS
 
 from config import ALLOWED_ORIGINS, PORT, SECRET_KEY, VOCAB_API_TOKEN
-from db import db
+from db import get_db
 
 app = Flask(__name__)
 app.config["SECRET_KEY"] = SECRET_KEY
@@ -28,13 +28,18 @@ def require_token(view: Callable) -> Callable:
 
 @app.get("/api/health")
 def health():
-    return jsonify({"status": "ok"})
+    try:
+        database = get_db()
+        ok = database.ping()
+        return jsonify({"status": "ok", "db": database.backend, "db_ok": ok})
+    except Exception as exc:
+        return jsonify({"status": "error", "error": str(exc)}), 503
 
 
 @app.get("/api/vocab")
 def list_vocab():
     today = request.args.get("today") in {"1", "true", "yes"}
-    items = db.list_vocab(
+    items = get_db().list_vocab(
         date=request.args.get("date") or None,
         tag=request.args.get("tag") or None,
         today=today,
@@ -45,12 +50,12 @@ def list_vocab():
 
 @app.get("/api/vocab/tags")
 def vocab_tags():
-    return jsonify({"tags": db.get_tags()})
+    return jsonify({"tags": get_db().get_tags()})
 
 
 @app.get("/api/vocab/dates")
 def vocab_dates():
-    return jsonify({"dates": db.get_dates()})
+    return jsonify({"dates": get_db().get_dates()})
 
 
 @app.post("/api/vocab")
@@ -58,7 +63,7 @@ def vocab_dates():
 def create_vocab():
     payload = request.get_json(silent=True) or {}
     try:
-        item = db.create(payload)
+        item = get_db().create(payload)
     except ValueError as exc:
         return jsonify({"error": str(exc)}), 400
     return jsonify({"item": item}), 201
@@ -71,7 +76,7 @@ def import_vocab():
     if not isinstance(payload, list):
         return jsonify({"error": "Expected a JSON array"}), 400
     try:
-        items = db.create_many(payload)
+        items = get_db().create_many(payload)
     except ValueError as exc:
         return jsonify({"error": str(exc)}), 400
     return jsonify({"items": items, "count": len(items)}), 201
@@ -80,7 +85,7 @@ def import_vocab():
 @app.delete("/api/vocab/<entry_id>")
 @require_token
 def delete_vocab(entry_id: str):
-    if not db.delete(entry_id):
+    if not get_db().delete(entry_id):
         return jsonify({"error": "Not found"}), 404
     return jsonify({"ok": True})
 
@@ -105,7 +110,7 @@ def _anki_back(item: dict) -> str:
 @app.get("/api/export/anki.csv")
 def export_anki_csv():
     today = request.args.get("today") in {"1", "true", "yes"}
-    items = db.list_vocab(
+    items = get_db().list_vocab(
         date=request.args.get("date") or None,
         tag=request.args.get("tag") or None,
         today=today,

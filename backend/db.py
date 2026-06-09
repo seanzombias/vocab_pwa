@@ -5,7 +5,14 @@ from contextlib import contextmanager
 from datetime import datetime, timezone
 from typing import Any, Dict, Iterator, List, Optional
 
-from config import LOCAL_DB_PATH, use_turso, DATA_DIR, TURSO_AUTH_TOKEN, TURSO_DATABASE_URL
+from config import (
+    DATA_DIR,
+    LOCAL_DB_PATH,
+    TURSO_AUTH_TOKEN,
+    TURSO_DATABASE_URL,
+    normalize_turso_url,
+    use_turso,
+)
 
 SCHEMA_SQL = """
 CREATE TABLE IF NOT EXISTS vocab (
@@ -40,11 +47,13 @@ class Database:
     def __init__(self) -> None:
         DATA_DIR.mkdir(parents=True, exist_ok=True)
         self._turso_client = None
+        self.backend = "sqlite"
         if use_turso():
             import libsql_client
 
+            self.backend = "turso"
             self._turso_client = libsql_client.create_client_sync(
-                TURSO_DATABASE_URL,
+                normalize_turso_url(TURSO_DATABASE_URL),
                 auth_token=TURSO_AUTH_TOKEN,
             )
         self.init_schema()
@@ -54,6 +63,10 @@ class Database:
             sql = statement.strip()
             if sql:
                 self.execute(sql)
+
+    def ping(self) -> bool:
+        row = self.fetchone("SELECT 1 AS ok")
+        return bool(row and row.get("ok") == 1)
 
     @contextmanager
     def _sqlite_conn(self) -> Iterator[sqlite3.Connection]:
@@ -188,4 +201,11 @@ class Database:
         }
 
 
-db = Database()
+_db: Optional[Database] = None
+
+
+def get_db() -> Database:
+    global _db
+    if _db is None:
+        _db = Database()
+    return _db

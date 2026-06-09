@@ -26,3 +26,11 @@ ALLOWED_ORIGINS = [
 
 def use_turso() -> bool:
     return bool(TURSO_DATABASE_URL and TURSO_AUTH_TOKEN)
+
+
+def normalize_turso_url(url: str) -> str:
+    """libsql_client expects https:// host URLs."""
+    url = url.strip()
+    if url.startswith("libsql://"):
+        return "https://" + url[len("libsql://") :]
+    return url
