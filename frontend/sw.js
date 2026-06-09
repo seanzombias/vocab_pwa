@@ -1,12 +1,14 @@
-const CACHE_NAME = "vocab-pwa-v1";
+const CACHE_NAME = "vocab-pwa-v2";
 const ASSETS = [
   "./",
   "./index.html",
   "./app.js",
   "./config.js",
+  "./static-data.js",
   "./styles.css",
   "./manifest.webmanifest",
   "./icons/icon.svg",
+  "./data/vocab.json",
 ];
 
 self.addEventListener("install", (event) => {

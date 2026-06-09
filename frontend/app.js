@@ -1,4 +1,14 @@
-import { API_BASE, BASE_PATH, asset } from "./config.js";
+import { API_BASE, BASE_PATH, USE_STATIC_DATA, asset } from "./config.js";
+import {
+  addLocalEntry,
+  createLocalEntry,
+  loadAllItems,
+  staticExportAnkiCsv,
+  staticGetDates,
+  staticGetTags,
+  staticListVocab,
+  todayStatusMessage,
+} from "./static-data.js";
 
 const TOKEN_KEY = "vocab_pwa_api_token";
 const statusText = document.getElementById("statusText");
@@ -46,6 +56,23 @@ function buildQuery(params) {
 }
 
 async function apiGet(path, params = {}) {
+  if (USE_STATIC_DATA) {
+    if (path === "/api/vocab") {
+      return staticListVocab({
+        today: params.today === "1",
+        date: params.date || "",
+        tag: params.tag || "",
+        query: params.q || "",
+      });
+    }
+    if (path === "/api/vocab/dates") {
+      return staticGetDates();
+    }
+    if (path === "/api/vocab/tags") {
+      return staticGetTags();
+    }
+  }
+
   const query = buildQuery(params);
   const url = `${API_BASE}${path}${query ? `?${query}` : ""}`;
   const response = await fetch(url);
@@ -56,6 +83,12 @@ async function apiGet(path, params = {}) {
 }
 
 async function apiWrite(path, body) {
+  if (USE_STATIC_DATA && path === "/api/vocab") {
+    const entry = createLocalEntry(body);
+    addLocalEntry(entry);
+    return { item: entry };
+  }
+
   const token = getToken();
   if (!token) {
     throw new Error("请先在「添加」页填写 API Token");
@@ -146,6 +179,11 @@ function renderList(container, items) {
 async function loadToday() {
   const data = await apiGet("/api/vocab", { today: "1" });
   renderList(todayList, data.items || []);
+  if (USE_STATIC_DATA) {
+    const allItems = await loadAllItems();
+    setStatus(todayStatusMessage(data.count || 0, data.items || [], allItems));
+    return;
+  }
   setStatus(`今日 ${data.count || 0} 条`);
 }
 
@@ -221,7 +259,32 @@ tabs.forEach((tab) => {
   el.addEventListener("input", () => loadBrowse().catch(handleError));
 });
 
-exportBtn.addEventListener("click", () => {
+exportBtn.addEventListener("click", async () => {
+  if (USE_STATIC_DATA) {
+    const activeTab = document.querySelector(".tab.active")?.dataset.tab;
+    const params =
+      activeTab === "today"
+        ? { today: true }
+        : {
+            query: searchInput.value.trim(),
+            date: dateFilter.value,
+            tag: tagFilter.value,
+          };
+    try {
+      const csv = await staticExportAnkiCsv(params);
+      const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = "vocab_anki.csv";
+      link.click();
+      URL.revokeObjectURL(url);
+    } catch (error) {
+      handleError(error);
+    }
+    return;
+  }
+
   const query = currentExportQuery();
   window.open(`${API_BASE}/api/export/anki.csv${query ? `?${query}` : ""}`, "_blank");
 });

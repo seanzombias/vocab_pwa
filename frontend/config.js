@@ -14,6 +14,9 @@ export const API_BASE = (() => {
   return "https://vocab-pwa-api.onrender.com";
 })();
 
+/** GitHub Pages 无 Render 后端时使用本地 JSON */
+export const USE_STATIC_DATA = window.location.hostname.endsWith("github.io");
+
 export function asset(path) {
   return `${BASE_PATH}${path.startsWith("/") ? path : `/${path}`}`;
 }

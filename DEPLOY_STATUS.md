@@ -6,8 +6,8 @@
 
 | 组件 | URL | 状态 |
 |------|-----|------|
-| 前端 PWA | https://seanzombias.github.io/vocab_pwa/ | 已上线 |
-| 后端 API | https://vocab-pwa-api.onrender.com | **待部署 Render** |
+| 前端 PWA | https://seanzombias.github.io/vocab_pwa/ | 已上线（静态词汇模式） |
+| 后端 API | https://vocab-pwa-api.onrender.com | **未部署**（Render 需信用卡） |
 | GitHub 仓库 | https://github.com/seanzombias/vocab_pwa | 已推送 |
 
 ---
@@ -21,9 +21,18 @@
 - [x] `db.py` 支持 `libsql://` → `https://` 自动转换
 - [x] `/api/health` 返回 `db` / `db_ok` 状态
 
-## 待完成（需你在 Render Dashboard 操作）
+## 当前方案（无需 Render）
 
-### 1. 部署 Render 服务 `vocab-pwa-api`
+GitHub Pages 上已启用 **静态词汇模式**：
+
+- 35 条 Axios 词汇打包在 `frontend/data/vocab.json`
+- 「今日」若无当天新词，自动显示最近一批（2026-05-29）
+- 「添加」页新词保存在浏览器 localStorage（仅本机）
+- 推送 `main` 后 workflow 会自动重新生成词汇 JSON
+
+## 待完成（可选，需 Render 或其他后端）
+
+### 1. 部署 API 服务（Render 需信用卡）
 
 1. 打开 https://dashboard.render.com → **New → Blueprint**
 2. 连接仓库 `seanzombias/vocab_pwa`

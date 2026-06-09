@@ -1,0 +1,474 @@
+[
+  {
+    "id": "488cebdf-6b05-4c93-b4e2-d748c968a5da",
+    "word": "prescription",
+    "phrase": "develop prescriptions for AI-fueled inequality",
+    "meaning": "应对方案；prescription 原义「处方」，此处引申为政策主张",
+    "sentence": "America's billionaires are developing their own prescriptions for AI-fueled inequality.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "economy",
+      "noun"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "d18ce085-0385-47b3-ae17-c416b185f1dc",
+    "word": "defuse",
+    "phrase": "defuse a populist revolt",
+    "meaning": "化解、平息（原义拆弹 → 化解冲突）",
+    "sentence": "They are anxious to defuse a populist revolt aimed at their ballooning fortunes.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "verb"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "3ea63171-cf89-469d-ad62-e9761ed206f7",
+    "word": "ballooning",
+    "phrase": "ballooning fortunes",
+    "meaning": "急剧膨胀的（财富像气球一样胀大）",
+    "sentence": "A populist revolt aimed at their ballooning fortunes.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "economy",
+      "adjective"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "0dcba602-8758-4deb-8a91-b073fce1af4e",
+    "word": "raise the stakes",
+    "phrase": "dramatically raised the stakes of the wealth-tax debate",
+    "meaning": "提高赌注/利害关系，使局面更严峻",
+    "sentence": "The AI boom has dramatically raised the stakes of the wealth-tax debate.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "economy",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "f62dcb00-28ac-49f5-b556-3760d2adbdab",
+    "word": "wipe out",
+    "phrase": "wipe out millions of jobs",
+    "meaning": "消灭、摧毁；此处指大规模失业",
+    "sentence": "A technology that could wipe out millions of jobs while minting the world's first trillionaires.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "economy",
+      "AI",
+      "phrasal verb"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "1944a5a9-919e-43d1-91ed-530e4fbbab86",
+    "word": "mint",
+    "phrase": "minting the world's first trillionaires",
+    "meaning": "制造、催生（原义铸币 → 创造新富豪）",
+    "sentence": "AI could wipe out millions of jobs while minting the world's first trillionaires.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "economy",
+      "verb"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "d83167e0-2ab6-4b64-b82f-8447b1986d50",
+    "word": "trillionaire",
+    "phrase": "the world's first trillionaire",
+    "meaning": "万亿富翁（比 billionaire 更高一级）",
+    "sentence": "SpaceX IPO could help make him the world's first trillionaire.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "economy",
+      "noun"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "9223d27a-2ceb-4976-9c88-cd9a2893d20e",
+    "word": "reckoning",
+    "phrase": "capitalism's next great reckoning",
+    "meaning": "清算、算总账的时刻",
+    "sentence": "Populist politicians have cast this as capitalism's next great reckoning.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "noun",
+      "句式"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "00bbad2c-e1e0-49af-8cc5-84a75d0385a8",
+    "word": "cast ... as",
+    "phrase": "cast this as capitalism's next great reckoning",
+    "meaning": "把此事描绘成/定性为",
+    "sentence": "Populist politicians, particularly on the left, have cast this as capitalism's next great reckoning.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "句式",
+      "verb"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "37aac95e-9cc8-4971-af8e-d43e3054a5c7",
+    "word": "rigged",
+    "phrase": "an economy already rigged for the elite",
+    "meaning": "被操纵的、对某方有利的",
+    "sentence": "An even deeper concentration of wealth and power in an economy already rigged for the elite.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "economy",
+      "adjective"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "35ebd557-43d4-463a-be7d-e12a23b94f63",
+    "word": "destabilize",
+    "phrase": "destabilize the economy",
+    "meaning": "使（经济）不稳定",
+    "sentence": "Some of the richest men in tech have warned for years AI could destabilize the economy.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "economy",
+      "AI",
+      "verb"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "cb3d4578-4077-43ee-ae00-a1f772e521fd",
+    "word": "shared abundance",
+    "phrase": "not deceleration or wealth taxes, but shared abundance",
+    "meaning": "共享的富足、普惠繁荣",
+    "sentence": "Many suggest the answer is not deceleration or wealth taxes, but shared abundance.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "economy",
+      "politics",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "e3090157-dbbf-47ca-8a18-a8c35e7fd612",
+    "word": "not ... but ...",
+    "phrase": "not deceleration or wealth taxes, but shared abundance",
+    "meaning": "句式：不是 A 或 B，而是 C",
+    "sentence": "The answer is not deceleration or wealth taxes, but shared abundance.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "句式",
+      "grammar"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "65c221e5-a0dc-4ad4-a9d4-94bd0e22e40e",
+    "word": "universal basic income",
+    "phrase": "a longtime proponent of universal basic income",
+    "meaning": "全民基本收入（UBI），定期发钱",
+    "sentence": "Sam Altman, a longtime proponent of universal basic income, now favors universal basic compute.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "economy",
+      "politics",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "a7e32ab3-4b0b-433e-8637-64cf2b14fa51",
+    "word": "universal basic compute",
+    "phrase": "favors universal basic compute",
+    "meaning": "Altman 造词：全民基本算力，每人获得 AI 使用配额",
+    "sentence": "Altman now favors universal basic compute — giving people access to AI's productive power instead of a fixed cash payment.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "AI",
+      "economy",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "000d4f1e-65f1-476d-ba4b-eba736877de9",
+    "word": "called for",
+    "phrase": "called for universal HIGH INCOME checks",
+    "meaning": "呼吁、主张",
+    "sentence": "Elon Musk has called for universal HIGH INCOME checks from the federal government.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "3f11de9d-0ba5-4a6f-b337-02c9f844bbd7",
+    "word": "between the lines",
+    "phrase": "Between the lines",
+    "meaning": "Axios 小标题：解读言外之意",
+    "sentence": "Between the lines: The billionaires floating these ideas are keenly aware that the politics of extreme wealth could turn dangerous fast.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "media",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "c2b98197-8b2a-4694-a936-8fd0d029b22b",
+    "word": "keenly aware",
+    "phrase": "keenly aware that the politics of extreme wealth could turn dangerous fast",
+    "meaning": "非常清楚、高度警觉",
+    "sentence": "The billionaires and AI leaders floating these ideas are keenly aware that the politics of extreme wealth could turn dangerous fast.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "4a9c42a7-7430-449e-bb18-04759715bb9d",
+    "word": "pragmatic",
+    "phrase": "a pragmatic argument for billionaires to support higher taxes",
+    "meaning": "务实的、讲现实的",
+    "sentence": "Dario Amodei made what he called a pragmatic argument for billionaires to support higher taxes on AI wealth.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "adjective"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "f54c5592-6b77-4e06-a634-ef4be8a3912f",
+    "word": "a good version / a bad version",
+    "phrase": "If they don't support a good version, they'll inevitably get a bad version designed by a mob",
+    "meaning": "好方案 vs 坏方案；不参与设计 → 被动接受更糟结果",
+    "sentence": "If they don't support a good version, they'll inevitably get a bad version designed by a mob.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "句式"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "a38e930d-ee91-4c9a-b3ea-78879ddc9214",
+    "word": "policy blueprint",
+    "phrase": "April policy blueprint",
+    "meaning": "政策蓝图、框架",
+    "sentence": "OpenAI named the same risk in its April policy blueprint.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "noun"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "11a102a5-674b-44fc-aa22-ecab7f8e1177",
+    "word": "organizing principle",
+    "phrase": "an organizing principle for the Democratic Party",
+    "meaning": "组织原则、核心纲领",
+    "sentence": "Anti-billionaire politics has become an organizing principle for the Democratic Party.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "690c96cf-3332-411c-b1b0-d981efb6f552",
+    "word": "overhaul",
+    "phrase": "overhauling the tax code",
+    "meaning": "全面改革（税法）",
+    "sentence": "Sen. Elizabeth Warren called for overhauling the tax code, including new taxes on wealth and data centers.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "economy",
+      "verb"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "d7c323c2-9673-408f-81b9-73af74dcb0a8",
+    "word": "pied-à-terre",
+    "phrase": "pied-à-terre tax on luxury second homes",
+    "meaning": "法语借词：富人持有的第二居所/非主要住宅",
+    "sentence": "State lawmakers passed Mayor Zohran Mamdani's pied-à-terre tax on luxury second homes above $5 million.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "economy",
+      "noun"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "929fea6b-3b33-49cd-9554-d1c2e0068c36",
+    "word": "oligarchy",
+    "phrase": "the enemy is the oligarchy",
+    "meaning": "寡头政治、寡头阶层",
+    "sentence": "Graham Platner launched his campaign by declaring that the enemy is the oligarchy.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "noun"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "fe30ac92-d61e-40a5-8ccf-61ea3918619f",
+    "word": "wealth tax",
+    "phrase": "a one-time 5% billionaire wealth tax",
+    "meaning": "财富税，对巨额净资产征税",
+    "sentence": "Unions gathered signatures to put a one-time 5% billionaire wealth tax on the November ballot.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "economy",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "154fdc33-d1de-4b85-9bfb-418b50e6fb11",
+    "word": "cast himself as",
+    "phrase": "casting himself as the billionaire who wants to tax other billionaires",
+    "meaning": "把自己塑造成…",
+    "sentence": "Tom Steyer endorsed the measure, casting himself as the billionaire who wants to tax other billionaires.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "句式"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "2baf3b1d-e26b-4876-8efb-06fb8c24bc58",
+    "word": "pitchforks",
+    "phrase": "The pitchforks are here, they're not just coming",
+    "meaning": "干草叉；习语指民众起义——不是将来才来，而是已经来了",
+    "sentence": "The pitchforks are here, they're not just coming, Newsom said last week.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "phrase",
+      "idiom"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "298d07e0-a79f-4ec3-ad89-afde83ef9c95",
+    "word": "shared prosperity",
+    "phrase": "whether AI creates shared prosperity",
+    "meaning": "共享繁荣",
+    "sentence": "The billionaire tax fight is becoming a test of whether AI creates shared prosperity.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "economy",
+      "AI",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "ba6e1e07-0eb8-404f-8c77-758c75580772",
+    "word": "break society",
+    "phrase": "wealth concentration that could break society",
+    "meaning": "撕裂/摧毁社会",
+    "sentence": "Amodei warns that wealth concentration could break society.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "politics",
+      "phrase"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "72983501-6c41-403a-a44b-e0c1f9e1aaa7",
+    "word": "while 对比句",
+    "phrase": "wipe out millions of jobs while minting trillionaires",
+    "meaning": "句式：while 连接两个对比结果（失业 vs 造富）",
+    "sentence": "A technology that could wipe out millions of jobs while minting the world's first trillionaires.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "句式",
+      "grammar"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "2d1cb52e-0e3d-4eb8-a5d6-0cbd721e8e87",
+    "word": "In + 地点 平行段",
+    "phrase": "In Congress ... In New York ... In Maine ... In California",
+    "meaning": "句式：Axios 用地理并列结构列举各地政治动作",
+    "sentence": "In Congress, Sen. Warren called for overhauling the tax code. In New York City, lawmakers passed the pied-à-terre tax. In Maine, Platner declared war on the oligarchy. In California, unions gathered signatures for a wealth tax.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "句式",
+      "media",
+      "writing"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "fea9612b-d2ff-4043-8dfe-5ab1b582700d",
+    "word": "anxious to",
+    "phrase": "anxious to defuse a populist revolt",
+    "meaning": "句式：形容词短语作状语，省略主语 they，表示「急于…」",
+    "sentence": "America's billionaires are developing their own prescriptions, anxious to defuse a populist revolt.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "句式",
+      "grammar"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "1070312b-48ba-472a-8e21-b21982250a31",
+    "word": "why it matters",
+    "phrase": "Why it matters",
+    "meaning": "Axios 体例小标题：说明「为何重要」",
+    "sentence": "Why it matters: The AI boom has dramatically raised the stakes of the wealth-tax debate.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "media",
+      "句式"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "96ba0c22-33cb-4122-b0df-6ef9de7407e9",
+    "word": "the bottom line",
+    "phrase": "The bottom line",
+    "meaning": "Axios 体例小标题：总结核心判断",
+    "sentence": "The bottom line: The billionaire tax fight is becoming a test of whether AI creates shared prosperity — or breaks society.",
+    "source": "Axios — AI billionaires & wealth tax (2026-05-29)",
+    "tags": [
+      "media",
+      "句式"
+    ],
+    "created_at": "2026-05-29T12:00:00+00:00"
+  }
+]

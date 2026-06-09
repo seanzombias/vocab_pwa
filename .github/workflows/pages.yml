@@ -24,6 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Build static vocab
+        run: python scripts/build_static_vocab.py
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
