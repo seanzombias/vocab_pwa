@@ -1,0 +1,282 @@
+[
+  {
+    "word": "Why it matters",
+    "phrase": "Why it matters: Microsoft's first AI PC push stumbled",
+    "meaning": "为何重要（Axios 专栏固定开头，点明利害关系）",
+    "sentence": "Why it matters: Microsoft's first AI PC push stumbled, but Nvidia's arrival gives it a second chance, this time with the world's hottest chipmaker attached.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "Driving the news",
+    "phrase": "Driving the news: Nvidia and Microsoft will unveil",
+    "meaning": "报道由头（Axios 专栏，说明这条新闻的触发点）",
+    "sentence": "Driving the news: Nvidia and Microsoft will unveil their joint work and the first computers running the chips at two key industry conferences.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "Catch-up quick",
+    "phrase": "Catch-up quick: Nvidia has been working on entering the PC processor business",
+    "meaning": "快速补背景（Axios 专栏，给读者快速上下文）",
+    "sentence": "Catch-up quick: Nvidia, which got its start making PC graphics chips, has been working on entering the PC processor business for years now, though only recently has it become clear that the debut was imminent.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "Flashback",
+    "phrase": "Flashback: Nvidia isn't totally new to powering Windows devices",
+    "meaning": "回顾往事（Axios 专栏，拉回历史先例）",
+    "sentence": "Flashback: Nvidia isn't totally new to powering Windows devices.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "The big picture",
+    "phrase": "The big picture: Microsoft is trying to reposition Windows",
+    "meaning": "宏观图景（Axios 专栏，从大局看事件意义）",
+    "sentence": "The big picture: The move comes as Microsoft is trying to reposition Windows to take advantage of the massive momentum behind AI.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "Between the lines",
+    "phrase": "Between the lines: AI work has been done in the cloud",
+    "meaning": "言外之意/深层解读（Axios 专栏）",
+    "sentence": "Between the lines: While most AI work has been done in the cloud, Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "What they're saying",
+    "phrase": "What they're saying: Milanesi told Axios",
+    "meaning": "各方怎么说（Axios 专栏，汇总引述）",
+    "sentence": "What they're saying: Nvidia's entry in the PC market could help not only it and Microsoft, but also rival Qualcomm, Milanesi told Axios.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "Axios专栏", "phrase"]
+  },
+  {
+    "word": "coming for",
+    "phrase": "is coming for the PC",
+    "meaning": "进军某领域（略带「要拿下这块市场」的侵略感）",
+    "sentence": "The company best known for powering the AI boom is coming for the PC.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "powering the AI boom",
+    "phrase": "best known for powering the AI boom",
+    "meaning": "驱动 AI 热潮（描述公司在 AI 浪潮中的核心角色）",
+    "sentence": "The company best known for powering the AI boom is coming for the PC.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "AI", "phrase"]
+  },
+  {
+    "word": "debut",
+    "phrase": "debut the first Windows computers",
+    "meaning": "首次发布/亮相（产品或技术的正式登场）",
+    "sentence": "Nvidia is expected next week to debut the first Windows computers that use its chips as the main processor.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "verb"]
+  },
+  {
+    "word": "stumble",
+    "phrase": "Microsoft's first AI PC push stumbled",
+    "meaning": "受挫、进展不顺（像绊了一跤）",
+    "sentence": "Microsoft's first AI PC push stumbled, but Nvidia's arrival gives it a second chance.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "verb"]
+  },
+  {
+    "word": "a second chance",
+    "phrase": "gives it a second chance",
+    "meaning": "第二次机会",
+    "sentence": "Nvidia's arrival gives it a second chance, this time with the world's hottest chipmaker attached.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "attached",
+    "phrase": "with the world's hottest chipmaker attached",
+    "meaning": "有……加持/附带（this time with X attached）",
+    "sentence": "Nvidia's arrival gives it a second chance, this time with the world's hottest chipmaker attached.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "句式"]
+  },
+  {
+    "word": "unveil",
+    "phrase": "unveil their joint work",
+    "meaning": "正式公布、揭幕（产品或合作成果）",
+    "sentence": "Nvidia and Microsoft will unveil their joint work and the first computers running the chips at two key industry conferences.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "verb"]
+  },
+  {
+    "word": "homegrown",
+    "phrase": "Microsoft's homegrown Surface brand",
+    "meaning": "自有的、内部孵化的（非外包或收购品牌）",
+    "sentence": "Nvidia-powered PCs are expected both from Microsoft's homegrown Surface brand as well as other computer makers, including Dell.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "adjective"]
+  },
+  {
+    "word": "decline to comment",
+    "phrase": "A Microsoft representative declined to comment",
+    "meaning": "拒绝置评（新闻稿/报道标配用语）",
+    "sentence": "A Microsoft representative declined to comment. Dell declined to comment.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "sources confirm",
+    "phrase": "sources confirm to Axios",
+    "meaning": "消息人士向 Axios 确认（匿名消息源报道）",
+    "sentence": "Nvidia is expected next week to debut the first Windows computers that use its chips as the main processor, sources confirm to Axios.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "get one's start",
+    "phrase": "got its start making PC graphics chips",
+    "meaning": "从……起家、始于（公司起源）",
+    "sentence": "Nvidia, which got its start making PC graphics chips, has been working on entering the PC processor business for years now.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "imminent",
+    "phrase": "the debut was imminent",
+    "meaning": "即将发生、迫在眉睫",
+    "sentence": "Only recently has it become clear that the debut was imminent.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "adjective"]
+  },
+  {
+    "word": "tease",
+    "phrase": "Nvidia teased in a Friday post on X",
+    "meaning": "预告、吊胃口（故意只透露一点信息）",
+    "sentence": "\"A new era of PC,\" Nvidia teased in a Friday post on X, pointing to coordinates that match a location in Taiwan.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "verb"]
+  },
+  {
+    "word": "vagueposting",
+    "phrase": "engaged in his own vagueposting",
+    "meaning": "发含糊其辞的预告帖（社交媒体网络用语）",
+    "sentence": "Windows head Pavan Davuluri engaged in his own vagueposting.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "noun"]
+  },
+  {
+    "word": "reposition",
+    "phrase": "reposition Windows to take advantage of the massive momentum behind AI",
+    "meaning": "重新定位（产品或战略方向调整）",
+    "sentence": "Microsoft is trying to reposition Windows to take advantage of the massive momentum behind AI.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "verb"]
+  },
+  {
+    "word": "momentum behind",
+    "phrase": "the massive momentum behind AI",
+    "meaning": "……背后的势头/浪潮",
+    "sentence": "Microsoft is trying to reposition Windows to take advantage of the massive momentum behind AI.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "AI", "phrase"]
+  },
+  {
+    "word": "marred by",
+    "phrase": "marred by a series of setbacks",
+    "meaning": "因……而蒙上阴影/受损",
+    "sentence": "Microsoft's first effort at an AI PC, the Copilot+ PC, was marred by a series of setbacks.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "setback",
+    "phrase": "a series of setbacks",
+    "meaning": "挫折、 setback（可复数）",
+    "sentence": "The Copilot+ PC was marred by a series of setbacks, including a lengthy delay and security concerns over its signature feature, Recall.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "noun"]
+  },
+  {
+    "word": "signature feature",
+    "phrase": "its signature feature, Recall",
+    "meaning": "招牌/标志性功能",
+    "sentence": "Security concerns over its signature feature, Recall.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "fresh opening",
+    "phrase": "provided what it sees as a fresh opening",
+    "meaning": "新的突破口/机会窗口",
+    "sentence": "The move toward agents that can automatically perform tasks on local PCs has provided what it sees as a fresh opening.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "run locally",
+    "phrase": "have things run locally",
+    "meaning": "在本地运行（相对 in the cloud 云端）",
+    "sentence": "Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "AI", "phrase"]
+  },
+  {
+    "word": "find newly receptive ears",
+    "phrase": "could find newly receptive ears",
+    "meaning": "找到更愿意倾听的受众/市场",
+    "sentence": "Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "句式", "phrase"]
+  },
+  {
+    "word": "rack up",
+    "phrase": "rack up giant bills",
+    "meaning": "迅速累积（账单、分数、记录等）",
+    "sentence": "Agents can rack up giant bills as they do their autonomous work.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "AI", "phrasal verb"]
+  },
+  {
+    "word": "autonomous work",
+    "phrase": "as they do their autonomous work",
+    "meaning": "自主执行的工作（AI agent 无人干预完成任务）",
+    "sentence": "Agents can rack up giant bills as they do their autonomous work.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "AI", "phrase"]
+  },
+  {
+    "word": "grab a significant chunk of",
+    "phrase": "grab a significant chunk of the PC market",
+    "meaning": "拿下显著市场份额",
+    "sentence": "Qualcomm has struggled to grab a significant chunk of the PC market despite offering excellent battery life.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "focus scarce resources on",
+    "phrase": "focus scarce resources on a somewhat different version of Windows",
+    "meaning": "把稀缺资源投入……",
+    "sentence": "Developers and businesses didn't see a need to focus scarce resources on a somewhat different version of Windows.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "a nice complement",
+    "phrase": "powering PCs could be a nice complement",
+    "meaning": "不错的补充/搭配（对主业形成协同）",
+    "sentence": "Getting its new processor used in the data center is the bigger opportunity, but powering PCs could be a nice complement.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "phrase"]
+  },
+  {
+    "word": "While ... could ...",
+    "phrase": "While most AI work has been done in the cloud, ... could find newly receptive ears",
+    "meaning": "对比句式：虽然 A 一直是主流，B 可能迎来新机会",
+    "sentence": "While most AI work has been done in the cloud, Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": ["tech", "句式"]
+  }
+]

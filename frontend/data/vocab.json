@@ -1,6 +1,6 @@
 [
   {
-    "id": "8596b771-17a0-4045-8787-ceb1cefdf7c6",
+    "id": "17a298fd-1824-4afd-8d7f-9d37f3afa6ea",
     "word": "prescription",
     "phrase": "develop prescriptions for AI-fueled inequality",
     "meaning": "应对方案；prescription 原义「处方」，此处引申为政策主张",
@@ -14,7 +14,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "70de08de-20d1-4a4e-b8e0-b171b3def0ce",
+    "id": "863ca7e8-e447-4f6b-8ae8-67e3ff0dd9ee",
     "word": "defuse",
     "phrase": "defuse a populist revolt",
     "meaning": "化解、平息（原义拆弹 → 化解冲突）",
@@ -27,7 +27,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "246cfdec-e337-4552-b033-56848524c2e4",
+    "id": "fb38ae20-2e8a-41e1-8b0f-bea4bfc7d93b",
     "word": "ballooning",
     "phrase": "ballooning fortunes",
     "meaning": "急剧膨胀的（财富像气球一样胀大）",
@@ -41,7 +41,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "be9e1fa0-25b8-4501-98f3-b7653261b7d8",
+    "id": "6c2e1c01-cd4a-4c4e-b281-83aae516eba7",
     "word": "raise the stakes",
     "phrase": "dramatically raised the stakes of the wealth-tax debate",
     "meaning": "提高赌注/利害关系，使局面更严峻",
@@ -55,7 +55,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "56e416cf-1e94-4a9a-a218-942c988ea057",
+    "id": "29efec6d-3070-4b2f-a46c-d4cfcbece51e",
     "word": "wipe out",
     "phrase": "wipe out millions of jobs",
     "meaning": "消灭、摧毁；此处指大规模失业",
@@ -69,7 +69,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "11f656f9-c6ae-48c5-a003-31760dcbcd04",
+    "id": "6fd5d73b-28bc-4a40-ae98-53f5b006878a",
     "word": "mint",
     "phrase": "minting the world's first trillionaires",
     "meaning": "制造、催生（原义铸币 → 创造新富豪）",
@@ -82,7 +82,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "36ad646a-f81f-4336-baa2-693952fa55d6",
+    "id": "e7e653bd-ed1f-4080-905c-84c3b098e77a",
     "word": "trillionaire",
     "phrase": "the world's first trillionaire",
     "meaning": "万亿富翁（比 billionaire 更高一级）",
@@ -95,7 +95,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "a8cec4ff-eada-4af7-9697-8fc17859b443",
+    "id": "314355cf-f644-42ac-abab-f652e378fa1e",
     "word": "reckoning",
     "phrase": "capitalism's next great reckoning",
     "meaning": "清算、算总账的时刻",
@@ -109,7 +109,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "9fc57f4e-7da1-44bf-ad45-4ea3d064dd5d",
+    "id": "1d390174-8a19-48d8-a0f2-6d9a9d7bcb71",
     "word": "cast ... as",
     "phrase": "cast this as capitalism's next great reckoning",
     "meaning": "把此事描绘成/定性为",
@@ -123,7 +123,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "257f36c4-7567-4a2d-ae0d-864b2789c7ff",
+    "id": "5d3a163d-8625-48c2-bf6a-5c1daf2805ed",
     "word": "rigged",
     "phrase": "an economy already rigged for the elite",
     "meaning": "被操纵的、对某方有利的",
@@ -137,7 +137,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "eab7ea68-6e28-4bd0-b760-f827a3b7a832",
+    "id": "39632f89-933c-447c-ae94-df5ae95a07e1",
     "word": "destabilize",
     "phrase": "destabilize the economy",
     "meaning": "使（经济）不稳定",
@@ -151,7 +151,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "90aa7a65-8571-48b7-86e5-7dfadefac18f",
+    "id": "3a4d1b53-acc0-491a-b1b6-87a02fe06941",
     "word": "shared abundance",
     "phrase": "not deceleration or wealth taxes, but shared abundance",
     "meaning": "共享的富足、普惠繁荣",
@@ -165,7 +165,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "ec4465d8-5d85-4b04-9582-f6fc0420c2ff",
+    "id": "027a0477-4971-4246-90ee-dc0a6601bc3e",
     "word": "not ... but ...",
     "phrase": "not deceleration or wealth taxes, but shared abundance",
     "meaning": "句式：不是 A 或 B，而是 C",
@@ -178,7 +178,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "cb9b386d-1829-474d-98b5-c0c971339eb7",
+    "id": "2a9f28f3-46f7-4a40-ab88-9655c7a4c0c0",
     "word": "universal basic income",
     "phrase": "a longtime proponent of universal basic income",
     "meaning": "全民基本收入（UBI），定期发钱",
@@ -192,7 +192,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "c3962919-4e94-47be-bc19-13e3d37d3838",
+    "id": "62e6b05d-0d19-4829-8e25-3949ec9e6346",
     "word": "universal basic compute",
     "phrase": "favors universal basic compute",
     "meaning": "Altman 造词：全民基本算力，每人获得 AI 使用配额",
@@ -206,7 +206,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "83e94743-1a66-4cfb-b2f0-156e088f5d88",
+    "id": "38da77f3-638a-42ee-af42-c4bf724a6cf3",
     "word": "called for",
     "phrase": "called for universal HIGH INCOME checks",
     "meaning": "呼吁、主张",
@@ -219,7 +219,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "c0380a9d-064e-443e-91b7-19c75d291b53",
+    "id": "6063aa19-e5cd-4811-8499-dd008411ff19",
     "word": "between the lines",
     "phrase": "Between the lines",
     "meaning": "Axios 小标题：解读言外之意",
@@ -232,7 +232,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "3246be70-18fd-4c7e-8918-83c1a38ac27b",
+    "id": "b1d06934-52f6-4fc1-bc97-4b4174b6df1f",
     "word": "keenly aware",
     "phrase": "keenly aware that the politics of extreme wealth could turn dangerous fast",
     "meaning": "非常清楚、高度警觉",
@@ -245,7 +245,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "2921f347-ca9f-4ae8-8d34-4c1bf60e0a63",
+    "id": "7f0eacfb-f10e-4929-83fc-5859225f55d4",
     "word": "pragmatic",
     "phrase": "a pragmatic argument for billionaires to support higher taxes",
     "meaning": "务实的、讲现实的",
@@ -258,7 +258,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "f216d584-7773-4e97-a1d1-263973e53977",
+    "id": "579e9c2c-2b34-492c-a596-5af92ddf6774",
     "word": "a good version / a bad version",
     "phrase": "If they don't support a good version, they'll inevitably get a bad version designed by a mob",
     "meaning": "好方案 vs 坏方案；不参与设计 → 被动接受更糟结果",
@@ -271,7 +271,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "91b3cb83-4938-4d18-8039-d8a156c2d5c4",
+    "id": "60365517-b0c7-4c9c-8c4c-8021e05068c5",
     "word": "policy blueprint",
     "phrase": "April policy blueprint",
     "meaning": "政策蓝图、框架",
@@ -284,7 +284,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "d6d09242-60b9-4753-bf5c-fea555c45642",
+    "id": "42690930-d0b8-4a06-b77f-061731c659a8",
     "word": "organizing principle",
     "phrase": "an organizing principle for the Democratic Party",
     "meaning": "组织原则、核心纲领",
@@ -297,7 +297,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "0b7f8759-00e5-450e-831c-9d7b54abe68c",
+    "id": "35da62c5-661b-491f-97a5-0963d3b33aaf",
     "word": "overhaul",
     "phrase": "overhauling the tax code",
     "meaning": "全面改革（税法）",
@@ -311,7 +311,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "3bb09863-75ea-4958-966d-c27d55d091c8",
+    "id": "ec24052c-12be-4ed4-bd07-96ed19f6660a",
     "word": "pied-à-terre",
     "phrase": "pied-à-terre tax on luxury second homes",
     "meaning": "法语借词：富人持有的第二居所/非主要住宅",
@@ -325,7 +325,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "232e75a6-2da7-4277-af39-b966b0da825b",
+    "id": "b15cc1de-f426-49fc-8116-63e8ed0a8cc0",
     "word": "oligarchy",
     "phrase": "the enemy is the oligarchy",
     "meaning": "寡头政治、寡头阶层",
@@ -338,7 +338,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "35032ca0-73d7-4551-bdf3-924f8a576791",
+    "id": "5f0d22cd-ed8c-4f75-b28d-334e1dc96568",
     "word": "wealth tax",
     "phrase": "a one-time 5% billionaire wealth tax",
     "meaning": "财富税，对巨额净资产征税",
@@ -352,7 +352,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "dd6898a1-938a-46db-979e-e34cfd57c4dd",
+    "id": "a8f849f0-76d8-4843-b24c-fccfcadab999",
     "word": "cast himself as",
     "phrase": "casting himself as the billionaire who wants to tax other billionaires",
     "meaning": "把自己塑造成…",
@@ -365,7 +365,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "04cb24e0-e88f-4d21-ba2e-a708e40c651f",
+    "id": "c4ad485b-7fdc-404b-9be4-af8f66d41231",
     "word": "pitchforks",
     "phrase": "The pitchforks are here, they're not just coming",
     "meaning": "干草叉；习语指民众起义——不是将来才来，而是已经来了",
@@ -379,7 +379,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "82d23bb2-6449-41a7-8a88-5be01c09693e",
+    "id": "460c16cc-eecc-4600-b259-aafc329279fb",
     "word": "shared prosperity",
     "phrase": "whether AI creates shared prosperity",
     "meaning": "共享繁荣",
@@ -393,7 +393,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "7acf898d-179b-4ea7-91e2-ecf034184351",
+    "id": "9fbc28db-5146-4b49-bdd8-78728691022c",
     "word": "break society",
     "phrase": "wealth concentration that could break society",
     "meaning": "撕裂/摧毁社会",
@@ -406,7 +406,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "53d3ab54-5891-4e11-ac46-77c2e10d246d",
+    "id": "6ffb5f01-8abb-42f6-91b1-5cf85dcd1a93",
     "word": "while 对比句",
     "phrase": "wipe out millions of jobs while minting trillionaires",
     "meaning": "句式：while 连接两个对比结果（失业 vs 造富）",
@@ -419,7 +419,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "09ba0bb4-c89c-486f-bc60-891c018879a6",
+    "id": "859dbe2a-7783-4b5d-8b84-cb794c786367",
     "word": "In + 地点 平行段",
     "phrase": "In Congress ... In New York ... In Maine ... In California",
     "meaning": "句式：Axios 用地理并列结构列举各地政治动作",
@@ -433,7 +433,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "09b14a66-ac19-4cc1-be89-facb10c76037",
+    "id": "8235bf26-ec5d-464f-9745-bf7bbcb6e1c6",
     "word": "anxious to",
     "phrase": "anxious to defuse a populist revolt",
     "meaning": "句式：形容词短语作状语，省略主语 they，表示「急于…」",
@@ -446,7 +446,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "3c80b60f-7dc4-4983-b9ca-8af87eede99b",
+    "id": "a7e26029-fd51-4e33-add1-2bf5fb8e7d25",
     "word": "why it matters",
     "phrase": "Why it matters",
     "meaning": "Axios 体例小标题：说明「为何重要」",
@@ -459,7 +459,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "98ebc81c-22aa-4c1d-9c5e-407995079ef9",
+    "id": "2aeaf51b-d289-4793-ab55-5939b50bb060",
     "word": "the bottom line",
     "phrase": "The bottom line",
     "meaning": "Axios 体例小标题：总结核心判断",
@@ -472,7 +472,7 @@
     "created_at": "2026-05-29T12:00:00+00:00"
   },
   {
-    "id": "b97cae5a-a7a9-4842-962b-c684f0dd52c4",
+    "id": "53fa59ea-f7ea-47e0-8a66-9cf2b7d9dbe5",
     "word": "curb",
     "phrase": "curb classroom screen use",
     "meaning": "限制、遏制（curb 原义「路缘石」，引申为把某事物压下去）",
@@ -485,7 +485,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "9498501e-58bb-4f79-9f56-95b59df0c8bd",
+    "id": "897046fb-869e-4f1a-93b9-481406ea4f91",
     "word": "amid",
     "phrase": "amid concerns about student attention",
     "meaning": "在……之中；伴随着（多指复杂背景下的情况）",
@@ -499,7 +499,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "ee158c73-2634-4eeb-9ef4-a7ecc2255ebb",
+    "id": "46eb777f-efa7-462d-a987-d21511016c40",
     "word": "guardrails",
     "phrase": "establish guardrails around AI in education",
     "meaning": "防护栏、界限（比喻政策或规则上的安全边界）",
@@ -513,7 +513,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "7f900cb4-df5f-46bd-91da-2c1c9bcecde2",
+    "id": "a0374ce7-09e6-4f98-a0b7-075627fb98c0",
     "word": "the big picture",
     "phrase": "The big picture: At least 16 states",
     "meaning": "宏观图景、大局（Axios 专栏固定用语）",
@@ -528,7 +528,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "ecb4fdaf-66ec-4406-86bf-e929cc5b9623",
+    "id": "34ae3045-0bbc-4236-a596-dd0d076e007a",
     "word": "case in point",
     "phrase": "Case in point: Schools Beyond Screens",
     "meaning": "典型例证、恰好的例子",
@@ -542,7 +542,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "67548b5e-4553-4fa1-977e-04fa7cf6ea58",
+    "id": "acae2066-9dea-4d63-821b-b35ca1985d6e",
     "word": "nonprofit",
     "phrase": "the nonprofit has grown to include thousands",
     "meaning": "非营利组织",
@@ -555,7 +555,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "f7e86e00-f7dc-4a88-862d-5a07805a2d60",
+    "id": "9c892408-2c59-40d6-bc70-c7859e8012df",
     "word": "resolution",
     "phrase": "pass a resolution limiting classroom screen time",
     "meaning": "决议（议会或董事会通过的正式决定）",
@@ -569,7 +569,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "6ce18a7a-46aa-4de9-916c-290e9b74df83",
+    "id": "f0a067b9-924f-4ded-9aae-8f3b229f8b48",
     "word": "school-issued",
     "phrase": "eliminating school-issued devices",
     "meaning": "学校配发的（由学校统一发放的设备）",
@@ -582,7 +582,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "c6cfb53c-d632-4520-bf4d-f9c3a23d7fd3",
+    "id": "e764bfab-8dd4-49be-b894-ae278da315d6",
     "word": "Zoom in",
     "phrase": "Zoom in: McPherson Middle School",
     "meaning": "聚焦细节、拉近镜头（Axios 专栏用语，与 Zoom out 相对）",
@@ -596,7 +596,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "24aabdd2-aaf7-4a14-bfe6-fc82752f26e8",
+    "id": "232106c0-a480-41e9-8395-d2142ecde0ba",
     "word": "suspension rate",
     "phrase": "the suspension rate fell 70%",
     "meaning": "停学率（因违纪被暂时停学的学生比例）",
@@ -609,7 +609,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "2265d88d-6485-411a-ae4d-aa82518f24ba",
+    "id": "5baf9fe0-a1db-4326-9919-7333b3457bae",
     "word": "safeguard",
     "phrase": "implemented more safeguards",
     "meaning": "保障措施、防护手段",
@@ -622,7 +622,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "881019ea-0a2c-4e9c-b162-3515a1a2a773",
+    "id": "af2e3903-7453-4aa5-b857-0361339ee19c",
     "word": "culture-wise",
     "phrase": "behaviorally and culture-wise",
     "meaning": "在文化层面（-wise 后缀表「在……方面」）",
@@ -636,7 +636,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "c21e26fb-253b-4638-a2f9-f331cd23c6a6",
+    "id": "41713cb0-a649-4eb8-853f-07d2b1c44377",
     "word": "discipline data",
     "phrase": "The school's discipline data showed",
     "meaning": "纪律记录数据（违纪、停学等统计）",
@@ -649,7 +649,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "5a1f9fbe-a283-466c-9aca-c3bda8cee0f7",
+    "id": "63836122-c812-4979-9a37-ef55fdb7075e",
     "word": "secure a grant",
     "phrase": "secured a grant allowing students to return the devices",
     "meaning": "获得拨款/资助（grant 指政府或基金会的专项资助）",
@@ -662,7 +662,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "578cbd31-35cb-4c50-9a4a-5f46eaa30dd8",
+    "id": "04feb7d2-87ae-4aa9-b01a-5d872641c9c9",
     "word": "cap",
     "phrase": "doesn't cap Chromebook use",
     "meaning": "设上限、限制（cap 作动词）",
@@ -675,7 +675,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "4f9e580f-e44f-42d9-a89b-da5a6cc9fbce",
+    "id": "34df4c7f-efe5-4b0f-80d9-d0b942d03289",
     "word": "enhance",
     "phrase": "when they enhance learning",
     "meaning": "增强、促进（enhance learning 促进学习效果）",
@@ -688,7 +688,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "02dc098e-e890-4963-b6dc-6a23ab5054d8",
+    "id": "8b696bbd-9988-4549-b5a7-e02427e65fdb",
     "word": "the intrigue",
     "phrase": "The intrigue: Epsing says students tell her",
     "meaning": "值得关注之处、有趣的一面（Axios 专栏用语）",
@@ -702,7 +702,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "04e940e5-2773-45b6-9a30-4776869ada47",
+    "id": "08b80d71-7e72-425a-bae5-16e7101f858d",
     "word": "analog learning",
     "phrase": "analog learning is coming to more classrooms",
     "meaning": "模拟/非数字化学习（用纸笔、实体材料，相对 digital）",
@@ -715,7 +715,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "32d0e1e0-e2a3-46c9-8b50-ce68e20a0f4e",
+    "id": "fc6a2534-2f99-442e-95a2-eb5bd740a374",
     "word": "on board with",
     "phrase": "appear on board with the shift",
     "meaning": "支持、认同（原义「在船上」，引申为加入某方）",
@@ -728,7 +728,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "2724ec58-afe1-4126-97f2-7dda0d42526a",
+    "id": "af763d5a-92bb-4038-a141-d13c11298930",
     "word": "prekindergarten",
     "phrase": "prekindergarten through second grade",
     "meaning": "学前班（正式入学前的幼儿教育阶段，常缩写 pre-K）",
@@ -741,7 +741,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "5244ebe3-8673-4f97-9160-22b012351267",
+    "id": "8919fdc7-139b-4a43-9fab-b536d3fc3045",
     "word": "compelling reason",
     "phrase": "unless there is a compelling reason",
     "meaning": "充分理由、令人信服的理由",
@@ -754,7 +754,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "cd9ad07e-ee64-4d77-a980-8e6a7f06a0a9",
+    "id": "3d4eb28b-b659-4390-a1b3-853a05015b49",
     "word": "harness",
     "phrase": "harness the benefits of technology",
     "meaning": "利用、驾驭（原义给马套缰绳 → 掌控并运用）",
@@ -768,7 +768,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "9f65ca7b-c861-4912-b8c6-df3c97df16ad",
+    "id": "5b82eb51-7b1a-42a5-883c-69a4de05a9db",
     "word": "mitigate",
     "phrase": "mitigating the harms",
     "meaning": "减轻、缓解（损害或风险）",
@@ -781,7 +781,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "e60d87b6-f0f3-4c88-9c0e-94fe315734c0",
+    "id": "9a65789c-cc1a-4ee5-8a21-2d4d6f37c292",
     "word": "ed tech",
     "phrase": "ed tech can support differentiation",
     "meaning": "教育科技（education technology 的缩写）",
@@ -794,7 +794,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "5f1cac30-00b8-4488-a7ff-03becacc00e3",
+    "id": "89967cee-7171-40db-9d57-c4e665ff6701",
     "word": "differentiation",
     "phrase": "support differentiation",
     "meaning": "差异化教学（根据学生水平调整教学内容和方法）",
@@ -807,7 +807,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "0ae20672-49a2-4314-a5a1-936e229992a8",
+    "id": "dc4c5a7b-42c1-4250-9543-e7d365f6cd5a",
     "word": "enrichment",
     "phrase": "accessibility, enrichment, and workforce preparation",
     "meaning": "拓展/深化学习（超出基础课纲的 enrichment 课程）",
@@ -820,7 +820,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "0c01ced8-071e-4c4a-9332-a0ad80d22f98",
+    "id": "03b25141-f4ba-4707-9506-020b4238b7d7",
     "word": "workforce preparation",
     "phrase": "workforce preparation in the K-12 classroom",
     "meaning": "就业准备、职场技能培养",
@@ -833,7 +833,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "a431504b-d437-4e3d-89b5-606fc4dd0a90",
+    "id": "365bcb54-23d5-4276-bb75-d978cdd640ad",
     "word": "policy briefing",
     "phrase": "a policy briefing for state leaders",
     "meaning": "政策简报会（向决策者介绍政策议题的会议）",
@@ -847,7 +847,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "5fec422f-d308-47ee-b7d1-f240bca05311",
+    "id": "fb8aaeea-3282-43ac-937b-b787d6fa03f7",
     "word": "mindful of",
     "phrase": "be mindful of when tech can be bad",
     "meaning": "留心、注意（mindful 有意识地关注）",
@@ -860,7 +860,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "a60f913f-6639-4316-94ec-e02ad9fb03b8",
+    "id": "91e9288a-1206-4e67-8d7a-3e40750a512e",
     "word": "not all ... is the same",
     "phrase": "not all screen time is the same",
     "meaning": "并非所有……都一样（区分不同类型）",
@@ -873,7 +873,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "3e7de0af-b5dc-41d7-aec2-e29e4bea8a23",
+    "id": "3d163afa-084f-4355-b100-ba843f541df4",
     "word": "Big Tech",
     "phrase": "differences between ed tech and Big Tech",
     "meaning": "大型科技公司（Google、Meta、Amazon 等）",
@@ -887,7 +887,7 @@
     "created_at": "2026-05-30T12:00:00+00:00"
   },
   {
-    "id": "82c4fbe1-c5ae-4dcf-8ea6-6ba267bbd94d",
+    "id": "00385710-7335-44d5-b3af-750cc2ae5fde",
     "word": "the bottom line",
     "phrase": "The bottom line: tech alone is not an enhancement",
     "meaning": "归根结底、要点是（Axios 专栏结语用语）",
@@ -897,6 +897,474 @@
       "education",
       "Axios专栏",
       "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "c245a16c-8312-46cb-a4ab-a6692f3158b0",
+    "word": "Why it matters",
+    "phrase": "Why it matters: Microsoft's first AI PC push stumbled",
+    "meaning": "为何重要（Axios 专栏固定开头，点明利害关系）",
+    "sentence": "Why it matters: Microsoft's first AI PC push stumbled, but Nvidia's arrival gives it a second chance, this time with the world's hottest chipmaker attached.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "Axios专栏",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "7fbcebe9-d5f8-4111-9d6f-ecebac10c7c9",
+    "word": "Driving the news",
+    "phrase": "Driving the news: Nvidia and Microsoft will unveil",
+    "meaning": "报道由头（Axios 专栏，说明这条新闻的触发点）",
+    "sentence": "Driving the news: Nvidia and Microsoft will unveil their joint work and the first computers running the chips at two key industry conferences.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "Axios专栏",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "3415545f-877f-4863-949d-d89c850771f8",
+    "word": "Catch-up quick",
+    "phrase": "Catch-up quick: Nvidia has been working on entering the PC processor business",
+    "meaning": "快速补背景（Axios 专栏，给读者快速上下文）",
+    "sentence": "Catch-up quick: Nvidia, which got its start making PC graphics chips, has been working on entering the PC processor business for years now, though only recently has it become clear that the debut was imminent.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "Axios专栏",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "ec06379f-0269-4b35-ad04-5923d41b22bf",
+    "word": "Flashback",
+    "phrase": "Flashback: Nvidia isn't totally new to powering Windows devices",
+    "meaning": "回顾往事（Axios 专栏，拉回历史先例）",
+    "sentence": "Flashback: Nvidia isn't totally new to powering Windows devices.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "Axios专栏",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "ee13d639-e7a0-438d-b7f7-6a52d9938a8f",
+    "word": "The big picture",
+    "phrase": "The big picture: Microsoft is trying to reposition Windows",
+    "meaning": "宏观图景（Axios 专栏，从大局看事件意义）",
+    "sentence": "The big picture: The move comes as Microsoft is trying to reposition Windows to take advantage of the massive momentum behind AI.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "Axios专栏",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "3518cd33-b26b-4af5-8fce-55fc8659af80",
+    "word": "Between the lines",
+    "phrase": "Between the lines: AI work has been done in the cloud",
+    "meaning": "言外之意/深层解读（Axios 专栏）",
+    "sentence": "Between the lines: While most AI work has been done in the cloud, Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "Axios专栏",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "ed1d133c-91a4-4683-ac58-c4f55fbf4585",
+    "word": "What they're saying",
+    "phrase": "What they're saying: Milanesi told Axios",
+    "meaning": "各方怎么说（Axios 专栏，汇总引述）",
+    "sentence": "What they're saying: Nvidia's entry in the PC market could help not only it and Microsoft, but also rival Qualcomm, Milanesi told Axios.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "Axios专栏",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "8b4d7345-4132-46c7-b28f-5fe3345447b1",
+    "word": "coming for",
+    "phrase": "is coming for the PC",
+    "meaning": "进军某领域（略带「要拿下这块市场」的侵略感）",
+    "sentence": "The company best known for powering the AI boom is coming for the PC.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "221a9aaa-d890-461f-ab1f-6f8b7f33a57b",
+    "word": "powering the AI boom",
+    "phrase": "best known for powering the AI boom",
+    "meaning": "驱动 AI 热潮（描述公司在 AI 浪潮中的核心角色）",
+    "sentence": "The company best known for powering the AI boom is coming for the PC.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "AI",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "dfb373f7-05ea-4d28-9230-a224cf58d1b5",
+    "word": "debut",
+    "phrase": "debut the first Windows computers",
+    "meaning": "首次发布/亮相（产品或技术的正式登场）",
+    "sentence": "Nvidia is expected next week to debut the first Windows computers that use its chips as the main processor.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "verb"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "800e999d-287d-4564-83ee-73ca338609c6",
+    "word": "stumble",
+    "phrase": "Microsoft's first AI PC push stumbled",
+    "meaning": "受挫、进展不顺（像绊了一跤）",
+    "sentence": "Microsoft's first AI PC push stumbled, but Nvidia's arrival gives it a second chance.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "verb"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "d5e91054-1ae0-4337-bf1b-cf39d676810d",
+    "word": "a second chance",
+    "phrase": "gives it a second chance",
+    "meaning": "第二次机会",
+    "sentence": "Nvidia's arrival gives it a second chance, this time with the world's hottest chipmaker attached.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "a2d9dbe0-2475-4e1f-b0c4-308cfc73f426",
+    "word": "attached",
+    "phrase": "with the world's hottest chipmaker attached",
+    "meaning": "有……加持/附带（this time with X attached）",
+    "sentence": "Nvidia's arrival gives it a second chance, this time with the world's hottest chipmaker attached.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "句式"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "517fb5cc-4309-49c7-a466-563cdd990197",
+    "word": "unveil",
+    "phrase": "unveil their joint work",
+    "meaning": "正式公布、揭幕（产品或合作成果）",
+    "sentence": "Nvidia and Microsoft will unveil their joint work and the first computers running the chips at two key industry conferences.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "verb"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "a3dbe192-9eeb-46b0-b495-c58d9e6dc1a4",
+    "word": "homegrown",
+    "phrase": "Microsoft's homegrown Surface brand",
+    "meaning": "自有的、内部孵化的（非外包或收购品牌）",
+    "sentence": "Nvidia-powered PCs are expected both from Microsoft's homegrown Surface brand as well as other computer makers, including Dell.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "adjective"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "e9e80b68-3cb4-4871-ae8d-ff9e1e90165f",
+    "word": "decline to comment",
+    "phrase": "A Microsoft representative declined to comment",
+    "meaning": "拒绝置评（新闻稿/报道标配用语）",
+    "sentence": "A Microsoft representative declined to comment. Dell declined to comment.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "da1c02a7-3e82-4d60-8952-d5491ed4a4b7",
+    "word": "sources confirm",
+    "phrase": "sources confirm to Axios",
+    "meaning": "消息人士向 Axios 确认（匿名消息源报道）",
+    "sentence": "Nvidia is expected next week to debut the first Windows computers that use its chips as the main processor, sources confirm to Axios.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "209a4c80-400b-42d0-bfac-0840d3726f23",
+    "word": "get one's start",
+    "phrase": "got its start making PC graphics chips",
+    "meaning": "从……起家、始于（公司起源）",
+    "sentence": "Nvidia, which got its start making PC graphics chips, has been working on entering the PC processor business for years now.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "86adf418-91b3-4354-8dba-f2e0b77b25d1",
+    "word": "imminent",
+    "phrase": "the debut was imminent",
+    "meaning": "即将发生、迫在眉睫",
+    "sentence": "Only recently has it become clear that the debut was imminent.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "adjective"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "1af4d964-3727-405b-a2a6-0581fd166018",
+    "word": "tease",
+    "phrase": "Nvidia teased in a Friday post on X",
+    "meaning": "预告、吊胃口（故意只透露一点信息）",
+    "sentence": "\"A new era of PC,\" Nvidia teased in a Friday post on X, pointing to coordinates that match a location in Taiwan.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "verb"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "374b78f7-74f5-40a5-aba3-19857bf6bb12",
+    "word": "vagueposting",
+    "phrase": "engaged in his own vagueposting",
+    "meaning": "发含糊其辞的预告帖（社交媒体网络用语）",
+    "sentence": "Windows head Pavan Davuluri engaged in his own vagueposting.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "noun"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "bc786331-c624-4b63-ac1d-47916173493a",
+    "word": "reposition",
+    "phrase": "reposition Windows to take advantage of the massive momentum behind AI",
+    "meaning": "重新定位（产品或战略方向调整）",
+    "sentence": "Microsoft is trying to reposition Windows to take advantage of the massive momentum behind AI.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "verb"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "8e1e421f-451c-42bf-9ce4-0f78cd4bb6cd",
+    "word": "momentum behind",
+    "phrase": "the massive momentum behind AI",
+    "meaning": "……背后的势头/浪潮",
+    "sentence": "Microsoft is trying to reposition Windows to take advantage of the massive momentum behind AI.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "AI",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "550ef55d-dfd4-42f5-b410-3d9578081158",
+    "word": "marred by",
+    "phrase": "marred by a series of setbacks",
+    "meaning": "因……而蒙上阴影/受损",
+    "sentence": "Microsoft's first effort at an AI PC, the Copilot+ PC, was marred by a series of setbacks.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "db546b2a-c4e8-4bdf-9edd-a513228440b3",
+    "word": "setback",
+    "phrase": "a series of setbacks",
+    "meaning": "挫折、 setback（可复数）",
+    "sentence": "The Copilot+ PC was marred by a series of setbacks, including a lengthy delay and security concerns over its signature feature, Recall.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "noun"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "727d2379-4924-4e6a-b111-945c3aa8d121",
+    "word": "signature feature",
+    "phrase": "its signature feature, Recall",
+    "meaning": "招牌/标志性功能",
+    "sentence": "Security concerns over its signature feature, Recall.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "7bc0245f-1460-4d7e-8eeb-0b451ba132cb",
+    "word": "fresh opening",
+    "phrase": "provided what it sees as a fresh opening",
+    "meaning": "新的突破口/机会窗口",
+    "sentence": "The move toward agents that can automatically perform tasks on local PCs has provided what it sees as a fresh opening.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "33af8a5f-bb66-4d89-b031-6fe0cc831bd0",
+    "word": "run locally",
+    "phrase": "have things run locally",
+    "meaning": "在本地运行（相对 in the cloud 云端）",
+    "sentence": "Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "AI",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "621c4f23-e3cf-4af8-8c73-ab5a656d5b95",
+    "word": "find newly receptive ears",
+    "phrase": "could find newly receptive ears",
+    "meaning": "找到更愿意倾听的受众/市场",
+    "sentence": "Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "句式",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "d0dc14ff-16b4-4a49-933b-9bb941ba9eb3",
+    "word": "rack up",
+    "phrase": "rack up giant bills",
+    "meaning": "迅速累积（账单、分数、记录等）",
+    "sentence": "Agents can rack up giant bills as they do their autonomous work.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "AI",
+      "phrasal verb"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "de90aadc-b77e-40ec-bb6a-0a045990a594",
+    "word": "autonomous work",
+    "phrase": "as they do their autonomous work",
+    "meaning": "自主执行的工作（AI agent 无人干预完成任务）",
+    "sentence": "Agents can rack up giant bills as they do their autonomous work.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "AI",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "e650e63c-d6de-4172-8d90-101e99ec4a03",
+    "word": "grab a significant chunk of",
+    "phrase": "grab a significant chunk of the PC market",
+    "meaning": "拿下显著市场份额",
+    "sentence": "Qualcomm has struggled to grab a significant chunk of the PC market despite offering excellent battery life.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "33add032-abb9-4b4b-bcff-8ec10d8aeb4b",
+    "word": "focus scarce resources on",
+    "phrase": "focus scarce resources on a somewhat different version of Windows",
+    "meaning": "把稀缺资源投入……",
+    "sentence": "Developers and businesses didn't see a need to focus scarce resources on a somewhat different version of Windows.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "f98f022c-1ca0-4e19-8773-9b7ec1a9cf60",
+    "word": "a nice complement",
+    "phrase": "powering PCs could be a nice complement",
+    "meaning": "不错的补充/搭配（对主业形成协同）",
+    "sentence": "Getting its new processor used in the data center is the bigger opportunity, but powering PCs could be a nice complement.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "phrase"
+    ],
+    "created_at": "2026-05-30T12:00:00+00:00"
+  },
+  {
+    "id": "1b2798f8-b177-4b13-b5d1-49f1c24f9c20",
+    "word": "While ... could ...",
+    "phrase": "While most AI work has been done in the cloud, ... could find newly receptive ears",
+    "meaning": "对比句式：虽然 A 一直是主流，B 可能迎来新机会",
+    "sentence": "While most AI work has been done in the cloud, Microsoft's push to have things run locally could find newly receptive ears.",
+    "source": "Axios — Nvidia Windows PCs scoop (2026-05-30)",
+    "tags": [
+      "tech",
+      "句式"
     ],
     "created_at": "2026-05-30T12:00:00+00:00"
   }
