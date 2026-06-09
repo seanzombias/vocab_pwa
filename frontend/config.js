@@ -15,8 +15,8 @@ export const API_BASE = (() => {
   return "https://vocab-pwa-api.seanzombias.workers.dev";
 })();
 
-/** Worker 不可用时回退到打包 JSON */
-export const USE_STATIC_DATA = false;
+/** GitHub Pages 直接用打包 JSON；本地开发可走 Worker API */
+export const USE_STATIC_DATA = window.location.hostname.endsWith("github.io");
 
 export function asset(path) {
   return `${BASE_PATH}${path.startsWith("/") ? path : `/${path}`}`;
