@@ -25,24 +25,19 @@
 - [x] 审阅 **`.github/workflows/pages.yml`**：push `main` 时上传 `frontend/` 并 deploy-pages
 - [x] 审阅 **`backend/render.yaml`**：服务名 `vocab-pwa-api`，`rootDir: backend`，gunicorn，Turso 与 Token 环境变量
 
-## 进行中
+## 已完成（云端）
 
-### 1. GitHub 登录与推送
+### 1. GitHub 仓库与推送
 
-**状态：** 已启动 `gh auth login` 设备码流程。
+- [x] `gh` 已登录 `seanzombias`
+- [x] 仓库已创建：https://github.com/seanzombias/vocab_pwa
+- [x] `main` 已推送
 
-**请立即在浏览器完成：**
+### 2. GitHub Pages
 
-1. 打开 https://github.com/login/device
-2. 输入一次性验证码：**`9476-FA33`**
-3. 授权 GitHub CLI 访问账户 `seanzombias`
-
-完成后在终端执行（或运行 `.\scripts\deploy_online.ps1`）：
-
-```powershell
-cd C:\Users\Administrator\Desktop\vocab_pwa
-gh repo create seanzombias/vocab_pwa --public --source=. --remote=origin --push
-```
+- [x] Pages 已启用（`build_type: workflow`）
+- [x] Deploy workflow 成功
+- [x] 前端地址：https://seanzombias.github.io/vocab_pwa/
 
 若不用 `gh`，在 GitHub 网页新建空仓库 `vocab_pwa` 后：
 
