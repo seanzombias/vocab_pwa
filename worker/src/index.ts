@@ -46,6 +46,23 @@ async function withDb(c: { env: Env }, handler: (client: ReturnType<typeof creat
   }
 }
 
+app.get("/", (c) =>
+  Response.json({
+    service: "vocab-pwa-api",
+    status: "ok",
+    endpoints: [
+      "GET /api/health",
+      "GET /api/vocab",
+      "GET /api/vocab/dates",
+      "GET /api/vocab/tags",
+      "GET /api/export/anki.csv",
+      "POST /api/vocab",
+      "POST /api/vocab/import",
+      "DELETE /api/vocab/:entryId",
+    ],
+  })
+);
+
 app.get("/api/health", (c) =>
   withDb(c, async (client) => {
     const ok = await ping(client);
