@@ -25,21 +25,22 @@
 - [x] 审阅 **`.github/workflows/pages.yml`**：push `main` 时上传 `frontend/` 并 deploy-pages
 - [x] 审阅 **`backend/render.yaml`**：服务名 `vocab-pwa-api`，`rootDir: backend`，gunicorn，Turso 与 Token 环境变量
 
-## 未完成（需你手动）
+## 进行中
 
 ### 1. GitHub 登录与推送
 
-**状态：** `gh auth status` → 未登录；`https://github.com/seanzombias/vocab_pwa` → **404**（仓库尚不存在）；SSH → `Permission denied (publickey)`。
+**状态：** 已启动 `gh auth login` 设备码流程。
 
-**操作：**
+**请立即在浏览器完成：**
+
+1. 打开 https://github.com/login/device
+2. 输入一次性验证码：**`9476-FA33`**
+3. 授权 GitHub CLI 访问账户 `seanzombias`
+
+完成后在终端执行（或运行 `.\scripts\deploy_online.ps1`）：
 
 ```powershell
 cd C:\Users\Administrator\Desktop\vocab_pwa
-
-# 登录 GitHub（浏览器或 token）
-gh auth login
-
-# 创建 Public 仓库并推送 main（若仓库已存在可跳过 create，只 add remote + push）
 gh repo create seanzombias/vocab_pwa --public --source=. --remote=origin --push
 ```
 
