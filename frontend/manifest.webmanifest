@@ -1,0 +1,18 @@
+{
+  "name": "英文词汇本",
+  "short_name": "Vocab",
+  "description": "每日英文词汇、短语与原句",
+  "start_url": "/vocab_pwa/",
+  "scope": "/vocab_pwa/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

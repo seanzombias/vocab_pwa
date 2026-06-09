@@ -1,0 +1,26 @@
+[
+  {
+    "word": "defuse",
+    "phrase": "defuse a populist revolt",
+    "meaning": "化解民粹反抗",
+    "sentence": "anxious to defuse a populist revolt aimed at their ballooning fortunes",
+    "source": "Axios 2026-05-29",
+    "tags": ["politics", "verb"]
+  },
+  {
+    "word": "ballooning",
+    "phrase": "ballooning fortunes",
+    "meaning": "急剧膨胀的财富",
+    "sentence": "a populist revolt aimed at their ballooning fortunes",
+    "source": "Axios 2026-05-29",
+    "tags": ["politics", "economy"]
+  },
+  {
+    "word": "reckoning",
+    "phrase": "capitalism's next great reckoning",
+    "meaning": "资本主义下一次大清算",
+    "sentence": "Populist politicians have cast this as capitalism's next great reckoning",
+    "source": "Axios 2026-05-29",
+    "tags": ["politics", "句式"]
+  }
+]
