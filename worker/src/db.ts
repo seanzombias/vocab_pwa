@@ -1,4 +1,4 @@
-import { createClient, type Client } from "@libsql/client/web";
+import { createClient, type Client, type InValue } from "@libsql/client/web";
 
 import type { Env, VocabItem, VocabPayload } from "./types";
 
@@ -91,7 +91,7 @@ export async function listVocab(
   } = {}
 ): Promise<VocabItem[]> {
   let sql = "SELECT * FROM vocab WHERE 1=1";
-  const args: unknown[] = [];
+  const args: InValue[] = [];
 
   if (options.today) {
     const todayPrefix = new Date().toISOString().slice(0, 10);
