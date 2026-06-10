@@ -76,10 +76,10 @@ def import_vocab():
     if not isinstance(payload, list):
         return jsonify({"error": "Expected a JSON array"}), 400
     try:
-        items = get_db().create_many(payload)
+        result = get_db().create_many_deduped(payload)
     except ValueError as exc:
         return jsonify({"error": str(exc)}), 400
-    return jsonify({"items": items, "count": len(items)}), 201
+    return jsonify(result), 201
 
 
 @app.delete("/api/vocab/<entry_id>")

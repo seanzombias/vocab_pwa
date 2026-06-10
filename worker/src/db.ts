@@ -202,12 +202,48 @@ export async function createVocab(client: Client, payload: VocabPayload): Promis
   return entry;
 }
 
+export async function vocabExists(
+  client: Client,
+  source: string,
+  word: string,
+  sentence: string
+): Promise<boolean> {
+  const result = await client.execute({
+    sql: `
+      SELECT id FROM vocab
+      WHERE lower(source) = lower(?)
+        AND lower(word) = lower(?)
+        AND lower(sentence) = lower(?)
+      LIMIT 1
+    `,
+    args: [source.trim(), word.trim(), sentence.trim()],
+  });
+  return result.rows.length > 0;
+}
+
 export async function createMany(client: Client, payloads: VocabPayload[]): Promise<VocabItem[]> {
   const items: VocabItem[] = [];
   for (const payload of payloads) {
     items.push(await createVocab(client, payload));
   }
   return items;
+}
+
+export async function createManyDeduped(
+  client: Client,
+  payloads: VocabPayload[]
+): Promise<{ items: VocabItem[]; count: number; skipped: number }> {
+  const items: VocabItem[] = [];
+  let skipped = 0;
+  for (const payload of payloads) {
+    const entry = normalizePayload(payload);
+    if (await vocabExists(client, entry.source, entry.word, entry.sentence)) {
+      skipped += 1;
+      continue;
+    }
+    items.push(await createVocab(client, entry));
+  }
+  return { items, count: items.length, skipped };
 }
 
 export async function deleteVocab(client: Client, entryId: string): Promise<boolean> {

@@ -1,0 +1,85 @@
+{
+  "title": "Anthropic and OpenAI spark new race for frontier AI access",
+  "url": "https://www.axios.com/2026/06/09/anthropic-openai-mythos-ai-model-access",
+  "pub_date": "2026-06-09",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Anthropic and OpenAI spark new race for frontier AI access (2026-06-09)",
+  "body": "Frontier AI labs are converging on a new strategy for controlling their most cyber-capable models while still commercializing them: selective access. Why it matters: OpenAI's trusted-access program and a pending program from Anthropic are creating a new power center in cybersecurity where AI companies help decide which defenders can use the most advanced cyber capabilities. For decades, competitive advantage in cybersecurity largely came from talent, data and infrastructure. Now, it also comes from access to models. Driving the news: Anthropic announced Tuesday it will make a version of its Mythos class of models, Fable 5, available to the general public. Fable 5 includes protections that block some high-risk cybersecurity and biology requests and instead route users who ask about those issues to Claude Opus 4.8. At the same time, Anthropic is offering users of its restricted Mythos Preview program an upgrade to its new Mythos 5 model. Dianne Penn, Anthropic's head of product management for research and labs, tells Axios the company is being deliberately conservative at launch, meaning some legitimate security work may also get routed away from Fable 5. The intrigue: Anthropic is also working on a formal trusted-access program that would determine who gets access to Mythos 5 and future less restricted models. The company has not provided a timeline for launching the program. Behind the scenes, organizations have spent the last two months lobbying Anthropic for access to Mythos Preview. Last week, the company expanded access to more than 150 companies and governments. The big picture: OpenAI is already using a similar two-tier system. The company has been vetting security researchers and organizations to decide who gets access to models that could help accelerate their cyber defenses. The company rolled out an alternate version of its GPT-5.5 model with fewer guardrails to let those cyber defenders hunt for bugs, study malware and reverse engineer attacks. Between the lines: It's now up to the AI labs to decide who gets access to the cybersecurity industry's most cutting-edge capabilities. Security vendors, researchers and critical infrastructure operators eager to get frontier AI into their products and workflows have been scrambling for access. Reality check: Selective access gives Anthropic and OpenAI the best of both worlds, allowing them to ensure scary hacking capabilities are only in the hands of the good guys — while also finding a way to monetize their increasingly powerful models as they consider entering the public markets. What to watch: Whether trusted-access users begin finding vulnerabilities , conducting research and building products that organizations without access simply can't match. Go deeper : Tapping the powers of Mythos-like models still requires human intervention",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: OpenAI's trusted-access program and a pending program from Anthropic are creatin",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: OpenAI's trusted-access program and a pending program from Anthropic are creating a new power center in cybersecurity where AI companies help decide which defenders can use the most advanced cyber capabilities. For decades, competitive adva",
+      "source": "Axios — Anthropic and OpenAI spark new race for frontier AI access (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Anthropic announced Tuesday it will make a version of its Mythos class of models",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Anthropic announced Tuesday it will make a version of its Mythos class of models, Fable 5, available to the general public. Fable 5 includes protections that block some high-risk cybersecurity and biology requests and instead route users wh",
+      "source": "Axios — Anthropic and OpenAI spark new race for frontier AI access (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Anthropic is also working on a formal trusted-access program that would determin",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Anthropic is also working on a formal trusted-access program that would determine who gets access to Mythos 5 and future less restricted models. The company has not provided a timeline for launching the program. Behind the scenes, organizat",
+      "source": "Axios — Anthropic and OpenAI spark new race for frontier AI access (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: It's now up to the AI labs to decide who gets access to the cybersecurity indust",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: It's now up to the AI labs to decide who gets access to the cybersecurity industry's most cutting-edge capabilities. Security vendors, researchers and critical infrastructure operators eager to get frontier AI into their products and workfl",
+      "source": "Axios — Anthropic and OpenAI spark new race for frontier AI access (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Selective access gives Anthropic and OpenAI the best of both worlds, allowing th",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Selective access gives Anthropic and OpenAI the best of both worlds, allowing them to ensure scary hacking capabilities are only in the hands of the good guys — while also finding a way to monetize their increasingly powerful models as they",
+      "source": "Axios — Anthropic and OpenAI spark new race for frontier AI access (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-10T02:56:24+00:00"
+}

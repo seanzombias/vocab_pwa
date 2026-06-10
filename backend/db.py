@@ -167,8 +167,32 @@ class Database:
         )
         return entry
 
+    def vocab_exists(self, source: str, word: str, sentence: str) -> bool:
+        row = self.fetchone(
+            """
+            SELECT id FROM vocab
+            WHERE lower(source) = lower(?)
+              AND lower(word) = lower(?)
+              AND lower(sentence) = lower(?)
+            LIMIT 1
+            """,
+            (source.strip(), word.strip(), sentence.strip()),
+        )
+        return row is not None
+
     def create_many(self, payloads: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         return [self.create(payload) for payload in payloads]
+
+    def create_many_deduped(self, payloads: List[Dict[str, Any]]) -> Dict[str, Any]:
+        created: List[Dict[str, Any]] = []
+        skipped = 0
+        for payload in payloads:
+            entry = self._normalize_payload(payload)
+            if self.vocab_exists(entry["source"], entry["word"], entry["sentence"]):
+                skipped += 1
+                continue
+            created.append(self.create(entry))
+        return {"items": created, "count": len(created), "skipped": skipped}
 
     def delete(self, entry_id: str) -> bool:
         existing = self.fetchone("SELECT id FROM vocab WHERE id = ?", (entry_id,))

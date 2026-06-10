@@ -64,8 +64,8 @@ def import_local(items: list) -> dict:
     sys.path.insert(0, str(BACKEND_DIR))
     from db import get_db  # noqa: WPS433
 
-    created = get_db().create_many(items)
-    return {"count": len(created), "items": created}
+    created = get_db().create_many_deduped(items)
+    return created
 
 
 def resolve_token(explicit: str | None) -> str:

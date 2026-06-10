@@ -1,0 +1,79 @@
+{
+  "feeds": [
+    "https://api.axios.com/feed/",
+    "https://api.axios.com/feed/top/"
+  ],
+  "include_topics": {
+    "world_cup": {
+      "keywords": [
+        "world cup",
+        "fifa",
+        "soccer tournament",
+        "football tournament",
+        "world cup ebola"
+      ],
+      "tags": ["sports", "world-cup"]
+    },
+    "llm": {
+      "keywords": [
+        "llm",
+        "large language model",
+        "gpt",
+        "claude",
+        "gemini",
+        "openai",
+        "anthropic",
+        "ai model",
+        "frontier ai",
+        "language model"
+      ],
+      "tags": ["AI", "LLM"]
+    },
+    "tech": {
+      "keywords": [
+        "nvidia",
+        "microsoft",
+        "apple",
+        "chip",
+        "startup",
+        "tech",
+        "crypto",
+        "windows pc",
+        "software",
+        "cyber",
+        "semiconductor",
+        "iphone",
+        "spacex",
+        "ipo"
+      ],
+      "tags": ["tech"]
+    }
+  },
+  "exclude_keywords": [
+    "iran",
+    "strikes against iran",
+    "strike on iran",
+    "strait of hormuz",
+    "helicopter down",
+    "helicopter shot down",
+    "war with iran",
+    "midterm",
+    "mid-term",
+    "senate race",
+    "senate primary",
+    "governor race",
+    "governor's race",
+    "dccc",
+    "congressional campaign",
+    "house primary",
+    "democratic primary",
+    "republican primary",
+    "primary election",
+    "primary runoff",
+    "primary tuesday",
+    "primary win",
+    "primary wins",
+    "won the primary",
+    "wins nomination"
+  ]
+}

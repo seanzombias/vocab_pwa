@@ -3,7 +3,7 @@ import { cors } from "hono/cors";
 
 import {
   createDb,
-  createMany,
+  createManyDeduped,
   createVocab,
   deleteVocab,
   ensureSchema,
@@ -123,8 +123,8 @@ app.post("/api/vocab/import", async (c) => {
   }
   return withDb(c, async (client) => {
     try {
-      const items = await createMany(client, payload as VocabPayload[]);
-      return Response.json({ items, count: items.length }, { status: 201 });
+      const result = await createManyDeduped(client, payload as VocabPayload[]);
+      return Response.json(result, { status: 201 });
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
       return Response.json({ error: message }, { status: 400 });

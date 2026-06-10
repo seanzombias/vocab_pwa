@@ -1,0 +1,61 @@
+{
+  "title": "The white-collar jobs contradiction that isn't",
+  "url": "https://www.axios.com/2026/06/09/white-collar-jobs-labor-market",
+  "pub_date": "2026-06-09",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The white-collar jobs contradiction that isn't (2026-06-09)",
+  "body": "Data: Bureau of Labor Statistics; Note: Core white-collar is the sum of employment in financial activities, information, and professional and business services sectors; Chart: Neil Irwin/Axios The market for many types of white-collar professional workers is bad . The overall U.S. job market is pretty healthy . There is less of a contradiction here than it might seem. The big picture: These are gloomy times for many office workers — their employers shedding payroll, their livelihoods threatened by AI. But the jobs seemingly under the greatest threat right now amount to a small share of overall employment. Moreover, it isn't historically unusual for major sectors of the economy to shed jobs even as the overall labor market remains healthy. What is unusual is that job losses are occurring in sectors that have usually added to payrolls outside of recessions. State of play: Cumulative employment in financial activities, information and professional and business services peaked in April 2023 and has fallen 2% since then. Employment in all other sectors is up 3.7% in that span. These sectors disproportionately employ college-educated staff with high wages in office settings — economist Gad Levanon calls them \"core white-collar employment.\" They added an average of 49,000 jobs a month in the decade through April 2023, but since then have lost an average of 19,000 jobs a month. That likely reflects a mix of employers concluding they overhired during the COVID-19 pandemic, the streamlining of work processes and some anticipatory cost-cutting to take advantage of AI productivity gains. Between the lines: That may confirm the anecdotes and intuition that these are difficult times for white-collar workers — who, we should note, are overrepresented in both those who produce and consume economic news. But it doesn't reflect the broader reality of the massive U.S. job market. By the numbers: Those core white-collar sectors amount to 34 million jobs, about 22% of the total U.S. employment of 159 million. Far more people work in hospitals, restaurants and schools than in tech companies or consulting firms. As such, it's not arithmetically difficult to achieve the situation we're seeing now — a low 4.3% unemployment rate, an economy adding 114,000 jobs a month so far this year, historically low levels of claims for jobless benefits — even as professional-class jobs are in decline. Yes, but: That could change if AI causes job opportunities to diminish more rapidly than they have thus far. It also could change if the labor-saving implications of the technology become more obvious outside of the types of jobs that involve moving around words, numbers and code on a screen. The fact that white-collar employment has been falling even in a time of strong GDP growth raises the possibility that it could become a bloodbath whenever the economy next tips into recession. Data: Bureau of Labor Statistics; Chart: Neil Irwin/Axios For a historical analog of how employment can be depressed in a major sector even amid an otherwise solid job market, the manufacturing sector in the 2000s tells the story. It shows how reallocation of labor across sectors can happen — and cause pain, even when the overall numbers turn out fine. Flashback: In the 2001 recession, manufacturing employment plunged. It reflected both cyclical factors and more profound pressure on U.S. manufacturing wrought by a deepening trade relationship with China and advances in offshoring. Five years later, the overall job market had rebounded. The unemployment rate averaged 4.6% in 2006, and there were millions more jobs than at the 2000 pre-recession peak. The falloff in manufacturing jobs proved permanent, however. Manufacturing employment was 18% lower in 2006 than in 2000, with 3 million fewer jobs. To this day, factory employment has not come close to returning to its pre-2001 levels. There were only 12.6 million manufacturing jobs in the U.S. as of last month, down from more than 17 million in 2000. Zoom in: By 2006, jobs were abundant in the aggregate, but that didn't mean that the factory workers who lost work in the early 2000s were made whole. An entire set of economic literature around the \"China shock\" shows that job losses were concentrated in certain sectors and locations, and many who lost work ended up retiring early, becoming indefinitely unemployed, or working in lower-wage jobs. It likely contributed to deeper dysfunctions of post-industrial America, including the opioid epidemic and a rise in \"deaths of despair.\" The bottom line: As America zooms toward an AI-fueled future, keeping the job market healthy in the aggregate is necessary, but not sufficient, to avoid deeper societal problems.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: In the 2001 recession, manufacturing employment plunged. It reflected both cycli",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: In the 2001 recession, manufacturing employment plunged. It reflected both cyclical factors and more profound pressure on U.S. manufacturing wrought by a deepening trade relationship with China and advances in offshoring. Five years later, ",
+      "source": "Axios — The white-collar jobs contradiction that isn't (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: By 2006, jobs were abundant in the aggregate, but that didn't mean that the fact",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: By 2006, jobs were abundant in the aggregate, but that didn't mean that the factory workers who lost work in the early 2000s were made whole. An entire set of economic literature around the \"China shock\" shows that job losses were concentra",
+      "source": "Axios — The white-collar jobs contradiction that isn't (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: That may confirm the anecdotes and intuition that these are difficult times for",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: That may confirm the anecdotes and intuition that these are difficult times for white-collar workers — who, we should note, are overrepresented in both those who produce and consume economic news. But it doesn't reflect the broader reality ",
+      "source": "Axios — The white-collar jobs contradiction that isn't (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: As America zooms toward an AI-fueled future, keeping the job market healthy in t",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: As America zooms toward an AI-fueled future, keeping the job market healthy in the aggregate is necessary, but not sufficient, to avoid deeper societal problems.",
+      "source": "Axios — The white-collar jobs contradiction that isn't (2026-06-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-10T02:56:24+00:00"
+}
