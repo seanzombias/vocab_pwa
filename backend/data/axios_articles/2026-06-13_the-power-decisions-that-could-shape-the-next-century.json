@@ -1,0 +1,108 @@
+{
+  "title": "The power decisions that could shape the next century",
+  "url": "https://www.axios.com/2026/06/13/ai-power-electricity-data-centers-who-pays",
+  "pub_date": "2026-06-13",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+  "body": "The AI-driven power boom is forcing a once-in-a-generation decision about how America's electricity system should grow. The big picture: For decades, utilities planned around predictable increases in demand. AI is changing that. State of play: Data centers now seek amounts of electricity that used to be associated with entire cities — raising questions about who pays for new infrastructure, who gets access to scarce power and how quickly projects can connect to the grid. Driving the news: Debates are unfolding at the nation's largest grid operator, PJM, and at the Federal Energy Regulatory Commission. Some proposals would allow data centers to connect directly to power plants or generate their own power on site, at least initially operating outside the broader electricity grid. Zoom out: Those debates reflect a broader question facing regulators across the country: how to handle massive new electricity users. What we're watching: Multiple decisions will unfold over months and years, with a key decision by the federal agency expected as soon as this month . The outcomes will influence electricity prices, reliability and the pace of AI development. The bottom line: Decisions now being made by regulators, utilities and technology companies could determine whether the AI boom accelerates a historic expansion of the electric grid — or creates a parallel power system alongside it. This story is part of an Axios Deep Dive on the policy debates shaping America's future. Read more in the series: America's killer app: The dollar as the world's currency AI oversight gap could leave a lasting legacy The fight over America's vaccine future ABC's FCC battle could redefine press freedom America's race categories face a stress test",
+  "vocab_count": 9,
+  "vocab": [
+    {
+      "word": "AI-driven",
+      "phrase": "",
+      "meaning": "由人工智能推动的",
+      "sentence": "The AI-driven power boom is forcing a once-in-a-generation decision about how America's electricity system should grow.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "tech",
+        "adjective"
+      ]
+    },
+    {
+      "word": "once-in-a-generation",
+      "phrase": "",
+      "meaning": "百年难得的",
+      "sentence": "The AI-driven power boom is forcing a once-in-a-generation decision about how America's electricity system should grow.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "utilities",
+      "phrase": "",
+      "meaning": "公用事业公司",
+      "sentence": "For decades, utilities planned around predictable increases in demand.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "word": "data centers",
+      "phrase": "",
+      "meaning": "数据中心",
+      "sentence": "Data centers now seek amounts of electricity that used to be associated with entire cities.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "word": "State of play",
+      "phrase": "",
+      "meaning": "当前状况",
+      "sentence": "State of play: Data centers now seek amounts of electricity that used to be associated with entire cities.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "",
+      "meaning": "从宏观角度看",
+      "sentence": "Zoom out: Those debates reflect a broader question facing regulators across the country.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "parallel power system",
+      "phrase": "",
+      "meaning": "并行电力系统",
+      "sentence": "The outcomes will influence electricity prices, reliability and the pace of AI development.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "phrase"
+      ]
+    },
+    {
+      "word": "regulators",
+      "phrase": "",
+      "meaning": "监管机构",
+      "sentence": "Multiple decisions will unfold over months and years, with a key decision by the federal agency expected as soon as this month.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "word": "historic expansion",
+      "phrase": "",
+      "meaning": "历史性扩张",
+      "sentence": "Decisions now being made by regulators, utilities and technology companies could determine whether the AI boom accelerates a historic expansion of the electric grid.",
+      "source": "Axios — The power decisions that could shape the next century (2026-06-13)",
+      "tags": [
+        "phrase"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-14T10:43:20+00:00"
+}

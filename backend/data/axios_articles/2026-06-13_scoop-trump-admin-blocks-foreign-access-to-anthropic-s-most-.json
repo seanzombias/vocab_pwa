@@ -1,0 +1,17 @@
+{
+  "title": "Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI",
+  "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+  "pub_date": "2026-06-13",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI (2026-06-13)",
+  "body": "The Trump administration is blocking foreign governments, companies and individuals from accessing Anthropic's most advanced AI models — leading the company to cut off all customer access altogether. Why it matters: The move marks an escalation in Washington's effort to treat cutting-edge AI systems as national security assets. Anthropic now finds itself on a Pentagon blacklist deeming it too dangerous for the government's own use, and in a Commerce Department licensing regime deeming it too dangerous for foreign use. Driving the news: Commerce Secretary Howard Lutnick on Friday sent a letter to Anthropic CEO Dario Amodei saying that the Mythos 5 and Fable 5 models would be subject to export controls to any location outside of the U.S. and to all foreign persons within the country. An administration official told Axios the Commerce Department decided to take the action after another company claimed it was able to jailbreak Mythos, alarming the administration about possible national security risks. The administration tried to get Anthropic to pause releasing the latest models but was unsuccessful, the official said, prompting the export control letter. The model needs to remain locked down until the U.S. government's national security apparatus is hardened, the official said, adding that could happen in the next few weeks. Zoom in: Per Commerce's letter, a license will be required for the export, re-export or domestic transfer of those Anthropic models. Furthermore, Anthropic will have to submit an additional application for individually validated licenses. Failure to comply would result in financial and civil penalties. The other side: To ensure compliance, Anthropic said late Friday night it had to cut off access to Mythos and Fable for all customers. \"We believe this is a misunderstanding and are working to restore access as soon as possible,\" the company said in a post to X. Context: The Trump administration earlier this month released an executive order to test the most advanced AI models before they are deployed. Anthropic has a partnership with the Center for AI Standards and Innovation at Commerce for pre-deployment testing. Yes, but: The executive order is voluntary and explicitly avoids a licensing regime — something White House chief AI adviser David Sacks was able to secure to avoid what he considers the \"regulatory capture\" of the biggest labs. An administration official said that Trump \"does not want to hurt the industry and wants innovation to continue.\" The bottom line: Anthropic's running fight with the government just got more complicated. Editor's note: This story has been updated with Anthropic's statement.",
+  "vocab_count": 0,
+  "vocab": [],
+  "fetched_at": "2026-06-14T10:44:20+00:00"
+}
