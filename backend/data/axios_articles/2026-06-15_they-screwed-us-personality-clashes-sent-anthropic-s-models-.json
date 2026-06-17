@@ -1,0 +1,59 @@
+{
+  "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+  "url": "https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos",
+  "pub_date": "2026-06-15",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"They screwed us\": Personality clashes sent Anthropic's models offline (2026-06-15)",
+  "body": "Anthropic has once again found itself in the Trump administration's crosshairs over an inability to communicate effectively, sources tell Axios. Why it matters: Governing the world's most consequential technology is coming down to speaking President Trump's language. Anthropic failed to \"honor\" a recent cyber executive order, administration officials claim, and the company's purported failure to take the matter seriously led to its most powerful products being scrubbed from the internet. \"Everybody said Anthropic was a bad actor. Some of us said it was time to give them a chance. Now those people are questioning that. They screwed us,\" an administration official said. Catch up quick: On Thursday, Amazon CEO Andy Jassy called Treasury Secretary Scott Bessent expressing concerns that Anthropic's most powerful models, Mythos and Fable, could be jailbroken. The administration official said Anthropic knew a jailbreak could happen and chose to distribute it anyway: \"They came to every fork in the road and took the wrong fork.\" Anthropic says it received explicit approval from the government to deploy Fable. On Friday night, the government imposed stringent export controls that ultimately led Anthropic to take the models offline entirely. Behind the scenes: \"Anthropic has not done a great job at trying to speak to the administration and appreciate the ideological differences,\" one source familiar with the administration's thinking said. \"It's like they just speak in different languages,\" the source said, adding that the company has simply not figured out how to communicate with this administration. The administration first threatened Anthropic with export controls a couple of weeks ago after learning that its cutting-edge Mythos model was made available to an entity in a foreign country with direct ties to the Chinese Communist Party, according to the White House. A source close to Anthropic said the company has always worked closely with the government on expanding Mythos access — and in this case, involving a global telecom company, Anthropic revoked Mythos access without the threat of export controls. Amazon's report raised fresh concerns but Anthropic's \"position at the outset was no, we're not going to do anything, this is not a real issue,\" the source familiar with the administration's thinking said. The source close to Anthropic said the company did not refuse to resolve the issue. Even before this breakdown, a previous fight between Anthropic and the Pentagon also came down in some ways to just not liking the person on the other side of the negotiating table. A White House official told Axios that the Pentagon fight is completely unrelated — but Anthropic's inability to communicate effectively showed up in a similar, unhelpful way. \"We never wanted this to happen. Our number one priority is innovation but our hands were tied,\" the White House official said. The optics added fuel to the fire. Anthropic came out with a blog post dismissing the Amazon report. Then the company enlisted a cybersecurity expert viewed by the administration as a \"radical Democrat,\" who was then celebrated by Chris Krebs, who Trump just fired. The big picture: Anthropic has been the loudest of the frontier AI labs on safety concerns, calling for strong regulation and spooking the Trump administration and the public with their own model's cyber capabilities. The White House led in thawing relations with the embattled company following the Pentagon spat. The technology is moving fast and the government is struggling to catch up, sources said. That — combined with the personality differences — led to a blunt instrument being hastily deployed instead of a scalpel. What's next: \"The immediate crisis was averted but longterm we have a problem,\" an administration official said. The Commerce Department will meet with Anthropic senior tech staffers Logan Graham, Dave Orr and Nicholas Carlini on Monday, officials told Axios. Meetings are also scheduled with the CIA and White House science advisor Michael Kratsios to work through adhering to that cyber executive order . The bottom line: One option is to make sure Anthropic's models can't be jailbroken — though perfect jailbreak resistance may be impossible. Absent that, a source familiar with the administration's thinking said it may simply come down to an attitude fix where, instead of feeling dismissed, \"everyone feels safe, secure and happy.\"",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Governing the world's most consequential technology is coming down to speaking P",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Governing the world's most consequential technology is coming down to speaking President Trump's language. Anthropic failed to \"honor\" a recent cyber executive order, administration officials claim, and the company's purported failure to ta",
+      "source": "Axios — \"They screwed us\": Personality clashes sent Anthropic's models offline (2026-06-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: On Thursday, Amazon CEO Andy Jassy called Treasury Secretary Scott Bessent expre",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: On Thursday, Amazon CEO Andy Jassy called Treasury Secretary Scott Bessent expressing concerns that Anthropic's most powerful models, Mythos and Fable, could be jailbroken. The administration official said Anthropic knew a jailbreak could h",
+      "source": "Axios — \"They screwed us\": Personality clashes sent Anthropic's models offline (2026-06-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: One option is to make sure Anthropic's models can't be jailbroken — though perfe",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: One option is to make sure Anthropic's models can't be jailbroken — though perfect jailbreak resistance may be impossible. Absent that, a source familiar with the administration's thinking said it may simply come down to an attitude fix whe",
+      "source": "Axios — \"They screwed us\": Personality clashes sent Anthropic's models offline (2026-06-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-17T12:11:42+00:00"
+}
