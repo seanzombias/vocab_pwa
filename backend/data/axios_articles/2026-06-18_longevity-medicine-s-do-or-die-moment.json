@@ -1,0 +1,46 @@
+{
+  "title": "Longevity medicine's do-or-die moment",
+  "url": "https://www.axios.com/2026/06/18/longevity-medicine-critical-moment",
+  "pub_date": "2026-06-18",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Longevity medicine's do-or-die moment (2026-06-18)",
+  "body": "The world's first human trial of whether a drug can essentially make a person's cells younger sets up a reality check for one of the longevity field's most promising theories. Why it matters: The early-stage clinical trial will signal whether \"cellular reprogramming\" can be performed safely in humans, a prerequisite for any future claim that a treatment can slow or even reverse biological aging. The big picture: Attempts to prolong the human lifespan can refer to anything from better diet and exercise to the infusion of blood plasma from young donors. The former is validated by decades of science; the latter has merited two warnings from the Food and Drug Administration that said such treatments lack any evidence of clinical benefit. In other words, attempts to prolong longevity can involve both obvious lifestyle modifications and expensive quackery. But there's an intriguing middle ground with a strong scientific basis, and it centers on the concept that aging is a biological process that can be altered therapeutically, just like thousands of other such processes. \"The field has two big components. There's some very serious science going on where things are very promising but for multiple reasons, they're not being tested properly in humans,\" said Felipe Sierra, former director of the National Institute on Aging's Division of Aging Biology. \"On the other hand, there are snake oil people who are promising way beyond what's reasonable.\" Driving the news: The first person in the clinical trial was treated last week with an experimental gene therapy for eye disorders including glaucoma, which can cause blindness. The therapy targets three genes that can \" partially reprogram \" old cells, and in this case aims to restore function in neurons connecting the eye to the brain. The company sponsoring the trial, Life Biosciences, was co-founded by Harvard professor David Sinclair, one of the longevity field's most well-known — and controversial — experts. It describes its mission as using cellular rejuvenation therapies to \"reverse diseases of aging.\" Yes, but: The work that's underway now is merely evaluating the safety of the therapy. Even if it's successful, there's still a long way to go to prove the drug works. Any efficacy trial will have to determine whether the gene therapy treats glaucoma, not whether it slows biological aging. But success would be an important proof of concept for cellular reprogramming. \"I think if this epigenetic reprogramming is successful, it'll be that watershed moment for the field,\" said Matt Kaeberlein, founding director of the University of Washington's Healthy Aging and Longevity Research Institute. Where it stands: The newness of the field hasn't stopped hundreds of millions of dollars from flowing to biotechs pursuing cellular reprogramming, several of which are valued in the billions. A recent fundraising round brought longevity biotech NewLimit's valuation to $3.1 billion, though the startup's first drug won't begin human studies until next year, WSJ reported . NewLimit was founded by Coinbase CEO Brian Armstrong, and several other longevity biotechs have ties to tech billionaires. OpenAI CEO Sam Altman has put $180 million into Retro Biosciences, which was recently valued at $1.8 billion. And Altos Labs, reportedly funded by Amazon founder Jeff Bezos, launched with $3 billion in 2022.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The early-stage clinical trial will signal whether \"cellular reprogramming\" can",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The early-stage clinical trial will signal whether \"cellular reprogramming\" can be performed safely in humans, a prerequisite for any future claim that a treatment can slow or even reverse biological aging. The big picture: Attempts to prol",
+      "source": "Axios — Longevity medicine's do-or-die moment (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The first person in the clinical trial was treated last week with an experimenta",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The first person in the clinical trial was treated last week with an experimental gene therapy for eye disorders including glaucoma, which can cause blindness. The therapy targets three genes that can \" partially reprogram \" old cells, and ",
+      "source": "Axios — Longevity medicine's do-or-die moment (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-19T11:57:41+00:00"
+}

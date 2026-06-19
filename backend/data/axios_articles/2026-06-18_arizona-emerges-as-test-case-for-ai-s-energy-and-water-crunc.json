@@ -1,0 +1,61 @@
+{
+  "title": "Arizona emerges as test case for AI's energy and water crunch",
+  "url": "https://www.axios.com/2026/06/18/arizona-ai-data-center-water-power",
+  "pub_date": "2026-06-18",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Arizona emerges as test case for AI's energy and water crunch (2026-06-18)",
+  "body": "PHOENIX — This desert region has become a bellwether for the nation's data center growth as the tech sector grapples with rising temperatures and scarce resources. Why it matters: Arizona is an extreme microcosm of the challenges the AI boom is running into across the country , as tech companies race to build data centers demanding massive amounts of power and testing local water supplies. \"What took our utilities 100+ years to build, we need to double that within the next four to five years to keep up with demand,\" said Kevin Thompson, who serves on the Arizona Corporation Commission, a powerful utility regulator whose members are elected statewide. Speaking at an Axios event Tuesday in Phoenix, Thompson continued: \"How do you do that and not put the cost onto the existing customers?\" Driving the news: On Thursday, federal electricity regulators may propose rules that could accelerate data center connections to the grid while limiting costs passed on to other customers. The public meeting of the Federal Energy Regulatory Commission — which oversees much of the nation's electric grid — is being closely watched because connecting new projects to the grid can take years. Financial services firm TD Cowen said in a research note Wednesday that it expects FERC could encourage more of the costs associated with connecting large data centers to be paid directly by the developers rather than spread across other customers. State of play : As regulators debate who should bear the costs of AI-driven infrastructure growth, states leading the data center boom are also beginning to reassess how much development they want to encourage. Arizona just paused certain data center tax incentives for three years. Republican Texas Gov. Greg Abbott recently called for new regulations that would eliminate certain data center tax incentives. Ohio Gov. Mike DeWine, also a Republican, unexpectedly paused state sales tax breaks for data centers last month. \"This three-year process gives us a little breathing room,\" Maren Mahoney, director of the resiliency office for Arizona Gov. Katie Hobbs (D), said at the Axios event. She said the pause could help the state determine whether it should offer incentives for certain types of data centers or technologies that put less strain on the desert environment. Case in point: Google's first data center in Arizona — 30 miles east of downtown Phoenix — uses air-cooled technologies instead of the more water-intensive evaporative method due to the water scarcity issues facing the American southwest, a Google executive said. What they're saying: \"We've made a lot of investments in Arizona,\" said Ben Townsend, head of infrastructure and sustainability at Google. \"There are other folks out there that are electing to build data centers [there] that are using evaporative cooling. That was something that didn't align with our values, and so we elected to not do so.\" Yes, but : Thompson said Google's original proposal called for evaporative cooling before the company changed course. Thompson speaks at the Axios event in Phoenix June 16. Photo: Carrie Evans for Axios Zoom in : Water can be used both to cool AI chips and to remove heat from the broader facility. Google says its Arizona site recirculates water in a closed-loop system for the chips while relying on air-based chillers to cool the facility. Air cooling generally uses more electricity but less water than evaporative cooling. \"There's certainly a tradeoff,\" Thompson said Tuesday. \" In Arizona, we're more concerned about our water usage, and so that's why you're seeing a lot of — if not all — of the data centers now switching\" to less-water intensive cooling methods. Behind the scenes: At Google's data center this week, the temperature was nearing the day's high of 107 degrees. Workers avoid preventative maintenance on outside equipment during the summer months to avoid heat exposure, a company spokesperson said. The campus spans 185 acres — roughly equal to 140 football fields — and is still partly under construction. It first came online last year. How it works: Arizona's longstanding water challenges have already forced cities and regulators to develop unusually robust rules around water planning and transparency, said Sarah Porter, director of the Kyl Center for Water Policy at Arizona State University. Those safeguards have helped the state manage data-center growth more effectively than some others, though Porter cautioned that rural areas often have fewer protections. Zoom out : Climate change and rapid urban development have made the Phoenix area substantially hotter over recent decades, raising the baseline conditions under which data centers must operate. The bottom line: Thompson said Arizona residents are most concerned that data centers could make their power not only more expensive, but unreliable when they need it most. \"They want to make sure their air conditioning is still running when it's 120 degrees outside,\" Thompson said. \"But they want it to be affordable as well.\"",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Arizona is an extreme microcosm of the challenges the AI boom is running into ac",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Arizona is an extreme microcosm of the challenges the AI boom is running into across the country , as tech companies race to build data centers demanding massive amounts of power and testing local water supplies. \"What took our utilities 10",
+      "source": "Axios — Arizona emerges as test case for AI's energy and water crunch (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: On Thursday, federal electricity regulators may propose rules that could acceler",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: On Thursday, federal electricity regulators may propose rules that could accelerate data center connections to the grid while limiting costs passed on to other customers. The public meeting of the Federal Energy Regulatory Commission — whic",
+      "source": "Axios — Arizona emerges as test case for AI's energy and water crunch (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"We've made a lot of investments in Arizona,\" said Ben Townsend, head of infrast",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"We've made a lot of investments in Arizona,\" said Ben Townsend, head of infrastructure and sustainability at Google. \"There are other folks out there that are electing to build data centers [there] that are using evaporative cooling. That ",
+      "source": "Axios — Arizona emerges as test case for AI's energy and water crunch (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Thompson said Arizona residents are most concerned that data centers could make",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Thompson said Arizona residents are most concerned that data centers could make their power not only more expensive, but unreliable when they need it most. \"They want to make sure their air conditioning is still running when it's 120 degree",
+      "source": "Axios — Arizona emerges as test case for AI's energy and water crunch (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-19T11:58:08+00:00"
+}

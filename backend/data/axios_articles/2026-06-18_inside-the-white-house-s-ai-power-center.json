@@ -1,0 +1,72 @@
+{
+  "title": "Inside the White House's AI power center",
+  "url": "https://www.axios.com/2026/06/18/inside-white-house-ai-power-center",
+  "pub_date": "2026-06-18",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside the White House's AI power center (2026-06-18)",
+  "body": "Like its AI policy, the Trump administration's AI team is taking shape on the fly. Why it matters: Departures among key White House officials, combined with rapid advances in technology, are shaking up who's taking the lead on AI policy in the administration. The big picture: Silicon Valley figures David Sacks and Sriram Krishnan have served as key architects of the administration's AI agenda. But with Sacks stepping back from day-to-day involvement and Krishnan preparing to leave, influence is shifting inside the White House to a broader group of officials and aides. Here's who's running the show — for now. Commerce Secretary Howard Lutnick. Lutnick's signature was on the letter that sparked the latest confrontation between Anthropic and the administration, ultimately leading to the takedown of the company's Fable and Mythos models. Last week, Lutnick imposed export controls on Anthropic, effectively creating a licensing regime that could eventually impact other AI labs. He is now leading meetings on the sidelines of the G7 to discuss expanding access to advanced AI models and standing next to President Trump during his summit press conference. While Lutnick brokers abroad, Chris Fall at Commerce's Center for AI Standards and Innovation has been holding technical meetings in D.C. Zoom in: Lutnick was once said to be on the outs for going off message in TV interviews and not having a solid handle over his department's jurisdiction, sources familiar with the matter said. But last week's Anthropic fallout put him back in the game, and it's now Lutnick's moment. \"He's fixing a problem. He's not being a problem. And he's doing a great job,\" said one senior administration official following the letter imposing export controls. Treasury Secretary Scott Bessent. Bessent does not directly oversee AI testing. Yet he was the point of contact when Amazon raised concerns about Anthropic safety issues and was among the few cabinet members flanking the president during a G7 press conference. Bessent is viewed as \"the more reasonable actor\" compared to Defense Secretary Pete Hegseth, who has been public about his disdain for the company, said one source familiar with the administration's thinking. \"Bessent is trusted by the private sector and critical infrastructure operators as a sober actor,\" another source familiar said. White House chief of staff Susie Wiles. Wiles, a veteran political strategist, has not typically been involved in day-to-day AI policy. But she was receptive to Bessent's concerns about how Anthropic's Mythos could impact the financial sector, helping to reopen lines of communication with the company. National Economic Council's Ryan Baasch. Baasch is said to be the person carrying the torch inside the White House for Sacks and Krishnan. Sacks left earlier this year to join the President's Council of Advisors on Science and Technology and Krishnan plans to leave by the end of this month. Baasch has worked alongside the two advisers to influence AI policy on Capitol Hill and to push federal preemption of state AI laws. Friction point: National Cyber Director Sean Cairncross is also holding technical meetings in Washington, but a clash with Bessent over the administration's AI response has deepened following the latest Anthropic dispute, sources familiar tell Axios. Cairncross believes that Treasury has become too involved, while Bessent and allies in the White House believe Cairncross has not met the moment with the necessary urgency. Cairncross' head of policy and senior adviser Thomas Lind plans to leave, further depleting the Trump administration of technical expertise. The Office of the National Cyber Director did not respond to a request for comment. What they're saying: \"The President's team, including Secretary Bessent and Sean Cairncross, is working closely together to strengthen America's cyber and national security, protect critical infrastructure, and ensure the United States remains the global leader in AI innovation,\" White House spokesperson Liz Huston said. The bottom line: If personnel is policy, look to this latest cast of characters shaping a U.S. regulatory regime with global reach. Marc Caputo contributed to this story.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Departures among key White House officials, combined with rapid advances in tech",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Departures among key White House officials, combined with rapid advances in technology, are shaking up who's taking the lead on AI policy in the administration. The big picture: Silicon Valley figures David Sacks and Sriram Krishnan have se",
+      "source": "Axios — Inside the White House's AI power center (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Lutnick was once said to be on the outs for going off message in TV interviews a",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Lutnick was once said to be on the outs for going off message in TV interviews and not having a solid handle over his department's jurisdiction, sources familiar with the matter said. But last week's Anthropic fallout put him back in the ga",
+      "source": "Axios — Inside the White House's AI power center (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"The President's team, including Secretary Bessent and Sean Cairncross, is worki",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"The President's team, including Secretary Bessent and Sean Cairncross, is working closely together to strengthen America's cyber and national security, protect critical infrastructure, and ensure the United States remains the global leader",
+      "source": "Axios — Inside the White House's AI power center (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: If personnel is policy, look to this latest cast of characters shaping a U.S. re",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: If personnel is policy, look to this latest cast of characters shaping a U.S. regulatory regime with global reach. Marc Caputo contributed to this story.",
+      "source": "Axios — Inside the White House's AI power center (2026-06-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-19T11:57:45+00:00"
+}
