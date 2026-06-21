@@ -1,0 +1,160 @@
+{
+  "title": "Trump won't back FISA renewal without his SAVE America Act voting bill",
+  "url": "https://www.axios.com/2026/06/14/trump-fisa-renewal-save-america-act",
+  "pub_date": "2026-06-14",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+  "body": "President Trump is demanding Congress attach his sweeping voting overhaul to legislation renewing a key U.S. surveillance authority . Why it matters: Section 702 of the Foreign Intelligence Surveillance Act is among the government's most contested surveillance authorities, long opposed by privacy advocates and supported by security hawks. Its fate now hinges on Trump's unrelated demands for a voting bill . Driving the news: In a Truth Social posts Sunday, Trump tied renewal of Section 702 to the SAVE America Act , his stalled bill requiring proof of citizenship to register and photo ID to cast a ballot. \"I'm against FISA if it doesn't come with The Save America Act (Full version!) firmly attached to it,\" Trump wrote in one post . He also defended his controversial pick of Bill Pulte , a MAGA enforcer and housing regulator with no national security experience, as acting director of national intelligence. Between the lines: Trump had appeared to defuse the fight by naming Manhattan U.S. Attorney Jay Clayton as his permanent nominee. But on Sunday, he slammed Republicans for \"moving too fast on nominations!!!\" to replace Pulte. Clayton has a confirmation hearing set for Wednesday. Catch up quick: Section 702 lapsed Friday for the first time since the program began in 2008. The House failed to extend it following a 198–218 vote, with 19 Republicans joining Democrats to block the law. The law allows the government to surveil foreigners abroad, and, in the process, sweep up and search Americans' communications when they're in contact with those targets. Conservatives, led by Reps. Thomas Massie and Chip Roy and Sen. Mike Lee, have pushed unsuccessfully to require warrants for searches involving Americans. The big picture: The FISA fight is now another front in Trump's yearlong push for stricter voting laws, a campaign that has increasingly targeted his own party's senators. He has pressured Senate Majority Leader John Thune (R-S.D.) to scrap the filibuster and pass the bill on a party-line vote, even as Thune has said the votes \"aren't there.\" The SAVE America Act drew 50 votes earlier this month but couldn't clear the 60-vote threshold. Supporters say the law ensures only citizens cast ballots and bolsters confidence in elections. Critics warn the new rules would block millions of eligible Americans from voting. Reality check: Audits and studies by election officials and researchers have found noncitizen voting, which is already illegal and carries severe penalties, is rare . What they're saying: Thune and other Republican senators have refused to vouch for Pulte, who has used his housing post to send criminal referrals against Trump's perceived enemies. \"We don't need a weaponized DNI,\" Thune told reporters. Lawmakers on both sides of the aisle worried what Pulte could do with FISA's expansive warrantless spy powers. Screenshot / Truth Social",
+  "vocab_count": 13,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "",
+      "meaning": "解释当前事件重要性的栏目标题",
+      "sentence": "Why it matters: Section 702 of the Foreign Intelligence Surveillance Act is among the government's most contested surveillance authorities",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "phrase"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "",
+      "meaning": "引述新闻核心焦点的栏目标题",
+      "sentence": "Driving the news: In a Truth Social posts Sunday, Trump tied renewal of Section 702 to the SAVE America Act",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "phrase"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "",
+      "meaning": "指揭示背后隐含意义的栏目标题",
+      "sentence": "Between the lines: Trump had appeared to defuse the fight by naming Manhattan U.S. Attorney Jay Clayton as his permanent nominee",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "phrase"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "",
+      "meaning": "提醒读者快速掌握关键信息的栏目标题",
+      "sentence": "Catch up quick: Section 702 lapsed Friday for the first time since the program began in 2008",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "phrase"
+      ]
+    },
+    {
+      "word": "The big picture",
+      "phrase": "",
+      "meaning": "概述全局背景的栏目标题",
+      "sentence": "The big picture: The FISA fight is now another front in Trump's yearlong push for stricter voting laws",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "phrase"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "",
+      "meaning": "提供事实核查的栏目标题",
+      "sentence": "Reality check: Audits and studies by election officials and researchers have found noncitizen voting, which is already illegal and carries severe penalties, is rare",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "phrase"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "",
+      "meaning": "引述他人观点的栏目标题",
+      "sentence": "What they're saying: Thune and other Republican senators have refused to vouch for Pulte",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "phrase"
+      ]
+    },
+    {
+      "word": "Section 702",
+      "phrase": "",
+      "meaning": "美国《外国情报监察法》中的关键条款，允许监视境外目标",
+      "sentence": "Section 702 of the Foreign Intelligence Surveillance Act is among the government's most contested surveillance authorities",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "tech",
+        "noun"
+      ]
+    },
+    {
+      "word": "SAVE America Act",
+      "phrase": "",
+      "meaning": "特朗普提出的要求公民身份证明和投票ID的选举改革法案",
+      "sentence": "Trump tied renewal of Section 702 to the SAVE America Act, his stalled bill requiring proof of citizenship to register and photo ID to cast a ballot",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "noun"
+      ]
+    },
+    {
+      "word": "warrantless spy powers",
+      "phrase": "",
+      "meaning": "无需法院许可的监视权力",
+      "sentence": "Lawmakers on both sides of the aisle worried what Pulte could do with FISA's expansive warrantless spy powers",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "tech",
+        "noun"
+      ]
+    },
+    {
+      "word": "filibuster",
+      "phrase": "",
+      "meaning": "美国参议院用来推迟表决的议事程序",
+      "sentence": "He has pressured Senate Majority Leader John Thune (R-S.D.) to scrap the filibuster and pass the bill on a party-line vote",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "noun"
+      ]
+    },
+    {
+      "word": "confirmation hearing",
+      "phrase": "",
+      "meaning": "提名人接受参议院批准的正式听证会",
+      "sentence": "But on Sunday, he slammed Republicans for 'moving too fast on nominations!!!' to replace Pulte. Clayton has a confirmation hearing set for Wednesday",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "noun"
+      ]
+    },
+    {
+      "word": "weaponized DNI",
+      "phrase": "",
+      "meaning": "将情报机构政治化的联邦情报总监",
+      "sentence": "'We don't need a weaponized DNI,' Thune told reporters",
+      "source": "Axios — Trump won't back FISA renewal without his SAVE America Act voting bill (2026-06-14)",
+      "tags": [
+        "politics",
+        "noun"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-21T11:01:26+00:00"
+}
