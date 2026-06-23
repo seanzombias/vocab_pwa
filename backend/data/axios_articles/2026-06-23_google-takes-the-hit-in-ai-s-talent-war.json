@@ -1,0 +1,33 @@
+{
+  "title": "Google takes the hit in AI's talent war",
+  "url": "https://www.axios.com/2026/06/23/ai-lab-agi-google-deepmind-departures",
+  "pub_date": "2026-06-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Google takes the hit in AI's talent war (2026-06-23)",
+  "body": "Google DeepMind lost two high-profile researchers in a week marked by a flurry of departures across major AI labs. Why it matters : The talent wars continue and have intensified at the highest levels as many AI developers believe that artificial general intelligence (AGI) is on the horizon. Driving the news : Noam Shazeer announced last week that he was leaving Google DeepMind for OpenAI. Google previously paid more than $2 billion to acqui-hire Shazeer and part of his Character.ai team. Shazeer co-authored the pivotal 2017 paper \"Attention Is All You Need,\" which introduced the Transformer architecture — the \"T\" in ChatGPT. Two days later, John Jumper, who shared the 2024 Nobel Prize in Chemistry for AlphaFold, said he was also leaving Google DeepMind for Anthropic. Meanwhile, Barret Zoph, who left Thinking Machines in January over \" alleged misconduct ,\" rejoined OpenAI and is now departing the company for a second time. Nvidia also acqui-hired the team behind Essential AI, including AI researcher Ashish Vaswani. The big picture: Even as companies race to automate more of AI research itself, they're placing extraordinary value on a tiny number of humans who know how to direct that work. Plus, one or two key hires can also help spur further hiring while a major departure can spur further defections. Yes, but: Not all of the recent personnel moves are the same. Shazeer and Jumper are genuine lab-to-lab defections. Essential AI is more along the lines of the expected consolidation of startups. Zoph's latest departure remains unexplained. Between the lines: The most coveted researchers offer more than technical knowledge contained in papers or code. They bring judgment about which ideas to pursue, experience running enormous experiments and the ability to recruit other sought-after scientists. For top researchers, deciding where to work often involves a complicated calculus: potential financial rewards, access to computing power, each company's prospects of leading the field, and whether its leadership will wield that power responsibly and in ways that align with their own beliefs. On the financial front, Anthropic and OpenAI have the advantage of forthcoming IPOs, which could have greater upside than can be offered by the other major players, which are already publicly traded. The other factors are more subjective, with perceptions around leadership and responsibility varying from person to person. What we're watching: Many in the industry see just a short window until the models start getting better on their own, often called recursive self-improvement . The competition for top talent could intensify as researchers decide where they want to be during a period many view as pivotal for AI development.",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The most coveted researchers offer more than technical knowledge contained in pa",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The most coveted researchers offer more than technical knowledge contained in papers or code. They bring judgment about which ideas to pursue, experience running enormous experiments and the ability to recruit other sought-after scientists.",
+      "source": "Axios — Google takes the hit in AI's talent war (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-23T10:52:10+00:00"
+}

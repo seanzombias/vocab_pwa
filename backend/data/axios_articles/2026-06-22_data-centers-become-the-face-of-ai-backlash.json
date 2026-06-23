@@ -1,0 +1,72 @@
+{
+  "title": "Data centers become the face of AI backlash",
+  "url": "https://www.axios.com/2026/06/22/ai-data-center-backlash-poll",
+  "pub_date": "2026-06-22",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Data centers become the face of AI backlash (2026-06-22)",
+  "body": "Only a small fraction of data center opponents actually live near one, according to new polling by a consulting firm that counsels leading AI labs and tech startups. Why it matters: The findings by Milltown Partners, shared first with Axios, highlight how data centers have become a stand-in for broader anger at an AI future many Americans don't want but fear they'll have to pay for. By the numbers: The public is still divided on data centers, with direct opposition not yet a majority view. But nearly half of respondents support a temporary construction ban, according to Milltown's findings. 38% of respondents said they would support a data center being built near their home, while 34% would oppose it. Meanwhile, 49% say they support a moratorium on construction of new data centers, while only 16% oppose a moratorium. Another 27% neither support nor oppose a moratorium and 8% say they don't know. Most opposition to data centers isn't coming from neighbors. Only 8% of the respondents who oppose data centers say they know of one or more data centers near their home, the poll found. Between the lines: The split suggests many voters aren't categorically anti-data center, but they are wary of the pace and terms of the buildout. A temporary moratorium could be a way to force companies and policymakers to answer questions about costs, water use and who benefits. Threat level: Both Steve Bannon on the right and Bernie Sanders on the left have attacked AI as a threat to working people. \"This isn't happening in a vacuum. The AI transformation is arriving at a time when Americans already feel angry, insecure and pessimistic,\" Milltown Partners researcher Tom Brookes says. Context: Pew Research Center also found in an April poll that living near an existing or planned data center doesn't have much effect on Americans' views of the facilities. Two-thirds of planned data centers are in rural areas, even though 87% of existing data centers are in urban ones, Pew found. What they're saying: Warnings from tech leaders that AI will bring mass job loss are handing critics more ammunition. If unemployment moves by two percentage points and people think this is caused by AI, we will see a \"real populist backlash,\" Andy Hall, professor at Stanford's graduate school of business and senior fellow at the Hoover Institution, wrote on X last month. The intrigue: The backlash is hitting just as tech companies look for new ways to staff their data centers , at least temporarily. \"People are building massive scale data centers everywhere and they're facing a severe labor shortage. That's the gap we want to fill,\" Zhou Xian, co-founder and CEO of Genesis AI, tells Axios. But not always with humans. Genesis AI just launched a new general-purpose robot built to move in complex environments, like data centers. The fine print: Milltown Partners, a global public affairs and communications firm, surveyed 6,872 registered voters between May 10 and May 20 recruited from online panels. The margin of error is 3 percentage points. The polling oversampled voters in Texas, Georgia, Michigan, California, and North Carolina — states with current data center projects. The bottom line: The massive windowless warehouses packed with computing infrastructure have become a physical symbol of wider AI anxiety.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The findings by Milltown Partners, shared first with Axios, highlight how data c",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The findings by Milltown Partners, shared first with Axios, highlight how data centers have become a stand-in for broader anger at an AI future many Americans don't want but fear they'll have to pay for. By the numbers: The public is still ",
+      "source": "Axios — Data centers become the face of AI backlash (2026-06-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The backlash is hitting just as tech companies look for new ways to staff their",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The backlash is hitting just as tech companies look for new ways to staff their data centers , at least temporarily. \"People are building massive scale data centers everywhere and they're facing a severe labor shortage. That's the gap we wa",
+      "source": "Axios — Data centers become the face of AI backlash (2026-06-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The split suggests many voters aren't categorically anti-data center, but they a",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The split suggests many voters aren't categorically anti-data center, but they are wary of the pace and terms of the buildout. A temporary moratorium could be a way to force companies and policymakers to answer questions about costs, water ",
+      "source": "Axios — Data centers become the face of AI backlash (2026-06-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Warnings from tech leaders that AI will bring mass job loss are handing critics",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Warnings from tech leaders that AI will bring mass job loss are handing critics more ammunition. If unemployment moves by two percentage points and people think this is caused by AI, we will see a \"real populist backlash,\" Andy Hall, profes",
+      "source": "Axios — Data centers become the face of AI backlash (2026-06-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The massive windowless warehouses packed with computing infrastructure have beco",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The massive windowless warehouses packed with computing infrastructure have become a physical symbol of wider AI anxiety.",
+      "source": "Axios — Data centers become the face of AI backlash (2026-06-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-23T10:52:11+00:00"
+}

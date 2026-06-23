@@ -1,0 +1,39 @@
+{
+  "title": "Nvidia says AI's water challenge is largely solved",
+  "url": "https://www.axios.com/2026/06/22/nvidia-data-center-water-solution",
+  "pub_date": "2026-06-22",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Nvidia says AI's water challenge is largely solved (2026-06-22)",
+  "body": "A top Nvidia executive says water concerns surrounding data centers could be largely addressed by the company's next generation of AI infrastructure. Why it matters: It's a bold claim with high stakes by the world's dominant chip maker . Data centers are facing growing scrutiny for their use of energy and water, and Nvidia's chips are helping drive the AI boom behind much of that demand. Driving the news: Nvidia announced Monday at London Climate Week that its latest AI system can be fully cooled with liquid warm enough to reduce the need for additional chilling equipment. \"The water consumption challenge for data centers is largely solved,\" said Josh Parker, Nvidia's chief sustainability officer, in an interview last week ahead of his trip to London. The big picture : Nvidia's announcement comes on the heels of Google and Amazon defending their data center water practices amid growing local opposition to AI infrastructure. Tech companies are increasingly arguing that efficiency gains will blunt the environmental impacts of the AI buildout. Between the lines : Nvidia's latest claim goes further, suggesting that next-generation AI systems could change the underlying cooling equation altogether. How it works: Nvidia's coolant — a recirculated liquid mixture that includes water and propylene glycol, similar to automotive antifreeze — can run at 113 degrees Fahrenheit. Because the liquid can operate at higher temperatures than previous systems, data centers may be able to rely less on chilling equipment that uses large amounts of energy or water — or even eliminate it altogether. What they're saying : \"It would be a big deal for everybody if we got all of the chips to do that,\" said Steve Solomon, Microsoft's vice president of data center engineering, who was asked about the potential before learning of Nvidia's announcement. Solomon said it could eliminate the need for any type of mechanical chiller in most climates most of the time — even in hot places such as Arizona. Reality check : Even if Nvidia's technology dramatically reduces cooling-related water use, that doesn't mean water concerns disappear entirely. The new systems would take years to spread across the industry, and many existing data centers will continue operating older cooling technologies. Nvidia declined to discuss the costs of its systems, and the pace of adoption may also depend on the economics of facilities designed for fully liquid-cooled AI infrastructure (though Nvidia says it'll save data center operators money on cooling costs). Zoom out : Water use inside a data center is only one piece of a broader debate. Producing the electricity needed to run AI infrastructure can also require significant amounts of water, depending on the power source. What's next: Nvidia's technology could make each unit of AI computing far more efficient, but the company is also explicit that those gains are meant to support more growth. \"AI workloads are not getting lighter,\" Parker wrote in a blog post. Without efficiency improvements, he argues, the energy needed to run AI would continue rising alongside demand. What we're watching : Efficiency gains may reduce the water and energy needed for each AI system. Those same gains could also accelerate the buildout of AI infrastructure and increase the industry's overall footprint.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It's a bold claim with high stakes by the world's dominant chip maker . Data cen",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It's a bold claim with high stakes by the world's dominant chip maker . Data centers are facing growing scrutiny for their use of energy and water, and Nvidia's chips are helping drive the AI boom behind much of that demand.",
+      "source": "Axios — Nvidia says AI's water challenge is largely solved (2026-06-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Nvidia announced Monday at London Climate Week that its latest AI system can be",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Nvidia announced Monday at London Climate Week that its latest AI system can be fully cooled with liquid warm enough to reduce the need for additional chilling equipment. \"The water consumption challenge for data centers is largely solved,\"",
+      "source": "Axios — Nvidia says AI's water challenge is largely solved (2026-06-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-23T10:52:11+00:00"
+}
