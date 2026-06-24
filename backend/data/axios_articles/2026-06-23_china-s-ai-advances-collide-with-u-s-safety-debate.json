@@ -1,0 +1,85 @@
+{
+  "title": "China's AI advances collide with U.S. safety debate",
+  "url": "https://www.axios.com/2026/06/23/china-us-ai-race-glm-anthropic",
+  "pub_date": "2026-06-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — China's AI advances collide with U.S. safety debate (2026-06-23)",
+  "body": "One of the biggest unknowns in AI security is also one of the most consequential: China's progress toward frontier AI models. Why it matters: The world is only months away from AI models dramatically accelerating cyber threats, Five Eyes leaders warned Monday. Yet preparations are being slowed by Washington infighting and industry-wide confusion over how to measure AI risk. Driving the news: A new Chinese open-source model , GLM-5.2, rocked the internet this weekend with its ability to match the agentic capabilities of models like Anthropic's Opus 4.8 — garnering praise from Silicon Valley elites and raising questions about just how quickly China will close the gap. At the same time, the Trump administration is still debating the best way to release Anthropic's Fable 5 and Mythos 5 models over safety and national security concerns. The big picture: The biggest disagreement in AI security right now isn't whether China is catching up — it's how quickly. Stanford's AI Index Report suggests Chinese models rapidly caught up in quality over the past year and have largely erased the U.S. advantage. Former White House AI czar David Sacks said just this month that the U.S. only has a six- to nine-month lead on China. But others argue that benchmark gains alone don't mean China has solved the compute and infrastructure challenges needed to truly compete at the frontier. What they're saying: \"It is quite possible they have things privately that are really, really good, and [it] is arrogant and foolish of us to think that just because we're American that we've got the best stuff,\" Alex Stamos, former Facebook security leader, told Axios last week. He added that Chinese military hackers are likely \"laughing hilariously right now at the Americans fighting between themselves and cutting each other off left and right.\" Threat level: Officials and lawmakers fear China could use powerful AI systems to beef up surveillance, cyber operations and military decision-making. China's embrace of open-source models could also make its AI ecosystem more economically attractive globally, particularly for companies seeking alternatives to expensive U.S. frontier models. Between the lines: Much of the debate isn't about what Chinese models can do today. It's about the risk of being surprised tomorrow. One open-source security researcher, who requested anonymity because he was not authorized by his employer to speak publicly, told Axios he uses the frontier models to understand how capabilities like persuasion, social engineering and vulnerability discovery are evolving. He's worried that as Chinese models improve, restricting access to cutting-edge U.S. systems could leave defenders with fewer ways to anticipate what's coming next. Yes, but: Not everyone believes China's progress represents an imminent threat to U.S. AI leadership. China lacks the \"bleeding-edge chips\" and vast amounts of data needed to develop a competitive frontier AI model, Pukar Hamal, founder and CEO of SecurityPal AI, told Axios. \"Who has access to the most chips and most data? It's American companies, so far,\" he added. Reality check: Researchers can already find many of the bugs that advanced models like Mythos are finding without using the models, which often are more costly and difficult to gain access to. AI-powered security firm Aisle claimed last week that its agentic capabilities are outperforming Mythos in several tests already. What to watch : OpenAI just made its cyber model, GPT-5.5-Cyber, more permissive and capable. On key benchmarks, it outperforms Anthropic's Mythos 5.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The world is only months away from AI models dramatically accelerating cyber thr",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The world is only months away from AI models dramatically accelerating cyber threats, Five Eyes leaders warned Monday. Yet preparations are being slowed by Washington infighting and industry-wide confusion over how to measure AI risk.",
+      "source": "Axios — China's AI advances collide with U.S. safety debate (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: A new Chinese open-source model , GLM-5.2, rocked the internet this weekend with",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: A new Chinese open-source model , GLM-5.2, rocked the internet this weekend with its ability to match the agentic capabilities of models like Anthropic's Opus 4.8 — garnering praise from Silicon Valley elites and raising questions about jus",
+      "source": "Axios — China's AI advances collide with U.S. safety debate (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Much of the debate isn't about what Chinese models can do today. It's about the",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Much of the debate isn't about what Chinese models can do today. It's about the risk of being surprised tomorrow. One open-source security researcher, who requested anonymity because he was not authorized by his employer to speak publicly, ",
+      "source": "Axios — China's AI advances collide with U.S. safety debate (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"It is quite possible they have things privately that are really, really good, a",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"It is quite possible they have things privately that are really, really good, and [it] is arrogant and foolish of us to think that just because we're American that we've got the best stuff,\" Alex Stamos, former Facebook security leader, to",
+      "source": "Axios — China's AI advances collide with U.S. safety debate (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Researchers can already find many of the bugs that advanced models like Mythos a",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Researchers can already find many of the bugs that advanced models like Mythos are finding without using the models, which often are more costly and difficult to gain access to. AI-powered security firm Aisle claimed last week that its agen",
+      "source": "Axios — China's AI advances collide with U.S. safety debate (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-24T10:38:34+00:00"
+}

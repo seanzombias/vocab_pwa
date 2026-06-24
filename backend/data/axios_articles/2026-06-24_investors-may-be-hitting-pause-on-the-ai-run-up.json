@@ -1,0 +1,59 @@
+{
+  "title": "Investors may be hitting pause on the AI run-up",
+  "url": "https://www.axios.com/2026/06/24/ai-stocks-chips-selloff",
+  "pub_date": "2026-06-24",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Investors may be hitting pause on the AI run-up (2026-06-24)",
+  "body": "Data: Financial Modeling Prep ; Chart: Emily Peck/Axios Investors seem to be hitting pause on the AI run-up. Chip stocks in particular are slumping from their record highs. Why it matters: We're in a bit of a reality-check moment in the AI buildout — both for the businesses blowing their budgets on compute and for the investors bidding up stock prices for any company engaged in the new technology. The big picture: AI is moving faster than ever before, and the cost of some compute , or the price to rent the processing power needed to run models, is going down. But prices to run the flagship frontier models from OpenAI and Anthropic are far more costly. At the same time, demand for AI technology is still growing. State of play: Stocks of most of the chip companies, critical to AI processing, have had triple-digit growth over the past year. Investors seem to be unwinding some of that momentum, getting jittery about the surge. The latest: The tech-focused Nasdaq 100 index slid 3.3% Tuesday, while the broader S&P 500 closed 1.4% lower, after a selloff in South Korea got investors skittish about the high-flying chip stocks. Micron Technology, which has seen vertical growth, fell 13.2%. Stocks were slumping for all kinds of reasons. On Monday, Google parent Alphabet led the move downward, mostly after news that it was losing key AI talent to its competitors. Zoom in: There's a change afoot in the AI buildout. Companies are starting to realize that this stuff costs real money — and many don't fully even understand what they're spending it all on. Only 26% of the 204 U.S.-based executives surveyed by KPMG in May said that the operating costs of AI are fully visible to them, per a report out Wednesday from the consulting firm, noted earlier by the Wall Street Journal . Between the lines: \"Costs can get quickly out of hand,\" Rahsaan Shears, AI enterprise transformation leader at the firm, tells Axios. \"We're hearing from clients that they're going through their budgeted amounts faster than they anticipated.\" For example: Uber reportedly burned through its 2026 budget for AI coding tools in four months and now limits employee spend. Companies for a while were \"piloting\" the technology — testing it out and trying to push employees simply to use this stuff. Now they're moving to scale AI throughout the full organization, Shears says. Friction point: At the same time, the cost of compute is moving down — at least outside of the frontier models from Anthropic and OpenAI. There are now some folks arguing that AI-related stock prices are falling in tandem with the cost of compute. Others point out that not everyone needs to pay for the most expensive AI models. Some companies only \"need a reliable workhorse — not a supercar,\" Deutsche Bank's Jim Reid wrote in a recent note. And more companies will be asking if the frontier premium is worth the expense. Yes, but: Demand for AI compute is still outpacing available supply by at least five or even 10 times, says Mandeep Singh, global head of technology research at Bloomberg Intelligence. Although the price of compute can change expectations for some of the memory chip stocks — like Micron — it doesn't have much bearing overall on the valuation of the hyperscaler stocks or investor expectations overall, he says. If anything, a drop in compute pricing would be a benefit for hyperscalers who are spending so much money on the stuff. \"I'm not in the camp who believes that the drivers have changed meaningfully,\" Singh says. Madison Mills contributed reporting.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: We're in a bit of a reality-check moment in the AI buildout — both for the busin",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: We're in a bit of a reality-check moment in the AI buildout — both for the businesses blowing their budgets on compute and for the investors bidding up stock prices for any company engaged in the new technology. The big picture: AI is movin",
+      "source": "Axios — Investors may be hitting pause on the AI run-up (2026-06-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: There's a change afoot in the AI buildout. Companies are starting to realize tha",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: There's a change afoot in the AI buildout. Companies are starting to realize that this stuff costs real money — and many don't fully even understand what they're spending it all on. Only 26% of the 204 U.S.-based executives surveyed by KPMG",
+      "source": "Axios — Investors may be hitting pause on the AI run-up (2026-06-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: \"Costs can get quickly out of hand,\" Rahsaan Shears, AI enterprise transformatio",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: \"Costs can get quickly out of hand,\" Rahsaan Shears, AI enterprise transformation leader at the firm, tells Axios. \"We're hearing from clients that they're going through their budgeted amounts faster than they anticipated.\" For example: Ube",
+      "source": "Axios — Investors may be hitting pause on the AI run-up (2026-06-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-24T10:38:34+00:00"
+}

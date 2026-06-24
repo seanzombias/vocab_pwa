@@ -1,0 +1,61 @@
+{
+  "title": "Congress passes big housing bill with bipartisan support",
+  "url": "https://www.axios.com/2026/06/23/housing-affordability-senate-trump",
+  "pub_date": "2026-06-24",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Congress passes big housing bill with bipartisan support (2026-06-24)",
+  "body": "With rare bipartisan support, the House passed a housing bill Tuesday evening that aims to address the shortage of affordable homes in the U.S. Why it matters: The bill, the Road to Housing Act , shows that the housing crisis is something both parties actually agree needs to be addressed, even as it is unlikely to bring much short-term relief for homebuyers. The bill, which passed in a 358-32 vote, mainly aims to relax local regulations and encourage building. It now heads to President Trump, who is expected to sign it. The version that passed the Senate Monday evening in an 85-5 vote also contains a watered-down version of a measure initially meant to ban private equity firms from owning and buying single-family homes. The final version won't require any firms to divest their properties but does ban them from buying more than 350 homes at once. Senator Elizabeth Warren (D-Mass.), one of the bill's architects, tells Axios that the private equity measure is still very meaningful. \"Road to housing is the first time that Congress has said to private equity, 'Enough: You don't get to move in to one neighborhood after another in America, and turn us from a nation of owners to a nation of renters'.\" Zoom in: There are nearly 50 different measures in the bill, which basically combines various housing proposals from both sides of the aisle. One, called the Build Now Act, offers localities that build more housing a bigger slice of existing federal funding — it does that by cutting money for other regions that are building less. One provision likely to have impact quickly makes it easier and cheaper to build manufactured housing. The big picture: The bill doesn't address the two biggest issues plaguing the real estate market right now: high mortgage rates and the steep rise in home prices over the past five years. Between the lines: There's not much lawmakers can do, or want to do, on either of those fronts. Mortgage rates are tied to the yield on the 10-year Treasury note — a number that's controlled, essentially, by market forces and the Federal Reserve. \"We don't control the interest rate environment. There's nothing that this bill could do to control the Federal Reserve, so that's probably good news,\" says Sen. Tim Scott (R-S.C.), who spearheaded the legislation along with Warren. \"People want an independent Fed,\" he tells Axios. Friction point: Scott also acknowledges that one of the trickiest aspects of making homes more affordable is the tension between existing homeowners who don't want to see the value of their property fall and first-time buyers who want prices to come down so they can afford a house. \"You don't want to make housing more affordable by taking the current stock and reducing the price, which means that you're having a cataclysmic experience.\" Instead, the idea is to increase the number of affordable \"starter\" homes on the market. Follow the money: There's also a crypto provision tucked into the legislation. It forbids the federal government from issuing a digital dollar — something the crypto industry has been gunning for. Why is that in the legislation? \"It gets the bill passed. That's it,\" says Scott. The House wanted it, he says. The House also relaxed a controversial measure that originally sought to ban institutional investors from owning single-family homes. Backers argue that private equity firms and other big investors play a role in keeping home prices too high when they scoop up single-family homes and either rent them out or sell them. The provision, which had the support of Trump, met resistance from House Republicans. The final version lets investors hold on to the homes they already own, and prohibits only future purchases that would bring an institutional investor's holdings above 350 homes.( Go deeper ) The bottom line: \"This bill is not about a single magic bullet that will fix our housing problem,\" Warren tells Axios. \"This is a big bill, but we have an even bigger housing problem. We need to do more.\"",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The bill, the Road to Housing Act , shows that the housing crisis is something b",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The bill, the Road to Housing Act , shows that the housing crisis is something both parties actually agree needs to be addressed, even as it is unlikely to bring much short-term relief for homebuyers. The bill, which passed in a 358-32 vote",
+      "source": "Axios — Congress passes big housing bill with bipartisan support (2026-06-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: There are nearly 50 different measures in the bill, which basically combines var",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: There are nearly 50 different measures in the bill, which basically combines various housing proposals from both sides of the aisle. One, called the Build Now Act, offers localities that build more housing a bigger slice of existing federal",
+      "source": "Axios — Congress passes big housing bill with bipartisan support (2026-06-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: There's not much lawmakers can do, or want to do, on either of those fronts. Mor",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: There's not much lawmakers can do, or want to do, on either of those fronts. Mortgage rates are tied to the yield on the 10-year Treasury note — a number that's controlled, essentially, by market forces and the Federal Reserve. \"We don't co",
+      "source": "Axios — Congress passes big housing bill with bipartisan support (2026-06-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"This bill is not about a single magic bullet that will fix our housing problem,",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"This bill is not about a single magic bullet that will fix our housing problem,\" Warren tells Axios. \"This is a big bill, but we have an even bigger housing problem. We need to do more.\"",
+      "source": "Axios — Congress passes big housing bill with bipartisan support (2026-06-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-24T10:38:34+00:00"
+}

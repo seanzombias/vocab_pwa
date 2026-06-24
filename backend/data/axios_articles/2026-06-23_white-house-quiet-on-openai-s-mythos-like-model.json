@@ -1,0 +1,72 @@
+{
+  "title": "White House quiet on OpenAI's Mythos-like model",
+  "url": "https://www.axios.com/2026/06/23/white-house-openai-anthropic-safety-security",
+  "pub_date": "2026-06-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — White House quiet on OpenAI's Mythos-like model (2026-06-23)",
+  "body": "OpenAI rolled out a cybersecurity model that rivals the capabilities of Mythos — without nearly as much fanfare or political pushback as Anthropic received. Why it matters: The seemingly straightforward model release raises questions about what actually triggered the Trump administration's concerns about Anthropic's Fable 5 and Mythos 5. Catch up quick: OpenAI debuted an update to GPT-5.5-Cyber on Monday as part of a slew of announcements aimed at deepening its work with cybersecurity companies and researchers. Yes, but: The new GPT-5.5-Cyber achieved an 85.6% score in CyberGym, an internal benchmark that measures whether an AI agent can reproduce known software vulnerabilities. In comparison, Mythos 5 scored 83.8% on the same evaluation. Between the lines: It's unclear why OpenAI was able to move forward with this model release while Anthropic is stuck fighting export controls that bar it from allowing foreign nationals to use its models. The White House and OpenAI did not respond to requests for comment. The intrigue: OpenAI also said it has expanded its partnerships with organizations in Australia, Canada, France, Germany, Japan, Poland, South Korea and the EU. Meanwhile, negotiating access to Mythos was a major talking point at last week's G7 Summit. What to watch: Reports suggest that personality clashes between Anthropic and the Trump administration also prompted the export directive. Go deeper : Trump's Anthropic crackdown rattles cyber defenders",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The seemingly straightforward model release raises questions about what actually",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The seemingly straightforward model release raises questions about what actually triggered the Trump administration's concerns about Anthropic's Fable 5 and Mythos 5.",
+      "source": "Axios — White House quiet on OpenAI's Mythos-like model (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: OpenAI debuted an update to GPT-5.5-Cyber on Monday as part of a slew of announc",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: OpenAI debuted an update to GPT-5.5-Cyber on Monday as part of a slew of announcements aimed at deepening its work with cybersecurity companies and researchers. Yes, but: The new GPT-5.5-Cyber achieved an 85.6% score in CyberGym, an interna",
+      "source": "Axios — White House quiet on OpenAI's Mythos-like model (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: OpenAI also said it has expanded its partnerships with organizations in Australi",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: OpenAI also said it has expanded its partnerships with organizations in Australia, Canada, France, Germany, Japan, Poland, South Korea and the EU. Meanwhile, negotiating access to Mythos was a major talking point at last week's G7 Summit. W",
+      "source": "Axios — White House quiet on OpenAI's Mythos-like model (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: It's unclear why OpenAI was able to move forward with this model release while A",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: It's unclear why OpenAI was able to move forward with this model release while Anthropic is stuck fighting export controls that bar it from allowing foreign nationals to use its models. The White House and OpenAI did not respond to requests",
+      "source": "Axios — White House quiet on OpenAI's Mythos-like model (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-24T10:38:34+00:00"
+}
