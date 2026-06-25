@@ -1,0 +1,85 @@
+{
+  "title": "Exclusive: Codex agents are inching into the mainstream",
+  "url": "https://www.axios.com/2026/06/25/codex-agents-growth-openai",
+  "pub_date": "2026-06-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Codex agents are inching into the mainstream (2026-06-25)",
+  "body": "AI is moving from chat and web search to delegated work. Why it matters: The frontier AI labs have spent years promising that effective AI agents will act as our minions in the workplace and at home and that might soon be a reality. The big picture: Use of Codex — OpenAI's agentic coding and work platform — is accelerating, according to a new report from OpenAI, Columbia, Duke and the University of Pennsylvania. The researchers separate Codex users into three categories: OpenAI employees, outside organizations and individual users. Then they measured usage of Codex versus ChatGPT, by tokens. 99.8% of OpenAI employees' output tokens were produced with Codex, compared to 63% for organizations and 16.5% for individuals. OpenAI's own Codex use is meant to represent how users might turn to agents when cost, access, training and buy-in are mostly removed. Among active users of ChatGPT and Codex at organizations outside OpenAI, just above 0% used Codex in August 2025. That share is now around 17%. Between the lines: The number of individuals using Codex is still small, but those who do use it, use it a lot, per the report, shared first with Axios. By the numbers: In a sample of individual Codex users, 80.6% made at least one Codex request estimated to represent more than 30 minutes of work by an \"experienced human.\" 70.2% of Codex users made at least one request estimated to save more than an hour of human work. 25.6% had delegated work estimated to take more than eight hours for a human to complete. The fine print: The report says the thresholds are model-estimated and based on a 0.1% random sample of individual users who opted to allow queries for training. Zoom in: Non-developers are the fastest-growing user group, even though software work is still the core use case for Codex. Catch up quick: The shift to agentic work began in earnest at the beginning of 2026. That's when normal people began to allow Codex, OpenClaw, and Anthropic's Claude Code to interact with their desktops, manage calendars, read and write files, control web browsers, and execute scripts. My thought bubble: As a journalist who has spent years covering cybersecurity — and whose coding knowledge tops out at early-2000s HTML — I was wary of giving agents access to my files, browser and apps. But over the last month, I've started using Codex and Claude Code for a lot of the work and life admin I used to handle manually. My agents fill out expense reports, triage email, make hair appointments and report packages stolen from my apartment lobby. Yes, this does happen often enough in San Francisco that I have saved time automating the task. What they're saying: \" Agents are reducing what I'd call the psychological cost of action,\" workplace culture expert Jessica Kriegel tells Axios. They \"make unfamiliar work feel more approachable, which means I start sooner, experiment more, and spend less energy worrying about what I don't know.\" Yes, but: Most AI users are still chatting with bots and not managing an army of agents. Among consumers on the Go, Free, Pro and Plus plans who were active on either ChatGPT or Codex in the last 28 days, fewer than 1% used Codex.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The frontier AI labs have spent years promising that effective AI agents will ac",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The frontier AI labs have spent years promising that effective AI agents will act as our minions in the workplace and at home and that might soon be a reality. The big picture: Use of Codex — OpenAI's agentic coding and work platform — is a",
+      "source": "Axios — Exclusive: Codex agents are inching into the mainstream (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The shift to agentic work began in earnest at the beginning of 2026. That's when",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The shift to agentic work began in earnest at the beginning of 2026. That's when normal people began to allow Codex, OpenClaw, and Anthropic's Claude Code to interact with their desktops, manage calendars, read and write files, control web ",
+      "source": "Axios — Exclusive: Codex agents are inching into the mainstream (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Non-developers are the fastest-growing user group, even though software work is",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Non-developers are the fastest-growing user group, even though software work is still the core use case for Codex.",
+      "source": "Axios — Exclusive: Codex agents are inching into the mainstream (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The number of individuals using Codex is still small, but those who do use it, u",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The number of individuals using Codex is still small, but those who do use it, use it a lot, per the report, shared first with Axios. By the numbers: In a sample of individual Codex users, 80.6% made at least one Codex request estimated to ",
+      "source": "Axios — Exclusive: Codex agents are inching into the mainstream (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \" Agents are reducing what I'd call the psychological cost of action,\" workplace",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \" Agents are reducing what I'd call the psychological cost of action,\" workplace culture expert Jessica Kriegel tells Axios. They \"make unfamiliar work feel more approachable, which means I start sooner, experiment more, and spend less ener",
+      "source": "Axios — Exclusive: Codex agents are inching into the mainstream (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-25T10:32:00+00:00"
+}

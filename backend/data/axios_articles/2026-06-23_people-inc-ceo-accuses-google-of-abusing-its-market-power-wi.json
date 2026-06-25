@@ -1,0 +1,46 @@
+{
+  "title": "People Inc. CEO accuses Google of abusing its market power with web crawling",
+  "url": "https://www.axios.com/2026/06/23/people-inc-google-ai-search-crawler",
+  "pub_date": "2026-06-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — People Inc. CEO accuses Google of abusing its market power with web crawling (2026-06-23)",
+  "body": "CANNES, France — People Inc. CEO Neil Vogel accused Google of abusing its market power by using the same crawler for both search and AI. Why it matters: While some publishers want to block crawlers to protect their content from getting swept up by AI models, search traffic remains a key metric for advertising and affiliate revenue. What he's saying: \"We can't actually block Google, because Google uses the same crawler for search as they do for AI, which is like an incredible abuse of market power,\" Vogel said. \"We would love to do something productive with them, but we're probably heading towards more confrontation than productivity with those guys,\" he said. Google did not immediately respond to a request for comment. Catch up quick: People Inc., then Dotdash Meredith, was among the publishers that partnered with Cloudflare as it switched to a permission-based model for AI crawlers, blocking them from scraping content by default. \"Before that, everyone was saying, 'Oh, well, we're good. You don't have to block us because we don't even need you.' And then the minute you block them, your phone rings,\" he said. \"Everybody calls, because it turns out everybody needs us. We make so much content at scale, and it's so good, and we know how much we're crawled. Scarcity is key.\" The big picture: As one of America's largest publishers, People has AI licensing deals with Meta, OpenAI and Microsoft. Vogel noted, however, there are essentially two types of AI publisher deals. \"There's the all-you-can-eat deal, like we have with OpenAI and Meta, which is they just pay us, and they can use our stuff as much as they want,\" he said. \"And then there's a good deal we have with Microsoft, which is going to be a little bit more à la carte, pay as you go.\" What to watch: Asked about the future of AI-publisher deals, Vogel said he thinks they'll likely be renewed. \"AI needs three things: It needs a model, it needs power and it needs inputs, and we are the inputs, and we make more of the inputs than anybody, and the stuff that people are searching for happens to be what we make,\" he said.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: While some publishers want to block crawlers to protect their content from getti",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: While some publishers want to block crawlers to protect their content from getting swept up by AI models, search traffic remains a key metric for advertising and affiliate revenue. What he's saying: \"We can't actually block Google, because ",
+      "source": "Axios — People Inc. CEO accuses Google of abusing its market power with web crawling (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: People Inc., then Dotdash Meredith, was among the publishers that partnered with",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: People Inc., then Dotdash Meredith, was among the publishers that partnered with Cloudflare as it switched to a permission-based model for AI crawlers, blocking them from scraping content by default. \"Before that, everyone was saying, 'Oh, ",
+      "source": "Axios — People Inc. CEO accuses Google of abusing its market power with web crawling (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-25T10:32:01+00:00"
+}

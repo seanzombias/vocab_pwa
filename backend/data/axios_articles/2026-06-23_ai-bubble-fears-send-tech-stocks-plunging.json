@@ -1,0 +1,61 @@
+{
+  "title": "AI bubble fears send tech stocks plunging",
+  "url": "https://www.axios.com/2026/06/23/tech-stocks-ai-bubble",
+  "pub_date": "2026-06-23",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — AI bubble fears send tech stocks plunging (2026-06-23)",
+  "body": "Tech stocks shriveled up Tuesday as fears about an AI bubble sapped market momentum. Why it matters: Chatter about a bubble has been prominent in recent months but hasn't yet delivered a long-lasting blow to stocks. Driving the news: The tech-heavy Nasdaq Composite Index fell 2.5% shortly after the opening bell. The broad S&P 500 index was down roughly 1%. Zoom in: It's a particularly ugly day for chip memory and data storage stocks. They suffered some of the worst declines early, after a 10% overnight drop in South Korea's KOSPI index, which is dominated by memory chip makers Samsung Electronics and SK Hynix. In the U.S., memory chip maker Micron dove more than 10% in early trading, storage device maker Sandisk plunged more than 12% and hard disk drive makers Seagate Technology and Western Digital were both lower by roughly 8%. The big picture: Makers of memory chips and data storage devices have been some of the biggest beneficiaries of the AI infrastructure boom, which has created unprecedented demand and soaring prices for products that were long seen as commodity inputs to tech products like laptops and cell phones. Shares of SpaceX — which went public less than two weeks ago — briefly fell below their opening price of $150 on Tuesday. The company — known broadly for rockets — has become an AI play as investors bet on a lucrative future with orbital data centers. The bottom line: It's too early to tell whether this is a serious shakeout — or just a temporary rebalancing.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Chatter about a bubble has been prominent in recent months but hasn't yet delive",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Chatter about a bubble has been prominent in recent months but hasn't yet delivered a long-lasting blow to stocks.",
+      "source": "Axios — AI bubble fears send tech stocks plunging (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The tech-heavy Nasdaq Composite Index fell 2.5% shortly after the opening bell",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The tech-heavy Nasdaq Composite Index fell 2.5% shortly after the opening bell. The broad S&P 500 index was down roughly 1%.",
+      "source": "Axios — AI bubble fears send tech stocks plunging (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: It's a particularly ugly day for chip memory and data storage stocks. They suffe",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: It's a particularly ugly day for chip memory and data storage stocks. They suffered some of the worst declines early, after a 10% overnight drop in South Korea's KOSPI index, which is dominated by memory chip makers Samsung Electronics and ",
+      "source": "Axios — AI bubble fears send tech stocks plunging (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: It's too early to tell whether this is a serious shakeout — or just a temporary",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: It's too early to tell whether this is a serious shakeout — or just a temporary rebalancing.",
+      "source": "Axios — AI bubble fears send tech stocks plunging (2026-06-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-25T10:32:01+00:00"
+}

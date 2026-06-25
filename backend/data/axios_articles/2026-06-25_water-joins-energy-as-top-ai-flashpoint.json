@@ -1,0 +1,83 @@
+{
+  "title": "Water joins energy as top AI flashpoint",
+  "url": "https://www.axios.com/2026/06/25/water-energy-ai-flashpoint",
+  "pub_date": "2026-06-25",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Water joins energy as top AI flashpoint (2026-06-25)",
+  "body": "Water is fast becoming one of the defining fights around the AI buildout. Why it matters: After spending much of the past year defending data centers' electricity demands, major tech companies driving the AI boom are increasingly making the case that their water use is manageable too. Driving the news: Over the past several weeks, Google , Amazon and Microsoft have each launched new efforts to explain and justify the water use of their AI infrastructure, highlighting measures such as water replenishment projects, recycled-water use and new cooling technologies. Nvidia — the world's dominant AI chip maker — claimed this week that water concerns could be largely addressed by its latest generation of technology. What they're saying: \"The growing conversation about water and energy use by data centers has forced these companies to scramble, to rethink what they're doing and to become more transparent about what they're doing,\" said Peter Gleick, co-founder of the Pacific Institute, a California-based water research nonprofit, and one of the nation's leading water experts. \"They're starting to understand the reputational risk of the massive rollout of data centers that have big energy and water footprints.\" Friction point: Roughly 70% of people in the U.S. said they would oppose data centers in their communities, with equal weight placed on water and energy use as top concerns, according to Gallup polling from May . State of play: Such worries are infiltrating debates at all levels around the world. The United Nations Secretary General António Guterres called for more transparency on data centers' energy, water and land use in a speech earlier this week in London. Also this week, lawmakers in Virginia — which has the world's highest number of data centers — moved toward clamping down on the most water-intensive methods of cooling. Reality check: Compared to other major industries, data centers actually use far less water — a point tech executives are quick to point out and some independent experts agree with. Data: Cleanview analysis of government, industry and academic sources, including 2024 Lawrence Berkeley National Laboratory study ; Note: Power plants include fossil fuel and nuclear facilities. Data centers include on-site cooling and associated electricity generation; Chart: Amy Harder/Axios \"The projections for water demand are not eyebrow-raising,\" said Sarah Porter, director of the Kyl Center for Water Policy at Arizona State University. Concerns about water are largely a \"substitute for concerns people have for this fast-developing industry.\" Yes, but: Experts, including both Gleick and Porter, caution that aggregate water-use figures can obscure local impacts, particularly in drought-prone regions where even modest demand can become contentious. \"The important point is: How much water does a data center use in the region where it's taking the water from?\" Gleick said. Comparisons to other industries also may do little to ease concerns in communities facing the prospect of a big new industrial neighbor. How it works : Energy and water are intricately — and sometimes inversely — connected. Water-based cooling systems generally use less electricity than air-based systems, creating a tradeoff between water consumption and energy demand. Generating the electricity that powers data centers requires water as well if it's powered by fossil fuels or nuclear power. Wind and solar require no water. Zoom in: Water-intensive cooling has historically been favored because it uses less energy and is less expensive, but it is facing growing public opposition. \"However, the court of public opinion has spoken loudly that consuming water for cooling on data centers is no longer an acceptable method,\" said Aaron Bilyeu, chief development officer of Cloverleaf Infrastructure, a data center developer. Zoom out: For all the focus on cooling technology, much of a data center's broader water footprint comes from the electricity it consumes rather than water used directly at the facility. A recent Bank of America report estimated electricity generation accounts for roughly 75% of a data center's total water footprint. What's next: Transparency is emerging as a key next phase of AI water worries. Tech giants, including Microsoft and Google, are set to release annual environmental reports in the coming weeks that could shed more light on their water use. What we're watching: Guterres added urgency to those moves when he proposed an AI environmental transparency initiative this week. \"I am calling on every major AI company to measure and publicly disclose the full environmental impact of its systems — carbon, water and land footprints,\" Guterres said.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: After spending much of the past year defending data centers' electricity demands",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: After spending much of the past year defending data centers' electricity demands, major tech companies driving the AI boom are increasingly making the case that their water use is manageable too.",
+      "source": "Axios — Water joins energy as top AI flashpoint (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Over the past several weeks, Google , Amazon and Microsoft have each launched ne",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Over the past several weeks, Google , Amazon and Microsoft have each launched new efforts to explain and justify the water use of their AI infrastructure, highlighting measures such as water replenishment projects, recycled-water use and ne",
+      "source": "Axios — Water joins energy as top AI flashpoint (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: For all the focus on cooling technology, much of a data center's broader water f",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: For all the focus on cooling technology, much of a data center's broader water footprint comes from the electricity it consumes rather than water used directly at the facility. A recent Bank of America report estimated electricity generatio",
+      "source": "Axios — Water joins energy as top AI flashpoint (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Water-intensive cooling has historically been favored because it uses less energ",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Water-intensive cooling has historically been favored because it uses less energy and is less expensive, but it is facing growing public opposition. \"However, the court of public opinion has spoken loudly that consuming water for cooling on",
+      "source": "Axios — Water joins energy as top AI flashpoint (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"The growing conversation about water and energy use by data centers has forced",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"The growing conversation about water and energy use by data centers has forced these companies to scramble, to rethink what they're doing and to become more transparent about what they're doing,\" said Peter Gleick, co-founder of the Pacifi",
+      "source": "Axios — Water joins energy as top AI flashpoint (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Compared to other major industries, data centers actually use far less water — a",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Compared to other major industries, data centers actually use far less water — a point tech executives are quick to point out and some independent experts agree with. Data: Cleanview analysis of government, industry and academic sources, in",
+      "source": "Axios — Water joins energy as top AI flashpoint (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-25T10:32:00+00:00"
+}
