@@ -1,0 +1,46 @@
+{
+  "title": "Trump administration asks OpenAI to limit next model release over security concerns",
+  "url": "https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release",
+  "pub_date": "2026-06-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Trump administration asks OpenAI to limit next model release over security concerns (2026-06-25)",
+  "body": "The Trump administration has asked OpenAI to limit the release of its next model, GPT-5.6, to only a small set of government-approved partners before any wider release, citing security concerns, according to a source familiar with the matter. Why it matters : This marks the first time the U.S. government has preemptively asked an American AI company to restrict the launch of a model before release. Driving the news: The White House's Office of the National Cyber Director and the Office of Science and Technology Policy asked OpenAI to limit the rollout of GPT-5.6 as the administration builds a framework for testing and evaluating the security of new models, per the source. The Information reported earlier Thursday that OpenAI CEO Sam Altman shared the plans for a limited rollout in a memo to employees. \"We've made clear to the U.S. government that this is not our preferred long term model, and will work with them and others in industry to achieve a more sustainable approach for future releases,\" Altman said in the memo, according to The Information. Between the lines: The source told Axios that OpenAI has been proactively working with the administration on the model release since before Anthropic revoked access to its frontier models, Fable 5 and Mythos 5, over a rare Commerce Department directive . The White House has been looped in on the capabilities of OpenAI's new model and has been able to preview its abilities. Behind the scenes: Altman discussed GPT-5.6 with Commerce Secretary Howard Lutnick on Wednesday, Axios has learned. Lutnick wanted to be sure all relevant parts of the government have tested and approved the model, a source familiar with the situation told us. The source said the government intervened because GPT-5.6 has \"Mythos-like\" capability, not because the administration is suddenly taking a heavier hand. \"This is what's happening with models of that caliber,\" the source said. The models are so powerful that the administration wants to be sure the companies have adequate safeguards in place, the source added. Flashback : President Trump signed an AI security executive order earlier this month that directs several agencies to stand up a voluntary testing protocol for AI companies prior to releasing a new model. Political infighting over how restrictive and mandatory that program should be delayed the executive order for weeks. The big picture: AI labs are caught in a tough position as they race to release new models to compete not only with one another, but with increasingly capable Chinese open-source models . Meanwhile, security officials and corporate leaders are growing increasingly concerned about what happens when bad actors — including nation-state spies, cybercriminals and rogue insiders — get their hands on these highly capable models. What to watch : Altman said in the memo that he hopes to be able to release GPT-5.6 a \"couple of weeks later,\" per The Information.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The White House's Office of the National Cyber Director and the Office of Scienc",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The White House's Office of the National Cyber Director and the Office of Science and Technology Policy asked OpenAI to limit the rollout of GPT-5.6 as the administration builds a framework for testing and evaluating the security of new mod",
+      "source": "Axios — Trump administration asks OpenAI to limit next model release over security concerns (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The source told Axios that OpenAI has been proactively working with the administ",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The source told Axios that OpenAI has been proactively working with the administration on the model release since before Anthropic revoked access to its frontier models, Fable 5 and Mythos 5, over a rare Commerce Department directive . The ",
+      "source": "Axios — Trump administration asks OpenAI to limit next model release over security concerns (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-26T10:41:47+00:00"
+}

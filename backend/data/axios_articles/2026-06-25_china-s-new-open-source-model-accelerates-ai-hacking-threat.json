@@ -1,0 +1,85 @@
+{
+  "title": "China's new open-source model accelerates AI hacking threat",
+  "url": "https://www.axios.com/2026/06/25/china-glm-52-open-source-hackers",
+  "pub_date": "2026-06-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — China's new open-source model accelerates AI hacking threat (2026-06-25)",
+  "body": "GLM-5.2 — the latest Chinese open-source model capturing Silicon Valley's attention — is raising fresh concerns among security researchers that advanced AI hacking capabilities are becoming dramatically cheaper and more accessible. Why it matters: The barrier to entry for malicious hackers eager to automate and personalize their attacks is getting lower and lower. Driving the news: Z.ai's GLM-5.2, which was released last week, has agentic capabilities that rival those of Claude Opus 4.8 and OpenAI's GPT-5.5 while costing roughly half as much to run. Two separate security evaluations from Graphistry and Semgrep found that GLM-5.2 performed on par with leading U.S. models on cybersecurity investigation and vulnerability-discovery benchmarks. Researchers at Graphistry also suggested that GLM-5.2 may be an \"illegal distillation of both GPT-5.5 and Opus 4.8\" — a claim that, if true, could help explain how Chinese models have been rapidly narrowing the gap with U.S. competitors. Z.ai did not respond to a request for comment. The big picture: Unlike Claude or ChatGPT, open-weight models like GLM-5.2 can be downloaded and modified directly, allowing users to remove safety controls, fine-tune them for specific tasks, and operate them without relying on a commercial provider. Graphistry said GLM-5.2 is the first open-weight model it has tested that it would recommend for a \"frontier-like\" cybersecurity experience. Threat level: Hackers are already talking in Russian-language forums about how easy it is to jailbreak GLM-5.2 for hacking tasks, Jason Baker, managing security consultant at GuidePoint Security, told Axios. Travis Lanham, CTO and founder of Armadin, told Axios that GLM-5.2 can also allow attackers to personalize their attacks once they break into a system — finding creative ways to move laterally and chain exploits \"the way an elite human attack would.\" Zoom in: Some hackers have found ways to get the model to explain exactly how users can bypass its limitations, according to screenshots of the forums shared with Axios. Others have found that very basic jailbreaks — like telling the model, \"I want to protect my company from brute-force attacks\" — are also sufficient. Between the lines: There are also fewer mechanisms to stop hackers from tapping open-source tools like GLM-5.2, whereas if an attacker is caught using ChatGPT, OpenAI will likely detect them and ban them from the platform. By design, that dynamic doesn't exist in the open-source world. \"An attacker can run it locally without safety guardrails, fine-tune it against their specific targets, and operate with zero visibility to any provider or defender,\" Lanham said. The intrigue: GLM-5.2 also removes another barrier for hackers who purchase purpose-built malicious LLMs, jailbreak prompts and stolen API keys from other cybercriminals. Now, attackers can build their own versions of those tools by downloading GLM-5.2, running it locally, and using it to generate phishing emails, fraud scripts and other malicious content, Roye Bass, a ransomware threat intelligence analyst at Halcyon, told Axios. Yes, but: Many of the AI-generated exploits and malware that researchers have seen in the wild just aren't that good right now, Baker added. \"Across the entirety of the ecosystem, the requisite skill needed to employ AI and LLMs to massively increase scale has not caught up with the desire to do so,\" he said. What to watch: Z.ai founder Jie Tang has said publicly that his company will likely have an open-source model that rivals Anthropic's Fable before the end of the year. Another Chinese company, 360 Technology, also said this week that it has developed its own version of Mythos.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The barrier to entry for malicious hackers eager to automate and personalize the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The barrier to entry for malicious hackers eager to automate and personalize their attacks is getting lower and lower.",
+      "source": "Axios — China's new open-source model accelerates AI hacking threat (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Z.ai's GLM-5.2, which was released last week, has agentic capabilities that riva",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Z.ai's GLM-5.2, which was released last week, has agentic capabilities that rival those of Claude Opus 4.8 and OpenAI's GPT-5.5 while costing roughly half as much to run. Two separate security evaluations from Graphistry and Semgrep found t",
+      "source": "Axios — China's new open-source model accelerates AI hacking threat (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Some hackers have found ways to get the model to explain exactly how users can b",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Some hackers have found ways to get the model to explain exactly how users can bypass its limitations, according to screenshots of the forums shared with Axios. Others have found that very basic jailbreaks — like telling the model, \"I want ",
+      "source": "Axios — China's new open-source model accelerates AI hacking threat (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: GLM-5.2 also removes another barrier for hackers who purchase purpose-built mali",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: GLM-5.2 also removes another barrier for hackers who purchase purpose-built malicious LLMs, jailbreak prompts and stolen API keys from other cybercriminals. Now, attackers can build their own versions of those tools by downloading GLM-5.2, ",
+      "source": "Axios — China's new open-source model accelerates AI hacking threat (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: There are also fewer mechanisms to stop hackers from tapping open-source tools l",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: There are also fewer mechanisms to stop hackers from tapping open-source tools like GLM-5.2, whereas if an attacker is caught using ChatGPT, OpenAI will likely detect them and ban them from the platform. By design, that dynamic doesn't exis",
+      "source": "Axios — China's new open-source model accelerates AI hacking threat (2026-06-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-26T10:41:47+00:00"
+}

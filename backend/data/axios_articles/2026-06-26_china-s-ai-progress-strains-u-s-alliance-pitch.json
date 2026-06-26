@@ -1,0 +1,98 @@
+{
+  "title": "China's AI progress strains U.S. alliance pitch",
+  "url": "https://www.axios.com/2026/06/26/china-ai-us-alliance",
+  "pub_date": "2026-06-26",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — China's AI progress strains U.S. alliance pitch (2026-06-26)",
+  "body": "Washington is racing to sell the world on American AI just as China's cheap and capable models are becoming harder to ignore. Why it matters: Chinese models don't have to beat OpenAI or Anthropic to reshape the global AI order. They just have to be useful, available and widely adopted. Between the lines: Experts argue that two key things are kneecapping the U.S. government's desire to export American AI: An erratic export controls strategy that involves making decisions about access to advanced models on the fly. Not paying sufficient attention to China's efforts to spread its open-source AI models abroad while deploying AI at scale across manufacturing, health care and other industries domestically. Driving the news: The State Department this week expanded its Pax Silica initiative , an effort to build a U.S.-led AI and chip supply-chain bloc and reduce reliance on Chinese technology. The move came as the AI industry continues to grapple with the fallout of the government's decision to put export controls on Anthropic's newest AI models. Meanwhile, Chinese AI is closing the capability gap , as Axios' Sam Sabin has reported, and the models are much cheaper. What they're saying: \"I think we're seeing another example of the Huawei strategy in the context of open-source AI models,\" Emily Weinstein, a former Commerce Department staffer now at the U.S.-China Economic and Security Review Commission, told Axios. \"China is able to offer not even just the models, but often the underlying or associated infrastructure at either no cost or significantly lower cost,\" said Weinstein during a panel discussion held by the Center for a New American Security this week. Widespread adoption of Chinese AI in the Global South could create a \"Huawei model on steroids\" where countries are reliant on Chinese infrastructure that is not interoperable with the U.S., Weinstein said. Following the Anthropic decision, \"the entire industry is kind of frozen in place, waiting for something that seems kind of more coherent,\" CNAS' Daniel Remler, a former State Department technology adviser, said during the panel. \"That's concerning when the Chinese are trying to move as fast as possible,\" he said. \"You're seeing many more calls now for AI sovereignty. I think it will mean that much of the rest of the world will likely, at least on the margin, prefer Chinese open-weight models\" over U.S. frontier models, said Saif Khan, former counselor for critical and emerging technologies to the Secretary of Commerce. Yes, but: The Trump administration is trying to counter that trend by getting allies on board with American AI instead. This week, undersecretary of state for economic affairs Jacob Helberg announced that 35 countries signed the \"Declaration on AI Opportunity\" as part of Pax Silica. Helberg also criticized digital sovereignty — the push for homegrown AI infrastructure — as \"backward and counterproductive\" and \"synchronized mediocrity.\" Reality check: Some U.S. partners are walking a tightrope, embracing the administration's vision while also pursuing greater technological sovereignty. The European Union notably touted the importance of digital sovereignty following the Anthropic decision. In an interview with Axios while in Washington for government meetings and the Pax Silica event, Omran Sharaf, the United Arab Emirates' assistant foreign minister for advanced science and technology, said the country's goal is achieving \"strategic autonomy through international collaboration with trusted partners.\" \"For the U.S. to be able also to maintain its global position, its economic weight and posture, even national security, it's important for the U.S. to be able to have their technology deployed around the world,\" Sharaf said. Sharaf added that it's \"too early to tell\" what export control decisions like the Anthropic directive will mean for that goal. The bottom line: The next challenge for the U.S. isn't just staying out front on frontier AI. It's convincing the rest of the world to keep building on American AI.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Chinese models don't have to beat OpenAI or Anthropic to reshape the global AI o",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Chinese models don't have to beat OpenAI or Anthropic to reshape the global AI order. They just have to be useful, available and widely adopted.",
+      "source": "Axios — China's AI progress strains U.S. alliance pitch (2026-06-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The State Department this week expanded its Pax Silica initiative , an effort to",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The State Department this week expanded its Pax Silica initiative , an effort to build a U.S.-led AI and chip supply-chain bloc and reduce reliance on Chinese technology. The move came as the AI industry continues to grapple with the fallou",
+      "source": "Axios — China's AI progress strains U.S. alliance pitch (2026-06-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Experts argue that two key things are kneecapping the U.S. government's desire t",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Experts argue that two key things are kneecapping the U.S. government's desire to export American AI: An erratic export controls strategy that involves making decisions about access to advanced models on the fly. Not paying sufficient atten",
+      "source": "Axios — China's AI progress strains U.S. alliance pitch (2026-06-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I think we're seeing another example of the Huawei strategy in the context of o",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I think we're seeing another example of the Huawei strategy in the context of open-source AI models,\" Emily Weinstein, a former Commerce Department staffer now at the U.S.-China Economic and Security Review Commission, told Axios. \"China i",
+      "source": "Axios — China's AI progress strains U.S. alliance pitch (2026-06-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The next challenge for the U.S. isn't just staying out front on frontier AI. It'",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The next challenge for the U.S. isn't just staying out front on frontier AI. It's convincing the rest of the world to keep building on American AI.",
+      "source": "Axios — China's AI progress strains U.S. alliance pitch (2026-06-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Some U.S. partners are walking a tightrope, embracing the administration's visio",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Some U.S. partners are walking a tightrope, embracing the administration's vision while also pursuing greater technological sovereignty. The European Union notably touted the importance of digital sovereignty following the Anthropic decisio",
+      "source": "Axios — China's AI progress strains U.S. alliance pitch (2026-06-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-26T10:41:47+00:00"
+}
