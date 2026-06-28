@@ -1,0 +1,59 @@
+{
+  "title": "Scoop: Powerful Anthropic model, Fable 5, on track to return soon",
+  "url": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+  "pub_date": "2026-06-27",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: Powerful Anthropic model, Fable 5, on track to return soon (2026-06-27)",
+  "body": "The Trump administration is close to allowing Anthropic to restore access to its powerful Fable 5 model, which has been offline for 15 days because of security fears by the government, a source close to the situation tells Axios. Insiders expect the administration's limits on Fable 5 could be lifted as soon as this coming week, the source said. A second source said conversations are expected to continue over the weekend, and Anthropic expects to restore Fable access soon. Why it matters: For developers and even non-technical early adopters, Fable 5's blackout was unprecedented and deeply jarring — a top-tier model, already in users' hands, pulled offline due to government intervention. The big picture: The progress toward liberating Fable 5 marks a thaw in a bitter four-month standoff between the administration and Anthropic. In another sign of de-escalation, the Commerce Department on Friday allowed Anthropic to restore access to Mythos 5, the company's strongest cybersecurity model , for a limited number of trusted users. Mythos 5 has guardrails to deter its use in cyberattacks or biological terror, and has never been freely available. Commerce Secretary Howard Lutnick said in a Friday afternoon letter to Anthropic, first reported by Semafor , that the company \"has worked with the U.S. government to address risks associated with\" Mythos 5 and Fable 5. \"These efforts,\" he continued, \"have yielded significant progress. In addition, Anthropic has committed to work with the U.S. government on protocols and standards and releases.\" Fable 5's return is being eagerly awaited by users, who quickly fell in love with the model's deep thinking and quick, sophisticated coding. Developers were wowed by the leap in capability. Every new model, especially open-source ones, is being measured against Fable 5. The Pentagon and National Security Agency still have to give Fable 5 the green light, so the outcome remains unpredictable. But other government agencies have determined Fable 5 can safely return to the wild. Behind the scenes: I'm told that both Lutnick and Treasury Secretary Scott Bessent have helped defuse the fight between the administration and Anthropic. Anthropic \"has worked positively with the government,\" one administration source told Axios. That's quite a change from the furious statement by Defense Secretary Pete Hegseth designating Anthropic a \"Supply-Chain Risk to National Security,\" after he and Anthropic CEO Dario Amodei couldn't agree on how the Pentagon can use Claude. Zoom in: Anthropic had billed it as the most capable model ever released to the public. The \"Vibe Check\" newsletter from Every , a media and software company, called it \"the best coding model in the world\" before it was pulled, just three days after launch. In early testing highlighted by Anthropic , the payments company Stripe used Fable 5 to overhaul a 50-million-line codebase in a single day — a job that would have taken its engineers more than two months by hand. When access vanished on June 12, developers found automated work frozen mid-task, and companies raced to swap in rivals, including cheaper Chinese models. The intrigue: Anthropic originally made Fable 5 available at no extra cost on several paid Claude subscription plans through June 22, giving users a short window to test its power before access vanished. It's not yet clear whether Anthropic subscribers will get back the free run of Fable they were promised — or whether it returns locked behind additional fees or identity checks. What we're watching: Both Anthropic and OpenAI are pushing the administration to codify a process for reviewing new models, as envisioned by President Trump in a June 2 executive order that set up a framework for voluntary government vetting of the most powerful new AI models. The companies don't like the current case-by-case approach. When Anthropic suspended access to Fable 5 and Mythos 5 back on June 12, the company called for \"a statutory process that is transparent, fair, clear, and grounded in technical facts,\" and said the administration's decision to restrict those two models \"does not adhere to those principles.\" When OpenAI was allowed to begin a limited preview of GPT‑5.6 on Friday, the company said in a blog post : \"We don't believe this kind of government access process should become the long-term default. It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\" Axios' Sam Sabin contributed reporting. Go deeper : Commerce Department greenlights limited return of Anthropic's Mythos.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: For developers and even non-technical early adopters, Fable 5's blackout was unp",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: For developers and even non-technical early adopters, Fable 5's blackout was unprecedented and deeply jarring — a top-tier model, already in users' hands, pulled offline due to government intervention. The big picture: The progress toward l",
+      "source": "Axios — Scoop: Powerful Anthropic model, Fable 5, on track to return soon (2026-06-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Anthropic had billed it as the most capable model ever released to the public. T",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Anthropic had billed it as the most capable model ever released to the public. The \"Vibe Check\" newsletter from Every , a media and software company, called it \"the best coding model in the world\" before it was pulled, just three days after",
+      "source": "Axios — Scoop: Powerful Anthropic model, Fable 5, on track to return soon (2026-06-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Anthropic originally made Fable 5 available at no extra cost on several paid Cla",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Anthropic originally made Fable 5 available at no extra cost on several paid Claude subscription plans through June 22, giving users a short window to test its power before access vanished. It's not yet clear whether Anthropic subscribers w",
+      "source": "Axios — Scoop: Powerful Anthropic model, Fable 5, on track to return soon (2026-06-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-28T10:18:35+00:00"
+}
