@@ -1,0 +1,54 @@
+{
+  "title": "How AI helped the FBI investigate the White House Correspondents' Dinner attack",
+  "url": "https://www.axios.com/2026/06/28/ai-fbi-whcd-attack-investigation",
+  "pub_date": "2026-06-28",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — How AI helped the FBI investigate the White House Correspondents' Dinner attack (2026-06-28)",
+  "body": "An AI-powered forensic investigations firm says its platform was used as part of the FBI's urgent investigation into the attempted assassination at this year's White House Correspondents' Dinner. Why it matters: Law enforcement agencies are turning to AI tools to sift through the growing volumes of digital evidence generated in criminal investigations. They've also started using the tools to jumpstart cold cases, missing persons investigations and trial preparations, as Axios has reported . Driving the news: In this case, digital forensics company Exterro told Axios the FBI used its platform in the frenzied 48 hours between the incident and charges being filed against Cole Tomas Allen. Exterro couldn't share how exactly the bureau used its tool, but executives told Axios that customers often use it to dig through messages on seized devices, social media accounts and other digital trails tied to a case. The FBI declined to comment. The Justice Department previously said investigators reviewed seized devices, cloud and email accounts, travel and financial records, and surveillance footage and metadata from the Washington Hilton, where the dinner took place. How it works: Exterro's FTK Suite — which the company said the FBI used — provides an on-premises platform that lets investigators organize evidence from a case in a single repository that authorized users can access simultaneously. The platform is primarily designed to help investigators process and organize large volumes of digital evidence after it has been collected. Users can query the platform's embedded AI assistant with prompts like \"Find all pictures of dogs\" or \"Show me images and videos where this suspect shows up,\" according to a demo presented to Axios. Investigators can also ask questions such as, \"Was this particular person at this location at this date and time?\" Yes, but : Exterro says it does not train its AI models on customer data and that investigators remain responsible for reviewing evidence and making charging decisions. \"We allow it to be deployed in some of the most secure locations globally,\" Harsh Behl, vice president of product management at Exterro, told Axios. \"Investigators may not have access to the internet or cloud, so we allow it to be deployed in the customer premises and the data never leaves their premises.\" Exterro's customers include law enforcement agencies and around 40 Fortune 100 companies, according to the company. Friction point: While AI is turning into a boon for investigators, courts are now increasingly running into the problem of trying to validate evidence to ensure it wasn't AI-created or manipulated. Exterro's platform also includes a tool designed to help identify potential deepfakes. \"Our product touches the lives of people every day and has a direct impact on people's lives,\" Behl said. \"Based on the findings from our tool, somebody could be proved to be guilty or not, and that is the gravitas.\" The bottom line: AI is becoming a standard tool for reviewing digital evidence, suggesting the debate is shifting from whether investigators should use AI to how they validate and defend AI-assisted findings in court.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Law enforcement agencies are turning to AI tools to sift through the growing vol",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Law enforcement agencies are turning to AI tools to sift through the growing volumes of digital evidence generated in criminal investigations. They've also started using the tools to jumpstart cold cases, missing persons investigations and ",
+      "source": "Axios — How AI helped the FBI investigate the White House Correspondents' Dinner attack (2026-06-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: In this case, digital forensics company Exterro told Axios the FBI used its plat",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: In this case, digital forensics company Exterro told Axios the FBI used its platform in the frenzied 48 hours between the incident and charges being filed against Cole Tomas Allen. Exterro couldn't share how exactly the bureau used its tool",
+      "source": "Axios — How AI helped the FBI investigate the White House Correspondents' Dinner attack (2026-06-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: AI is becoming a standard tool for reviewing digital evidence, suggesting the de",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: AI is becoming a standard tool for reviewing digital evidence, suggesting the debate is shifting from whether investigators should use AI to how they validate and defend AI-assisted findings in court.",
+      "source": "Axios — How AI helped the FBI investigate the White House Correspondents' Dinner attack (2026-06-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-29T12:21:09+00:00"
+}

@@ -1,0 +1,98 @@
+{
+  "title": "The pro-AI movement is splintering",
+  "url": "https://www.axios.com/2026/06/29/trump-ai-model-release-delays-tech-backlash",
+  "pub_date": "2026-06-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — The pro-AI movement is splintering (2026-06-29)",
+  "body": "The pro-AI movement is splintering over a defining question: whether national security concerns outweigh the need to keep America's AI companies ahead of Chinese rivals. Why it matters: The fight is happening in public, in real time, and it could reshape the way the administration regulates the world's most powerful technology. Catch up quick: David Sacks — Trump's former AI and crypto czar — warned that restricting access to America's most advanced AI models risks undercutting the strategy Trump laid out just a year ago. \"A year ago, President Trump declared that America was in a global AI race and that the way to win it was to be pro-innovation,\" Sacks wrote on X . \"President Trump was exactly right. We deviate from that strategy at our peril.\" The response comes after the White House asked OpenAI to delay a broad rollout of its latest model, GPT-5.6, which will now be released in stages, following a similar directive that forced Anthropic to suspend access to its Fable 5 and Mythos 5 models. Mythos is back online on a limited basis after Commerce Secretary Howard Lutnick said Anthropic's work with the government had \"yielded significant progress,\" in a letter seen by Axios. Fable 5 could return soon. What they're saying: \"This is how you crash the U.S. AI market,\" Kevin Bankston, AI governance advisor at the Center for Democracy and Technology told Ground Level AI . This is \"one of the most important changes in the AI landscape in the past four years,\" Box CEO Aaron Levie told Axios. \"We've been on this very rapid treadmill of constant leapfrogging of model capabilities between labs,\" Levie argued, adding that competitive pressure has helped drive AI's rapid progress. Between the lines: U.S. labs could face a government-imposed speed limit while Chinese rivals do not. Two separate security evaluations show that Chinese AI systems have already caught up to the best U.S. models on cybersecurity, Axios' Sam Sabin reports . Open-source Chinese model usage has surged in recent weeks amid a focus on minimizing AI usage costs, as seen on OpenRouter . Chinese models now occupy several top spots on OpenRouter's usage leaderboard. Follow the money: For investors, this is \"hugely bearish,\" Paul Kedrosky, a venture capitalist, told Axios via text. \"The AI party now has a hall monitor who is also diluting the punch. That causes, as the capital markets kids say, re-rating pressure,\" he said. Translation: Investors may assign lower valuations to AI labs if their most valuable products face government-controlled deployment delays. Yes, but: Some AI labs have asked for clearer federal rules. Anthropic has urged stronger safeguards as models become more capable. \"The government being involved here is actually super important. They just need to find the right balance between safety and broad access,\" Dan Shipper, CEO of AI subscription service Every, tells Axios. Zoom in: Investors and executives said they want rules, not ad hoc access decisions. Mark Pincus, Zynga founder and investor in both OpenAI and Anthropic, tells Axios he supports clear regulation, but \"it's hard to build when there's a moving target.\" Regulation needs benchmarks. Siméon Campos, an AI startup founder, told Axios via direct message that the AI labs could try and \"game\" those benchmarks to get around regulation. The bottom line: Frontier AI access is becoming too valuable to leave to opaque government discretion — especially if the winners are chosen before the rules are clear.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The fight is happening in public, in real time, and it could reshape the way the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The fight is happening in public, in real time, and it could reshape the way the administration regulates the world's most powerful technology.",
+      "source": "Axios — The pro-AI movement is splintering (2026-06-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: David Sacks — Trump's former AI and crypto czar — warned that restricting access",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: David Sacks — Trump's former AI and crypto czar — warned that restricting access to America's most advanced AI models risks undercutting the strategy Trump laid out just a year ago. \"A year ago, President Trump declared that America was in ",
+      "source": "Axios — The pro-AI movement is splintering (2026-06-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Investors and executives said they want rules, not ad hoc access decisions. Mark",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Investors and executives said they want rules, not ad hoc access decisions. Mark Pincus, Zynga founder and investor in both OpenAI and Anthropic, tells Axios he supports clear regulation, but \"it's hard to build when there's a moving target",
+      "source": "Axios — The pro-AI movement is splintering (2026-06-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: U.S. labs could face a government-imposed speed limit while Chinese rivals do no",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: U.S. labs could face a government-imposed speed limit while Chinese rivals do not. Two separate security evaluations show that Chinese AI systems have already caught up to the best U.S. models on cybersecurity, Axios' Sam Sabin reports . Op",
+      "source": "Axios — The pro-AI movement is splintering (2026-06-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"This is how you crash the U.S. AI market,\" Kevin Bankston, AI governance adviso",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"This is how you crash the U.S. AI market,\" Kevin Bankston, AI governance advisor at the Center for Democracy and Technology told Ground Level AI . This is \"one of the most important changes in the AI landscape in the past four years,\" Box ",
+      "source": "Axios — The pro-AI movement is splintering (2026-06-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Frontier AI access is becoming too valuable to leave to opaque government discre",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Frontier AI access is becoming too valuable to leave to opaque government discretion — especially if the winners are chosen before the rules are clear.",
+      "source": "Axios — The pro-AI movement is splintering (2026-06-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-29T12:21:07+00:00"
+}
