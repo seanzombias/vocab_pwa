@@ -1,0 +1,39 @@
+{
+  "title": "The AI boom's historical warning",
+  "url": "https://www.axios.com/2026/06/30/ai-boom-bis-warning",
+  "pub_date": "2026-06-30",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The AI boom's historical warning (2026-06-30)",
+  "body": "Data: BIS ; Chart: Danielle Alberti/Axios Today's AI buildout resembles earlier technological revolutions and capital booms that ended in painful busts. That's the new warning from the Bank for International Settlements, a top forum known as the \"central bank for central banks.\" Why it matters: The technological revolutions that transform the economy have a long history of attracting more investment than what near-term returns justify. The risk is that AI follows the same pattern at a moment when the global economy is unusually reliant on a single investment boom to keep the expansion on track. Flashback : Some of the world's greatest technological breakthroughs — canals, railroads, the internet — sparked enormous investment booms, with capital pouring into new infrastructure years before the economic payoff became clear. What they're saying : \"These episodes ended with an eventual reversal in investment, inducing economy-wide recessions,\" the BIS wrote in its report . \"The scale and pace of the current AI investment boom accompanied by expectations of large productivity payoffs bear resemblance to these precedents, highlighting potential downside risks in the near term.\" If returns disappoint, today's AI spending surge could become \"a protracted investment bust,\" with knock-on effects across the financial system, the BIS said. The big picture : Investors have bid up the valuations of companies expected to dominate AI, lenders have financed an unprecedented infrastructure buildout, and suppliers have expanded to meet that demand. The bets have helped keep financial conditions loose and have supported the global economy. Friction point : If investors begin to question AI's payoff, the hyperscalers could pull back on spending. That could leave engineering firms, data center developers and other suppliers that expanded to support the boom struggling to service the debt they took on to finance that growth. Stress could spread through the fast-growing private credit market, where direct lending funds with exposure to AI borrowers have already begun facing redemption requests, forcing some to liquidate assets and return capital. An AI-led stock market correction could stunt worldwide wealth: \"With U.S. stocks accounting for an outsized share of global equity markets ... the wealth impact from a US-led repricing could propagate globally,\" the BIS wrote. Between the lines: Today's AI boom is unfolding through a highly concentrated ecosystem of hyperscalers, suppliers and private lenders linked by debt and increasingly opaque financing arrangements. Those connections create more pathways for a slowdown to spread through financial markets at a time when policymakers are already confronting stubborn inflation, strained public finances and recurring supply shocks. \"Should inflation rise significantly or AI-led investment turn to a bust, the macroeconomic consequences could be amplified by existing financial vulnerabilities,\" the BIS noted. The bottom line : AI could ultimately deliver supercharged productivity that financial markets expect. Getting there may require navigating a historic investment cycle, inflation pressures and potential financial vulnerabilities that policymakers have never had to confront all at once.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The technological revolutions that transform the economy have a long history of",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The technological revolutions that transform the economy have a long history of attracting more investment than what near-term returns justify. The risk is that AI follows the same pattern at a moment when the global economy is unusually re",
+      "source": "Axios — The AI boom's historical warning (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Today's AI boom is unfolding through a highly concentrated ecosystem of hypersca",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Today's AI boom is unfolding through a highly concentrated ecosystem of hyperscalers, suppliers and private lenders linked by debt and increasingly opaque financing arrangements. Those connections create more pathways for a slowdown to spre",
+      "source": "Axios — The AI boom's historical warning (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-06-30T10:46:44+00:00"
+}
