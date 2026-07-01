@@ -1,0 +1,94 @@
+{
+  "title": "Google's AI boom sends emissions, power use soaring",
+  "url": "https://www.axios.com/2026/06/30/google-ai-boom-emissions-power-use",
+  "pub_date": "2026-06-30",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+  "body": "Google's electricity, water use and greenhouse gas emissions all climbed to record levels last year as the company raced to build more AI infrastructure. Why it matters: Google has invested more aggressively than perhaps any other tech company in clean energy , yet its environmental report released Tuesday shows how difficult it has become to keep climate goals on track amid the AI buildout. Driving the news: Google's data centers are becoming more efficient, but the company's AI infrastructure is growing even faster. \"This rapid expansion in energy demand is a reality we must manage actively, and we're committed to ensuring that the growth of AI doesn't become a rationale for lowering our environmental standards,\" the report states. By the numbers: Most are going up. Electricity demand jumped 37% — up from a 27% increase last year and roughly 3.5 times higher than in 2019. Greenhouse gas emissions rose 18%, the largest annual increase Google has reported, driven largely by manufacturing AI hardware, including chips and servers. Water consumption climbed 34% to 10.9 billion gallons, more than double 2021 levels. Data centers accounted for most of the increase. Zoom in: Rapid growth has shifted the benchmark from cutting total emissions to preventing them from rising even faster. Google signed a record 12 gigawatts of clean energy agreements and held its share of carbon-free electricity roughly flat despite soaring demand. Electricity-related emissions fell 3% from 2024, compared with a 12% decline the year before. Reality check: Tech companies have been releasing this type of annual report for several years — Google since 2016. Until recently, they have served as a chance for tech companies to mostly boast about clean energy and climate accomplishments. Increasingly, with the AI boom fueling unprecedented growth, these reports are a reality check on those same ambitions. Catch up quick: The rapidly growing energy and water use of data centers is coming under increasing scrutiny as the tech industry races to dominate on AI. The intrigue: Google devoted a larger section this year to AI's potential environmental benefits, continuing to argue the technology can reduce emissions elsewhere in the economy. It expanded from five initiatives with estimated emissions benefits last year to nine this year. What we're watching: Other tech giants, like Microsoft and Amazon, are due to release their annual environmental reports in the coming weeks. The bottom line: Once-routine sustainability reports have become a closely watched scorecard for whether AI companies can match their climate promises with the infrastructure boom they're building. Editor's note: This story has been corrected to reflect electricity-related emissions fell 3% from 2024, not 2%.",
+  "vocab_count": 7,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Google has invested more aggressively than perhaps any other tech company in cle",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Google has invested more aggressively than perhaps any other tech company in clean energy , yet its environmental report released Tuesday shows how difficult it has become to keep climate goals on track amid the AI buildout.",
+      "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Google's data centers are becoming more efficient, but the company's AI infrastr",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Google's data centers are becoming more efficient, but the company's AI infrastructure is growing even faster. \"This rapid expansion in energy demand is a reality we must manage actively, and we're committed to ensuring that the growth of A",
+      "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The rapidly growing energy and water use of data centers is coming under increas",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The rapidly growing energy and water use of data centers is coming under increasing scrutiny as the tech industry races to dominate on AI.",
+      "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Rapid growth has shifted the benchmark from cutting total emissions to preventin",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Rapid growth has shifted the benchmark from cutting total emissions to preventing them from rising even faster. Google signed a record 12 gigawatts of clean energy agreements and held its share of carbon-free electricity roughly flat despit",
+      "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Google devoted a larger section this year to AI's potential environmental benefi",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Google devoted a larger section this year to AI's potential environmental benefits, continuing to argue the technology can reduce emissions elsewhere in the economy. It expanded from five initiatives with estimated emissions benefits last y",
+      "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Once-routine sustainability reports have become a closely watched scorecard for",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Once-routine sustainability reports have become a closely watched scorecard for whether AI companies can match their climate promises with the infrastructure boom they're building. Editor's note: This story has been corrected to reflect ele",
+      "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Tech companies have been releasing this type of annual report for several years",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Tech companies have been releasing this type of annual report for several years — Google since 2016. Until recently, they have served as a chance for tech companies to mostly boast about clean energy and climate accomplishments. Increasingl",
+      "source": "Axios — Google's AI boom sends emissions, power use soaring (2026-06-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-01T10:59:59+00:00"
+}

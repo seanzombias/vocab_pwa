@@ -1,0 +1,72 @@
+{
+  "title": "Exclusive: UN launches \"AI for Good\" commission",
+  "url": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
+  "pub_date": "2026-07-01",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: UN launches \"AI for Good\" commission (2026-07-01)",
+  "body": "A new UN-backed commission will bring top tech executives and heads of state to the same table to forge global rules for AI , per an announcement shared exclusively with Axios. Why it matters: As global AI regulation grows more splintered , this initiative is an attempt to connect the executives building advanced AI with a group of global politicians. Driving the news: The United Nations and its International Telecommunication Union are convening the AI for Good Global Commission, which will hold its first meeting on July 8 in Geneva, Switzerland. Salesforce CEO Marc Benioff and Rwandan President Paul Kagame will co-chair the commission. Other members include ITU Secretary-General Doreen Bogdan-Martin, Estonian President Alar Karis, and AI and tech policymakers from Kazakhstan, Namibia, Saudi Arabia, Singapore and Nigeria. Tech leaders include Amazon CEO Andy Jassy, Anthropic co-founder Jack Clark, Cohere co-founder Aidan Gomez, Microsoft president Brad Smith, and Nvidia founder and CEO Jensen Huang. What they're saying: \"AI is the most profound technological transition in history. And our values have to guide every step, because responsibility is the core of AI ethics,\" Benioff told Axios. The commission will bring together \"the people who build AI, deploy it, shape policy, and represent communities,\" he said. \"Our inaugural meeting will focus on where this group is uniquely positioned to act together: strengthening AI infrastructure, accelerating AI's impact on health, education, food security and disaster response, and ensuring trust and safety.\" Between the lines: World governments are miles apart on how AI should be regulated, even as many countries agree that democratic values should govern the technology. It will be a challenge for this group to reach cohesive, concrete goals that manage to transcend politics and calls for digital sovereignty. The group's aim of \"responsible AI solutions\" may resonate in Geneva, but they could be harder to put into practice at individual companies and in different countries with diverging AI and tech regulation. The commission may have the most luck with its goal of bringing AI to people who lack internet access, which is 2.2 billion people worldwide, per the ITU's figures. What we're watching. The group will hold its first meeting during the ITU's AI for Good Global Summit , just after the UN's Global Dialogue on AI Governance on July 6 and 7.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: As global AI regulation grows more splintered , this initiative is an attempt to",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: As global AI regulation grows more splintered , this initiative is an attempt to connect the executives building advanced AI with a group of global politicians.",
+      "source": "Axios — Exclusive: UN launches \"AI for Good\" commission (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The United Nations and its International Telecommunication Union are convening t",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The United Nations and its International Telecommunication Union are convening the AI for Good Global Commission, which will hold its first meeting on July 8 in Geneva, Switzerland. Salesforce CEO Marc Benioff and Rwandan President Paul Kag",
+      "source": "Axios — Exclusive: UN launches \"AI for Good\" commission (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: World governments are miles apart on how AI should be regulated, even as many co",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: World governments are miles apart on how AI should be regulated, even as many countries agree that democratic values should govern the technology. It will be a challenge for this group to reach cohesive, concrete goals that manage to transc",
+      "source": "Axios — Exclusive: UN launches \"AI for Good\" commission (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"AI is the most profound technological transition in history. And our values hav",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"AI is the most profound technological transition in history. And our values have to guide every step, because responsibility is the core of AI ethics,\" Benioff told Axios. The commission will bring together \"the people who build AI, deploy",
+      "source": "Axios — Exclusive: UN launches \"AI for Good\" commission (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-01T10:59:59+00:00"
+}

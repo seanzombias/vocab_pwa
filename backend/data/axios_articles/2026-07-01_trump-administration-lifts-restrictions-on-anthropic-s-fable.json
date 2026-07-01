@@ -1,0 +1,59 @@
+{
+  "title": "Trump administration lifts restrictions on Anthropic's Fable 5",
+  "url": "https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions",
+  "pub_date": "2026-07-01",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Trump administration lifts restrictions on Anthropic's Fable 5 (2026-07-01)",
+  "body": "The Trump administration lifted export controls on Anthropic's Claude Fable 5 AI model Tuesday evening, with access returning to customers Wednesday, Anthropic said. Why it matters: The move, eagerly awaited by AI developers, restores public access to the company's powerful Mythos-class model that had been pulled for security reasons 18 days ago. Driving the news: Last week, the Trump administration allowed Anthropic to restore access to Mythos 5 for a select group of government-approved organizations. Sources also told Axios last week that Fable 5 could return as soon as this week. The big picture: The U.S. government's desired role in regulating and evaluating frontier AI models before release is still up in the air — creating an ad hoc regulatory environment for AI companies. OpenAI rolled out GPT-5.6 to only a small set of approved customers last week after a request from the U.S. government. Anthropic's Mythos 5 is similarly being released to a group of government-approved customers. What they're saying: Commerce Secretary Howard Lutnick said Tuesday in a post on X that his office had \"worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America's leadership in AI.\" \"We're grateful to our users for their patience, and to everyone who worked with us on redeploying the models,\" Anthropic said on X. White House chief of staff Susie Wiles wrote on X that the government and private sector have \"worked together in a way we have never seen before and this foundation of America First is unprecedented.\" Zoom in : Anthropic says that it worked closely with the government to implement a new safeguard that blocks the jailbreak that officials were worried about 93% of the time. In the other 7% of cases, Fable's output only included previously discovered or already patched security flaws, the company said. However, the new safeguard could result in Fable flagging more benign requests. Commerce's Center for AI Standards and Innovation also tested the model's previous and new safeguards, according to Anthropic. Threat level: U.S. officials, allies and leading AI companies have become increasingly concerned that frontier models could be misused to automate sophisticated cyberattacks or accelerate biological weapons development. At the same time, China is moving closer to producing its own Mythos competitor while continuing to release open-weight models that rival models like Anthropic's Claude Opus 4.8. What's next: The Trump administration faces an August deadline under a recent executive order to create standardized benchmarks for evaluating the security risks of new AI models. Editor's note: This story has been updated with additional details throughout.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The move, eagerly awaited by AI developers, restores public access to the compan",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The move, eagerly awaited by AI developers, restores public access to the company's powerful Mythos-class model that had been pulled for security reasons 18 days ago.",
+      "source": "Axios — Trump administration lifts restrictions on Anthropic's Fable 5 (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Last week, the Trump administration allowed Anthropic to restore access to Mytho",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Last week, the Trump administration allowed Anthropic to restore access to Mythos 5 for a select group of government-approved organizations. Sources also told Axios last week that Fable 5 could return as soon as this week. The big picture: ",
+      "source": "Axios — Trump administration lifts restrictions on Anthropic's Fable 5 (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Commerce Secretary Howard Lutnick said Tuesday in a post on X that his office ha",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Commerce Secretary Howard Lutnick said Tuesday in a post on X that his office had \"worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America's leadership in AI.\" \"We're ",
+      "source": "Axios — Trump administration lifts restrictions on Anthropic's Fable 5 (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-01T10:59:59+00:00"
+}
