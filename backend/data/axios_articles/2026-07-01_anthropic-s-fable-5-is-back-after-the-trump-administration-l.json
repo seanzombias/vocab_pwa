@@ -1,0 +1,42 @@
+{
+  "title": "Anthropic's Fable 5 is back after the Trump administration lifted export controls",
+  "url": "https://www.axios.com/2026/07/01/anthropic-fable-5-back-online-trump-export-controls-lifted",
+  "pub_date": "2026-07-01",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Anthropic's Fable 5 is back after the Trump administration lifted export controls (2026-07-01)",
+  "body": "Anthropic's Fable 5 model came back online for users on Wednesday, after the Trump administration lifted an export control late Tuesday. Why it matters: It's the most powerful publicly available AI tool — so capable that the U.S. government decided Anthropic had to add further safety measures in order to make it broadly available. Driving the news: Fable is available to all customers, Anthropic said, though queries it deems to pose security or safety risks may be routed to less powerful models. For the most part, customers who want to use Fable will have to do so outside of any subscription plan, paying for the tokens they use. Anthropic says that, until July 7, subscribers can tap Fable for up to half of their included data usage, though it warns Fable will burn through tokens faster than other models. The big picture: While Fable is once again available, its blockage by the U.S. government has raised significant questions over how and when the Trump Administration will step in to block future frontier model releases. OpenAI has said it is withholding broad release of its latest model, GPT 5.6 , while it consults with the government, which requested the delay.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It's the most powerful publicly available AI tool — so capable that the U.S. gov",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It's the most powerful publicly available AI tool — so capable that the U.S. government decided Anthropic had to add further safety measures in order to make it broadly available.",
+      "source": "Axios — Anthropic's Fable 5 is back after the Trump administration lifted export controls (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Fable is available to all customers, Anthropic said, though queries it deems to",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Fable is available to all customers, Anthropic said, though queries it deems to pose security or safety risks may be routed to less powerful models. For the most part, customers who want to use Fable will have to do so outside of any subscr",
+      "source": "Axios — Anthropic's Fable 5 is back after the Trump administration lifted export controls (2026-07-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-02T10:26:02+00:00"
+}
