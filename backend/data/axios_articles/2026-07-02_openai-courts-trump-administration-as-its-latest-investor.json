@@ -1,0 +1,98 @@
+{
+  "title": "OpenAI courts Trump administration as its latest investor",
+  "url": "https://www.axios.com/2026/07/02/openai-stake-trump-altman",
+  "pub_date": "2026-07-02",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI courts Trump administration as its latest investor (2026-07-02)",
+  "body": "OpenAI may give the U.S. government a 5% stake in the company, per the Financial Times . The proposal is in very preliminary conversations, according to a person familiar with the matter. Why it matters: If the overture is taken up by the Trump administration, that would mean the government would have a vested interest in weighing whether or not to limit the release of an OpenAI model. Catch up quick: OpenAI views the potential government stake as a way to give the general public a share of the upside of AI, and CEO Sam Altman has previously shared with Axios his interest in some sort of public wealth fund. The goal is to include other AI labs giving over a similar stake. This could look like including shares in Trump accounts or some other vehicle that would give American households exposure to investments in AI, for example. Anthropic supported similar policies in a recent paper , arguing for \"universal pre-distributive capital accounts\" with \"priority given\" to those with jobs exposed to AI disruption. Zoom out: The potential investment comes as the White House is still deciding when OpenAI can release its most powerful models widely, through a regulatory process that Altman has said isn't quite \"optimal.\" Altman proposed on Wednesday a U.S.-led international forum to establish AI regulatory standards, which could be a way to allow the government to invest without having as heavy a hand in regulation. Between the lines: Investors tell Axios that the idea of giving a stake reads like a PR stunt aimed at making it seem as if the public could benefit from the AI boom just as the technology threatens their jobs. Yes, but: The government's 9.9% stake in Intel , taken last August, appears to have paid off. Its shares are up nearly 400% since then, although it has also come amid a broad rally for chip stocks. Friction point: The Intel stake was acquired under the CHIPS Act. A deal with the AI labs would likely require an act of Congress. It's also unclear what a government stake would accomplish, other than giving the AI labs a closer relationship to what is currently one of their biggest hurdles: the government. An investor in Anthropic and OpenAI tells Axios that the proposal reads more like a \"political move\" to gain favor with the administration than something that would actually create a shared benefit for the American public. What they're saying: A government stake would be a \"troubling milestone\" that hurts competition between the labs, \" David Sherman, AI and financial inclusion strategist at io.net , a decentralized cloud network, said via email. It \"gives one AI company a government stamp of approval whilst millions of developers, researchers and businesses are locked out by skyrocketing token prices and endless GPU queues,\" he added, referencing the challenge in accessing AI at current costs or chips at current supply levels. It comes amid broader concern about whether the government is already curbing the competitive edge of U.S. AI labs compared with China by putting guardrails around model release timelines. And if the goal is to share the financial benefits of AI, there are other ways to do that. Some have suggested that AI companies share a percent of pre-tax income or that the government impose a tax on all tokens. Kevin Bankston, an AI governance advisor, wrote \"JUST. TAX. THEM.\" on X . Bill Gates proposed an automated robot tax in 2017 that could slow down automation, suggesting they should be taxed the same way human employees pay income tax. The bottom line: \" The labs develop the technology, but citizens and their elected representatives must make the rules,\" Altman wrote in the Financial Times earlier this week.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: If the overture is taken up by the Trump administration, that would mean the gov",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: If the overture is taken up by the Trump administration, that would mean the government would have a vested interest in weighing whether or not to limit the release of an OpenAI model.",
+      "source": "Axios — OpenAI courts Trump administration as its latest investor (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: OpenAI views the potential government stake as a way to give the general public",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: OpenAI views the potential government stake as a way to give the general public a share of the upside of AI, and CEO Sam Altman has previously shared with Axios his interest in some sort of public wealth fund. The goal is to include other A",
+      "source": "Axios — OpenAI courts Trump administration as its latest investor (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The potential investment comes as the White House is still deciding when OpenAI",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The potential investment comes as the White House is still deciding when OpenAI can release its most powerful models widely, through a regulatory process that Altman has said isn't quite \"optimal.\" Altman proposed on Wednesday a U.S.-led in",
+      "source": "Axios — OpenAI courts Trump administration as its latest investor (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Investors tell Axios that the idea of giving a stake reads like a PR stunt aimed",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Investors tell Axios that the idea of giving a stake reads like a PR stunt aimed at making it seem as if the public could benefit from the AI boom just as the technology threatens their jobs. Yes, but: The government's 9.9% stake in Intel ,",
+      "source": "Axios — OpenAI courts Trump administration as its latest investor (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: A government stake would be a \"troubling milestone\" that hurts competition betwe",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: A government stake would be a \"troubling milestone\" that hurts competition between the labs, \" David Sherman, AI and financial inclusion strategist at io.net , a decentralized cloud network, said via email. It \"gives one AI company a govern",
+      "source": "Axios — OpenAI courts Trump administration as its latest investor (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \" The labs develop the technology, but citizens and their elected representative",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \" The labs develop the technology, but citizens and their elected representatives must make the rules,\" Altman wrote in the Financial Times earlier this week.",
+      "source": "Axios — OpenAI courts Trump administration as its latest investor (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-03T10:23:50+00:00"
+}

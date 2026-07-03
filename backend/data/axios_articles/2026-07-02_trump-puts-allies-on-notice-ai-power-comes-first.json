@@ -1,0 +1,98 @@
+{
+  "title": "Trump puts allies on notice: AI power comes first",
+  "url": "https://www.axios.com/2026/07/02/trump-allies-ai-power",
+  "pub_date": "2026-07-02",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Trump puts allies on notice: AI power comes first (2026-07-02)",
+  "body": "President Trump is redefining what it means to be a U.S. ally in the AI era. Why it matters: For the White House , it's now about how partners can help the U.S. win the AI race. For decades, shared values and security interests have underpinned alliances with Europe and other partners around the world. Under Trump, that's no longer enough. As AI becomes central to economic and military power, frontier AI models, chips and infrastructure are turning into new instruments of American influence. Driving the news: The Trump administration is blocking allies from accessing the world's most powerful models, playing it close to the vest and criticizing Europe for not having its own robust AI industry. With export controls on Fable and Mythos lifted on Tuesday, Anthropic and the Trump administration are continuing Project Glasswing efforts, which the company previously said would give access to Mythos to 150 more organizations across more than 15 countries. Fable is also back . Commerce retains the power to pull back access when it deems appropriate. \"The problem we have is that we are leading everybody by a lot,\" Trump said in a recent interview with \"The Axios Show.\" \"Europe has to be very careful. They're losing their way entrepreneurially.\" Trump pointed to the U.K. not tapping into energy sources in the North Sea because of environmental concerns: \"It's crazy.\" Between the lines: The Trump administration's AI restrictions are part of a broader transactional approach to alliances. Catch up quick: Vice President JD Vance's speech last year at the Paris AI Summit set the stage for a confrontational relationship with the European Union. The U.S. was quick to rebuke the EU's focus on safety over innovation with Trump entering his second term laser-focused on deregulation. But the president now finds himself behind an ad hoc licensing regime that's creating its own regulatory uncertainty, both domestically and abroad. OpenAI's GPT-5.6 was forced into a staggered rollout last month due to government concerns. What they're saying: European Commission spokesperson Thomas Regnier on Wednesday said the bloc is looking forward to \"intensifying\" discussions with Anthropic to gain access to Mythos through Project Glasswing and that, in the meantime, it has access to GPT-5.5-Cyber. The EU has a delegation in the U.S. to determine the scope of a future tech dialogue, the frequency of meetings and the level at which they'll be held. The dialogue is expected to include frontier AI models, chip supply chains and cybersecurity. \"But we have one clear line,\" Regnier said, \"which is that our sovereign legislation is not up for negotiation.\" Omran Sharaf, the United Arab Emirates' assistant foreign minister for advanced science and technology, told Axios \"it's very important that trusted partners and strategic partners are included in the process.\" That way it is \"synchronized and we're applying similar standards in controlling such technologies, rather than having something that gets imposed.\" The big picture: AI is changing what the White House wants in its alliances. Just last week, the EU and several European governments signed onto Pax Silica, the U.S.-led effort to secure AI supply chains and critical minerals, even as the White House restricts their access to frontier AI models. For the U.S., Europe is all of the above: a restraint, an indispensable partner and a competitor. The administration is simultaneously rejecting Europe's AI rules, inking deals with the region to secure supply chains and blocking access to cutting-edge technology. The bottom line: With the most advanced AI, allies will have to adjust to being considered trusted U.S. partners only in some cases. \"The conclusion that governments are coming to is: We'll be part of Pax Silica, yes. We'll work with the U.S. ecosystem where we can. We'll build around what we can't,\" A.J. Bhadelia, Cohere's head of global government affairs and external affairs, told Axios.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: For the White House , it's now about how partners can help the U.S. win the AI r",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: For the White House , it's now about how partners can help the U.S. win the AI race. For decades, shared values and security interests have underpinned alliances with Europe and other partners around the world. Under Trump, that's no longer",
+      "source": "Axios — Trump puts allies on notice: AI power comes first (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The Trump administration is blocking allies from accessing the world's most powe",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The Trump administration is blocking allies from accessing the world's most powerful models, playing it close to the vest and criticizing Europe for not having its own robust AI industry. With export controls on Fable and Mythos lifted on T",
+      "source": "Axios — Trump puts allies on notice: AI power comes first (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Vice President JD Vance's speech last year at the Paris AI Summit set the stage",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Vice President JD Vance's speech last year at the Paris AI Summit set the stage for a confrontational relationship with the European Union. The U.S. was quick to rebuke the EU's focus on safety over innovation with Trump entering his second",
+      "source": "Axios — Trump puts allies on notice: AI power comes first (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The Trump administration's AI restrictions are part of a broader transactional a",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The Trump administration's AI restrictions are part of a broader transactional approach to alliances.",
+      "source": "Axios — Trump puts allies on notice: AI power comes first (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: European Commission spokesperson Thomas Regnier on Wednesday said the bloc is lo",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: European Commission spokesperson Thomas Regnier on Wednesday said the bloc is looking forward to \"intensifying\" discussions with Anthropic to gain access to Mythos through Project Glasswing and that, in the meantime, it has access to GPT-5.",
+      "source": "Axios — Trump puts allies on notice: AI power comes first (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: With the most advanced AI, allies will have to adjust to being considered truste",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: With the most advanced AI, allies will have to adjust to being considered trusted U.S. partners only in some cases. \"The conclusion that governments are coming to is: We'll be part of Pax Silica, yes. We'll work with the U.S. ecosystem wher",
+      "source": "Axios — Trump puts allies on notice: AI power comes first (2026-07-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-03T10:23:50+00:00"
+}
