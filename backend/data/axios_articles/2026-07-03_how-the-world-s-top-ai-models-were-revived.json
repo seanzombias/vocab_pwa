@@ -1,0 +1,59 @@
+{
+  "title": "How the world's top AI models were revived",
+  "url": "https://www.axios.com/2026/07/03/anthropic-ai-models-revived-behind-the-scenes",
+  "pub_date": "2026-07-03",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — How the world's top AI models were revived (2026-07-03)",
+  "body": "The fight that scrubbed the world's most powerful AI models from the internet featured personality clashes, industry confusion, and international backlash. Why it matters: Anthropic's models are back online, but the impact of its 20-day showdown with the Trump administration will be long lasting. Behind the scenes: It began when Amazon, Anthropic's partner and investor, sounded an alarm that was later disputed by cybersecurity experts. It warned about a \"jailbreaking\" issue it found with the AI lab's latest models, Mythos and Fable — meaning a technical flaw that could have caused a failure of their guardrails. Amazon flagged its concerns to the administration, triggering sweeping export controls . A U.S. official said the government conducted its own tests once it became apparent that the issue needed to be addressed. Cybersecurity experts, however, later wrote in an open letter to the administration that other leading AI models have the same issue Amazon warned about with Anthropic. On June 12, Commerce Secretary Howard Lutnick , at the direction of President Trump, called Anthropic CEO Dario Amodei. Lutnick made clear to Amodei the issue needed to be resolved fast and alerted the CEO that the company would be receiving a letter imposing sweeping export controls, the U.S. official said. Amodei called Lutnick back that night after receiving the letter, realizing it effectively meant the models would have to be taken offline — to which Lutnick responded that was indeed the goal. That decision led to a three-week, multi-agency crash course in AI safety. Anthropic deployed engineers to Washington D.C. According to a U.S. official, the company wanted to prove everything was already resolved and further changes were being fine tuned. But the federal Center for AI Standards and Innovation and the National Security Agency said those changes weren't good enough, prompting further fixes, according to the U.S. official. Gradually, various agency heads approved of the changes, and on July 1 the models were released, the official said. Out of all of the administration officials Amazon's Andy Jassy could have called, it was Treasury Secretary Scott Bessent who first heard about the jailbreaking issue found in the company report, according to a separate source familiar. Bessent was early to sound the alarm on Mythos, work with White House Chief of Staff Susie Wiles to re-engage the embattled company , and help get a cybersecurity executive order across the finish line. While technical discussions to address the jailbreaking issue took place in D.C., it was Bessent who stood next to President Trump during the G7 where allies called for global cooperation on safety standards. At the center of the showdown was Commerce Secretary Howard Lutnick , who also flanked Trump at the G7 meeting while his department's teams led technical discussions. National cyber director Sean Cairncross, the White House Office of Science and Technology Policy, Treasury Department chief information officer Sam Corcos, and the NSA also all participated in technical discussions, according to various sources. Washington mobilized faster to hold scores of meetings and pulled in far more agencies than one would expect for a single technical issue, one source said. The tension spiraled amid personality clashes and poor communication. Anthropic eventually understood that in order to be successful they needed to be on the same side as the government, the U.S. official said. As discussions turned more technical, Anthropic policy chief Sarah Heck and Anthropic co-founder Tom Brown got more involved. Brown also had multiple conversations with Lutnick and Cairncross the weekend of June 12. There was never a moment where Dario stepped offstage and someone else replaced him, one source said, adding that Brown's technical expertise allowed him to sit in a room with government specialists and go line‑by‑line through how models behave under stress. Between the lines: It remains uncertain when and how Anthropic's models will be released to ally countries around the world — which proponents say is key to beating China — or how other labs from OpenAI to Google will release their latest models. OpenAI, whose latest model GPT-5.6 is on hold, did not have visibility into discussions between Anthropic and the White House and is engaged in daily technical discussions on the release of its own model, a source said. The bottom line: There's a lot of work left to be done on a framework for approving future models with a clear inclusive process that has transparency standards and timelines, sources familiar said.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Anthropic's models are back online, but the impact of its 20-day showdown with t",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Anthropic's models are back online, but the impact of its 20-day showdown with the Trump administration will be long lasting. Behind the scenes: It began when Amazon, Anthropic's partner and investor, sounded an alarm that was later dispute",
+      "source": "Axios — How the world's top AI models were revived (2026-07-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: It remains uncertain when and how Anthropic's models will be released to ally co",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: It remains uncertain when and how Anthropic's models will be released to ally countries around the world — which proponents say is key to beating China — or how other labs from OpenAI to Google will release their latest models. OpenAI, whos",
+      "source": "Axios — How the world's top AI models were revived (2026-07-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: There's a lot of work left to be done on a framework for approving future models",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: There's a lot of work left to be done on a framework for approving future models with a clear inclusive process that has transparency standards and timelines, sources familiar said.",
+      "source": "Axios — How the world's top AI models were revived (2026-07-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-04T09:57:18+00:00"
+}
