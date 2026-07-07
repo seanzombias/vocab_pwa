@@ -1,0 +1,85 @@
+{
+  "title": "Anthropic says Claude has carved out its own space to ponder",
+  "url": "https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious",
+  "pub_date": "2026-07-06",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Anthropic says Claude has carved out its own space to ponder (2026-07-06)",
+  "body": "Anthropic said Monday that it has identified a small internal workspace Claude uses to hold and manipulate ideas without putting them into words—a structure the company says bears intriguing similarities to how humans consciously access thoughts. Why it matters: Anthropic hasn't shown that Claude feels or experiences anything. But it has found a surprisingly human-like division between information used for deliberate reasoning and the far larger volume of automatic computation occurring beneath it—giving fresh ammunition to the debate over what would count as machine consciousness. Driving the news: In a video, the company says Claude uses a separate area to plan strategies that can be unrelated to its immediate task and are separate from the \"chain of thought\" reasoning it shares with users. \"We can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more,\" Anthropic said in a post on X accompanying its video. Anthropic has dubbed this \"J-Space,\" named for Jacobian, the mathematical technique it used to detect what was happening. \"Similar to how humans can think about one thing while doing another, Claude can activate concepts and computations in its J-space that are unrelated to its outputs,\" Anthropic said. The intrigue: Anthropic's research paper uses the word \"conscious\" over 200 times, though the company doesn't go so far as to say its models are conscious. Similar to the debate over whether we have reached AGI, or artificial intelligence, it is tricky to say when AI achieves consciousness given the lack of a universally agreed-upon definition. Zoom in: In one example, Anthropic says it told Claude to think about the Golden Gate Bridge while copying an unrelated sentence. \"Claude was busy copying the sentence, but behind the scenes its J-Space told a different story,\" Anthropic says in the video, saying that both \"bridge\" and \"California\" were among the topics occupying J-Space. Between the lines: Anthropic suggests that watching what is happening in the J-Space could be key to detecting misalignment or scheming in models. \"We can find what Claude is thinking, but not telling us,\" Anthropic says in the video. Some of what it found was \"concerning,\" Anthropic said. \"In a model secretly trained to sabotage code, 'fake,' 'secretly,' and 'fraud' appear in the J-Space at the start of ordinary coding responses, even when the output looks completely unremarkable,\" it said .",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Anthropic hasn't shown that Claude feels or experiences anything. But it has fou",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Anthropic hasn't shown that Claude feels or experiences anything. But it has found a surprisingly human-like division between information used for deliberate reasoning and the far larger volume of automatic computation occurring beneath it—",
+      "source": "Axios — Anthropic says Claude has carved out its own space to ponder (2026-07-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: In a video, the company says Claude uses a separate area to plan strategies that",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: In a video, the company says Claude uses a separate area to plan strategies that can be unrelated to its immediate task and are separate from the \"chain of thought\" reasoning it shares with users. \"We can see Claude silently perform reasoni",
+      "source": "Axios — Anthropic says Claude has carved out its own space to ponder (2026-07-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: In one example, Anthropic says it told Claude to think about the Golden Gate Bri",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: In one example, Anthropic says it told Claude to think about the Golden Gate Bridge while copying an unrelated sentence. \"Claude was busy copying the sentence, but behind the scenes its J-Space told a different story,\" Anthropic says in the",
+      "source": "Axios — Anthropic says Claude has carved out its own space to ponder (2026-07-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Anthropic's research paper uses the word \"conscious\" over 200 times, though the",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Anthropic's research paper uses the word \"conscious\" over 200 times, though the company doesn't go so far as to say its models are conscious. Similar to the debate over whether we have reached AGI, or artificial intelligence, it is tricky t",
+      "source": "Axios — Anthropic says Claude has carved out its own space to ponder (2026-07-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Anthropic suggests that watching what is happening in the J-Space could be key t",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Anthropic suggests that watching what is happening in the J-Space could be key to detecting misalignment or scheming in models. \"We can find what Claude is thinking, but not telling us,\" Anthropic says in the video. Some of what it found wa",
+      "source": "Axios — Anthropic says Claude has carved out its own space to ponder (2026-07-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-07T10:42:52+00:00"
+}
