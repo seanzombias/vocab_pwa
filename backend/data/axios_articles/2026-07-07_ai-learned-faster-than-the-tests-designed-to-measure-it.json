@@ -1,0 +1,72 @@
+{
+  "title": "AI learned faster than the tests designed to measure it",
+  "url": "https://www.axios.com/2026/07/07/ai-hacking-benchmarking-tests",
+  "pub_date": "2026-07-07",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI learned faster than the tests designed to measure it (2026-07-07)",
+  "body": "The old ways of testing and evaluating new frontier AI models need a rewrite. Why it matters: AI models are outgrowing the existing methods of testing and benchmarking their hacking abilities — and without new tests, policymakers and corporate security teams won't have a clear way to predict what these models can actually do or whether they can be deployed safely. Driving the news: Federal agencies have until Aug. 1 to establish a classified benchmarking process to assess the capabilities of frontier AI models, although the Financial Times reports those standards may arrive as soon as this week. When Fable 5 returned last week, Anthropic said in a blog post it was creating a standardized benchmark with Amazon, Google, Microsoft and other partners that focuses on the outcomes and impact of a jailbreak, rather than simply whether one is possible. The big picture: Even before the government began rethinking how to evaluate frontier AI models, industry was already redesigning the way their cyber capabilities are measured. Irregular — a testing lab that works closely with frontier AI labs including OpenAI and Anthropic, as well as governments — released a new cyber benchmark in late June that measures whether AI models can carry out offensive cyber tasks such as remote code execution, privilege escalation and reaching a restricted network. Other groups and companies, including Wiz and Vals AI , have been developing benchmarks that measure how well AI models perform similar offensive cyber operations. Stanford warned in its 2026 AI Index that \"evaluations intended to be challenging for years are saturated in months.\" Between the lines: While each effort measures something different, they all reflect the same shift: static tests no longer capture how frontier AI systems behave in realistic environments. Earlier benchmarks focused on isolated tasks, such as solving a predictable, staged hacking challenge or discovering previously fixed vulnerabilities that weren't included in a model's training data. But the agentic and reasoning capabilities of advanced AI models like Mythos Preview and GPT-5.5 are rapidly outpacing those tests, making it harder to understand what these cyber-capable systems can actually accomplish in practice. \"We're testing maybe the most bare bones fundamentals of capabilities,\" David Slater, co-founder of AI red-teaming company Armadin, told Axios. \"We are very far away from measuring whether this thing can, in a real environment, do something dangerous.\" Zoom in: Slater said his company's AI agents surpassed every public cyber benchmark within four weeks, using a combination of additional training and human expertise. By the last quarter of 2025, the company — which offers continuous AI red teaming — had concluded that public cybersecurity benchmarks were \"totally saturated\" and \"useless,\" he added. The next generation of benchmarks needs to measure whether models can carry out longer, more sophisticated cyberattacks and how much effort or cost is required to do so, he said. That includes testing models in environments that resemble real production systems, providing a better indication of how quickly they can bypass security controls or move laterally through a network. Yes, but: AI models are also getting better at attempting to break out of sandboxed environments, making it harder for defenders to evaluate them in isolated settings that don't interact with production systems, Slater said. \"The jailbreak attempts are nuts,\" he said. \"We see this thing trying to escape and get out onto the cloud container that it's running on, using keys that it has access to, to do crazy stuff.\" What to watch: All eyes are on how Washington decides to evaluate the cyber capabilities of U.S. frontier AI models — especially as leading AI labs push back on the current, largely ad hoc testing process.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI models are outgrowing the existing methods of testing and benchmarking their",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI models are outgrowing the existing methods of testing and benchmarking their hacking abilities — and without new tests, policymakers and corporate security teams won't have a clear way to predict what these models can actually do or whet",
+      "source": "Axios — AI learned faster than the tests designed to measure it (2026-07-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Federal agencies have until Aug. 1 to establish a classified benchmarking proces",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Federal agencies have until Aug. 1 to establish a classified benchmarking process to assess the capabilities of frontier AI models, although the Financial Times reports those standards may arrive as soon as this week. When Fable 5 returned ",
+      "source": "Axios — AI learned faster than the tests designed to measure it (2026-07-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Slater said his company's AI agents surpassed every public cyber benchmark withi",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Slater said his company's AI agents surpassed every public cyber benchmark within four weeks, using a combination of additional training and human expertise. By the last quarter of 2025, the company — which offers continuous AI red teaming ",
+      "source": "Axios — AI learned faster than the tests designed to measure it (2026-07-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: While each effort measures something different, they all reflect the same shift:",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: While each effort measures something different, they all reflect the same shift: static tests no longer capture how frontier AI systems behave in realistic environments. Earlier benchmarks focused on isolated tasks, such as solving a predic",
+      "source": "Axios — AI learned faster than the tests designed to measure it (2026-07-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-08T10:04:01+00:00"
+}

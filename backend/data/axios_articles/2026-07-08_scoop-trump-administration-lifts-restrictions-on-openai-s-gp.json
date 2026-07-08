@@ -1,0 +1,33 @@
+{
+  "title": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6",
+  "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
+  "pub_date": "2026-07-08",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6 (2026-07-08)",
+  "body": "The U.S. Department of Commerce has given OpenAI the green light for a broad launch of its advanced GPT-5.6 model , a source familiar with the situation confirmed to Axios Tuesday. OpenAI announced late Tuesday night that GPT-5.6 flagship model Sol, as well as lower tiers Terra and Luna, will launch publicly this Thursday. Why it matters : The government and the world's most advanced AI companies are negotiating how people get access to powerful technologies case-by-case, in real time. Driving the news: OpenAI's green light for the wide release of GPT 5.6 comes after additional testing and meetings between the company and government officials. Testing was done by the Center for AI Standards and Innovation within the Department of Commerce, with OpenAI sending technical experts who have remained in D.C. to address potential questions, the source said. Context: The Trump administration pushed OpenAI to conduct a staggered release of GPT-5.6 last month, limiting initial access to government-approved entities. OpenAI said at the time that the staggered rollout was not its preferred way to release new models. The company also said AI firms and the government are operating before more concrete standards for releasing such models — called for in President Trump's latest AI executive order — have been finalized. The big picture: Both OpenAI and Anthropic have recently had to limit the release of their most powerful new models. The Commerce Department in June banned foreigners from having access to Anthropic's Mythos and Fable models, essentially forcing their withdrawal from the market. The ban on Fable was lifted last week, with customer access restored one day later. Editor's note: This story has been updated with new details after OpenAI confirmed GPT-5.6 will become available on Thursday.",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: OpenAI's green light for the wide release of GPT 5.6 comes after additional test",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: OpenAI's green light for the wide release of GPT 5.6 comes after additional testing and meetings between the company and government officials. Testing was done by the Center for AI Standards and Innovation within the Department of Commerce,",
+      "source": "Axios — Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6 (2026-07-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-08T10:04:00+00:00"
+}
