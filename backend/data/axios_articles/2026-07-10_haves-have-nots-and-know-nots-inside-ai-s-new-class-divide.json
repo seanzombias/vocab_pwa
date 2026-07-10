@@ -1,0 +1,98 @@
+{
+  "title": "Haves, have-nots and know-nots: Inside AI's new class divide",
+  "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+  "pub_date": "2026-07-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Haves, have-nots and know-nots: Inside AI's new class divide (2026-07-10)",
+  "body": "A staggering class divide now separates how Americans experience artificial intelligence : For frontier power users, AI feels like a r evolution : a force capable of conjuring companies, building software and solving complex problems at warp speed. For the average person, it feels more like an evolution : a smarter search bar, a faster inbox, an ambient tech layer that saves time — but not much else. Why it matters: Trillions of dollars in economic value — and the livelihoods of millions of workers — are being staked on a technology that most Americans neither trust nor fully understand. It's a new chapter in America's digital divide — the AI \"haves,\" \"have-nots\" and \"know-nots\" — with profound implications for the future of wealth, work and power. Zoom in: The newest frontier models are designed for an agentic world of coding, research and cybersecurity that most Americans will never see, let alone operate. OpenAI's Sol and Anthropic's Fable now sit atop the pyramid of elite AI obsession, prized for running long coding and research loops with minimal human intervention. Prominent developers have spent the week personifying the two models — debating their temperaments, work ethics, even their personalities, the way sports fans argue over rival athletes. \"My overall feel is that Fable is a 'wise owl' who is very thoughtful and very well spoken,\" tweeted AI researcher Peter Gostev. \"GPT-5.6-Sol is like a rottweiler who will grab the problem by the throat and not let go until it is done.\" Reality check: The people fluent enough to judge Sol against Fable on a coding benchmark are a tiny slice of the country. For most Americans, those names and metrics mean nothing. Millions of people encounter AI passively or unknowingly — through search summaries, AI-generated content, customer-service bots and invisible features inside apps. Nearly half of U.S. adults now use AI chatbots, but the most common use is basic information search — the same job Google has done for two decades, a world away from autonomous coding agents. OpenAI counts more than 50 million paying subscribers in its weekly ChatGPT user base of more than 900 million. The population running agentic coding tools is a fraction of that fraction. Between the lines: Even among the elites living the frontier AI revolution, there's a pecking order. Sol began as a restricted preview for OpenAI's trusted partners and select organizations before broader rollout, making early access itself a status marker inside AI circles. Fable was pulled offline globally for nearly three weeks in June under U.S. export controls, while its more powerful sibling, Mythos , remains restricted to a small number of trusted organizations. The result is a hierarchy inside the hierarchy: free users, paid users, power users, preview users and an insider class testing capabilities the rest of the world can only read about. The big picture: The AI industry ultimately needs broad social permission for the transformation it's selling: more data centers, deeper workplace automation, and AI embedded in schools, government and daily life. Yet as AI adoption has climbed, trust has fallen: 63% of Americans say AI is advancing too quickly, and just 16% expect it to benefit society over the next 20 years, according to Pew Research . The clearest gains are being captured by investors, tech giants and power users, while ordinary Americans are being asked to absorb the disruption to jobs, energy and information feeds. What to watch: The Trump administration's Labor Department published a national AI literacy framework in February, aimed at helping workers \"share in the prosperity that AI will create.\" OpenAI, Anthropic, Microsoft and Amazon helped pool $500 million in June for RAISE US , a workforce retraining initiative led by former Commerce Secretary Gina Raimondo and former Indiana Gov. Eric Holcomb. But basic literacy efforts can only go so far: Frontier users have better tools, earlier access, deeper technical context and hundreds of hours of trial-and-error with systems that change every few weeks. Flashback: A century ago, electricity exposed a similar divide between Americans living in the modern age and those watching it from the dark. By 1930, nearly 90% of urban homes had electricity, compared with roughly 10% of farms. Private utilities had little incentive to wire rural customers spread across miles of unprofitable territory. It took the New Deal's Rural Electrification Administration — and years of federal loans — to bridge a gap the market had left behind. AI's divide may be even harder to close: Frontier access is scarce and expensive, and even where it's free, most people don't know what to do with it. The bottom line: The AI industry is betting on inevitability. But history suggests technological revolutions need legitimacy, too.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Trillions of dollars in economic value — and the livelihoods of millions of work",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Trillions of dollars in economic value — and the livelihoods of millions of workers — are being staked on a technology that most Americans neither trust nor fully understand. It's a new chapter in America's digital divide — the AI \"haves,\" ",
+      "source": "Axios — Haves, have-nots and know-nots: Inside AI's new class divide (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: A century ago, electricity exposed a similar divide between Americans living in",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: A century ago, electricity exposed a similar divide between Americans living in the modern age and those watching it from the dark. By 1930, nearly 90% of urban homes had electricity, compared with roughly 10% of farms. Private utilities ha",
+      "source": "Axios — Haves, have-nots and know-nots: Inside AI's new class divide (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The newest frontier models are designed for an agentic world of coding, research",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The newest frontier models are designed for an agentic world of coding, research and cybersecurity that most Americans will never see, let alone operate. OpenAI's Sol and Anthropic's Fable now sit atop the pyramid of elite AI obsession, pri",
+      "source": "Axios — Haves, have-nots and know-nots: Inside AI's new class divide (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Even among the elites living the frontier AI revolution, there's a pecking order",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Even among the elites living the frontier AI revolution, there's a pecking order. Sol began as a restricted preview for OpenAI's trusted partners and select organizations before broader rollout, making early access itself a status marker in",
+      "source": "Axios — Haves, have-nots and know-nots: Inside AI's new class divide (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The AI industry is betting on inevitability. But history suggests technological",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The AI industry is betting on inevitability. But history suggests technological revolutions need legitimacy, too.",
+      "source": "Axios — Haves, have-nots and know-nots: Inside AI's new class divide (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The people fluent enough to judge Sol against Fable on a coding benchmark are a",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The people fluent enough to judge Sol against Fable on a coding benchmark are a tiny slice of the country. For most Americans, those names and metrics mean nothing. Millions of people encounter AI passively or unknowingly — through search s",
+      "source": "Axios — Haves, have-nots and know-nots: Inside AI's new class divide (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-10T10:42:08+00:00"
+}

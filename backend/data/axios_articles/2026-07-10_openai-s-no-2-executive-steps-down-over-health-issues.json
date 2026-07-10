@@ -1,0 +1,59 @@
+{
+  "title": "OpenAI's No. 2 executive steps down over health issues",
+  "url": "https://www.axios.com/2026/07/10/openai-fidji-simo-steps-down-health-issues",
+  "pub_date": "2026-07-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI's No. 2 executive steps down over health issues (2026-07-10)",
+  "body": "Fidji Simo is stepping down after taking medical leave because of a worsening chronic illness. The big picture: Simo's departure removes one of OpenAI's highest-profile executives. Driving the news: Simo said Thursday she is stepping down as OpenAI's head of product and business after a \"severe exacerbation\" of Postural Orthostatic Tachycardia Syndrome (POTS), a chronic condition she was diagnosed with in 2019. She went on medical leave in April, and OpenAI President Greg Brockman assumed responsibility for product during her absence. Simo will remain at OpenAI as a part-time advisor. The Wall Street Journal first reported the news. What they're saying: \"I am only making this decision now because I failed to make it many times before,\" Simo wrote on X , adding that she's seeing the opportunity for AI applications in health now more than ever. CEO Sam Altman posted on X saying that he is \"really sad about this and very grateful...we all wish her the best for a speedy recovery. this sucks.\" Catch up quick: Simo joined OpenAI in 2025 after leading Instacart through its IPO and previously spent more than a decade at Meta. CEO Sam Altman hired her to scale OpenAI's applications business as the company expanded beyond frontier AI models into consumer and enterprise products.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Simo said Thursday she is stepping down as OpenAI's head of product and business",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Simo said Thursday she is stepping down as OpenAI's head of product and business after a \"severe exacerbation\" of Postural Orthostatic Tachycardia Syndrome (POTS), a chronic condition she was diagnosed with in 2019. She went on medical leav",
+      "source": "Axios — OpenAI's No. 2 executive steps down over health issues (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Simo joined OpenAI in 2025 after leading Instacart through its IPO and previousl",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Simo joined OpenAI in 2025 after leading Instacart through its IPO and previously spent more than a decade at Meta. CEO Sam Altman hired her to scale OpenAI's applications business as the company expanded beyond frontier AI models into cons",
+      "source": "Axios — OpenAI's No. 2 executive steps down over health issues (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I am only making this decision now because I failed to make it many times befor",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I am only making this decision now because I failed to make it many times before,\" Simo wrote on X , adding that she's seeing the opportunity for AI applications in health now more than ever. CEO Sam Altman posted on X saying that he is \"r",
+      "source": "Axios — OpenAI's No. 2 executive steps down over health issues (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-10T10:42:08+00:00"
+}

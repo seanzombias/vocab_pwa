@@ -1,0 +1,72 @@
+{
+  "title": "AI boom puts Big Tech's transparency to the test",
+  "url": "https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use",
+  "pub_date": "2026-07-10",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — AI boom puts Big Tech's transparency to the test (2026-07-10)",
+  "body": "After years of touting ambitious climate goals, big tech companies are now facing new scrutiny over what they disclose about AI's environmental footprint. Why it matters: The AI boom is turning a handful of tech companies into defining players in the debate over electricity and water use. Their willingness to disclose these impacts is becoming almost as important as the impacts themselves. Driving the news : New environmental reports from Google , Amazon and Microsoft show emissions and water use continuing to rise as AI infrastructure expands — while revealing differences in what the companies disclose. \"There is a bit of a reluctance to share a lot of things in this competitive dynamic and also with these being public companies,\" said Boris Gamazaychikov, who co-founded Sustainable AI Group, a new research and advisory firm that helps companies address the environmental impacts of AI. The big picture : Transparency is emerging as a key response to growing opposition to AI focused on data centers' energy and water toll. Amazon, Google, Microsoft and Meta account for roughly two thirds of the data-center power capacity in a top 15 ranking by financial firm Jefferies, so what they do influences the entire market. Friction point: United Nations Secretary-General António Guterres this week called on tech companies to publicly disclose the \"full footprint\" of their data centers, including carbon, water and land use. \"AI may feel intangible — but its footprint is not,\" Guterres said , reiterating the U.N.'s AI Environmental Transparency Initiative unveiled last month. State of play: Top executives at these tech companies generally say they support transparency, but their reporting varies widely once you dig into the disclosures. No law requires companies to detail many of these AI-related environmental metrics, and no common reporting standard exists for those that are disclosed. What they're saying: Kara Hurst, the chief sustainability officer at Amazon, said in an interview before the UN announcement that all companies building data centers should disclose their environmental footprints. \"We'd love to see one holistic interoperable standard,\" Hurst said. Catch up fast: Comparing the companies' disclosures is a complicated apples-to-oranges exercise. Alex de Vries-Gao, a researcher at VU Amsterdam university and founder of online platform Digiconomist, reviewed the latest disclosures and ranks them, on transparency alone, as Meta first, followed by Google and Microsoft in a \"toss-up\" for second, and Amazon last. Meta's 2026 report is expected later this year, likely in the late summer or early fall. Zoom in : Transparency doesn't necessarily equal top performance, and no company leads across every measure, according to de Vries-Gao's analysis published earlier this year and these latest reports. Google and Meta disclose the strongest energy-efficiency metrics, according to the analysis. Microsoft newly disclosed specific water and power metrics at individual data center locations in its latest report, which de Vries-Gao said represents \"a significant improvement in transparency.\" Amazon reports the strongest water-efficiency figure, though it ranks last overall because it provides the fewest metrics, including how much electricity it consumes, de Vries-Gao said. Google doesn't publish a companywide water-efficiency metric, arguing that a global average masks its local risk-based approach. Using Google's own data, de Vries-Gao estimates it would rank last. Only Meta discloses the water associated with electricity generation — a potentially significant omission by the others because that use typically far exceeds water consumed at the data center itself. Reality check: Disclosure is only one measure. Companies are also investing billions in clean-energy projects whose climate benefits could take years to materialize. On that front, Google is largely considered the leader, alongside Microsoft. How it works: AI infrastructure needs both electricity and cooling. As data centers expand, companies are increasingly trading water-intensive cooling for more energy-intensive alternatives. Between the lines: Generating electricity from fossil fuels and nuclear power requires large amounts of water, and some experts say tech companies should account for that. Judging by Meta's 2025 disclosures, this indirect water use was roughly 24 times larger than the amount used at its data centers, de Vries-Gao calculated . \"We don't know whether that ratio is representative of the rest of the industry because the other companies don't disclose comparable figures,\" he said. Not all environmental advocates agree this level of disclosure is warranted . \"It's probably not totally fair\" to hold them accountable for water from associated electricity, said Peter Gleick, co-founder of the Pacific Institute, a California-based water research nonprofit. \"But it's a legitimate question and would accelerate a push to switch to low-water using renewable energy sources.\" What we're watching : Gamazaychikov, of Sustainable AI Group, says pressure from these tech companies' customers, like consumer brands, will likely prompt more transparency and accountability in the absence of government action. The bottom line: \"I don't think anything regulatory is going to happen soon,\" he said. \"It's going to take business to make this happen.\"",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The AI boom is turning a handful of tech companies into defining players in the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The AI boom is turning a handful of tech companies into defining players in the debate over electricity and water use. Their willingness to disclose these impacts is becoming almost as important as the impacts themselves. Driving the news :",
+      "source": "Axios — AI boom puts Big Tech's transparency to the test (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Generating electricity from fossil fuels and nuclear power requires large amount",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Generating electricity from fossil fuels and nuclear power requires large amounts of water, and some experts say tech companies should account for that. Judging by Meta's 2025 disclosures, this indirect water use was roughly 24 times larger",
+      "source": "Axios — AI boom puts Big Tech's transparency to the test (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Kara Hurst, the chief sustainability officer at Amazon, said in an interview bef",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Kara Hurst, the chief sustainability officer at Amazon, said in an interview before the UN announcement that all companies building data centers should disclose their environmental footprints. \"We'd love to see one holistic interoperable st",
+      "source": "Axios — AI boom puts Big Tech's transparency to the test (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"I don't think anything regulatory is going to happen soon,\" he said. \"It's goin",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"I don't think anything regulatory is going to happen soon,\" he said. \"It's going to take business to make this happen.\"",
+      "source": "Axios — AI boom puts Big Tech's transparency to the test (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Disclosure is only one measure. Companies are also investing billions in clean-e",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Disclosure is only one measure. Companies are also investing billions in clean-energy projects whose climate benefits could take years to materialize. On that front, Google is largely considered the leader, alongside Microsoft. How it works",
+      "source": "Axios — AI boom puts Big Tech's transparency to the test (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-10T10:42:08+00:00"
+}
