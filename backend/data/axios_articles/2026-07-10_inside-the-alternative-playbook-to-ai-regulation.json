@@ -1,0 +1,72 @@
+{
+  "title": "Inside the alternative playbook to AI regulation",
+  "url": "https://www.axios.com/2026/07/10/alternative-playbook-ai-regulation",
+  "pub_date": "2026-07-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside the alternative playbook to AI regulation (2026-07-10)",
+  "body": "AI regulation in the U.S. over the last few months has been a frenzy. Some experts say it didn't have to be this way. Why it matters: AI companies and the government are praising each other for successful collaboration on rules for cutting-edge AI, but that view hides a scramble behind the scenes that could have been avoided. Driving the news : OpenAI and Anthropic's latest, most powerful models both ended up getting nods from the government before wide release. That would have been unthinkable just months ago. The big picture: The two companies now know first-hand what it's like to release powerful models under the Trump administration's approach to regulation. That's featured export control threats, licensing requirements and negotiations with a host of government agencies that are sometimes at odds. Other AI labs are poised to face the same process, as a cybersecurity executive order detailing standards and procedures gets implemented. Flashback: A Biden-era AI executive order required companies to share safety testing results with the government, including whether their models could be tricked into bypassing built-in safety guardrails. The \"jailbreaking\" issue was the type of vulnerability Amazon flagged last month that eventually led to export controls on Anthropic. President Trump, vowing to pursue a deregulatory agenda on AI, scrapped that order's reporting requirements. When the Trump administration's safety concerns with Anthropic came to a head, there was no alignment with industry and government on how severe jailbreaks need to be to raise a red flag. Had there been a framework to assess and standardize the severity of jailbreaking or safety bypassing, export controls may have been avoided, one source familiar with the situation told Axios. What they're saying: The rest of the world has implemented tech privacy regulations, updated antitrust laws and passed transparency and research access measures, former Biden tech official Asad Ramzanali said. \"We didn't do any of it,\" he said of the U.S., depriving the country of a strong foundation to create rules around AI today. \"Given where things are, this is the right thing for the companies and for the government,\" he added, referring to the Trump administration's efforts to set rules around powerful AI models. \"But we should never have been here.\" The government failed to recruit and retain technical expertise from the outset, according to the Cato Institute's Kevin Frazier, noting less than 1 percent of AI Ph.D.s go into government. Agencies like the Cybersecurity and Infrastructure Security Agency and the Center for AI Standards and Innovation have also been \"sidelined\" and underfunded, said Frazier, who is also the director of the University of Texas' AI and law program. CAISI's operational budget is $15 million but it needs $84 million annually to fulfill Trump's AI action plan, according to the Institute for Progress . \"The truth is that there's never been a 'right' answer for how to govern AI, but there are plenty of wrong ones,\" including deficient government expertise and failing to build trust among the public, Frazier said. He argued that the government could have learned from state initiatives, pointing to examples like Oklahoma's free AI literacy training, Utah's regulatory sandboxes for testing AI under heightened oversight, and Massachusetts' data practices. Meanwhile, Congress has failed to pass any comprehensive AI safety legislation that could help avoid these one-off regulatory fixes, despite years of bipartisan efforts and growing popular interest in reeling in AI. \"Right now, there is far too much confusion with the White House's AI vetting process — both for the country and for our leading AI developers,\" Rep. Josh Gottheimer (D-N.J.) told Axios. The other side: \"I thought it was a very productive process,\" OpenAI CEO Sam Altman said on CNBC the day after the company announced it would be doing a wide release of GPT 5.6 following government negotiations. \"This was our first time through it, so there are things we'll learn about how to make it better next time, which we'll get going on soon.\" Between the lines: Former President Biden's use of the Defense Production Act to impose mandatory disclosure requirements on AI companies was viewed at the time by Republicans and industry as an overreach but, under Trump, industry still faces significant pressure to collaborate. Trump has not invoked the DPA, and the administration says the provisions of his cyber executive order are voluntary. But it's clear that in today's regulatory environment, with what happened to Anthropic's Fable fresh in everyone's minds, AI companies need to keep the government happy. \"You really want to be confident in your safety claims because otherwise the world is going to get uncomfortable very fast,\" Altman said on CNBC. The White House said Tuesday that they did not approve or disapprove OpenAI's decision to release a model. What we're watching: Industry and the administration are continuing to work on the voluntary framework required by the June AI executive order . Per the order, it's due Aug. 1.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI companies and the government are praising each other for successful collabora",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI companies and the government are praising each other for successful collaboration on rules for cutting-edge AI, but that view hides a scramble behind the scenes that could have been avoided. Driving the news : OpenAI and Anthropic's late",
+      "source": "Axios — Inside the alternative playbook to AI regulation (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: A Biden-era AI executive order required companies to share safety testing result",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: A Biden-era AI executive order required companies to share safety testing results with the government, including whether their models could be tricked into bypassing built-in safety guardrails. The \"jailbreaking\" issue was the type of vulne",
+      "source": "Axios — Inside the alternative playbook to AI regulation (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Former President Biden's use of the Defense Production Act to impose mandatory d",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Former President Biden's use of the Defense Production Act to impose mandatory disclosure requirements on AI companies was viewed at the time by Republicans and industry as an overreach but, under Trump, industry still faces significant pre",
+      "source": "Axios — Inside the alternative playbook to AI regulation (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: The rest of the world has implemented tech privacy regulations, updated antitrus",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: The rest of the world has implemented tech privacy regulations, updated antitrust laws and passed transparency and research access measures, former Biden tech official Asad Ramzanali said. \"We didn't do any of it,\" he said of the U.S., depr",
+      "source": "Axios — Inside the alternative playbook to AI regulation (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-11T09:13:45+00:00"
+}

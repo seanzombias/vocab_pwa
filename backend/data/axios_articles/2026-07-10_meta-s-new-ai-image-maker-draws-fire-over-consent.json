@@ -1,0 +1,46 @@
+{
+  "title": "Meta's new AI image maker draws fire over consent",
+  "url": "https://www.axios.com/2026/07/10/meta-ai-image-consent",
+  "pub_date": "2026-07-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Meta's new AI image maker draws fire over consent (2026-07-10)",
+  "body": "Meta's move to allow user to create AI images using the likenesses of people with public Instagram accounts is drawing criticism from several camps, including privacy advocates and those who represent celebrities. Why it matters: The backlash highlights a core AI-era fight: whether people should have to opt out of having their faces used in AI-generated content, or whether companies should get affirmative consent first. Catch-up quick : Earlier this week, Meta debuted its Muse Image model and a feature within Meta AI that allowed people to tag any adult's public Instagram account and include that person's likeness in their creations. Users aren't notified when someone creates an AI image with their likeness and Instagram account holders have to opt out if they don't want their images used. What they're saying: Public Citizen called this an \"egregious invasion\" of peoples' privacy. \"Meta has once again chosen the creepiest possible path,\" J.B. Branch, director of federal AI governance and technology policy at Public Citizen, said in a statement. \"People should not wake up to discover their face has become raw material for someone else's AI experiment.\" The other side: Meta says its image generation tool \"has built-in protections designed to prevent the generation of policy-violating content, including violent, sexual, or defamatory imagery of real people.\" Meta has yet to change its policy in reaction to the opposition. Meta Superintelligence Labs chief Alexandr Wang told Axios that the company has heard similar feedback from some corners. \"We're definitely receiving a lot of the feedback and are being thoughtful about what the next steps for that product should be,\" Wang said. Talent agency CAA , meanwhile, called for Meta to change its policy so that people have to affirmatively give consent for their likeness to be used. \"No one's name, image, likeness, voice, or creative work should be used by any third party, including AI models, without clear, documented consent,\" CAA said in a statement. \"Artists deserve to decide if and how their likeness and work is used, with consent and the ability to set their own terms. This means letting creators impose restrictions, monitor usage, and prevent unauthorized endorsements or exploitation.\" SAG-AFTRA , the largest labor union for actors, recommended its members turn off sharing. \"SAG-AFTRA recommends that #SagAftraMembers (and all Instagram users) opt-OUT of Meta's new AI image generation tool, Muse Image,\" it said in an X post on Thursday, which also included the instructions to do so. \"Take action to protect your likeness.\" How it works: For those that want to see the opt-out process in action, check out this video from Axios' Madison Mills.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The backlash highlights a core AI-era fight: whether people should have to opt o",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The backlash highlights a core AI-era fight: whether people should have to opt out of having their faces used in AI-generated content, or whether companies should get affirmative consent first. Catch-up quick : Earlier this week, Meta debut",
+      "source": "Axios — Meta's new AI image maker draws fire over consent (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Public Citizen called this an \"egregious invasion\" of peoples' privacy. \"Meta ha",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Public Citizen called this an \"egregious invasion\" of peoples' privacy. \"Meta has once again chosen the creepiest possible path,\" J.B. Branch, director of federal AI governance and technology policy at Public Citizen, said in a statement. \"",
+      "source": "Axios — Meta's new AI image maker draws fire over consent (2026-07-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-11T09:13:45+00:00"
+}
