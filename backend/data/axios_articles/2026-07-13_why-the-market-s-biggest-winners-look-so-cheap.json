@@ -1,0 +1,72 @@
+{
+  "title": "Why the market's biggest winners look so cheap",
+  "url": "https://www.axios.com/2026/07/13/stocks-memory-earnings-ai",
+  "pub_date": "2026-07-13",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Why the market's biggest winners look so cheap (2026-07-13)",
+  "body": "Data: FactSet; Note: As of June 30, 2026 market close; Table: Matt Phillips/Axios The market's giant winners this year — memory-related stocks — also look ridiculously cheap. Why it matters: Their low price-to-earnings multiples reflect the market's worries that the current boom times won't last. Yes, but: Some analysts argue that this time is different because of the arrival of AI as a giant new source of demand for memory. They say the market should start valuing memory shares more like other tech companies. If the memory bulls are right, it could keep the market climbing. Case in point: Take SK Hynix, the South Korean memory chipmaker and market darling that soared more than 500% over the last year. It just raised $26.5 billion selling U.S. listed depositary shares that investors were clambering to get access to . The stock soared on its U.S. trading debut Friday, although it has now tumbled overnight in Seoul. With enthusiasm like that, one might expect a nosebleed level of valuation for the stock. Instead, its price-to-earnings multiple is just seven times. Zoom out: Same thing here in the U.S., where the two biggest blue chip gainers in the first half — Sandisk and Micron Technology — have P/E ratios that put them in the lowest 20% of the S&P 500. Context: These low P/Es reflect the longstanding Wall Street view — born out by experience — that memory chips are a highly cyclical part of the tech economy. In other words, it's a business prone to booms and busts, where good times seldom last. (Past downturns have caused bankruptcies that basically wiped investors out.) What they're saying: \" Multiples are low because of the perceived un-sustainability of earnings,\" says Mark Newman, who covers memory stocks for Bernstein Research. \"I would argue that the multiple is now effectively pricing an imminent collapse in profits.\" Newman and others think the market is wrong. They say the surge in memory demand shows no sign of slowing down amid the scramble to build AI data centers. Data centers' memory demand is different from the traditional big buyers of memory chips, makers of tech devices. They were limited in what they could pay for chips, because consumers wouldn't accept sharply higher prices for devices. \"Smartphones were more price sensitive, so it didn't go on forever,\" Newman says of past cycles, adding that \"we've never seen this magnitude of price hikes\" as in the current boom. Reality check: Gil Luria, an analyst covering memory for D.A. Davidson, says the low multiples show that investors don't understand how much the business has been transformed by AI. \"Memory is how AI happens. The GPU can't do an AI transaction without memory,\" Luria says, adding: \"We can't possibly have enough of it.\" The bottom line: Maybe this time is different. Maybe it isn't.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Their low price-to-earnings multiples reflect the market's worries that the curr",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Their low price-to-earnings multiples reflect the market's worries that the current boom times won't last. Yes, but: Some analysts argue that this time is different because of the arrival of AI as a giant new source of demand for memory. Th",
+      "source": "Axios — Why the market's biggest winners look so cheap (2026-07-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Same thing here in the U.S., where the two biggest blue chip gainers in the firs",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Same thing here in the U.S., where the two biggest blue chip gainers in the first half — Sandisk and Micron Technology — have P/E ratios that put them in the lowest 20% of the S&P 500. Context: These low P/Es reflect the longstanding Wall S",
+      "source": "Axios — Why the market's biggest winners look so cheap (2026-07-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \" Multiples are low because of the perceived un-sustainability of earnings,\" say",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \" Multiples are low because of the perceived un-sustainability of earnings,\" says Mark Newman, who covers memory stocks for Bernstein Research. \"I would argue that the multiple is now effectively pricing an imminent collapse in profits.\" Ne",
+      "source": "Axios — Why the market's biggest winners look so cheap (2026-07-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Maybe this time is different. Maybe it isn't",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Maybe this time is different. Maybe it isn't.",
+      "source": "Axios — Why the market's biggest winners look so cheap (2026-07-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Gil Luria, an analyst covering memory for D.A. Davidson, says the low multiples",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Gil Luria, an analyst covering memory for D.A. Davidson, says the low multiples show that investors don't understand how much the business has been transformed by AI. \"Memory is how AI happens. The GPU can't do an AI transaction without mem",
+      "source": "Axios — Why the market's biggest winners look so cheap (2026-07-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-14T09:43:25+00:00"
+}

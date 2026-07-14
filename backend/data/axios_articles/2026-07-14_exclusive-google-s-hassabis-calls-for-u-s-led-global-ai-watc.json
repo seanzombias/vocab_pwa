@@ -1,0 +1,72 @@
+{
+  "title": "Exclusive: Google's Hassabis calls for U.S.-led global AI watchdog",
+  "url": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
+  "pub_date": "2026-07-14",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Google's Hassabis calls for U.S.-led global AI watchdog (2026-07-14)",
+  "body": "Demis Hassabis , Google DeepMind co-founder and CEO, is calling on the U.S. to establish a new AI watchdog with the power to screen the world's most advanced models — and coordinate an industry-wide slowdown if dangers mount . Hassabis, the Nobel laureate behind Gemini, lays out the plan in a personal manifesto published Tuesday morning, \"A Framework for Frontier AI and the Dawning of a New Age.\" Why it matters: In an exclusive interview with Axios, Hassabis said the time has come for a more \"systematic\" approach to AI regulation — funded by the industry, staffed by world-class technical experts, and answerable to the U.S. government. Today's AI-driven cyber risks are \"warning shots,\" Hassabis told us from his London base. Within 18 months, he said, those capabilities — plus far graver biological and nuclear threats — could live inside open-source models beyond any government's control. Hassabis emphasized to us that risks will come from the major labs' more powerful future proprietary models, not just open-source models. \"What we collectively do now,\" he writes in his manifesto, \"will determine how the next phase of civilization unfolds.\" Behind the scenes: Hassabis has spent months quietly building support for the plan, briefing the Trump administration, fellow lab leaders and European officials before going public. \"The noises I've been hearing are very positive,\" he said of his talks with the administration, which had embraced a laissez-faire approach to AI regulation prior to the Mythos scare . Hassabis, a scientist who commands rare respect across AI's warring camps, says the other major lab leaders agree at a high level: \"This is where the industry needs to go.\" His timeline is aggressive. \"Months,\" Hassabis said, ideally with the new body operational \"before year-end.\" How it works: Hassabis is proposing an AI standards body modeled on FINRA (Financial Industry Regulatory Authority), the private, industry-funded watchdog that polices Wall Street under SEC oversight. Frontier labs would initially share their models with the body voluntarily, up to 30 days before release, for safety testing that probes dangerous cyber, biological and \" deception \" capabilities. Once the testing regime proves \"effective and robust,\" Hassabis writes, formalization \"could quickly follow.\" That means frontier models would be required to pass before they could be deployed in the U.S. market. Hassabis envisions a majority-independent board stacked with Turing Award winners and other credentialed experts, alongside industry, government and open-source representatives. The intrigue: The rules would apply to all frontier-class models, \"no matter their country of origin or whether they are open or closed\" — with the qualifying benchmarks regularly updated as capabilities evolve. Hassabis predicts the \"frontier\" designation would carry cachet: being tested means you matter. \"I think that's a pretty nice, prestige kind of asset to have,\" he told us. The big picture: The Trump administration's improvised crackdown on Anthropic's Mythos and Fable models last month was \"a bit of a wake-up call,\" Hassabis said — proof Washington needs something sturdier than ad hoc directives. Anthropic saw its most powerful models frozen overnight by an export-control order, then spent 2½ weeks negotiating their release with no established rules, protocol or playbook. OpenAI, hoping to avoid the same fate, agreed to restrict GPT-5.6 to government-vetted partners at launch. It was released publicly last week after negotiations and testing with the Commerce Department. Between the lines: Anthropic CEO Dario Amodei has issued his own call for binding regulation, envisioning an FAA-style agency with the power to block unsafe models. The lab chiefs behind Gemini and Claude now agree Washington should regulate them, differing mainly on who holds the authority. The bottom line: Hassabis believes AGI — a system with all the cognitive powers of the human brain — is \"probably only a few short years away,\" and that we're standing in \"the foothills of the singularity.\" \"We've essentially found a way to make sand think,\" he writes. \"It's miraculous.\" Read the post .",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: In an exclusive interview with Axios, Hassabis said the time has come for a more",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: In an exclusive interview with Axios, Hassabis said the time has come for a more \"systematic\" approach to AI regulation — funded by the industry, staffed by world-class technical experts, and answerable to the U.S. government. Today's AI-dr",
+      "source": "Axios — Exclusive: Google's Hassabis calls for U.S.-led global AI watchdog (2026-07-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The rules would apply to all frontier-class models, \"no matter their country of",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The rules would apply to all frontier-class models, \"no matter their country of origin or whether they are open or closed\" — with the qualifying benchmarks regularly updated as capabilities evolve. Hassabis predicts the \"frontier\" designati",
+      "source": "Axios — Exclusive: Google's Hassabis calls for U.S.-led global AI watchdog (2026-07-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Anthropic CEO Dario Amodei has issued his own call for binding regulation, envis",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Anthropic CEO Dario Amodei has issued his own call for binding regulation, envisioning an FAA-style agency with the power to block unsafe models. The lab chiefs behind Gemini and Claude now agree Washington should regulate them, differing m",
+      "source": "Axios — Exclusive: Google's Hassabis calls for U.S.-led global AI watchdog (2026-07-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Hassabis believes AGI — a system with all the cognitive powers of the human brai",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Hassabis believes AGI — a system with all the cognitive powers of the human brain — is \"probably only a few short years away,\" and that we're standing in \"the foothills of the singularity.\" \"We've essentially found a way to make sand think,",
+      "source": "Axios — Exclusive: Google's Hassabis calls for U.S.-led global AI watchdog (2026-07-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-14T09:43:24+00:00"
+}
