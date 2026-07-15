@@ -1,0 +1,85 @@
+{
+  "title": "Help wanted: Anthropic hires to head off catastrophe",
+  "url": "https://www.axios.com/2026/07/15/anthropic-hiring-catastrophe-amodei",
+  "pub_date": "2026-07-15",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Help wanted: Anthropic hires to head off catastrophe (2026-07-15)",
+  "body": "Anthropic has warned that its own technology could bring the end of civilization. Check out its latest job listings to understand how. Why it matters: Anthropic has 32 very scary job openings for roles designed to prevent people from using AI to build everything from man-made explosives to nuclear weapons. Catch up quick: Anthropic is hiring analysts focused on chemicals and explosives, nuclear weapons, financial scams, cybercrime and more. \"As an Enforcement Analyst focused on Radiological & Nuclear Harms, you will play a critical role in protecting against the misuse of AI systems for radiological and nuclear harms,\" one job description reads. Pay for these roles ranges in the mid- to upper-$200Ks. \"Ensuring our models don't provide potentially harmful information is central to responsible development,\" an Anthropic spokesperson said. \"That's why we regularly hire experts in a wide range of sensitive fields — people who understand these harms and how AI can advance them — to stress-test our systems and bolster our defenses before a model ever goes live.\" The spokesperson added that the specificity of the job descriptions and titles are meant to name the exact harm, which is necessary for recruiting the right candidates. Between the lines: More than any other AI lab, Anthropic has come under criticism for being too doomsday. But the company is putting money behind its belief that the potential downsides of AI are all too real. Flashback: CEO Dario Amodei has long warned how bad actors could use AI for harm. In a January essay , he named biological attacks as the most worrisome scenario among many. \"I do not think biological attacks will necessarily be carried out the instant it becomes widely possible to do so — in fact, I would bet against that,\" Amodei wrote. \"But added up across millions of people and a few years of time, I think there is a serious risk of a major attack ... with casualties potentially in the millions or more.\" Early this year, Anthropic broke with the Defense Department over the potential use of its technology for mass surveillance and autonomous weapons. How it works: As models become more powerful, AI labs are looking to bolster their safety teams. OpenAI is hiring a researcher specializing in biological and chemical risks with an annual base salary of $295K to $445K. Safety analyst roles at Anthropic require being able to think like someone trying to evade detection, the company says, adding that they employ hundreds who are dedicated to safety. They stress-test the models accordingly, fixing vulnerabilities. The jobs require more than back-end coding. People need real-world expertise, whether in biology, explosives or other dangers. The bottom line: Talent is flocking to the private sector instead of government. That, coupled with the absence of a coherent regulatory regime, means companies are leading on implementing guardrails on increasingly powerful AI.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Anthropic has 32 very scary job openings for roles designed to prevent people fr",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Anthropic has 32 very scary job openings for roles designed to prevent people from using AI to build everything from man-made explosives to nuclear weapons.",
+      "source": "Axios — Help wanted: Anthropic hires to head off catastrophe (2026-07-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Anthropic is hiring analysts focused on chemicals and explosives, nuclear weapon",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Anthropic is hiring analysts focused on chemicals and explosives, nuclear weapons, financial scams, cybercrime and more. \"As an Enforcement Analyst focused on Radiological & Nuclear Harms, you will play a critical role in protecting against",
+      "source": "Axios — Help wanted: Anthropic hires to head off catastrophe (2026-07-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: CEO Dario Amodei has long warned how bad actors could use AI for harm. In a Janu",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: CEO Dario Amodei has long warned how bad actors could use AI for harm. In a January essay , he named biological attacks as the most worrisome scenario among many. \"I do not think biological attacks will necessarily be carried out the instan",
+      "source": "Axios — Help wanted: Anthropic hires to head off catastrophe (2026-07-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: More than any other AI lab, Anthropic has come under criticism for being too doo",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: More than any other AI lab, Anthropic has come under criticism for being too doomsday. But the company is putting money behind its belief that the potential downsides of AI are all too real.",
+      "source": "Axios — Help wanted: Anthropic hires to head off catastrophe (2026-07-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Talent is flocking to the private sector instead of government. That, coupled wi",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Talent is flocking to the private sector instead of government. That, coupled with the absence of a coherent regulatory regime, means companies are leading on implementing guardrails on increasingly powerful AI.",
+      "source": "Axios — Help wanted: Anthropic hires to head off catastrophe (2026-07-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-15T09:46:45+00:00"
+}
