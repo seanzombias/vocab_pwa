@@ -1,0 +1,72 @@
+{
+  "title": "Behind the Curtain: AI godfathers converge on regulations",
+  "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
+  "pub_date": "2026-07-16",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Behind the Curtain: AI godfathers converge on regulations (2026-07-16)",
+  "body": "The three men racing hardest to build superhuman AI — Demis Hassabis , Sam Altman and Dario Amodei — all agree the frontier needs to be regulated ASAP. Why it matters: For the first time, the CEOs of Google DeepMind, OpenAI and Anthropic are on the record, in writing, converging on the same diagnosis and remarkably similar prescriptions. The three rivals each published a detailed distillation of their views in the past five weeks — the same extraordinary stretch in which Washington twice intervened to restrict or delay access to frontier models. We hear Meta's Mark Zuckerberg is working on his own memo, too. Driving the news: Hassabis' proposal , published Tuesday, drew rare public praise across the bitterly competitive AI industry, including from Altman , Microsoft CEO Satya Nadella and even longtime rival Elon Musk . Anthropic co-founder Jack Clark called the framework \"excellent,\" writing : \"At this point, everyone at the frontier of AI agrees that third parties should test out AI systems and use these to develop standards to feed into policy.\" The Trump administration itself is torn: Publicly, it has championed deregulation and resisted anything resembling \"an FDA for AI,\" determined not to choke off U.S. innovation in the race against China. Privately, officials admit a total hands-off approach is untenable: Cyber fears have already forced them into improvised regulation twice this summer — first over Anthropic's Fable and Mythos models, then over OpenAI's GPT-5.6 . The big picture: Amodei, Altman and Hassabis (plus countless CEOs and investors) basically agree on a rough regulatory framework. Independent testing: All three want frontier models subject to outside scrutiny before reaching the public — a break from the industry's old self-reporting standard. One governing system: All three cite legacy regulatory models, proposing bodies that set standards, certify compliance and can limit access to frontier systems deemed too dangerous. America First: All three want the U.S. — not a fragmented patchwork of states or rival national regimes — setting the terms for a body with international reach. Threat awareness: All three cite imminent national security vulnerabilities, including dangerous cyber and bioweapon capabilities. Innovation protection: None of them is calling for a broad crackdown on AI. The shared target is the small class of frontier models powerful enough to create catastrophic or strategic risk. Where they disagree: The AI godfathers part ways on whether the government itself should be the sole final referee. Amodei wants an FAA for AI: a federal agency with the power to block a model's release immediately, from Day 1. Hassabis wants a FINRA for AI: an industry-funded, federally overseen standards body that starts with voluntary pre-release reviews and could harden into mandatory market-access rules. Altman , writing in the Financial Times ($) , pushes an IAEA for AI: a U.S.-led international forum that certifies countries, companies and safety standards, using access to frontier models and markets as leverage for compliance. Between the lines: OpenAI, Google and Anthropic already have the lawyers, security teams, government relationships and technical staff to navigate a complex certification process. Startups and open-source developers would face a much steeper climb. Critics fear this could lead to regulatory capture: rules written to make AI safer may wind up entrenching the biggest AI companies. The bottom line: The Wild West era of AI development is officially over. The people with the most money, the most compute and the most to lose from an AI slowdown are the ones lobbying hardest for regulation. Axios' Zachary Basu contributed reporting. Read the manifestos: Demis Hassabis ... Sam Altman (April preview) ... Dario Amodei .",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: For the first time, the CEOs of Google DeepMind, OpenAI and Anthropic are on the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: For the first time, the CEOs of Google DeepMind, OpenAI and Anthropic are on the record, in writing, converging on the same diagnosis and remarkably similar prescriptions. The three rivals each published a detailed distillation of their vie",
+      "source": "Axios — Behind the Curtain: AI godfathers converge on regulations (2026-07-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Hassabis' proposal , published Tuesday, drew rare public praise across the bitte",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Hassabis' proposal , published Tuesday, drew rare public praise across the bitterly competitive AI industry, including from Altman , Microsoft CEO Satya Nadella and even longtime rival Elon Musk . Anthropic co-founder Jack Clark called the ",
+      "source": "Axios — Behind the Curtain: AI godfathers converge on regulations (2026-07-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: OpenAI, Google and Anthropic already have the lawyers, security teams, governmen",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: OpenAI, Google and Anthropic already have the lawyers, security teams, government relationships and technical staff to navigate a complex certification process. Startups and open-source developers would face a much steeper climb. Critics fe",
+      "source": "Axios — Behind the Curtain: AI godfathers converge on regulations (2026-07-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The Wild West era of AI development is officially over. The people with the most",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The Wild West era of AI development is officially over. The people with the most money, the most compute and the most to lose from an AI slowdown are the ones lobbying hardest for regulation. Axios' Zachary Basu contributed reporting. Read ",
+      "source": "Axios — Behind the Curtain: AI godfathers converge on regulations (2026-07-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-16T09:52:49+00:00"
+}
