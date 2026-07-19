@@ -1,0 +1,50 @@
+{
+  "title": "The bench's AI balancing act",
+  "url": "https://www.axios.com/2026/07/18/ai-lawyers-judges-balancing-act",
+  "pub_date": "2026-07-18",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The bench's AI balancing act (2026-07-18)",
+  "body": "Judges are becoming AI firewalls, setting guidelines for lawyers and litigants entering their courtrooms and reprimanding those who fail to vet their research or cite fake AI-generated cases. But judges are also navigating how to use the tech themselves. Why it matters: As attorney sanctions mount for irresponsible AI use, judges' chambers are at the center of the push and pull between innovation and caution. Some early adopters see AI use as a catalyst for justice — while other jurists remain staunchly skeptical. \"AI has the possibility to be an incredible value adder and force maximizer in the federal judiciary,\" says Amy Cyphert, a West Virginia University College of Law professor. \"But it also has the potential to undermine public confidence in the judiciary at a time where it's already at a historic low.\" By the numbers: 60% of 112 judges surveyed by Northwestern researchers reported using at least one AI tool. Just over 22% used AI tools weekly or daily. Cyphert's own research found judges worry about not only the risks of AI hallucinations but also the privacy and confidentiality implications. Yes, but: AI adoption is outpacing training, the judges reported in the survey. To fill those gaps, Magistrate Judge Maritza Braswell of the U.S. District Court of Colorado founded the Judicial AI Consortium (JAIC) , alongside Judge Scott Schlegel of Louisiana's circuit court and U.S. District Judge Xavier Rodriguez. \"Because the technology is moving very fast, I think the tendency tends to be to start from a place of fear,\" she says. So, \"we've really created the space where we start from a place of knowledge.\" Friction point: U.S. District Judge Liam O'Grady of the Eastern District of Virginia tells Axios that before he retired in 2023, judges were fascinated by AI — but they also \"had pretty grave doubts about its reliability.\" Lawyers, he says, had begun turning to the tools — and \"it was clear that mistakes were being made right away.\" Case in point: Last month, a federal judge in Mississippi punished four lawyers and canceled a civil trial after both sides cited fake, AI-generated cases. And it's not just lawyers who have faced heat. Damien Charlotin, a senior research fellow at HEC Paris, has identified more than 1,700 cases where generative AI hallucinated. On Thursday, a federal judge in Michigan accused the government of likely citing an AI-generated case in an immigration-related filing. While Chief Judge Hala Jarbou, a Trump appointee, did not impose sanctions, she wrote that \"the Government must ensure its future filings with this Court do not include nonexistent case law.\" The solution, JAIC's judicial co-founders who spoke with Axios emphasized, is education. \"We didn't shut down Zoom court because one lawyer showed up as a cat ,\" Schlegel says. Rodriguez adds that it's \"a work in progress by everybody — lawyers and judges alike.\" Plus, Braswell worries an outsized focus on hallucinations could distract from other ethical considerations, like bias and access to justice. Threat level: Schlegel adds that judges approach lawyers' or pro se litigants' use of AI differently than how they think about using it in their chambers. \"We need to be much more thoughtful in the way that we use these tools,\" he says, adding, \"When we sign an order, if there's something wrong in it, that's the law.\" The bottom line: Judges are learning a fast-moving technology from a seat where getting it wrong is most costly. \"I started practice in the '70s with the typewriter,\" O'Grady says, adding, \"There's been such a dramatic jump in technology.\" He says it's \"like learning a new language when you're 60 or 70 years old — It's not easy. We've got a whole generation of judges who this is just completely new to, and they're cautious and skeptical.\" Go deeper: AI tells lawyers how judges are likely to rule",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: As attorney sanctions mount for irresponsible AI use, judges' chambers are at th",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: As attorney sanctions mount for irresponsible AI use, judges' chambers are at the center of the push and pull between innovation and caution. Some early adopters see AI use as a catalyst for justice — while other jurists remain staunchly sk",
+      "source": "Axios — The bench's AI balancing act (2026-07-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Judges are learning a fast-moving technology from a seat where getting it wrong",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Judges are learning a fast-moving technology from a seat where getting it wrong is most costly. \"I started practice in the '70s with the typewriter,\" O'Grady says, adding, \"There's been such a dramatic jump in technology.\" He says it's \"lik",
+      "source": "Axios — The bench's AI balancing act (2026-07-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: AI tells lawyers how judges are likely to rule",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: AI tells lawyers how judges are likely to rule",
+      "source": "Axios — The bench's AI balancing act (2026-07-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-19T09:41:33+00:00"
+}
