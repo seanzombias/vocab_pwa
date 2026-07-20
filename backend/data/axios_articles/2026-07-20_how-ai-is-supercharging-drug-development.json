@@ -1,0 +1,59 @@
+{
+  "title": "How AI is supercharging drug development",
+  "url": "https://www.axios.com/2026/07/20/artificial-intelligence-drug-development-impact",
+  "pub_date": "2026-07-20",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — How AI is supercharging drug development (2026-07-20)",
+  "body": "Artificial intelligence is dramatically speeding up drug development — and a proprietary survey shows how it's priming a bigger automation push that's changing the trajectory of early stage pharma research. Why it matters: The TD Cowen survey of 80 biopharma leaders and insiders finds AI is compressing drug developers' preclinical costs and timelines by as much as 70%. That's fueling demand for cutting-edge software, sequencing tools and computer models that will help churn out more experimental treatments in the next five years. The big picture: AI can't replace scientific intuition. But the way it can streamline the grueling R&D before human testing begins is making computer screens as important a feature of drug design as traditional laboratories. The hope is to \"create more shots on goal,\" says Brendan Smith, director of life sciences equity research at TD Cowen, and to generate large amounts of data that can train the AI models to increase the odds of clinical success. There's a considerable downstream effect on \"wet labs,\" where scientists will still evaluate the safety and effectiveness of the compounds. Between the lines: The idea of a continuous research loop contrasts with the AI-fueled disruption and job losses hitting parts of white-collar America — though some segments of pharma could still be affected. The Trump administration's push to reduce animal testing in biomedical research will probably pivot more work to computational tools, 3D human tissue models and other alternatives that predict the toxicity of a compound. Demand for advanced software that can simulate biological processes and predict how two drugs can interfere with each other or adjust dosages for newborns and pregnant women will see the strongest upside by 2028, the survey finds. Companies already are pouring money into prediction and modeling tools like \"in silico\" platforms that allow scientists to run thousands of virtual experiments in seconds and simulate the toxicity or stability of a drug. By the numbers: The proprietary survey data indicates new drug development programs could grow by more than 10% in three to five years. That technology buying spree, along with more spending on labs, could account for an additional $1 billion in incremental spending. Reality check: AI hasn't yet discovered a drug that's won Food and Drug Administration approval. And some investors question its ability to have a significant impact on patients. One concern is that all the engineering and optimization may not sufficiently factor in human responses — and how different people are — before the compounds reach clinical trials. Without more of that, skeptics say the new drug failure rate could remain around 90%. What we're watching: China's biotech buildup continues to threaten U.S. research efforts by offering cheaper labor and quick turnaround times that already are attracting billions in new investment. The administration \"keeps moving the goal post\" on AI policy, trying to straddle a hands-off regulatory approach with more oversight of safety and privacy concerns, TD Cowen notes.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The TD Cowen survey of 80 biopharma leaders and insiders finds AI is compressing",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The TD Cowen survey of 80 biopharma leaders and insiders finds AI is compressing drug developers' preclinical costs and timelines by as much as 70%. That's fueling demand for cutting-edge software, sequencing tools and computer models that ",
+      "source": "Axios — How AI is supercharging drug development (2026-07-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The idea of a continuous research loop contrasts with the AI-fueled disruption a",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The idea of a continuous research loop contrasts with the AI-fueled disruption and job losses hitting parts of white-collar America — though some segments of pharma could still be affected. The Trump administration's push to reduce animal t",
+      "source": "Axios — How AI is supercharging drug development (2026-07-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: AI hasn't yet discovered a drug that's won Food and Drug Administration approval",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: AI hasn't yet discovered a drug that's won Food and Drug Administration approval. And some investors question its ability to have a significant impact on patients. One concern is that all the engineering and optimization may not sufficientl",
+      "source": "Axios — How AI is supercharging drug development (2026-07-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-20T10:37:37+00:00"
+}

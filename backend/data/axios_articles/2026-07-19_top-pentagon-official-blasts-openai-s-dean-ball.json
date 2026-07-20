@@ -1,0 +1,46 @@
+{
+  "title": "Top Pentagon official blasts OpenAI's Dean Ball",
+  "url": "https://www.axios.com/2026/07/19/pentagon-openai-dean-ball-trump-ai",
+  "pub_date": "2026-07-19",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Top Pentagon official blasts OpenAI's Dean Ball (2026-07-19)",
+  "body": "A senior Trump administration official and key adviser are slamming OpenAI head of strategic futures Dean Ball's views on regulation, casting a shadow on the future of the company's relationship with the government. Why it matters: The criticism targets a former White House architect of the administration's AI Action Plan who now works at OpenAI, potentially complicating the company's relationship with the Trump administration. State of play: The Trump administration is grappling with how to balance competition and cybersecurity concerns as increasingly capable Chinese AI models come onto the scene. Ball said the Trump administration would eventually land on creating regulatory risk around using Chinese models as \"their best strategy.\" That prompted outside White House AI adviser David Sacks to question whether Ball was advocating for regulatory capture — a scenario that would benefit Ball's new employer OpenAI. Ball in another X post over the weekend clarified he was not proposing \"ill-justified soft-law discouragement of Chinese AI\" as a good idea. Zoom in: \"Every industry/ecosystem has its supreme village idiot. @deanwball is that for AI,\" Defense under secretary Emil Michael said Sunday on X . \"Dean Ball has perhaps the biggest gap between actual IQ and his own perceived IQ of anyone in the industry (about 40 points).\" Michael was arguing against Ball's point that various government agencies, including the Pentagon, have blocked employees from using Chinese AI, which has already sent a message to regulated companies. That happened through a \"democratic process,\" Michael said, \"not some Deep State scheme.\" What we're watching: The Pentagon has not shied away from going ad hominem as seen in a fight with Anthropic earlier this year. The relationship quickly deteriorated: Anthropic was deemed a national security risk and had to take the government to court. The spat between Ball and key Trump officials could translate to larger scrutiny of OpenAI. Ball, the Pentagon and OpenAI did not immediately respond to Axios' Sunday evening request for comment.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The criticism targets a former White House architect of the administration's AI",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The criticism targets a former White House architect of the administration's AI Action Plan who now works at OpenAI, potentially complicating the company's relationship with the Trump administration. State of play: The Trump administration ",
+      "source": "Axios — Top Pentagon official blasts OpenAI's Dean Ball (2026-07-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: \"Every industry/ecosystem has its supreme village idiot. @deanwball is that for",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: \"Every industry/ecosystem has its supreme village idiot. @deanwball is that for AI,\" Defense under secretary Emil Michael said Sunday on X . \"Dean Ball has perhaps the biggest gap between actual IQ and his own perceived IQ of anyone in the ",
+      "source": "Axios — Top Pentagon official blasts OpenAI's Dean Ball (2026-07-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-20T10:37:37+00:00"
+}
