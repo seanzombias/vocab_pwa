@@ -1,0 +1,39 @@
+{
+  "title": "Scoop: Trump AI security agency head resigns",
+  "url": "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns",
+  "pub_date": "2026-07-20",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Scoop: Trump AI security agency head resigns (2026-07-20)",
+  "body": "Chris Fall, the director of the Center for AI Standards and Innovation, is resigning just three months after taking over the federal AI testing institute, the Commerce Department confirmed on Monday. Why it matters: The abrupt departure comes as the Trump administration grapples with how to deploy AI safely and the agency hashes out standards. Commerce spokesperson Benno Kass confirmed Fall's resignation to Axios. Context: Fall was appointed in April to lead Commerce's Center for AI Standards and Innovation after the administration reorganized the agency formerly known as the U.S. AI Safety Institute. CAISI is responsible for developing AI testing and evaluation capabilities and supporting standards for advanced AI systems. What they're saying: \"Following Chris's departure, NIST Director Dr. Arvind Raman will continue to oversee CAISI and will serve as Acting CAISI Director,\" Commerce spokesperson Kristen Eichamer said in a statement to Axios. Raman, a former Purdue University engineering dean, was sworn in as the director of the National Institute of Standards and Technology on June 30. What we're watching: While Raman will serve as acting director, the office will remain without permanent leadership as the administration debates its next steps on AI standards and oversight. What's next: The Commerce Department expects to announce a new director in the coming weeks. A Commerce official said Fall's appointment was always intended to be temporary and that Raman has been reviewing candidates over the past several weeks. Editor's note: This story has been updated with a statement from the Department of Commerce.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The abrupt departure comes as the Trump administration grapples with how to depl",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The abrupt departure comes as the Trump administration grapples with how to deploy AI safely and the agency hashes out standards. Commerce spokesperson Benno Kass confirmed Fall's resignation to Axios. Context: Fall was appointed in April t",
+      "source": "Axios — Scoop: Trump AI security agency head resigns (2026-07-20)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Following Chris's departure, NIST Director Dr. Arvind Raman will continue to ov",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Following Chris's departure, NIST Director Dr. Arvind Raman will continue to oversee CAISI and will serve as Acting CAISI Director,\" Commerce spokesperson Kristen Eichamer said in a statement to Axios. Raman, a former Purdue University eng",
+      "source": "Axios — Scoop: Trump AI security agency head resigns (2026-07-20)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-21T10:11:37+00:00"
+}
