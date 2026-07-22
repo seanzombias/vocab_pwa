@@ -1,0 +1,72 @@
+{
+  "title": "Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data",
+  "url": "https://www.axios.com/2026/07/21/trump-truth-social-api-posts",
+  "pub_date": "2026-07-21",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data (2026-07-21)",
+  "body": "Rep. Ritchie Torres (D-N.Y.) has asked the Securities and Exchange Commission to investigate whether plans by Truth Social's parent company to sell Wall Street firms real-time access to President Trump's posts could violate federal securities laws, according to a copy of the letter obtained by Axios. Why it matters: The letter escalates scrutiny of Trump Media & Technology Group's plan to monetize faster access for institutional investors to President Trump's market-moving social posts . Catch up quick: TMTG's new Truth API product, which is slated to debut Aug. 1, will provide real-time access to publicly available posts from the platform's top 10 trending accounts, Axios reported last week. TMTG executives reportedly pitched the service for a licensing fee of up to $100,000 per month, per Reuters . In the future, the API can be expanded to more accounts for customers willing to pay more, interim CEO Kevin McGurn told Axios. Zoom in: In the letter sent Monday to SEC chair Paul Atkins, Torres urged the agency to review Truth API before its planned launch and determine whether it raises securities law, market manipulation or investor protection concerns. \"There is a fundamental difference between a social media platform licensing ordinary data and a company substantially owned by the sitting President selling sophisticated traders faster access to his market-moving policy announcements,\" the letter reads, while noting the president reportedly retains a roughly 41% stake in the company through a revocable trust. \"Presidential communications capable of affecting stocks, bonds, oil, currencies, and other assets should not become a premium financial product that gives wealthy institutions a millisecond advantage over retail investors,\" it continues. \"Even a brief informational edge can generate substantial profits in algorithmic markets and erode confidence in a fair and level playing field.\" The other side: A TMTG spokesperson told Axios, \"Truth API offers customers the fastest way to ingest publicly available Truth Social data.\" Between the lines: Torres also suggested the SEC coordinate with the Commodity Futures Trading Commission, the Office of Government Ethics and other appropriate federal entities to scrutinize any potential conflicts of interest. He asked the SEC to disclose whether it is reviewing the product and what safeguards will be in place to detect suspicious trading around presidential posts. Zoom out: Torres' letter is the latest in a string of concern from both sides of the aisle around the product. Last week, Senate Minority Leader Chuck Schumer (D-N.Y.) said \"Truth API is the definition of insider trading.\" On Tuesday, Senate Majority Leader John Thune (R-S.D.) told reporters on Capitol Hill, \"My assumption is that'll have some regulatory look — legal look. My assumption is that'll get tested somewhere. I don't know the answer to that. It's kind of plowing new ground, new territory in these predictive markets.\" The big picture: The SEC has previously probed TMTG's accounting firm and the SPAC company that merged with TMTG. The agency settled with the SPAC , Digital World Acquisition Corporation, in 2023. TMTG stock has rallied in recent weeks on optimism around its business model expansion, but it remains well below its 2024 post-SPAC merger peak. Disclosure: In 2023, TMTG sued 20 media organizations, including Axios, for defamation. Litigation is ongoing.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The letter escalates scrutiny of Trump Media & Technology Group's plan to moneti",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The letter escalates scrutiny of Trump Media & Technology Group's plan to monetize faster access for institutional investors to President Trump's market-moving social posts .",
+      "source": "Axios — Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: TMTG's new Truth API product, which is slated to debut Aug. 1, will provide real",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: TMTG's new Truth API product, which is slated to debut Aug. 1, will provide real-time access to publicly available posts from the platform's top 10 trending accounts, Axios reported last week. TMTG executives reportedly pitched the service ",
+      "source": "Axios — Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Torres' letter is the latest in a string of concern from both sides of the aisle",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Torres' letter is the latest in a string of concern from both sides of the aisle around the product. Last week, Senate Minority Leader Chuck Schumer (D-N.Y.) said \"Truth API is the definition of insider trading.\" On Tuesday, Senate Majority",
+      "source": "Axios — Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: In the letter sent Monday to SEC chair Paul Atkins, Torres urged the agency to r",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: In the letter sent Monday to SEC chair Paul Atkins, Torres urged the agency to review Truth API before its planned launch and determine whether it raises securities law, market manipulation or investor protection concerns. \"There is a funda",
+      "source": "Axios — Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Torres also suggested the SEC coordinate with the Commodity Futures Trading Comm",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Torres also suggested the SEC coordinate with the Commodity Futures Trading Commission, the Office of Government Ethics and other appropriate federal entities to scrutinize any potential conflicts of interest. He asked the SEC to disclose w",
+      "source": "Axios — Scoop: Lawmaker asks SEC to investigate Truth Social's plan to monetize access to its data (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-22T10:11:26+00:00"
+}

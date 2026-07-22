@@ -1,0 +1,61 @@
+{
+  "title": "N.J. removes noncitizens from voter rolls after finding software glitch",
+  "url": "https://www.axios.com/2026/07/21/new-jersey-glitch-registered-noncitizens-elections",
+  "pub_date": "2026-07-21",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — N.J. removes noncitizens from voter rolls after finding software glitch (2026-07-21)",
+  "body": "New Jersey Gov. Mikie Sherrill (D) ordered the removal of self-identified noncitizens erroneously added to voter rolls after a software error led to some 6,600 people being incorrectly registered. The big picture: Fewer than 400 people who were registered because of the error actually voted, but the incident could fuel the President Trump's unsupported claims of mass voter fraud that critics say threaten to undermine trust in elections. Sherrill said there was no evidence at this time that any elections were swayed by the incident. Driving the news: The error — which occurred between June 2023 and June 2024, before Sherrill was sworn in — led to the voter registration of people applying for driver's licenses and ID cards, even though they answered \"no\" when asked on a keypad whether they were U.S. citizens. Those who eventually voted were registered as Democrats or Republicans or as unaffiliated, per Sherrill's statement. She also ordered an investigation into the registrations, which occurred under her predecessor, Gov. Phil Murphy. Sherrill's Motor Vehicle Commission has begun the process of replacing IDEMIA, the vendor that administered the system. IDEMIA did not immediately respond to Axios' request for comment. MVC Chair and Chief Administrator Rosalie Johnson said in a Tuesday press conference that the agency is now working with a new vendor with a system expected to launch next year. Zoom out: Republicans were quick to ridicule Democrats over the error, while the White House again framed it as evidence that proof of citizenship legislation must pass. \"As President Trump has said, there is nothing more important than the integrity of our elections,\" White House spokesperson Abigail Jackson said in a statement provided to Axios. \"And this latest incident underscores the absolute necessity of the SAVE America Act.\" What they're saying: \"I am appalled by the reckless failures that allowed this to happen and the lack of transparency shown by those in charge at the time,\" Sherrill said. \"This failure didn't occur under my watch, but accountability starts now.\" But she added, \"Let me be clear: Donald Trump has zero credibility on the issue of election integrity.\" \"The difference is simple: when we find a problem, we don't hide it, deny it, or invent conspiracies,\" she said. \"We investigate it, we fix it, and we tell the public.\" Go deeper: Exclusive: ICE obtains local voter files",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The error — which occurred between June 2023 and June 2024, before Sherrill was",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The error — which occurred between June 2023 and June 2024, before Sherrill was sworn in — led to the voter registration of people applying for driver's licenses and ID cards, even though they answered \"no\" when asked on a keypad whether th",
+      "source": "Axios — N.J. removes noncitizens from voter rolls after finding software glitch (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Republicans were quick to ridicule Democrats over the error, while the White Hou",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Republicans were quick to ridicule Democrats over the error, while the White House again framed it as evidence that proof of citizenship legislation must pass. \"As President Trump has said, there is nothing more important than the integrity",
+      "source": "Axios — N.J. removes noncitizens from voter rolls after finding software glitch (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I am appalled by the reckless failures that allowed this to happen and the lack",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I am appalled by the reckless failures that allowed this to happen and the lack of transparency shown by those in charge at the time,\" Sherrill said. \"This failure didn't occur under my watch, but accountability starts now.\" But she added,",
+      "source": "Axios — N.J. removes noncitizens from voter rolls after finding software glitch (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Exclusive: ICE obtains local voter files",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Exclusive: ICE obtains local voter files",
+      "source": "Axios — N.J. removes noncitizens from voter rolls after finding software glitch (2026-07-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-22T10:11:26+00:00"
+}
