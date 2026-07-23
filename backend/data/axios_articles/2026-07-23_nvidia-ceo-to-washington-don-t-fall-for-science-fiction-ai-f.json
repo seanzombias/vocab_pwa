@@ -1,0 +1,85 @@
+{
+  "title": "Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear",
+  "url": "https://www.axios.com/2026/07/23/nvidia-ceo-kimi-ai-fears-trump-washington",
+  "pub_date": "2026-07-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear (2026-07-23)",
+  "body": "Nvidia CEO Jensen Huang is warning the Trump administration and other policymakers not to let \"science fiction\" fears about AI drive policy — arguing that overreaction could slow adoption and weaken America's competitive edge. Why it matters: Washington is navigating two AI minefields at once: how to manage increasingly advanced systems , and whether to restrict powerful open-source models emerging from China over alleged IP theft and security risks. Driving the news: Huang railed against AI doomerism in an interview with Axios' Mike Allen for our \"Behind the Curtain\" video series — implicitly challenging fellow tech CEOs who have emphasized the technology's potentially catastrophic risks. \"The fact that this is going to be the end of humanity — it's complete nonsense,\" Huang said. \"The fact that this is going to destroy half of the American jobs is complete nonsense.\" Scaring workers and companies away from using AI, he said, poses the greater danger. Huang called on policymakers to consult more than \"one or two\" CEOs and avoid restricting the technology based on scenarios that have not materialized. \"Before you listen to all the rhetoric, before you listen to all the stories, before you manifest some kind of artificial intelligence future that is just not true — it's science fiction.\" He also suggested some companies are invoking safety arguments to secure favorable regulations: \"Some of the companies hope that the government would be helpful in creating regulations to their advantage.\" Asked whether he feared the administration could overcorrect, Huang said yes. Between the lines: Anthropic and OpenAI have pushed Washington to take the most advanced systems and their potential risks seriously. Critics say those safety campaigns could also entrench the labs' market position. Huang did not name either company, and Nvidia is a major partner and supplier to both. Anthropic CEO Dario Amodei, in particular, has been at the center of high-stakes fights with the Pentagon and White House over how the government should use and deploy advanced AI. The big picture: The Trump administration is pushing rapid AI adoption while treating some advanced frontier systems as a national-security risk. At the same time, officials and American CEOs are warning about Chinese open models. On Wednesday, Treasury Secretary Scott Bessent threatened sanctions and trade restrictions against Chinese firms conducting what he called \"industrial-scale distillation attacks.\" Earlier that day, Office of Science and Technology Policy Director Michael Kratsios accused Chinese startup Moonshot AI of distilling Anthropic's technology to develop Kimi and said it likely used Nvidia chips to train its models. A Commerce Bureau of Industry and Security spokesperson told Axios it's investigating potential Nvidia Blackwell chip export violations. The intrigue: Huang has unusual influence with the Trump administration — and a knack for speaking its language. He lavished praise on President Trump and his top advisers, calling White House Chief of Staff Susie Wiles, Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick \"incredible people.\" \"They want to see his presidency's success, and we all do. He's my president and I want my president to be successful so that our country could be successful.\" That relationship has coincided with major policy wins for Nvidia, including approval to resume exports of some AI chips to China. The bottom line: As AI capabilities surge and Chinese models improve, Huang's worldview faces its biggest test yet: whether Washington treats openness and rapid adoption as sources of American strength — or as risks to contain.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Washington is navigating two AI minefields at once: how to manage increasingly a",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Washington is navigating two AI minefields at once: how to manage increasingly advanced systems , and whether to restrict powerful open-source models emerging from China over alleged IP theft and security risks.",
+      "source": "Axios — Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Huang railed against AI doomerism in an interview with Axios' Mike Allen for our",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Huang railed against AI doomerism in an interview with Axios' Mike Allen for our \"Behind the Curtain\" video series — implicitly challenging fellow tech CEOs who have emphasized the technology's potentially catastrophic risks. \"The fact that",
+      "source": "Axios — Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Huang has unusual influence with the Trump administration — and a knack for spea",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Huang has unusual influence with the Trump administration — and a knack for speaking its language. He lavished praise on President Trump and his top advisers, calling White House Chief of Staff Susie Wiles, Treasury Secretary Scott Bessent ",
+      "source": "Axios — Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Anthropic and OpenAI have pushed Washington to take the most advanced systems an",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Anthropic and OpenAI have pushed Washington to take the most advanced systems and their potential risks seriously. Critics say those safety campaigns could also entrench the labs' market position. Huang did not name either company, and Nvid",
+      "source": "Axios — Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: As AI capabilities surge and Chinese models improve, Huang's worldview faces its",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: As AI capabilities surge and Chinese models improve, Huang's worldview faces its biggest test yet: whether Washington treats openness and rapid adoption as sources of American strength — or as risks to contain.",
+      "source": "Axios — Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-23T10:09:14+00:00"
+}

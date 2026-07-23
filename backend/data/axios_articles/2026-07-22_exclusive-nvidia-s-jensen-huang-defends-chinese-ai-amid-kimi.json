@@ -1,0 +1,85 @@
+{
+  "title": "Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic",
+  "url": "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai",
+  "pub_date": "2026-07-22",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic (2026-07-22)",
+  "body": "Nvidia CEO Jensen Huang believes America has nothing to fear from China's open-source AI models — and everything to fear from the growing campaign to ban them. \"These Chinese models are excellent,\" Huang told Axios' Mike Allen on Tuesday in an exclusive interview for our \"Behind the Curtain\" video series. \"Open-source models that are excellent should be used.\" Why it matters: The world's top AI chipmaker says American companies should \"absolutely\" be allowed to use Chinese models — a direct challenge to Trump officials and the U.S. labs lobbying Washington to shut them out. Among them are Nvidia's own customers, OpenAI and Anthropic , which have accused Chinese rivals of siphoning capabilities from their models and warned that Beijing's open-source surge threatens America's AI lead. Huang rejected the idea that OpenAI and Anthropic should be afraid of open models, arguing they expand the market by giving more people a first taste of AI, while many users will still pay for the convenience, reliability and stronger performance of closed services. \"There's no scenario where China runs U.S. companies off the road,\" Huang told us. \"Zero possibility.\" Huang sat down with Axios in Fort Worth, Texas, at the opening of a new phase of an advanced manufacturing plant where Taiwan-based Wistron makes AI infrastructure for Nvidia, showing the U.S. is capable of some of the world's most sophisticated manufacturing. The big picture: The release of Kimi K3 by Beijing-based Moonshot AI has triggered the most intense bout of AI panic since DeepSeek rattled financial markets in January 2025. Kimi combines three qualities rarely seen together: near-frontier performance, dramatically lower prices and open weights that developers will soon be able to download and customize. That combination helped fuel a sell-off of Nvidia and other chip stocks, reviving fears that cheaper, more efficient models could undercut the case for the industry's massive AI infrastructure buildout. Zoom in: Huang says Wall Street and Washington have the Kimi shock exactly backward. \"The market misunderstood the impact of DeepSeek the first time,\" he told Axios, adding that Wall Street has \"misunderstood the impact of Kimi again this time.\" His argument is simple: Cheaper, open models will bring AI to more people and businesses, increasing demand for the chips, data centers and computing power Nvidia sells. \"Free AI should be great for hardware,\" Huang said. \"Free AI should be great for chips. Free AI should be great for data centers.\" Zoom out: When it comes to policy, Huang believes restricting open models in the name of national security could leave America more vulnerable. He rejected the \"misconception\" that downloaded Chinese models create a \"backdoor\" to Beijing, arguing that companies can customize them and control their access inside secure \"sandboxes.\" Huang suggested openness makes AI more secure, not less, because outside researchers can inspect the models, expose weaknesses and build defenses. \"If everything just becomes one single model, one single point of attack, one single source of failure, I think the world is much, much more vulnerable,\" he said. Huang applied the same logic to American models, and called for Anthropic to make its restricted cyber model, Claude Mythos , available to \"everyone\" rather than limiting access. Huang argued that companies should harden powerful models through testing and rapid fixes rather than restricting access from the outset. \"Mythos should be available as a service,\" he said. \"Remember: Just because Mythos is not available, open models are available anyhow. So I think: Let Anthropic run.\" \"Holding Anthropic back is not in the benefit of the United States,\" he said. Between the lines: Huang sees the AI race itself very differently from Washington, where some Trump advisers have cast China's gains as a five-alarm threat to U.S. dominance. He dismissed the notion that it's \"a race with an endpoint\": \"We're going to continue to use AI forever. The United States is going to be here for a long time. China's going to be here for a long time.\" The intrigue: Huang's comments came hours after Treasury Secretary Scott Bessent told Fox Business that the administration is examining Chinese AI models for stolen U.S. intellectual property — and considering sanctions in response. \"If we see ... that overseas models are stealing from our great companies, we have the ability to sanction them because of this theft,\" Bessent said, citing \"watermarks\" of U.S. models inside Chinese ones. Huang drew a different conclusion. \"Distillation, learning from AI, learning from other sources of knowledge, is fundamental to intelligence,\" he told Axios. He said companies should still face consequences for violating privacy or contracts, but his broader message was clear: Target the misconduct, not the models.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The world's top AI chipmaker says American companies should \"absolutely\" be allo",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The world's top AI chipmaker says American companies should \"absolutely\" be allowed to use Chinese models — a direct challenge to Trump officials and the U.S. labs lobbying Washington to shut them out. Among them are Nvidia's own customers,",
+      "source": "Axios — Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: When it comes to policy, Huang believes restricting open models in the name of n",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: When it comes to policy, Huang believes restricting open models in the name of national security could leave America more vulnerable. He rejected the \"misconception\" that downloaded Chinese models create a \"backdoor\" to Beijing, arguing tha",
+      "source": "Axios — Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Huang says Wall Street and Washington have the Kimi shock exactly backward. \"The",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Huang says Wall Street and Washington have the Kimi shock exactly backward. \"The market misunderstood the impact of DeepSeek the first time,\" he told Axios, adding that Wall Street has \"misunderstood the impact of Kimi again this time.\" His",
+      "source": "Axios — Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Huang's comments came hours after Treasury Secretary Scott Bessent told Fox Busi",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Huang's comments came hours after Treasury Secretary Scott Bessent told Fox Business that the administration is examining Chinese AI models for stolen U.S. intellectual property — and considering sanctions in response. \"If we see ... that o",
+      "source": "Axios — Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Huang sees the AI race itself very differently from Washington, where some Trump",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Huang sees the AI race itself very differently from Washington, where some Trump advisers have cast China's gains as a five-alarm threat to U.S. dominance. He dismissed the notion that it's \"a race with an endpoint\": \"We're going to continu",
+      "source": "Axios — Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-23T10:09:15+00:00"
+}

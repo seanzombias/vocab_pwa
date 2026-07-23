@@ -1,0 +1,50 @@
+{
+  "title": "Tesla's push into AI and robotics is proving costly",
+  "url": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
+  "pub_date": "2026-07-22",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Tesla's push into AI and robotics is proving costly (2026-07-22)",
+  "body": "Tesla's massive investments in humanoid robots , self-driving cars and AI chips are hurting profits, but the company says it'll all pay off down the line. Why it matters: CEO Elon Musk indicated he's \"never been more optimistic about the future,\" but acknowledged the investments could lead to uneven results. Zoom in: Tesla revenue jumped on record vehicle deliveries in the second quarter, but the company saw a significant dip in operating profit because of its heavy spending on R&D. Tesla plans to spend more than $25 billion on capital investments this year, and that spending rate will grow over the the next two or three years, CFO Vaibhav Taneja told investors and analysts on a call late Wednesday. Additionally, Tesla plans to borrow as much as $30 billion to accelerate its investments in robotaxis, Optimus robots, semiconductors, solar manufacturing and AI compute infrastructure, he said. \"We're investing a lot in growing the core business and really preparing for the future,\" Musk said on the call. \"So this is a massive capex year, but I'm confident that all the things that we're investing in will yield incredible returns — really, maybe the best capex returns that we've ever seen.\" By the numbers: Tesla reported Q2 revenue of $28 billion, up 23% year over year. Net income was $1.1 billion, down 5% compared to a year ago, and essentially flat with the last three quarters. Operating margin fell to just 1.4%, compared to 4.1% a year ago. State of play: Tesla began production of its driverless Cybercab in Texas during the quarter, but Musk said its Robotaxi service is rolling out cautiously to ensure safety. Tesla Semi remains on track for production later this year at a new factory in Nevada, but Musk said autonomous trucking is not a priority until next year. The company said it's making progress to expand battery pack manufacturing capacity, which it called \"the main limiting factor to near-term vehicle production volume increase.\" Tesla tore out assembly lines for its discontinued Model S and X cars at its Fremont, Calif., factory and expects Optimus humanoid robot production to begin there later this year. Musk acknowledged that scaling Optimus production will be difficult. \"This is going to be the hardest product to scale manufacturing that we've ever made at Tesla, because everything on the robot is new.\" The bottom line: Tesla's focus is always over the horizon.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: CEO Elon Musk indicated he's \"never been more optimistic about the future,\" but",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: CEO Elon Musk indicated he's \"never been more optimistic about the future,\" but acknowledged the investments could lead to uneven results.",
+      "source": "Axios — Tesla's push into AI and robotics is proving costly (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Tesla revenue jumped on record vehicle deliveries in the second quarter, but the",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Tesla revenue jumped on record vehicle deliveries in the second quarter, but the company saw a significant dip in operating profit because of its heavy spending on R&D. Tesla plans to spend more than $25 billion on capital investments this ",
+      "source": "Axios — Tesla's push into AI and robotics is proving costly (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Tesla's focus is always over the horizon",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Tesla's focus is always over the horizon.",
+      "source": "Axios — Tesla's push into AI and robotics is proving costly (2026-07-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-23T10:09:15+00:00"
+}

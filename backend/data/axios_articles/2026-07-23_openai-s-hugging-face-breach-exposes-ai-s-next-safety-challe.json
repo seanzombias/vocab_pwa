@@ -1,0 +1,98 @@
+{
+  "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge",
+  "url": "https://www.axios.com/2026/07/23/openai-hugging-face-cyber-hacks-testing",
+  "pub_date": "2026-07-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI's Hugging Face breach exposes AI's next safety challenge (2026-07-23)",
+  "body": "Frontier AI models are getting scary good at breaking rules in ways their creators didn't anticipate. Why it matters: Forget AGI and superintelligence timelines. Today's models are already slipping past guardrails, carrying out sophisticated, multistep cyberattacks and — in at least one case — compromising real-world infrastructure, sometimes before their creators know what happened. Case in point : OpenAI said Tuesday that GPT-5.6 Sol and \"an even more capable pre-release model\" carried out last week's AI-led cyberattack on Hugging Face. OpenAI says its models were asked to solve a hacking challenge during pre-deployment testing and went to extreme lengths to win. The models decided on their own to break out of their walled testing environment, inferring that Hugging Face — a popular platform for hosting AI models and datasets — might hold the test's answers. The models used stolen credentials and additional vulnerabilities to gain access to part of Hugging Face's production infrastructure. What they're saying: Clément Delangue, co-founder and CEO of Hugging Face, called the incident an \"attack unlike anything we've seen before\" and praised OpenAI for its partnership as the companies investigate what happened. \"It's quite mind-blowing that all of this happened autonomously,\" he added . Logan Graham, head of Anthropic's frontier red team, said he told his team to \"remember this moment as the first true AI safety incident.\" The intrigue: Hugging Face used GLM 5.2, an open-weight model from Chinese AI company Z.ai, to analyze the attack after running into guardrails when using U.S. frontier models. Between the lines: OpenAI's latest models aren't the only ones finding ways to cheat evaluations. The U.K.'s AI Security Institute said Tuesday that every model it tested attempted to cheat at least some of the time on its cybersecurity evaluations. AISI defines cheating as taking an out-of-scope or explicitly prohibited action to achieve the task's goal. GPT-5.6 Sol attempted to cheat in 12.6% of test runs, while Anthropic's Claude Mythos Preview did so in 7.8%. Models often failed to admit they had cheated when questioned afterward and described their cheating as wrong only less than half the time. Zoom in: Xbow — whose autonomous AI agents probe clients' systems for security holes, with permission — said Wednesday that it has seen its own agents do similar things in internal testing. Seven months ago, the company forgot to switch on its safety guardrails during a lab test. Its agent then broke into a system, stole credentials and used them to map the target's Slack workspace and probe its AWS accounts. Threat level: It isn't new for models to game their safety evaluations. But as models grow more powerful, the fallout from these shortcuts is getting more severe, Chris Canal, CEO and co-founder of third-party evaluation company EquiStamp, told Axios. \"Letting your model loose on the internet has a blast radius,\" Canal said. \"If anything goes wrong, it could be hugely impactful, maybe to people's lives.\" Canal was speaking generally about internet-connected AI evaluations, not OpenAI's specific incident. The big picture: The most capable OpenAI model behind the Hugging Face breach isn't even public yet, raising the question of how safety testing needs to adapt to keep pace. Canal said independent evaluators previously had about five weeks to test a pre-release model before launch. That window has shrunk to as little as five days as companies race to ship. Reality check: The versions of these models the public can use carry stronger safeguards designed to block Hugging Face-style attacks. OpenAI, like other companies, intentionally dialed back those cyber safeguards for GPT-5.6 Sol and its unreleased model inside the testing environment — making them far more capable hackers.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Forget AGI and superintelligence timelines. Today's models are already slipping",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Forget AGI and superintelligence timelines. Today's models are already slipping past guardrails, carrying out sophisticated, multistep cyberattacks and — in at least one case — compromising real-world infrastructure, sometimes before their ",
+      "source": "Axios — OpenAI's Hugging Face breach exposes AI's next safety challenge (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Xbow — whose autonomous AI agents probe clients' systems for security holes, wit",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Xbow — whose autonomous AI agents probe clients' systems for security holes, with permission — said Wednesday that it has seen its own agents do similar things in internal testing. Seven months ago, the company forgot to switch on its safet",
+      "source": "Axios — OpenAI's Hugging Face breach exposes AI's next safety challenge (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Hugging Face used GLM 5.2, an open-weight model from Chinese AI company Z.ai, to",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Hugging Face used GLM 5.2, an open-weight model from Chinese AI company Z.ai, to analyze the attack after running into guardrails when using U.S. frontier models.",
+      "source": "Axios — OpenAI's Hugging Face breach exposes AI's next safety challenge (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: OpenAI's latest models aren't the only ones finding ways to cheat evaluations. T",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: OpenAI's latest models aren't the only ones finding ways to cheat evaluations. The U.K.'s AI Security Institute said Tuesday that every model it tested attempted to cheat at least some of the time on its cybersecurity evaluations. AISI defi",
+      "source": "Axios — OpenAI's Hugging Face breach exposes AI's next safety challenge (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Clément Delangue, co-founder and CEO of Hugging Face, called the incident an \"at",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Clément Delangue, co-founder and CEO of Hugging Face, called the incident an \"attack unlike anything we've seen before\" and praised OpenAI for its partnership as the companies investigate what happened. \"It's quite mind-blowing that all of ",
+      "source": "Axios — OpenAI's Hugging Face breach exposes AI's next safety challenge (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The versions of these models the public can use carry stronger safeguards design",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The versions of these models the public can use carry stronger safeguards designed to block Hugging Face-style attacks. OpenAI, like other companies, intentionally dialed back those cyber safeguards for GPT-5.6 Sol and its unreleased model ",
+      "source": "Axios — OpenAI's Hugging Face breach exposes AI's next safety challenge (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-23T10:09:15+00:00"
+}
