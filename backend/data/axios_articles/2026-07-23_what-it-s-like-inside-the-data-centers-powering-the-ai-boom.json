@@ -1,0 +1,61 @@
+{
+  "title": "What it's like inside the data centers powering the AI boom",
+  "url": "https://www.axios.com/2026/07/23/inside-data-centers-powering-ai-boom",
+  "pub_date": "2026-07-23",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — What it's like inside the data centers powering the AI boom (2026-07-23)",
+  "body": "ASHBURN, Va. – A test server hall tucked inside America's \"data center alley\" offers a rare firsthand look inside the AI boom. Why it matters: Seeing how AI is physically made helps sharpen our understanding of the unprecedented data center buildout that is becoming increasingly unpopular around the country. Behind the scenes: I recently toured an innovation lab by Digital Realty in Northern Virginia, home to the world's largest concentration of data centers. Digital Realty is one of the world's oldest and most established data center operators. The lab, which opened in September, allows the company to test new technologies and show visitors — like customers, lawmakers and journalists — what it's like to be inside. A similar one opened in London in June. Inside the room: I was immediately hit with what I can only describe as \"demented white noise.\" The sound comes from fans cooling racks of AI chips that generate enormous amounts of heat. It felt like standing inside one giant computer. Even beneath my feet, a glass floor revealed pipes and other infrastructure helping keep the servers cool. Zoom in: At the bottom of one of the closet-sized racks sat a gold-colored Nvidia AI system packed with multiple AI chips. The gold is intentional — but not real. \"Gold is associated with high value and performance,\" Nvidia spokesperson Kira Sarkisian said by email. \"That's about $1 million right there,\" said my tour guide, Digital Realty engineer Tor Nyström, referring to the entire rack. From L to R: Inside the lab with a glass floor exposing the closed-loop cooling system of pipes and the server racks on either side; A close-up of the golden Nvidia AI system; A full rack of AI infrastructure one engineer estimated costs about $1 million. Photos: Amy Harder/Axios Reality check: Getting inside a data center is not easy. Some companies flatly declined my request for a tour, while others require signing a non-disclosure agreement to get inside the walls of a campus (server halls are typically off-limits altogether). Friction point: This type of secrecy is part of what's fueling the backlash against data centers, alongside strains on electricity and local water supplies. My thought bubble: Digital Realty let me photograph its innovation lab and tour a nearby campus under construction. I came away convinced companies can show the public how these facilities work without revealing proprietary information. The big picture: AI feels invisible. It isn't. It's racks of servers, cables, cooling systems and enormous amounts of electricity — and sometimes water. Compared with an offshore wind farm or an underground coal mine, it's remarkably uneventful. That's by design. If excitement is happening inside a data center, something has probably gone wrong. Zoom out: After the tour of the test server hall, we drove a few miles to what Digital Realty calls its Digital Dulles campus, which could eventually include 13 data centers with an investment north of $10 billion over the next decade. State of play: The most notable parts of a data center are also the most controversial: the infrastructure needed to power and cool AI. Otherwise, from the outside, data centers look like massive, windowless warehouses. Multiple electricity substations are visible, along with whatever cooling technology is used, which includes either huge water-filled cooling tours or rows of dozens of industrial air conditioners that require large amounts of power. Although plans are still being finalized, Digital Realty anticipates these data centers will use a type of cooling that relies more on energy than water. This means no huge cooling towers were on site, which would be easily visible at those that do use water-based cooling. Stunning stat: I counted almost 40 diesel generators hooked up to one data center building. Digital Realty spokesman Kevin Gundersen said those are only used for backup power purposes and occasional testing, so they aren't on most of the time. Normally, the campus draws power from the broader electricity grid. In Virginia, that's largely natural gas and nuclear power. A row of nearly 40 diesel generators are attached to this Digital Realty data center near Dulles Airport in Virginia. Photo: Amy Harder/Axios What's next: In a sign of the AI's global footprint, Digital Realty is eyeing at least three more locations for new innovation labs: Singapore, São Paulo, Brazil and Johannesburg, South Africa.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Seeing how AI is physically made helps sharpen our understanding of the unpreced",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Seeing how AI is physically made helps sharpen our understanding of the unprecedented data center buildout that is becoming increasingly unpopular around the country. Behind the scenes: I recently toured an innovation lab by Digital Realty ",
+      "source": "Axios — What it's like inside the data centers powering the AI boom (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: After the tour of the test server hall, we drove a few miles to what Digital Rea",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: After the tour of the test server hall, we drove a few miles to what Digital Realty calls its Digital Dulles campus, which could eventually include 13 data centers with an investment north of $10 billion over the next decade. State of play:",
+      "source": "Axios — What it's like inside the data centers powering the AI boom (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: At the bottom of one of the closet-sized racks sat a gold-colored Nvidia AI syst",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: At the bottom of one of the closet-sized racks sat a gold-colored Nvidia AI system packed with multiple AI chips. The gold is intentional — but not real. \"Gold is associated with high value and performance,\" Nvidia spokesperson Kira Sarkisi",
+      "source": "Axios — What it's like inside the data centers powering the AI boom (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Getting inside a data center is not easy. Some companies flatly declined my requ",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Getting inside a data center is not easy. Some companies flatly declined my request for a tour, while others require signing a non-disclosure agreement to get inside the walls of a campus (server halls are typically off-limits altogether). ",
+      "source": "Axios — What it's like inside the data centers powering the AI boom (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-24T10:04:12+00:00"
+}

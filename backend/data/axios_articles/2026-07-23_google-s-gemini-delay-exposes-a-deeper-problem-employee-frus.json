@@ -1,0 +1,98 @@
+{
+  "title": "Google's Gemini delay exposes a deeper problem: employee frustration",
+  "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
+  "pub_date": "2026-07-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Google's Gemini delay exposes a deeper problem: employee frustration (2026-07-23)",
+  "body": "Poor morale among employees is contributing to delayed model releases from Google's DeepMind AI lab , according to conversations with half a dozen current and former Google DeepMind employees. Why it matters: As the company's cash flow just turned negative, investors and competitors are questioning Google's standing in the AI race. State of play: Google's Gemini 3.5 Pro, its most powerful model in the works, is months behind, per Bloomberg , but the company did just release a series of smaller , more efficient models, garnering mixed reactions. Top executives from competing AI labs were quick to shade the releases, with Meta's Alexandr Wang saying \"Gemini who?\" on X , and others asking top Google leadership when more powerful models will be ready. Despite beating estimates in its latest earnings on Wednesday, the company's free cash flow turned negative, in large part due to its AI investments: It's on track to spend $190 billion this year. Yes, but: Google showed 82% growth in cloud revenue, but search revenue came in slightly below Wall Street's expectations, exacerbating concern about the company's AI capex paying off, Mandeep Singh, Bloomberg Intelligence analyst, said on Bloomberg TV. Zoom out: The perceived dip in AI capabilities comes amid the ongoing AI talent wars, which have hit Google the hardest . Several top researchers have departed for competing AI labs. Those departures include influential researcher and Gemini co-lead Noam Shazeer, who's now at OpenAI, and Nobel Prize in Chemistry winner John Jumper, who left for Anthropic. Multiple employees have publicly said they resigned over Google's April deal with the Pentagon that allows the military to use its technology. Sources who spoke to Axios anonymously said the deal comes up often during exit interviews. The sources spoke on the condition of anonymity due to fear of retaliation. What they're saying: \"We're behind,\" one employee told Axios, referring to the company's model capabilities compared with competitors. Some sources tied the recent dip in morale to the company's military deal, but others said the burnout is about feeling one step behind competitors. Google didn't prioritize agentic coding as it raced to defend search from ChatGPT, a DeepMind employee who worked on model training said. Gemini's models do not crack the top 10 most used in the LLM leaderboard tracked by OpenRouter . Zoom in: It's a \"constant battle\" for those morally against the Pentagon deal, one source said, adding this has led to \"emotional burnout.\" Alex Turner, a former research scientist at DeepMind, resigned over Google's military contracts. He told Axios that CEO Demis Hassabis, who released an AI safety framework last week, doesn't have a consistent internal presence the way it seems competing AI CEOs Sam Altman and Dario Amodei do with their employees. The other side: Google disputes the notion that morale problems are leading to shortfalls in its models or that employees are leaving in large numbers due to the company's Pentagon contract. Google says its attrition rates for the first half of this year are lower for AI talent than they were at this time last year and that more than 90% of those offered an AI role at Google accept the position. The big picture: Cost has been a key focus for a lot of enterprises suddenly experiencing AI sticker shock. While the new models Google released this week aren't at the leading edge in performance, delivering models that offer more bang for the buck meets a clear need in the market. \" We're feeling good about this week's Flash launches, our roadmap and the incredible demand we're seeing for our models,\" a Google spokesperson told Axios. Reality check: Model providers leapfrogging each other is the norm for the AI race. Leads tend to be fickle and short-lived. It was just last year that Google was riding high . Then Anthropic seemed unbeatable with the arrival of Mythos. Now, OpenAI appears poised to be the leapfrogger with a new model it plans to brief lawmakers on next week. The bottom line: Google can afford to be leapfrogged. It can't afford to lose its talent or its investors' patience.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: As the company's cash flow just turned negative, investors and competitors are q",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: As the company's cash flow just turned negative, investors and competitors are questioning Google's standing in the AI race. State of play: Google's Gemini 3.5 Pro, its most powerful model in the works, is months behind, per Bloomberg , but",
+      "source": "Axios — Google's Gemini delay exposes a deeper problem: employee frustration (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The perceived dip in AI capabilities comes amid the ongoing AI talent wars, whic",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The perceived dip in AI capabilities comes amid the ongoing AI talent wars, which have hit Google the hardest . Several top researchers have departed for competing AI labs. Those departures include influential researcher and Gemini co-lead ",
+      "source": "Axios — Google's Gemini delay exposes a deeper problem: employee frustration (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: It's a \"constant battle\" for those morally against the Pentagon deal, one source",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: It's a \"constant battle\" for those morally against the Pentagon deal, one source said, adding this has led to \"emotional burnout.\" Alex Turner, a former research scientist at DeepMind, resigned over Google's military contracts. He told Axio",
+      "source": "Axios — Google's Gemini delay exposes a deeper problem: employee frustration (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"We're behind,\" one employee told Axios, referring to the company's model capabi",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"We're behind,\" one employee told Axios, referring to the company's model capabilities compared with competitors. Some sources tied the recent dip in morale to the company's military deal, but others said the burnout is about feeling one st",
+      "source": "Axios — Google's Gemini delay exposes a deeper problem: employee frustration (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Google can afford to be leapfrogged. It can't afford to lose its talent or its i",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Google can afford to be leapfrogged. It can't afford to lose its talent or its investors' patience.",
+      "source": "Axios — Google's Gemini delay exposes a deeper problem: employee frustration (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Model providers leapfrogging each other is the norm for the AI race. Leads tend",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Model providers leapfrogging each other is the norm for the AI race. Leads tend to be fickle and short-lived. It was just last year that Google was riding high . Then Anthropic seemed unbeatable with the arrival of Mythos. Now, OpenAI appea",
+      "source": "Axios — Google's Gemini delay exposes a deeper problem: employee frustration (2026-07-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-24T10:04:12+00:00"
+}
