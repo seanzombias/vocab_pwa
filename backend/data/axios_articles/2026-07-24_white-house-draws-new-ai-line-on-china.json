@@ -1,0 +1,98 @@
+{
+  "title": "White House draws new AI line on China",
+  "url": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
+  "pub_date": "2026-07-24",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — White House draws new AI line on China (2026-07-24)",
+  "body": "The Trump administration this week staked out a new position that could reshape its approach to AI policy, accusing Chinese companies of stealing U.S. technology even as it defends open AI development. Why it matters: That distinction could become the foundation for U.S. action against Chinese AI companies without broadly restricting the open-weight models that businesses, researchers and startups increasingly rely on. Driving the news: The Trump administration is backing open-weight models while accusing China's Moonshot of using distillation — the process of training a smaller AI model using the outputs of a larger model — to copy Anthropic's Fable model. \"Legitimate AI distillation used to create smaller, more efficient models plays a vital role in this open innovation ecosystem,\" Michael Kratsios, chief technology adviser to President Trump, wrote on X. However, \"large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable,\" he added. Treasury Secretary Scott Bessent, U.S. Trade Representative Jamieson Greer and State under secretary Jacob Helberg all made similar claims of intellectual property theft. What they're saying: OpenAI co-founder Greg Brockman told Bloomberg Wednesday it was too early to tell if recent Chinese models had been distilled off GPT systems. In a briefing with reporters, Brockman told Axios he had not been involved in any conversation with members of the administration about banning Chinese open models. Between the lines: The administration is effectively defining two categories of distillation. Small-scale or authorized distillation that produces cheaper, specialized models is being treated as a normal part of AI development. Industrial-scale distillation conducted through fraudulent accounts, evasive access techniques or violations of U.S. companies' terms is being framed as theft. When asked whether distillation is a technical or policy problem, Brockman said it's \"definitely a technical issue.\" The big picture: The advent of Moonshot's Kimi has riled U.S. policymakers and some industry players. The model is cheaper, and U.S. companies are increasingly opting for these alternatives. The Trump administration could be laying the groundwork for action against potential AI IP theft via distillation. Zoom in: Distillation is a common AI practice. Smaller models that act as students can be distilled from larger models that act as teachers, replicating the teacher model's behavior without needing to go through the same training. That compact model can then run more efficiently while producing outputs similar to the larger model, giving the user access to similar performance that's quicker and cheaper. The intrigue: The U.K. Artificial Intelligence Security Institute and the U.S. Center for AI Standards and Innovation on Thursday released a joint evaluation of Kimi K3's cyber capabilities, determining it performs significantly below other frontier models. What we're watching: The administration's comments suggest the White House wants to preserve open AI development while taking a hard line on China as major AI labs warn of misuse and open source players emphasize the need for competition. The administration has previously considered adding Chinese AI labs to the Commerce Department's Entity List to address risks from open-source models, as Axios first reported, a move that would effectively cut off U.S. access without a license. This week Bessent made clear in a post on X the administration is willing to flex those muscles: \"When PRC firms conduct covert, industrial-scale distillation attacks that cross the line into IP theft, sanctions and Entity List designations will be on the table.\"",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: That distinction could become the foundation for U.S. action against Chinese AI",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: That distinction could become the foundation for U.S. action against Chinese AI companies without broadly restricting the open-weight models that businesses, researchers and startups increasingly rely on.",
+      "source": "Axios — White House draws new AI line on China (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The Trump administration is backing open-weight models while accusing China's Mo",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The Trump administration is backing open-weight models while accusing China's Moonshot of using distillation — the process of training a smaller AI model using the outputs of a larger model — to copy Anthropic's Fable model. \"Legitimate AI ",
+      "source": "Axios — White House draws new AI line on China (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Distillation is a common AI practice. Smaller models that act as students can be",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Distillation is a common AI practice. Smaller models that act as students can be distilled from larger models that act as teachers, replicating the teacher model's behavior without needing to go through the same training. That compact model",
+      "source": "Axios — White House draws new AI line on China (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The U.K. Artificial Intelligence Security Institute and the U.S. Center for AI S",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The U.K. Artificial Intelligence Security Institute and the U.S. Center for AI Standards and Innovation on Thursday released a joint evaluation of Kimi K3's cyber capabilities, determining it performs significantly below other frontier mode",
+      "source": "Axios — White House draws new AI line on China (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The administration is effectively defining two categories of distillation. Small",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The administration is effectively defining two categories of distillation. Small-scale or authorized distillation that produces cheaper, specialized models is being treated as a normal part of AI development. Industrial-scale distillation c",
+      "source": "Axios — White House draws new AI line on China (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: OpenAI co-founder Greg Brockman told Bloomberg Wednesday it was too early to tel",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: OpenAI co-founder Greg Brockman told Bloomberg Wednesday it was too early to tell if recent Chinese models had been distilled off GPT systems. In a briefing with reporters, Brockman told Axios he had not been involved in any conversation wi",
+      "source": "Axios — White House draws new AI line on China (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-25T09:24:25+00:00"
+}

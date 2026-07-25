@@ -1,0 +1,72 @@
+{
+  "title": "The people testing AI for danger are having a hard time keeping up",
+  "url": "https://www.axios.com/2026/07/24/ai-safety-security-testing-hugging-face",
+  "pub_date": "2026-07-24",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — The people testing AI for danger are having a hard time keeping up (2026-07-24)",
+  "body": "The pace of AI development combined with soaring compute costs is squeezing the AI researchers responsible for evaluating frontier models — just as those models' capabilitie s are becoming harder to measure. Why it matters: When safety testing can't keep pace, models capable of hacking companies or aiding in the development of bioweapons could reach the public before anyone knows what they can do. Last week's breach of Hugging Face, carried out autonomously by OpenAI's models in the middle of safety testing, shows that some of the highest-risk behaviors can emerge during pre-release testing itself. Several challenges are tying up AI safety and security researchers just as U.S. frontier AI companies race to get new models to market: Some testers tell Axios that they're getting far less time to study models' capabilities before release — in some cases just days instead of weeks. Building benchmarks that can accurately probe models' security skills is becoming cost-prohibitive as bigger tests chew through ever more compute. Researchers often get access to a single, rate-limited API endpoint shared with other testers, so they quickly hit usage caps and can't run large or thorough evaluations in the time they have before deployment. Reality check: The models themselves are also getting in the way of their own evaluations as they start to cheat more and learn when they're being evaluated, former Metr researcher Lawrence Chan told Axios. This puts evaluators in the tough spot of trying to figure out how a model that knows it's being watched would behave in the wild, Chan added. Threat level: That kind of test-gaming, if unfixed, could lead to \"full-blown AI doom scenarios in the future,\" Chan said. Miriam Vogel, president and CEO of EqualAI, told Axios the stakes extend beyond frontier AI labs because most people interact with AI through banks, social media platforms, news organizations and other companies deploying AI systems rather than building them. If we get AI safety wrong, \"it will hurt people and hurt our institutions, because we have not put the governance in place to deserve the trust,\" Vogel said. The big picture: Safety testing rests on model companies voluntarily working with third-party evaluators before deployment. \"Companies are voluntarily giving access to their private models,\" Chan said. \"As a result, you have to stay on their good side.\" Short testing windows, limited API access and expensive benchmarks all feel \"downstream of this problem,\" he said. Between the lines: Many frontier AI models have been outgrowing existing benchmarks as they each score highly on routine cyber tests — making it difficult for AI companies and third-party evaluators to properly measure the cyber capabilities of these models. Earlier this week, Cisco said it developed a new internal benchmark to test its new security-focused, open-source models specifically because it didn't have a better way to measure its capabilities. \"There is a crisis in benchmarking,\" Amin Karbasi, Cisco's vice president and chief AI scientist, told Axios. If everyone scores 95% on the benchmarks, it could mean that the companies are training on that benchmark, Karbasi says. Zoom in: Chris Canal, CEO and co-founder of third-party evaluation company EquiStamp, told Axios his company has been asked to build a \"hard mode\" version of a popular cybersecurity benchmark, where models have to find and exploit serious, unpublished software vulnerabilities. But to do that responsibly, he said his team would have to buy information about zero‑day vulnerabilities from the exploit market. A single zero-day can run $50,000 to $100,000, and Canal says he'd have to compete with the Russian and North Korean governments who bid up prices. One frontier AI company brushed off the concern, telling Canal its model could simply use the open internet as an \"exploit finder\" to uncover new vulnerabilities on its own. What to watch: Some evaluators argue that third-party testing should happen during model training , not right before a public deployment. \"External deployment is just no longer the important barrier for harm,\" Marius Hobbhahn, CEO of third-party AI evaluation organization Apollo Research, said on X. \"A smart misaligned model will cause harm during training or internal evals already.\" Testing earlier, tighter sandboxes and monitoring all help, Chan said, but none solve the underlying issue: \"It's hard to make a box that is secure against a thing that is much smarter than you.\"",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: When safety testing can't keep pace, models capable of hacking companies or aidi",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: When safety testing can't keep pace, models capable of hacking companies or aiding in the development of bioweapons could reach the public before anyone knows what they can do. Last week's breach of Hugging Face, carried out autonomously by",
+      "source": "Axios — The people testing AI for danger are having a hard time keeping up (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Chris Canal, CEO and co-founder of third-party evaluation company EquiStamp, tol",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Chris Canal, CEO and co-founder of third-party evaluation company EquiStamp, told Axios his company has been asked to build a \"hard mode\" version of a popular cybersecurity benchmark, where models have to find and exploit serious, unpublish",
+      "source": "Axios — The people testing AI for danger are having a hard time keeping up (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Many frontier AI models have been outgrowing existing benchmarks as they each sc",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Many frontier AI models have been outgrowing existing benchmarks as they each score highly on routine cyber tests — making it difficult for AI companies and third-party evaluators to properly measure the cyber capabilities of these models. ",
+      "source": "Axios — The people testing AI for danger are having a hard time keeping up (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The models themselves are also getting in the way of their own evaluations as th",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The models themselves are also getting in the way of their own evaluations as they start to cheat more and learn when they're being evaluated, former Metr researcher Lawrence Chan told Axios. This puts evaluators in the tough spot of trying",
+      "source": "Axios — The people testing AI for danger are having a hard time keeping up (2026-07-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-25T09:24:25+00:00"
+}
