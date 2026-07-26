@@ -1,0 +1,72 @@
+{
+  "title": "How AI is becoming part of the American family",
+  "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+  "pub_date": "2026-07-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — How AI is becoming part of the American family (2026-07-25)",
+  "body": "AI's impact on American life isn't just at work . It's also at home, where it's helping with dinner and bedtime, learning our routines, overhearing arguments and never clocking out. Why it matters: The AI debate has largely focused on jobs and productivity . But a quieter shift is unfolding at home , where AI is also evolving from an on-demand assistant into an always-on presence that remembers, anticipates and increasingly acts like a member of the family. \"The barriers to entry for families — in terms of cost and technical knowledge — are next to nothing,\" Sarah Dooley , founder of AI-Empowered Mom and author of an upcoming book on the topic, told Axios. \"With lower barriers and adoption moving at lightning speed, impact and risks for families are often high.\" State of play: Domestic AI is already entering family life in several forms. The New Yorker recently profiled an Ohio mother and her two teen daughters whose relationships with AI ranged from household logistics to emotional support. The mother confided in an increasingly conversational Alexa, one daughter regularly talked to ChatGPT, and the other briefly opened up to a mental health chatbot, Tomo. The Cut profiled Jesse Genet — a former startup CEO and a mom to a blended family of seven kids — whose expanding staff of AI agents shops for groceries, helps run her children's homeschooling schedule and handles legal and financial paperwork. Last week, Bloomberg reported that OpenAI's first hardware device will be a screen-free, mobile smart speaker built to be a \"humanlike AI companion that lives in the home.\" Zoom out: This trend goes well beyond the smart speaker wave of a decade ago. Earlier systems were often reactive and needed a command. The next generation of domestic AI can remember conversations, infer household patterns and adapt to individual family members. By the numbers: 81% of parents have used AI to help with parenting tasks, a Lurie Children's Hospital survey published in May found. Pew Research has found 64% of U.S. teens use chatbots, mostly for research and schoolwork, followed by fun and entertainment. Between the lines: The home may become AI's most intimate and least governed environment. Workplaces and schools are only just beginning to set formal guardrails around the technology. The unit of impact is often the family, not the individual users,\" Daniel Zhang , chief of staff at the Stanford Institute for Human-Centered Artificial Intelligence, told Axios. \"If one person chooses to engage with AI, the presence of that device or the model affects everyone in the household.\" But the effects depend heavily on how and where the technology is used. \"It's hard to make broad claims because there's so much that matters in the details for these kinds of things,\" Anne Maheux, a developmental psychologist at UNC Chapel Hill who studies adolescents and AI, told Axios. For children especially, access, privacy and physical space matter. An AI device used openly in the kitchen is different from a chatbot a child accesses \"privately in their bedroom,\" and both are different from a school computer that stays at school, Maheux said. For teens, AI can remove some of the friction involved in learning to navigate other people, uncertainty and conflict. Adolescence is a \"particularly sensitive period\" for developing social-emotional skills, Maheux says. The stakes are different from an adult outsourcing a skill they already have. What to watch: Nobody — not researchers, lawmakers, CEOs, parents or influencers — fully understands what it means to let AI into the most private parts of our daily lives. As Dooley points out, even free or low-cost AI comes with a complicated price tag: \"We are paying with our data, with our stories, with our privacy.\" The bottom line: The office may be where AI changes the economy, but the home is where it could change us.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The AI debate has largely focused on jobs and productivity . But a quieter shift",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The AI debate has largely focused on jobs and productivity . But a quieter shift is unfolding at home , where AI is also evolving from an on-demand assistant into an always-on presence that remembers, anticipates and increasingly acts like ",
+      "source": "Axios — How AI is becoming part of the American family (2026-07-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: This trend goes well beyond the smart speaker wave of a decade ago. Earlier syst",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: This trend goes well beyond the smart speaker wave of a decade ago. Earlier systems were often reactive and needed a command. The next generation of domestic AI can remember conversations, infer household patterns and adapt to individual fa",
+      "source": "Axios — How AI is becoming part of the American family (2026-07-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The home may become AI's most intimate and least governed environment. Workplace",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The home may become AI's most intimate and least governed environment. Workplaces and schools are only just beginning to set formal guardrails around the technology. The unit of impact is often the family, not the individual users,\" Daniel ",
+      "source": "Axios — How AI is becoming part of the American family (2026-07-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The office may be where AI changes the economy, but the home is where it could c",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The office may be where AI changes the economy, but the home is where it could change us.",
+      "source": "Axios — How AI is becoming part of the American family (2026-07-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-26T09:48:32+00:00"
+}
