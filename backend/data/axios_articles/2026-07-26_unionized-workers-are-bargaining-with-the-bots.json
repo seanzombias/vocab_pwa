@@ -1,0 +1,83 @@
+{
+  "title": "Unionized workers are bargaining with the bots",
+  "url": "https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption",
+  "pub_date": "2026-07-26",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Unionized workers are bargaining with the bots (2026-07-26)",
+  "body": "With Congress on the sidelines, union contracts are among the strongest guardrails American workers have against artificial intelligence . Why it matters: Nearly 90% of the U.S. workforce lacks union representation, leaving about 130 million workers without that leverage as companies use AI to rewrite job descriptions and cut jobs. What they're saying: The only meaningful guardrails around workplace AI are happening \"at the bargaining table , where workers are showing up and demanding protections,\" NewsGuild-CWA President Jon Schleuss tells Axios. \"AI is something we can negotiate,\" Schleuss says. \"Without a contract and without a union , you have no say.\" Former FTC Commissioner Alvaro Bedoya notes that union-negotiated rules could easily map onto federal policy — if Congress ever finds the political will. Case in point: The NewsGuild currently has between 85 and 90 contracts with explicit AI provisions, Schleuss says. At Politico, unionized reporters forced management into arbitration after the newsroom introduced inaccurate AI reporting tools without the union's permission. Management dismantled the tools. Entertainment union SAG-AFTRA negotiated protections that prohibit AI replicas replacing actors without the actors's consent. A union representing workers at ZeniMax, the Microsoft-owned video game company, won contract provisions requiring AI to support — not replace — workers. The agreement also requires management to notify the union and negotiate before deploying new AI tools. The big picture: AI protections are gaining ground fastest in industries with longer histories of unionization and repeated threats to workers' livelihoods, including manufacturing, journalism and entertainment. White collar workers like those in Big Tech with high wages and corporate perks had something of an \"illusion of protection\" that made them avoid organized labor, TechEquity's Tim Newman says. Now, companies are using AI as a pretext for layoffs to appease Wall Street, shattering that illusion. Sean Fern, a principal infrastructure engineer at NAVA PBC and a member of its bargaining committee, notes a \"large groundswell\" of tech workers organizing after realizing \"even a good performing engineer can sometimes lose their job overnight, given no fault of their own, and they don't see themselves as quite so special anymore.\" Between the lines: Existing labor statutes like the 1988 WARN Act were built for 20th-century mass factory closures — not remote tech workers, gig economy contractors or quiet algorithmic layoffs. By the numbers: About 16.5 million U.S. workers were represented by unions in 2025, the highest number in 16 years, according to an Economic Policy Institute analysis of federal data . That amounts to just 11.2% of workers, but the rate varies drastically by industry and job. About 36% of education, training, and library employees are unionized . Just 4.4% of workers in computer occupations are represented by unions. In finance, it's a mere 1.1%. Zoom out: Some states have begun to regulate AI's role in the workplace. But Congress has made little progress. Too many elected officials are \"taking a lot of credit for holding a roundtable, and that is not where we should be right now,\" says Bedoya. Federal progress amounts to \"baby steps,\" says Lauren McFerran, a former National Labor Relations Board chair who now leads the AFL-CIO Tech Institute. She blames massive lobbying budgets: \"It's kind of a classic people versus money issue.\" The Tech Institute backs several bills, she says, including the No Robot Bosses Act , the Stop Spying Bosses Act , the No Fakes Act and the AI Civil Rights Act . The bottom line: America is quickly becoming a patchwork of protections. Those with a union contract have a say in their technological future. Those who don't may be on their own. Go deeper: Unions prepare for battle over AI in 2028 elections",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Nearly 90% of the U.S. workforce lacks union representation, leaving about 130 m",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Nearly 90% of the U.S. workforce lacks union representation, leaving about 130 million workers without that leverage as companies use AI to rewrite job descriptions and cut jobs.",
+      "source": "Axios — Unionized workers are bargaining with the bots (2026-07-26)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Some states have begun to regulate AI's role in the workplace. But Congress has",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Some states have begun to regulate AI's role in the workplace. But Congress has made little progress. Too many elected officials are \"taking a lot of credit for holding a roundtable, and that is not where we should be right now,\" says Bedoy",
+      "source": "Axios — Unionized workers are bargaining with the bots (2026-07-26)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Existing labor statutes like the 1988 WARN Act were built for 20th-century mass",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Existing labor statutes like the 1988 WARN Act were built for 20th-century mass factory closures — not remote tech workers, gig economy contractors or quiet algorithmic layoffs. By the numbers: About 16.5 million U.S. workers were represent",
+      "source": "Axios — Unionized workers are bargaining with the bots (2026-07-26)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: The only meaningful guardrails around workplace AI are happening \"at the bargain",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: The only meaningful guardrails around workplace AI are happening \"at the bargaining table , where workers are showing up and demanding protections,\" NewsGuild-CWA President Jon Schleuss tells Axios. \"AI is something we can negotiate,\" Schle",
+      "source": "Axios — Unionized workers are bargaining with the bots (2026-07-26)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: America is quickly becoming a patchwork of protections. Those with a union contr",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: America is quickly becoming a patchwork of protections. Those with a union contract have a say in their technological future. Those who don't may be on their own.",
+      "source": "Axios — Unionized workers are bargaining with the bots (2026-07-26)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Unions prepare for battle over AI in 2028 elections",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Unions prepare for battle over AI in 2028 elections",
+      "source": "Axios — Unionized workers are bargaining with the bots (2026-07-26)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-27T10:59:44+00:00"
+}

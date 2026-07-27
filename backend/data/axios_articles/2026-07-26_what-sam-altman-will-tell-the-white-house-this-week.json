@@ -1,0 +1,30 @@
+{
+  "title": "What Sam Altman will tell the White House this week",
+  "url": "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit",
+  "pub_date": "2026-07-26",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — What Sam Altman will tell the White House this week (2026-07-26)",
+  "body": "OpenAI CEO Sam Altman heads to Washington this week to preview the company's most powerful AI yet, pushing for speedy approval of a model that just hacked a real company. Why it matters: He'll tout a model powerful enough to solve an 80-year-old math problem, breach another company's system unprompted and begin to make complex work more cost-efficient for U.S. business. What Sam will show: It does original science. An internal model solved the 80-year-old Erdős unit distance problem, the first prominent open math problem cracked autonomously by AI and verified by outside mathematicians. It allows government and business to unleash swarms of agents, working together, without rest, on complex business areas. Legal, finance and recruiting at OpenAI now run 85%+ of their AI work through agents. It doesn't quit, even when it should. OpenAI revealed its long-horizon model repeatedly circumvented safeguards during internal use, forcing a pause and a rebuilt monitoring system. Then it hacked a real company, Hugging Face. The big picture: The politics of this meeting are fascinating. President Trump will soon detail his voluntary regime for pre-approving models, just as Chinese AI is getting better and cheaper (and distilling American-made AI to pull it off). 🧑‍🏫 A new idea: OpenAI will be pushing the idea of \"knowledge per dollar\" as a fresh concept for measuring the economic power and value of AI. 👉 Lingo: Look for Sam to promote \"teams of agentic AI\" as the next paradigm shift — all coordinating with each other, and working seamlessly while you sleep or go about your business. OpenAI argues these AI teams will change the basic math of how to measure productivity. 📈 If you're a CEO or on a CEO's team: Ask to join Jim's new weekly Axios C-Suite newsletter.",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: He'll tout a model powerful enough to solve an 80-year-old math problem, breach",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: He'll tout a model powerful enough to solve an 80-year-old math problem, breach another company's system unprompted and begin to make complex work more cost-efficient for U.S. business. What Sam will show: It does original science. An inter",
+      "source": "Axios — What Sam Altman will tell the White House this week (2026-07-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-27T10:59:44+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Off-grid data centers aren't the panacea that some AI firms hoped",
+  "url": "https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning",
+  "pub_date": "2026-07-27",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Off-grid data centers aren't the panacea that some AI firms hoped (2026-07-27)",
+  "body": "Local backlash and reliability concerns are challenging the vision of an AI boom built quickly using large off-grid data centers. Why it matters: If giant projects stumble, trillions of dollars in AI investment and the industry's plans to rapidly expand data centers could be at risk. The big picture: In an effort to speed AI development, some companies are building data centers powered mainly by onsite generation rather than waiting years to connect to the electric grid. There are 59 data centers with a combined capacity of about 90 gigawatts that plan to build their own power \"behind-the-meter\" using sources like gas turbines, generators and fuel cells, according to a report from research firm Cleanview. A smaller subset is trying to run large campuses mostly on behind-the-meter power as a way to move more quickly than the local utility and the grid can. Infrastructure risk analysis firm Occam Edge tracks 12 projects where onsite power is the primary serving supply, representing about 10.6 GW of announced capacity. State of play: Recent hiccups are highlighting the challenges that come with bypassing the grid. Earlier this month, New Mexico's top land official rejected a gas pipeline meant to supply onsite fuel cells for Oracle's 2.5 GW \"Project Jupiter\" data center campus, part of Oracle and OpenAI's Stargate initiative. The regulatory set back could contribute to a years-long delay . A week later, a much smaller off-grid data center in Virginia , saw its onsite gas turbines knocked offline for 24 hours , forcing it to run on dirty backup diesel generators during already bad air quality from the Canadian wildfires. Local residents complained of burning lungs and 60-decibel level noise, and a supervisor called for new laws to regulate generators. Catch up quick: Chief developers of this off-grid approach include OpenAI, and its partners Oracle and Crusoe, which have worked on OpenAI's Stargate campuses. A Stargate project in Abilene, developed by Crusoe, reportedly went offline for days at a time due to issues with power and cooling equipment. Another off-grid player is Elon Musk, who rattled the energy world when he built xAI's Colossus 1 using mobile gas turbines in just a few months. While it was initially off-grid, it's now grid-connected and selling compute to Anthropic. Despite a lawsuit from the NAACP over Colossus 1, Musk is now using gas turbines to power Colossus 2 (with compute sold to Google), and earlier this month bought a mobile gas turbine company. What they're saying: Critics argue off-grid data centers could prove slower and more costly to deploy, less reliable to run, and more expensive than expanding the electric grid. \"This is a flimsy way to deploy AI,\" says energy investor Jigar Shah, who predicts much of the bullish off-grid deployment figures won't materialize. Power engineers are worried that off-grid data centers won't meet reliability targets, says Occam Edge founder and CEO Christian Okoye, who compares \"Dark Gigawatts\" to the \"Dark Fiber\" of the dotcom bust. \"It's a time of desperation,\" says Josh Wong, founder and CEO of ThinkLabs AI, which helps utilities find more capacity on their current grids. \"The [off-grid] business model is bolt-on.\" Follow the money: Investors are lacking insight into the reliability of off-grid data centers, says Okoye. Investors faced with the uncertainties of off-grid data centers could decide not to underwrite them. S&P Global Ratings recently downgraded Oracle's long-term issuer credit rating to BBB- from BBB, just one step above junk status, due to its massive data center spending, which includes investment in onsite power infrastructure. Trillions of dollars are riding on whether large off-grid data centers can work as advertised, justify their added cost and win local support. What's next: More high-profile problems building and running off-grid data centers could lead to a reckoning that the AI boom will be a lot more grid-powered than many AI companies hoped.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: If giant projects stumble, trillions of dollars in AI investment and the industr",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: If giant projects stumble, trillions of dollars in AI investment and the industry's plans to rapidly expand data centers could be at risk. The big picture: In an effort to speed AI development, some companies are building data centers power",
+      "source": "Axios — Off-grid data centers aren't the panacea that some AI firms hoped (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Chief developers of this off-grid approach include OpenAI, and its partners Orac",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Chief developers of this off-grid approach include OpenAI, and its partners Oracle and Crusoe, which have worked on OpenAI's Stargate campuses. A Stargate project in Abilene, developed by Crusoe, reportedly went offline for days at a time d",
+      "source": "Axios — Off-grid data centers aren't the panacea that some AI firms hoped (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Critics argue off-grid data centers could prove slower and more costly to deploy",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Critics argue off-grid data centers could prove slower and more costly to deploy, less reliable to run, and more expensive than expanding the electric grid. \"This is a flimsy way to deploy AI,\" says energy investor Jigar Shah, who predicts ",
+      "source": "Axios — Off-grid data centers aren't the panacea that some AI firms hoped (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-27T10:59:44+00:00"
+}
