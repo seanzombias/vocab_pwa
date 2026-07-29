@@ -1,0 +1,42 @@
+{
+  "title": "AI is only \"part\" of high U.S. productivity growth, says Stripe economist",
+  "url": "https://www.axios.com/2026/07/28/ai-labor-productivity-stripe",
+  "pub_date": "2026-07-28",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — AI is only \"part\" of high U.S. productivity growth, says Stripe economist (2026-07-28)",
+  "body": "AI appears to improve workers' efficiency in a number of sectors. The U.S. has experienced a surge in economy-wide productivity in the last couple of years. But the former isn't necessarily driving the latter. The big picture: Companies are achieving more output per person-hour of labor because they are making better use of existing capital, a provocative new analysis finds — not, at the moment at least, by making major use of AI. AI advances may be generating substantial micro-level gains in some sectors, but so far are not the driver of one of the most important macro trends of the last couple of years, finds Ernie Tedeschi, chief economist at Stripe . State of play: A surge in labor productivity — after a couple of decades of subpar improvement — has been one of the best pieces of news about the U.S. economy in the last few years. Over the last year, output per hour worked is up 2.5%, compared with 1.6% annually over the last 20 years, Tedeschi wrote. That may sound like a small gap, but if sustained over just a few years, that higher productivity would compound, making incomes and output per worker much higher. Yes, but: Tedeschi noted that while labor productivity is up, total factor productivity — not just output per hour of work but output per hour of work and unit of capital — is little changed. Looking across industries, he finds that while sectors with high AI adoption do have higher productivity growth, that trend predates the pandemic — before high-quality large language models were widely used. Rather, he finds, the higher output is coming from higher usage of existing capital. Zoom in: \"Think longer runs of factories already built, more utilization of server racks and GPU clusters already paid for, and more occupancy of existing hotel rooms,\" Tedeschi wrote. \"Economists call this 'capital intensity' or 'utilization.' Higher capital utilization represents real economic gains, but it's not the same as microproductivity.\" Of note: None of that precludes the possibility that AI advances will generate major productivity gains in the not-too-distant future, as companies work through the workflow and choke points that have restrained their potential. The bottom line: \"It looks likelier and likelier that the U.S. is in a period of high productivity growth, and that AI is part of the story,\" Tedeschi tells Axios. \"But we need to be sober about how it's playing a role, because that will help us discern whether AI is just a temporary blip on the growth path or something more persistent and transformational.\"",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: \"Think longer runs of factories already built, more utilization of server racks",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: \"Think longer runs of factories already built, more utilization of server racks and GPU clusters already paid for, and more occupancy of existing hotel rooms,\" Tedeschi wrote. \"Economists call this 'capital intensity' or 'utilization.' High",
+      "source": "Axios — AI is only \"part\" of high U.S. productivity growth, says Stripe economist (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"It looks likelier and likelier that the U.S. is in a period of high productivit",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"It looks likelier and likelier that the U.S. is in a period of high productivity growth, and that AI is part of the story,\" Tedeschi tells Axios. \"But we need to be sober about how it's playing a role, because that will help us discern whe",
+      "source": "Axios — AI is only \"part\" of high U.S. productivity growth, says Stripe economist (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-29T10:25:51+00:00"
+}

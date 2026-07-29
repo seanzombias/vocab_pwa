@@ -1,0 +1,46 @@
+{
+  "title": "Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny",
+  "url": "https://www.axios.com/2026/07/28/nvidia-jensen-huang-lutnick-meeting-china-ai",
+  "pub_date": "2026-07-28",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny (2026-07-28)",
+  "body": "Nvidia CEO Jensen Huang met Tuesday with Commerce Secretary Howard Lutnick as the Trump administration investigates potential violations involving Nvidia chip exports to China, according to a source familiar. Why it matters: Huang is in Washington as the Trump administration finalizes a framework that would give the government early access to the most advanced AI models before their release. Officials are also weighing their approach to open-source AI and China. Driving the news: Huang is holding meetings across Washington this week, including with Sen. Mark Warner (D-Va.), the top Democrat on the Intelligence Committee, and other members of Congress from both sides of the aisle. Huang's trip had been previously reported, but not his meeting with Lutnick. An Nvidia spokesperson said that Huang is in D.C. \"meet with leaders on both sides of the aisle to discuss NVIDIA's work to strengthen the country's supply chain by producing $500B in American technology over four years and American leadership in AI, including leading in open source.\" It wasn't immediately clear what Lutnick and Huang discussed. Context: A Commerce Department's Bureau of Industry and Security spokesperson told Axios last week that it's investigating potential Nvidia Blackwell chip export violations. Treasury Secretary Scott Bessent last week also floated regulatory action against Chinese labs: \"When PRC firms conduct covert, industrial-scale distillation attacks that cross the line into IP theft, sanctions and Entity List designations will be on the table,\" Bessent said. What we're watching: The administration is expected to unveil its AI framework by Aug. 1.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Huang is in Washington as the Trump administration finalizes a framework that wo",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Huang is in Washington as the Trump administration finalizes a framework that would give the government early access to the most advanced AI models before their release. Officials are also weighing their approach to open-source AI and China",
+      "source": "Axios — Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Huang is holding meetings across Washington this week, including with Sen. Mark",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Huang is holding meetings across Washington this week, including with Sen. Mark Warner (D-Va.), the top Democrat on the Intelligence Committee, and other members of Congress from both sides of the aisle. Huang's trip had been previously rep",
+      "source": "Axios — Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-29T10:25:50+00:00"
+}

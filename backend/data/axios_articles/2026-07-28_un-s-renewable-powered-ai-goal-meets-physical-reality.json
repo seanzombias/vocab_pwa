@@ -1,0 +1,116 @@
+{
+  "title": "UN's renewable-powered AI goal meets physical reality",
+  "url": "https://www.axios.com/2026/07/28/renewables-ai-data-centers-power-fossil-fuels",
+  "pub_date": "2026-07-28",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+  "body": "Data: International Energy Agency ; Note: In terrawatt-hours; Chart: Amy Harder/Axios A recent United Nations call to power data centers with renewable energy highlights a central tension in the AI boom: Renewables are rising, but so is reliance on fossil fuels. Why it matters: Electricity demand for data centers is projected to at least double in the next four years, and where that power comes from will influence investments — and the trajectory of greenhouse gas emissions. Driving the news: United Nations Secretary-General António Guterres is calling on all data centers to be powered by renewable energy by 2030, along with being more transparent on their energy, water and land impacts. Reality check: Most energy analysts say the UN's goal would require rapid power-sector changes far beyond anything currently planned. What they're saying: \"There's no way to power every data center with renewable energy by 2030,\" said Michael Thomas, founder of Cleanview, a market intelligence platform. \"That would require decarbonizing most power grids in the world in less than five years.\" The other side: The goal \"reflects both the urgency of the climate crisis and the speed at which electricity demand from AI and data centres is increasing,\" said United Nations spokesman Stéphane Dujarric in an email. \"Renewables are among the quickest and most cost-effective options for expanding electricity supply in much of the world,\" Dujarric said. Between the lines: Notably, Guterres framed the goal around renewable energy rather than carbon-free electricity, excluding nuclear power. Durjarric said the initiative \"is not intended to prescribe or exclude the broader energy choices available to governments.\" State of play: Renewables are still poised to grow faster than any other power source. Power generation from renewable sources is set to surpass coal this year, the IEA said in a report last week . Falling costs, rapid solar deployment and supportive policies are driving most new electricity generation globally, This global trend is enduring despite President Trump's efforts to stymie wind and solar in the United States. Zoom in: Renewable energy could account for more than one-third of data centers' total generation by 2030, IEA said in a separate report earlier this year. Yes, but: The combination of two fossil fuels — natural gas and coal — still edged out the combined growth from renewable energy and nuclear power. Zoom out: The UN's push comes as investors, policymakers and communities are pressing tech companies for a clearer accounting of AI's environmental footprint. In recent weeks, Google, Microsoft and Amazon have all highlighted efficiency improvements in their annual sustainability reports, but the sheer growth is pushing overall resource use higher. The intrigue: Thomas said tech companies could purchase credits of clean energy around the world to offset the emissions of their data centers powered by fossil fuels, \"but it's important to note that this is largely an accounting exercise,\" he said. Many hyperscalers are already doing this to some extent, but their emissions from data centers \"are still rising because we live in a physical world,\" Thomas said. The bottom line: The calls for transparency and data centers powered by data centers are linked, according to the UN. \"Ultimately, the initiative is calling on AI companies to demonstrate transparently and credibly how the expansion of AI can proceed without shifting carbon, water and land burdens onto communities and future generations,\" Dujarric said.",
+  "vocab_count": 9,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Electricity demand for data centers is projected to at least double in the next",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Electricity demand for data centers is projected to at least double in the next four years, and where that power comes from will influence investments — and the trajectory of greenhouse gas emissions.",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: United Nations Secretary-General António Guterres is calling on all data centers",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: United Nations Secretary-General António Guterres is calling on all data centers to be powered by renewable energy by 2030, along with being more transparent on their energy, water and land impacts.",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The UN's push comes as investors, policymakers and communities are pressing tech",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The UN's push comes as investors, policymakers and communities are pressing tech companies for a clearer accounting of AI's environmental footprint. In recent weeks, Google, Microsoft and Amazon have all highlighted efficiency improvements ",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Renewable energy could account for more than one-third of data centers' total ge",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Renewable energy could account for more than one-third of data centers' total generation by 2030, IEA said in a separate report earlier this year. Yes, but: The combination of two fossil fuels — natural gas and coal — still edged out the co",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Thomas said tech companies could purchase credits of clean energy around the wor",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Thomas said tech companies could purchase credits of clean energy around the world to offset the emissions of their data centers powered by fossil fuels, \"but it's important to note that this is largely an accounting exercise,\" he said. Man",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Notably, Guterres framed the goal around renewable energy rather than carbon-fre",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Notably, Guterres framed the goal around renewable energy rather than carbon-free electricity, excluding nuclear power. Durjarric said the initiative \"is not intended to prescribe or exclude the broader energy choices available to governmen",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"There's no way to power every data center with renewable energy by 2030,\" said",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"There's no way to power every data center with renewable energy by 2030,\" said Michael Thomas, founder of Cleanview, a market intelligence platform. \"That would require decarbonizing most power grids in the world in less than five years.\" ",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The calls for transparency and data centers powered by data centers are linked,",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The calls for transparency and data centers powered by data centers are linked, according to the UN. \"Ultimately, the initiative is calling on AI companies to demonstrate transparently and credibly how the expansion of AI can proceed withou",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Most energy analysts say the UN's goal would require rapid power-sector changes",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Most energy analysts say the UN's goal would require rapid power-sector changes far beyond anything currently planned.",
+      "source": "Axios — UN's renewable-powered AI goal meets physical reality (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-29T10:25:54+00:00"
+}

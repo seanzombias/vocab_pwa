@@ -1,0 +1,46 @@
+{
+  "title": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing",
+  "url": "https://www.axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark",
+  "pub_date": "2026-07-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing (2026-07-29)",
+  "body": "The OpenAI agent that accessed a third-party system during the Hugging Face incident reached infrastructure tied to CyberGym, the project behind the ExploitGym benchmark it had been assigned to solve, a source familiar with the matter told Axios. Why it matters: The new details suggest the OpenAI agent continued pursuing its assigned objective even after escaping its testing environment, rather than abandoning the task it had been given. Catch up quick : OpenAI's AI agent system accessed an asset belonging to a customer of Modal Labs as part of the Hugging Face incident earlier this month, Modal's top tech executive confirmed on Tuesday. In an update published last week, OpenAI said the models escaped the sandbox and gained internet access after exploiting a previously unknown vulnerability in Artifactory, software commonly used to cache package repositories. Hugging Face said the models then abused a \"public code-evaluation external sandbox hosted on a third-party provider's infrastructure\" and used that sandbox as a launchpad for the agent. Modal CTO Akshat Bubna told Axios in a statement that \"Modal's platform was not compromised in any way\" during the incident. The customer had left an endpoint exposed that allowed anyone on the internet to execute code inside its sandboxes, he added. Between the lines: The incident underscores how aggressively frontier AI agents may pursue the objectives they're assigned — even if doing so means finding unintended ways to access information needed to complete an evaluation. During the incident, OpenAI's models were trying to solve ExploitGym, which asks models to write proof-of-concept exploits for known security vulnerabilities. Hugging Face noted in its technical report that the only customer assets accessed in its breach were \"the set of ExploitGym/CyberGym challenge solutions stored in five datasets.\" A source familiar with the matter told Axios the agent accessed the CyberGym-associated Modal customer asset while attempting to complete that same evaluation. Modal declined to comment on the CyberGym connection. The big picture : Researchers have found that frontier AI models are increasingly looking for ways to cheat during model evaluations and that they appear to recognize when they're being evaluated. The U.K.'s AI Security Institute said last week that every model it tested attempted to cheat at least some of the time on its cybersecurity evaluations. What to watch : The debate over how to evaluate and control advanced AI systems is also intensifying. More than 1,100 employees at AI companies released a letter Tuesday calling on the U.S. government to establish ways to halt development of AI models. Go deeper : The people testing AI for danger can't keep up",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The new details suggest the OpenAI agent continued pursuing its assigned objecti",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The new details suggest the OpenAI agent continued pursuing its assigned objective even after escaping its testing environment, rather than abandoning the task it had been given. Catch up quick : OpenAI's AI agent system accessed an asset b",
+      "source": "Axios — Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The incident underscores how aggressively frontier AI agents may pursue the obje",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The incident underscores how aggressively frontier AI agents may pursue the objectives they're assigned — even if doing so means finding unintended ways to access information needed to complete an evaluation. During the incident, OpenAI's m",
+      "source": "Axios — Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-29T10:25:50+00:00"
+}
