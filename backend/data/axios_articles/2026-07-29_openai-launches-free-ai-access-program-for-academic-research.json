@@ -1,0 +1,72 @@
+{
+  "title": "OpenAI launches free AI access program for academic researchers",
+  "url": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
+  "pub_date": "2026-07-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI launches free AI access program for academic researchers (2026-07-29)",
+  "body": "OpenAI is launching a new program Wednesday that will provide 100,000 academic researchers with free access to its advanced AI models through 2027, the company told Axios ahead of the announcement. Why it matters: The program could help scientists, mathematicians and engineers pursue the kind of breakthroughs that OpenAI and other AI companies say the technology could enable. Driving the news: Those selected will have access to OpenAI's most advanced models — including GPT-5.6 Sol Pro — and can invite four collaborators from their academic institution. The program is aimed at researchers across scientific and mathematical fields, including biology, chemistry, computer science, engineering, mathematics and physics. By the numbers: Participants will get a year of access roughly equivalent to its $200-per-month ChatGPT Pro account, OpenAI said. Data won't be used to train models and researchers will receive business-grade privacy and security protections similar to those available to business customers, OpenAI said. The first 10,000 researchers will begin receiving access this summer at institutions including the Institute for Advanced Study and France's École normale supérieure, with the broader rollout continuing through 2027. What they're saying: \"Our strategy is not to decide which scientific problems deserve attention or try to solve them all ourselves,\" OpenAI said in a statement. \"It is to put capable tools in the hands of the research community and let researchers pursue the questions they know best.\" The big picture: OpenAI said the new program is part of its commitment to invest more than $250 million through 2027 in support of external scientific research and discovery. The move comes as AI has started to show promise in various disciplines, from solving open math problems to identifying new drug candidates. Yes, but: OpenAI's program is aimed broadly at the fields of math and sciences rather than those studying AI itself. The program does not address a central request from those in that field, who argue that their work requires access to model weights and the training data underlying them. OpenAI and Anthropic say restricting access to model weights helps prevent misuse. But researchers have argued that limited access can hamper independent evaluations of model behavior, reproducibility and safety. The bottom line: OpenAI is expanding researchers' access to its most capable AI tools, while keeping the underlying systems largely closed.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The program could help scientists, mathematicians and engineers pursue the kind",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The program could help scientists, mathematicians and engineers pursue the kind of breakthroughs that OpenAI and other AI companies say the technology could enable.",
+      "source": "Axios — OpenAI launches free AI access program for academic researchers (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Those selected will have access to OpenAI's most advanced models — including GPT",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Those selected will have access to OpenAI's most advanced models — including GPT-5.6 Sol Pro — and can invite four collaborators from their academic institution. The program is aimed at researchers across scientific and mathematical fields,",
+      "source": "Axios — OpenAI launches free AI access program for academic researchers (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Our strategy is not to decide which scientific problems deserve attention or tr",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Our strategy is not to decide which scientific problems deserve attention or try to solve them all ourselves,\" OpenAI said in a statement. \"It is to put capable tools in the hands of the research community and let researchers pursue the qu",
+      "source": "Axios — OpenAI launches free AI access program for academic researchers (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: OpenAI is expanding researchers' access to its most capable AI tools, while keep",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: OpenAI is expanding researchers' access to its most capable AI tools, while keeping the underlying systems largely closed.",
+      "source": "Axios — OpenAI launches free AI access program for academic researchers (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-30T10:08:39+00:00"
+}

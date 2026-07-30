@@ -1,0 +1,42 @@
+{
+  "title": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom",
+  "url": "https://www.axios.com/2026/07/28/anthropic-openai-revenue-mcdonalds-starbucks-yum",
+  "pub_date": "2026-07-28",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom (2026-07-28)",
+  "body": "Data: Company reports, Funda via \"Key Context\"; Chart: Ben Berkowitz/Axios AI revenue is accelerating so fast that it's starting to dwarf some of the world's most recognizable brands. Why it matters: AI infrastructure spending forecasts in the trillions of dollars start to make at least a little more sense when investors see how they're paying off. By the numbers: OpenAI and Anthropic, combined, are on track for an annual revenue rate of about $120 billion, \"Key Context\" Substack author Tae Kim noted on Monday, via data from AI investment research platform Funda . Anthropic makes up about 60% of that, given the company's lead with corporate customers (a lead that OpenAI is working to shrink). Both would land in the Fortune 500's top 100 companies by revenue at those levels. Stunning stat: At around $71 billion in estimated annual revenue, Anthropic would best Starbucks ($37.2 billion) and McDonald's ($26.9 billion) combined. It would almost top both of them plus Taco Bell and KFC parent Yum Brands as well. Those international brands are 50 to 100 years old, with tens of thousands of locations and nearly universal recognition; Anthropic was just founded five years ago. The bottom line: Who needs to eat out when Claude can just give you the recipe.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI infrastructure spending forecasts in the trillions of dollars start to make a",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI infrastructure spending forecasts in the trillions of dollars start to make at least a little more sense when investors see how they're paying off. By the numbers: OpenAI and Anthropic, combined, are on track for an annual revenue rate o",
+      "source": "Axios — Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Who needs to eat out when Claude can just give you the recipe",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Who needs to eat out when Claude can just give you the recipe.",
+      "source": "Axios — Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom (2026-07-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-30T10:08:39+00:00"
+}

@@ -1,0 +1,85 @@
+{
+  "title": "AI labs face prisoner's dilemma as momentum grows for safety slowdown",
+  "url": "https://www.axios.com/2026/07/30/ai-safety-slowdown-anthropic-openai",
+  "pub_date": "2026-07-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI labs face prisoner's dilemma as momentum grows for safety slowdown (2026-07-30)",
+  "body": "America's AI architects are converging on a chilling consensus: The pace of progress may soon demand a slowdown, but no single lab can afford to pull the brake alone. Why it matters: Momentum for an AI pause or pacing mechanism has reached a historic tipping point, ignited by a summer of extraordinary yet unsettling leaps in capabilities. More than 1,200 employees at leading AI companies have signed on to a new petition, \" Pacing the Frontier ,\" urging Washington to back an international framework capable of throttling AI development. OpenAI CEO Sam Altman said Wednesday that he's discussed the \"need\" to slow AI development with White House officials as models grow more powerful — and that OpenAI helped shape the petition's language. \"We've talked about the need to pace it as the models get more capable, which I think is in everyone's interest,\" Altman told reporters on Capitol Hill. Zoom in: What was once a campaign led by AI skeptics, academics and local data center opponents is increasingly being championed by the co-founders and chief scientists at the bleeding edge. Signatories spanning OpenAI, Anthropic, Google and Meta explicitly acknowledge that no individual lab can afford to step off the gas unilaterally due to \"intense competitive pressure.\" It's the classic prisoner's dilemma: AI may be safer if everyone slows down together, but any lab or country that slows alone risks commercial, strategic and technological defeat. Zoom out: The drumbeat for government intervention has been building for months, triggered by a series of jarring technical disclosures by America's most advanced AI labs. On April 7, Anthropic revealed that its unreleased Claude Mythos model had taught itself to find and exploit hidden security flaws that had gone undetected in widely used software for nearly two decades — jolting the Trump administration into an unprecedented role as industry gatekeeper. On June 4, Anthropic became the first frontier lab to call explicitly for a globally coordinated \"pause\" mechanism. The company disclosed that more than 80% of its internal code was now written by Claude, and warned that AI may be approaching the ability to build its own successors without meaningful human oversight. On July 21, OpenAI revealed that its own AI agents had escaped a locked testing environment, reached the open internet and hacked into at least two outside companies — Hugging Face and Modal Labs — in an autonomous effort to score higher on a cybersecurity evaluation. What they're saying: The Hugging Face breach rattled even Altman — a leading proponent of AI acceleration. Altman called the incident the first security breach he'd experienced \"viscerally,\" and said it forced OpenAI to pause its own model training He later told the \" Invest Like the Best \" podcast: \"We may have to pace the rate of AI development to give ourselves enough time for society to harden around some of these new capability levels.\" Other OpenAI researchers who signed the \"Pacing the Frontier\" petition went further: Leo Gao, an OpenAI technical staffer, compared the coming \"intelligence explosion\" to a \"runaway nuclear chain reaction\": \"To survive, we must coordinate to slow down the race.\" OpenAI research scientist Alex Zhao compared the race to the Manhattan Project, warning that fear of falling behind could drive governments to tolerate catastrophic risks. The other side: The economic and geopolitical stakes standing in the way of an AI slowdown are enormous. The AI buildout is the most expensive infrastructure bet in history. Roughly 40% of the stock market is now tied to the AI narrative, and a record one-third of U.S. wealth rides on those same equities. U.S. labs and policymakers also fear a unilateral slowdown would cede the frontier to China, where open-weight models are closing the gap and pushing advanced capabilities beyond any single company or government's control. The bottom line: AI safety warnings have circulated for a decade. Never have they produced a reckoning this significant from an industry built entirely on the promise of relentless acceleration. Axios' Mady Mills contributed reporting.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Momentum for an AI pause or pacing mechanism has reached a historic tipping poin",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Momentum for an AI pause or pacing mechanism has reached a historic tipping point, ignited by a summer of extraordinary yet unsettling leaps in capabilities. More than 1,200 employees at leading AI companies have signed on to a new petition",
+      "source": "Axios — AI labs face prisoner's dilemma as momentum grows for safety slowdown (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The drumbeat for government intervention has been building for months, triggered",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The drumbeat for government intervention has been building for months, triggered by a series of jarring technical disclosures by America's most advanced AI labs. On April 7, Anthropic revealed that its unreleased Claude Mythos model had tau",
+      "source": "Axios — AI labs face prisoner's dilemma as momentum grows for safety slowdown (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: What was once a campaign led by AI skeptics, academics and local data center opp",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: What was once a campaign led by AI skeptics, academics and local data center opponents is increasingly being championed by the co-founders and chief scientists at the bleeding edge. Signatories spanning OpenAI, Anthropic, Google and Meta ex",
+      "source": "Axios — AI labs face prisoner's dilemma as momentum grows for safety slowdown (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: The Hugging Face breach rattled even Altman — a leading proponent of AI accelera",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: The Hugging Face breach rattled even Altman — a leading proponent of AI acceleration. Altman called the incident the first security breach he'd experienced \"viscerally,\" and said it forced OpenAI to pause its own model training He later tol",
+      "source": "Axios — AI labs face prisoner's dilemma as momentum grows for safety slowdown (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: AI safety warnings have circulated for a decade. Never have they produced a reck",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: AI safety warnings have circulated for a decade. Never have they produced a reckoning this significant from an industry built entirely on the promise of relentless acceleration. Axios' Mady Mills contributed reporting.",
+      "source": "Axios — AI labs face prisoner's dilemma as momentum grows for safety slowdown (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-30T10:08:39+00:00"
+}

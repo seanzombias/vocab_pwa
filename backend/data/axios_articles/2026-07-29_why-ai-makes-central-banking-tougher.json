@@ -1,0 +1,39 @@
+{
+  "title": "Why AI makes central banking tougher",
+  "url": "https://www.axios.com/2026/07/29/ai-central-banking-bis",
+  "pub_date": "2026-07-29",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Why AI makes central banking tougher (2026-07-29)",
+  "body": "Central bankers, as a rule, try to maintain stable prices, a strong job market and a sound financial system. The AI boom is a complexifier on all three fronts. The big picture: AI is blurring the usual indicators that central bankers rely upon to set policy, a new paper from a leading international body finds, simultaneously affecting the supply and demand sides of the economy and driving both structural and cyclical change. The upshot, per the Bank for International Settlements — the Basel, Switzerland-based central bank for central banks — is that the rules of thumb on which policymakers have long relied are all being shuffled at once. State of play: In the U.S. and other hotbeds of AI innovation, an investment boom in the near term is creating a surge in demand, especially for semiconductors and other components of data centers. A stock market boom, meanwhile, is creating more consumer demand by increasing paper wealth. There are concerns that some of this wealth is illusory, however, and that there is an AI bubble that will eventually pop. There are risks that AI will result in large-scale job losses in the medium term, though there is only murky evidence of whether it's starting to happen. And a world in which AI advances create much more productivity growth implies a positive supply shock, which should bring down inflation. What they're saying: \"The considerable uncertainty surrounding the effects of AI raises several challenges for monetary policy and financial stability,\" wrote BIS economists Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi and Matthias Rottner. \"For one, AI simultaneously affects demand and supply, in both cyclical and structural ways,\" they wrote. \"Moreover, the effects differ across sectors, complicating the assessment of underlying trends.\" \"Greater uncertainty increases the risk of policy miscalibration.\" Zoom in: AI is likely to have varied economic effects on unobservable variables that are keys to modern macroeconomic policy, like the natural rates of interest and unemployment. Central banks, including the Federal Reserve in its policy meeting ending Wednesday, and the Bank of England and Bank of Japan both meeting Thursday, essentially must make real-time decisions on what direction the AI boom is shifting those variables, in what magnitude, and on what timeline. If they overestimate supply gains or underestimate the demand pressures created by AI investment and wealth effects, they could leave rates too low and stoke inflation, or make the opposite mistake and accidentally engineer a recession. Of note: Fed chairman Kevin Warsh has formed task forces to study the Fed's strategy — one explicitly focused on the impact of AI on the labor market and productivity, and others that relate to these issues like inflation measurement and economic data collection. Their conclusions and recommendations are due by year-end.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: AI is likely to have varied economic effects on unobservable variables that are",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: AI is likely to have varied economic effects on unobservable variables that are keys to modern macroeconomic policy, like the natural rates of interest and unemployment. Central banks, including the Federal Reserve in its policy meeting end",
+      "source": "Axios — Why AI makes central banking tougher (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"The considerable uncertainty surrounding the effects of AI raises several chall",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"The considerable uncertainty surrounding the effects of AI raises several challenges for monetary policy and financial stability,\" wrote BIS economists Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi and Matthias Rottner. \"For one, A",
+      "source": "Axios — Why AI makes central banking tougher (2026-07-29)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-30T10:08:39+00:00"
+}
