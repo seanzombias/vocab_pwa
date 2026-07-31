@@ -1,0 +1,72 @@
+{
+  "title": "Tim Cook says Apple may charge for AI Siri",
+  "url": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
+  "pub_date": "2026-07-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Tim Cook says Apple may charge for AI Siri (2026-07-30)",
+  "body": "Apple hinted Thursday that heavy users of its revamped Siri may have to pay for access. Why it matters: It's the first time that Apple has confirmed it will charge for the new AI -powered voice assistant. What they're saying: In a conference call to discuss Apple's most recent quarterly earnings , CEO Tim Cook said Apple is still developing its plan to address the higher computing costs that will come with the improved voice assistant. \"We do believe there will be people that want to use it a lot, and so we will have some kind of upgrade possibilities on iCloud+,\" Cook said during a call to discuss Apple's most recent quarterly earnings . Apple has also said that users will need a paid iCloud subscription to take advantage of a new home security feature built into the next version of IOS. The big picture: Apple unveiled its long-delayed Siri upgrade at its developer conference in June. A public beta began this month, with broad availability due in the fall alongside new iPhones. Cook says the positive early reviews of the new Siri \"underscores our philosophy that building AI that is private and based on personal context can change how users find information and get things done with our products in a way that truly enriches their lives.\" Zoom in: Bloomberg and others have predicted that usage of some features of the new iPhone operating system might require a paid iCloud subscription Between the lines: Apple is relying in part on Google Gemini models to help power the new Siri. Editor's note: This is a breaking news story. Please check back for updates.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It's the first time that Apple has confirmed it will charge for the new AI -powe",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It's the first time that Apple has confirmed it will charge for the new AI -powered voice assistant.",
+      "source": "Axios — Tim Cook says Apple may charge for AI Siri (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Bloomberg and others have predicted that usage of some features of the new iPhon",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Bloomberg and others have predicted that usage of some features of the new iPhone operating system might require a paid iCloud subscription",
+      "source": "Axios — Tim Cook says Apple may charge for AI Siri (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Apple is relying in part on Google Gemini models to help power the new Siri. Edi",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Apple is relying in part on Google Gemini models to help power the new Siri. Editor's note: This is a breaking news story. Please check back for updates.",
+      "source": "Axios — Tim Cook says Apple may charge for AI Siri (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: In a conference call to discuss Apple's most recent quarterly earnings , CEO Tim",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: In a conference call to discuss Apple's most recent quarterly earnings , CEO Tim Cook said Apple is still developing its plan to address the higher computing costs that will come with the improved voice assistant. \"We do believe there will ",
+      "source": "Axios — Tim Cook says Apple may charge for AI Siri (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-31T10:25:38+00:00"
+}

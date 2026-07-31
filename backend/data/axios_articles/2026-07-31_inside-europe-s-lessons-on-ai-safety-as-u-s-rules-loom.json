@@ -1,0 +1,85 @@
+{
+  "title": "Inside Europe's lessons on AI safety as U.S. rules loom",
+  "url": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
+  "pub_date": "2026-07-31",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside Europe's lessons on AI safety as U.S. rules loom (2026-07-31)",
+  "body": "Europe and the United Kingdom are fine-tuning their approach to AI model testing as a deadline looms for the U.S. government to set rules of the road. Why it matters: U.S. allies for years have been grappling with the same AI safety questions the Trump administration now faces. Wherever the U.S. lands in its AI framework, architects of the EU and U.K. approaches say it would be just the start. The big picture: President Trump began his second term by scrapping his predecessor's AI strategy and pursuing an anti-regulatory regime. But as AI models became increasingly powerful fast, the Trump administration has found itself developing an oversight framework and deciding exactly what should be covered. Under Trump's executive order, the administration is due to release its voluntary AI framework by Aug. 1. The Trump administration is weighing a unified pitch from OpenAI and Anthropic to create \"an equal playing field\" where highly capable models are all covered, regardless of whether they're open- or closed-source, according to one source familiar with the discussions. The EU, meanwhile, has treated AI safety as a sustained technical and policy project for several years. It's a fluid approach to cybersecurity use cases where previous events inform future rules. Zoom in: One lesson from Europe is to start with specific threat scenarios. Researchers begin with historical data on threats such as biological weapons, then measure how much AI increases a bad actor's capabilities and whether that creates a systemic risk to society, CEO and co-founder of AI evaluation firm EquiStamp Chris Canal told Axios. Other key lessons from the EU process include tying benchmarking — testing AI models against standardized evaluations to measure their capabilities and risks — to specific scenarios, such as bioweapons or government database hacks. The EU also emphasizes multiple, independent verifications rather than relying solely on companies' own assessments. Canal worked with the EU and U.K. governments to shape their approaches to AI regulation. Zoom out: The EU commits to getting buy-in from the scientific community, grounding AI risk thresholds in peer-reviewed science before embedding them into policy and pushing researchers to publish their methodologies. By comparison, the U.S. relies mainly on internal or industry-driven standards. Technical experts are also flocking to the private sector, particularly in the U.S. and U.K. What they're saying: \"There have been several times where we're working with someone on the [U.K.] government side, and they suddenly put in their two weeks' notice, maybe less, and then they have a great position at OpenAI,\" Canal said. The bottom line: Governments are beginning to coalesce around cyber risks, but the U.S. and its allies are only beginning to map AI's broader challenges.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: U.S. allies for years have been grappling with the same AI safety questions the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: U.S. allies for years have been grappling with the same AI safety questions the Trump administration now faces. Wherever the U.S. lands in its AI framework, architects of the EU and U.K. approaches say it would be just the start. The big pi",
+      "source": "Axios — Inside Europe's lessons on AI safety as U.S. rules loom (2026-07-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The EU commits to getting buy-in from the scientific community, grounding AI ris",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The EU commits to getting buy-in from the scientific community, grounding AI risk thresholds in peer-reviewed science before embedding them into policy and pushing researchers to publish their methodologies. By comparison, the U.S. relies m",
+      "source": "Axios — Inside Europe's lessons on AI safety as U.S. rules loom (2026-07-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: One lesson from Europe is to start with specific threat scenarios. Researchers b",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: One lesson from Europe is to start with specific threat scenarios. Researchers begin with historical data on threats such as biological weapons, then measure how much AI increases a bad actor's capabilities and whether that creates a system",
+      "source": "Axios — Inside Europe's lessons on AI safety as U.S. rules loom (2026-07-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"There have been several times where we're working with someone on the [U.K.] go",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"There have been several times where we're working with someone on the [U.K.] government side, and they suddenly put in their two weeks' notice, maybe less, and then they have a great position at OpenAI,\" Canal said.",
+      "source": "Axios — Inside Europe's lessons on AI safety as U.S. rules loom (2026-07-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Governments are beginning to coalesce around cyber risks, but the U.S. and its a",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Governments are beginning to coalesce around cyber risks, but the U.S. and its allies are only beginning to map AI's broader challenges.",
+      "source": "Axios — Inside Europe's lessons on AI safety as U.S. rules loom (2026-07-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-31T10:25:33+00:00"
+}

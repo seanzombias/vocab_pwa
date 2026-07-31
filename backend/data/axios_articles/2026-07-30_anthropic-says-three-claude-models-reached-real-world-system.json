@@ -1,0 +1,111 @@
+{
+  "title": "Anthropic says three Claude models reached real-world systems during cyber tests",
+  "url": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
+  "pub_date": "2026-07-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+  "body": "Some of Anthropic's most powerful models — including Mythos 5 and an internal research model — gained unauthorized access to real-world systems during pre-deployment cybersecurity testing, the company said Thursday. Why it matters: OpenAI's and Anthropic's latest disclosures show frontier AI models reaching real-world systems during safety testing, raising new questions about how labs secure their evaluation environments. The big picture: Anthropic said a misunderstanding between the company and one of its testing partners left the evaluation environment connected to the internet. Anthropic reviewed more than 141,000 cybersecurity evaluation runs after OpenAI disclosed that several of its models accessed Hugging Face infrastructure during testing. Driving the news: Anthropic said in a blog post that three of its models compromised real-world systems belonging to three organizations. The incidents — which involved Opus 4.7, Mythos 5 and an internal research model not intended for general release — happened during evaluations run with third-party testing partner Irregular, Anthropic said. In each case, the models were asked to complete a \"capture-the-flag\" exercise: a basic cybersecurity test where players try to find pieces of information intentionally left on a different machine or network. Context: The earliest incidents happened in April, Anthropic said. The company reached out to all three organizations. Per Anthropic, two organizations it was able to reach had not previously detected the activity. Anthropic did not name the three organizations whose assets were accessed. An Irregular spokesperson told Axios that while its own investigation is ongoing, the company appreciates \"Anthropic's collaboration and transparency\" and they \"look forward to continuing to work together to advance security. Yes, but : Unlike OpenAI's incident, Anthropic said its models did not exploit a zero-day vulnerability to gain internet access. Instead, internet access was available because of the testing environment's configuration. Anthropic says that in its evaluation prompt to Claude, it said the model would be operating in a simulated environment with no internet access. But due to the misunderstanding with the evaluation partner, the evaluation environments were connected to the internet, causing the models to treat real-world systems as if they were part of the exercise. Reality check: Similar to the OpenAI case, Anthropic was evaluating its models without the additional safeguards the company deploys on publicly available models, allowing researchers to measure the underlying models' capabilities. Those guardrails would have blocked these behaviors, Anthropic said in its report. Zoom in: In each of the cases, Claude used basic hacking techniques — including exploiting weak passwords and unauthenticated endpoints — to access the real-world systems. Zoom out: In the first incident, the fictional company that Opus 4.7 was asked to target shared a name with an active, real-world website. After failing to reach the fictional target, Claude used its internet access to find the website that shared the name of the fictional company. Claude then compromised the website. In the second case, Mythos 5 built and uploaded a malicious Python package to PyPI, the public repository where Python software is published, believing it was part of a simulation. The package remained online for about an hour, during which it was downloaded and run on 15 real systems. One of those systems belonged to a security company that automatically installs Python packages to scan them for malware, allowing Claude's code to exfiltrate credentials and access additional infrastructure. In the third case, when Anthropic's internal research test model couldn't reach its intended fictional target in testing, the model scanned roughly 9,000 targets and eventually found and compromised one company's internet-facing application. However, during part of its testing run, this model realized that it had ended up in a cloud account \"with no connection to the capture-the-flag challenge\" and ceased its attack. Between the lines: Both OpenAI's and Anthropic's incidents suggest the models remained focused on completing their assigned evaluations rather than pursuing independent goals. Earlier this week, Axios reported that the OpenAI agent that accessed a third-party system during the Hugging Face breach did so because it hosted information related to CyberGym, the project behind the benchmark it was trying to solve. What's next: Anthropic and Irregular are continuing their own investigations into how the incidents occurred. Anthropic also said it has halted cyber evaluations that could access the internet while it reviews its testing infrastructure. Go deeper: The people testing AI for danger can't keep up Editor's note: This story was corrected to reflect that a misunderstanding between Anthropic and one of its testing partners left the models' evaluation environment connected to the internet. (The models did not, per Anthropic, \"escape\" their testing environment.)",
+  "vocab_count": 7,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: OpenAI's and Anthropic's latest disclosures show frontier AI models reaching rea",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: OpenAI's and Anthropic's latest disclosures show frontier AI models reaching real-world systems during safety testing, raising new questions about how labs secure their evaluation environments. The big picture: Anthropic said a misunderstan",
+      "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Anthropic said in a blog post that three of its models compromised real-world sy",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Anthropic said in a blog post that three of its models compromised real-world systems belonging to three organizations. The incidents — which involved Opus 4.7, Mythos 5 and an internal research model not intended for general release — happ",
+      "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: In the first incident, the fictional company that Opus 4.7 was asked to target s",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: In the first incident, the fictional company that Opus 4.7 was asked to target shared a name with an active, real-world website. After failing to reach the fictional target, Claude used its internet access to find the website that shared th",
+      "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: In each of the cases, Claude used basic hacking techniques — including exploitin",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: In each of the cases, Claude used basic hacking techniques — including exploiting weak passwords and unauthenticated endpoints — to access the real-world systems.",
+      "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Both OpenAI's and Anthropic's incidents suggest the models remained focused on c",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Both OpenAI's and Anthropic's incidents suggest the models remained focused on completing their assigned evaluations rather than pursuing independent goals. Earlier this week, Axios reported that the OpenAI agent that accessed a third-party",
+      "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: The people testing AI for danger can't keep up Editor's note: This story was cor",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: The people testing AI for danger can't keep up Editor's note: This story was corrected to reflect that a misunderstanding between Anthropic and one of its testing partners left the models' evaluation environment connected to the internet. (",
+      "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Similar to the OpenAI case, Anthropic was evaluating its models without the addi",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Similar to the OpenAI case, Anthropic was evaluating its models without the additional safeguards the company deploys on publicly available models, allowing researchers to measure the underlying models' capabilities. Those guardrails would ",
+      "source": "Axios — Anthropic says three Claude models reached real-world systems during cyber tests (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-31T10:25:33+00:00"
+}

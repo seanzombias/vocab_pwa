@@ -1,0 +1,46 @@
+{
+  "title": "Publishers are losing Google traffic as AI answers replace links",
+  "url": "https://www.axios.com/2026/07/31/google-search-publishers-seo-geo-llms-ai",
+  "pub_date": "2026-07-31",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Publishers are losing Google traffic as AI answers replace links (2026-07-31)",
+  "body": "The way your work shows up in a digital-dominated world is changing lightning fast, starting with the total collapse of Google Search traffic. Why it matters: Google has basically stopped sending people to websites (including our site) for answers and information. Instead, it's using AI to answer them on its platform, in its words. Chartbeat data shared with Axios shows Google Search traffic to publishers fell 34% over the past year. That pain is regressive. Over the past two years, small publishers lost 60% of referrals from search overall, medium publishers 47%, large publishers 22%. This is a gut punch to all of us who operate online because people who search arrive with specific needs and intent, so they tend to be more valuable than a random passer-by from X or Facebook. At the same time, LinkedIn, Reddit and other massive platforms are getting jammed with AI-created content, making it harder to stand out — or decipher real from fake. To that end, Substack announced a partnership last week with AI-detection software Pangram, specifically calling out LinkedIn while arguing that \"platforms that reward fakeness will create a race to the bottom.\" Between the lines: Any smart person who primarily does business online is already anticipating the shift to an LLM, ChatGPT-like world. It starts with GEO — the term for shaping how content shows up inside LLMs like Claude and ChatGPT. This is the modern version of SEO. It's early, and it's a black box. But there's no time to waste. The future: My theory is all of us will need to rethink and reformat our content to meet human AND AI needs. Turns out, our Smart Brevity format — most important point first, context second, information stacked in order of importance, often in bullet form — works wonders with AI. We're among the top publishers surfaced by the leading LLMs, so we're working with companies to see if they can achieve similar results. It's crucial to get ahead of this problem. At Axios, we're already figuring out how we can: Show up inside LLMs now. Improve that standing. Offset reliance on search and open web. Connect with audiences in a post-open-web world. (Direct relationships via things like newsletters and events are a good start.) What's next: The agent wave is coming. Smart publishers have largely stopped treating AI engines as a referral source and now treat them as a distribution layer. Soon, the \"customer\" reading a website, comparing prices and learning about a product will often be someone's AI agent as the middleman. 📈 If you're a CEO or on a CEO's team: Ask to join Jim's new weekly Axios C-Suite newsletter.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Google has basically stopped sending people to websites (including our site) for",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Google has basically stopped sending people to websites (including our site) for answers and information. Instead, it's using AI to answer them on its platform, in its words. Chartbeat data shared with Axios shows Google Search traffic to p",
+      "source": "Axios — Publishers are losing Google traffic as AI answers replace links (2026-07-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Any smart person who primarily does business online is already anticipating the",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Any smart person who primarily does business online is already anticipating the shift to an LLM, ChatGPT-like world. It starts with GEO — the term for shaping how content shows up inside LLMs like Claude and ChatGPT. This is the modern vers",
+      "source": "Axios — Publishers are losing Google traffic as AI answers replace links (2026-07-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-07-31T10:25:33+00:00"
+}
