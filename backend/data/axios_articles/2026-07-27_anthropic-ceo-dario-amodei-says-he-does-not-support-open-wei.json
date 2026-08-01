@@ -1,0 +1,98 @@
+{
+  "title": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban",
+  "url": "https://www.axios.com/2026/07/27/anthropic-open-weight-ban-china-dario-amodei",
+  "pub_date": "2026-07-27",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Anthropic CEO Dario Amodei says he does not support open-weight AI ban (2026-07-27)",
+  "body": "Anthropic CEO Dario Amodei said Monday that he has \"never advocated\" for a ban on open-weight AI models , rejecting accusations that his lab is seeking to shield its closed-model business from competition. Why it matters: Anthropic has become the most prominent holdout from a new industry push to defend open-weight AI, after Nvidia, Microsoft, Meta, Google, OpenAI and dozens of other companies signed a letter urging Washington not to restrict the technology. The push was triggered by the shock debut of Kimi K3 , a Chinese open-weight model that rattled Silicon Valley by approaching U.S. frontier performance at a fraction of the cost. The Trump administration has weighed taking action against open-source models, including sanctions against Chinese labs accused of stealing U.S. AI research through \"distillation.\" Driving the news: \"Anthropic has never advocated for a ban on open-weights models,\" Amodei wrote in a new blog post , calling models without dangerous capabilities \"a public good.\" He argued that a ban on Chinese open models would do little to stop the actual threat, since \"bad actors are unlikely to be legitimate US businesses.\" He acknowledged a ban would shield U.S. labs like Anthropic from competition — but insisted \"that has never been my goal.\" Between the lines: Amodei is trying to draw a narrow line between opposing open-weight bans and supporting tougher controls on the most powerful AI systems. The Anthropic CEO said he agrees that open models can expand access, competition and customer control. But he rejected the letter's claim that open-weight models necessarily make AI safer or give cyber defenders an advantage over attackers. Zoom in: Instead of a ban, which he said \"would not address my most serious national security concerns,\" Amodei called for three narrower policies: Tighter controls on advanced chips and chipmaking equipment flowing to authoritarian governments, including the Chinese Communist Party. A crackdown on \"industrial-scale distillation,\" or training models on the outputs of more advanced systems. Mandatory safety testing for sufficiently capable models, whether open or closed. Catch up quick: Anthropic faced criticism after it declined to join Nvidia CEO Jensen Huang's open-weight letter. Google and OpenAI, Anthropic's two biggest closed-model rivals, signed on this weekend after originally abstaining. Anthropic still has not. Its absence fueled accusations — including from White House AI adviser David Sacks — that the company was using safety concerns to defend its own business model. The bottom line: Amodei doesn't want Washington to ban open models. He wants Washington to regulate the chokepoints — chips, distillation and safety testing — that determine how powerful those models can become.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Anthropic has become the most prominent holdout from a new industry push to defe",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Anthropic has become the most prominent holdout from a new industry push to defend open-weight AI, after Nvidia, Microsoft, Meta, Google, OpenAI and dozens of other companies signed a letter urging Washington not to restrict the technology.",
+      "source": "Axios — Anthropic CEO Dario Amodei says he does not support open-weight AI ban (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: \"Anthropic has never advocated for a ban on open-weights models,\" Amodei wrote i",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: \"Anthropic has never advocated for a ban on open-weights models,\" Amodei wrote in a new blog post , calling models without dangerous capabilities \"a public good.\" He argued that a ban on Chinese open models would do little to stop the actua",
+      "source": "Axios — Anthropic CEO Dario Amodei says he does not support open-weight AI ban (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Anthropic faced criticism after it declined to join Nvidia CEO Jensen Huang's op",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Anthropic faced criticism after it declined to join Nvidia CEO Jensen Huang's open-weight letter. Google and OpenAI, Anthropic's two biggest closed-model rivals, signed on this weekend after originally abstaining. Anthropic still has not. I",
+      "source": "Axios — Anthropic CEO Dario Amodei says he does not support open-weight AI ban (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Instead of a ban, which he said \"would not address my most serious national secu",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Instead of a ban, which he said \"would not address my most serious national security concerns,\" Amodei called for three narrower policies: Tighter controls on advanced chips and chipmaking equipment flowing to authoritarian governments, inc",
+      "source": "Axios — Anthropic CEO Dario Amodei says he does not support open-weight AI ban (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Amodei is trying to draw a narrow line between opposing open-weight bans and sup",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Amodei is trying to draw a narrow line between opposing open-weight bans and supporting tougher controls on the most powerful AI systems. The Anthropic CEO said he agrees that open models can expand access, competition and customer control.",
+      "source": "Axios — Anthropic CEO Dario Amodei says he does not support open-weight AI ban (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Amodei doesn't want Washington to ban open models. He wants Washington to regula",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Amodei doesn't want Washington to ban open models. He wants Washington to regulate the chokepoints — chips, distillation and safety testing — that determine how powerful those models can become.",
+      "source": "Axios — Anthropic CEO Dario Amodei says he does not support open-weight AI ban (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-01T09:47:09+00:00"
+}

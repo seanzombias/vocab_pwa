@@ -1,0 +1,59 @@
+{
+  "title": "AI-focused hedge fund sells all of its stocks",
+  "url": "https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-citadel",
+  "pub_date": "2026-07-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI-focused hedge fund sells all of its stocks (2026-07-30)",
+  "body": "Situational Awareness, an AI -focused hedge fund founded by a former OpenAI researcher, has sold all of its public equities portfolio to Ken Griffin's Citadel, a source tells Axios. Why it matters: This comes amidst a recent sell-off in AI stocks, particularly chipmakers. News of a sale was first reported by the WSJ . Catch up quick: Former OpenAI researcher Leopold Aschenbrenner founded Situational Awareness after being fired from OpenAI in 2024, over an alleged information leak that he disputes. It recently reported around $20 billion in assets under management. Early investors included Stripe cofounders Patrick and John Collison, plus former GitHub CEO Nat Friedman, and ex-Apple employee Daniel Gross. Zoom in: Just yesterday, the FT reported that Situational Awareness \"has sought to raise fresh capital from investors after suffering heavy losses during the recent rout in AI stocks.\" That seems to have escalated quickly.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: This comes amidst a recent sell-off in AI stocks, particularly chipmakers. News",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: This comes amidst a recent sell-off in AI stocks, particularly chipmakers. News of a sale was first reported by the WSJ .",
+      "source": "Axios — AI-focused hedge fund sells all of its stocks (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Former OpenAI researcher Leopold Aschenbrenner founded Situational Awareness aft",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Former OpenAI researcher Leopold Aschenbrenner founded Situational Awareness after being fired from OpenAI in 2024, over an alleged information leak that he disputes. It recently reported around $20 billion in assets under management. Early",
+      "source": "Axios — AI-focused hedge fund sells all of its stocks (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Just yesterday, the FT reported that Situational Awareness \"has sought to raise",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Just yesterday, the FT reported that Situational Awareness \"has sought to raise fresh capital from investors after suffering heavy losses during the recent rout in AI stocks.\" That seems to have escalated quickly.",
+      "source": "Axios — AI-focused hedge fund sells all of its stocks (2026-07-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-01T09:47:08+00:00"
+}

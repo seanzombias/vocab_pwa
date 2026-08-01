@@ -1,0 +1,85 @@
+{
+  "title": "These 5 AI risks have the highest potential for catastrophe",
+  "url": "https://www.axios.com/2026/07/27/mit-study-ai-risks-urgent-weapons-cyber-attacks",
+  "pub_date": "2026-07-27",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — These 5 AI risks have the highest potential for catastrophe (2026-07-27)",
+  "body": "Data: MIT IT FutureTech and the University of Queensland ; Chart: Herb Scribner/Axios There is a one-in-five chance of AI gaining dangerous weapons capabilities or causing mass harm that could kill millions in the next five years, per global experts surveyed for a recent MIT study . Why it matters: The findings add to the growing debate over AI safety and cybersecurity as governments and companies race to deploy increasingly capable systems. Last week's news of an OpenAI model breaking containment and breaching the AI platform Hugging Face only adds to the debate about what can go wrong. Driving the news: Researchers from MIT and the University of Queensland in Australia asked 272 international experts to evaluate 24 different risks based on their likelihood and severity between 2025 and 2030. The experts said 18 of the 24 AI risks had \"at least a 10% probability of catastrophic outcomes over the next five years\" — but five main risks stood out with higher probabilities. The study defined a \"catastrophic outcome\" as an event having more than 1 million human deaths, more than $100 billion in financial loss or generally \"civilizational-scale intangible impacts.\" The five catastrophic risks if companies and organizations stay on the current course include: AI possessing dangerous capabilities: Experts say these could potentially cause mass harm through deception, weapons development, cyber offenses and misalignment (21.5%). Cyberattacks, weapon development or use, and mass harm: Using AI to develop weapons (including chemical or biological), commit cyberattacks or create mass-harm weapons, like nuclear explosives (21%). Power centralization and unfair distribution of benefits: Limiting which people or groups benefit from AI could cause societal inequality (18%). Competitive dynamics: AI competition to release the best models leads to error-prone systems (16.6%). False or misleading information : AI creates misinformation or errors that lead to inaccurate beliefs, leading humans to make poor decisions based on false beliefs (12.8%). Reality check: The experts said some mitigations could reduce the severity of the AI harms, but the chances of them happening remained above 10% in that scenario. The big picture: AI safety concerns have continually raised questions about guardrails. AI behaviors, as well as the opinions about those behaviors , can move markets and reshape conversations overnight — leading to doomsday scenarios . The other side: AI has driven a productivity explosion , with many in the AI field cheering the new technology's ability to improve productivity and automate tasks. The bottom line: Researchers say catastrophic AI risks remain uncertain but significant enough that interested parties should treat them as challenges to overcome. Go deeper: AI is a cybersecurity risk accelerant, experts say",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The findings add to the growing debate over AI safety and cybersecurity as gover",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The findings add to the growing debate over AI safety and cybersecurity as governments and companies race to deploy increasingly capable systems. Last week's news of an OpenAI model breaking containment and breaching the AI platform Hugging",
+      "source": "Axios — These 5 AI risks have the highest potential for catastrophe (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Researchers from MIT and the University of Queensland in Australia asked 272 int",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Researchers from MIT and the University of Queensland in Australia asked 272 international experts to evaluate 24 different risks based on their likelihood and severity between 2025 and 2030. The experts said 18 of the 24 AI risks had \"at l",
+      "source": "Axios — These 5 AI risks have the highest potential for catastrophe (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Researchers say catastrophic AI risks remain uncertain but significant enough th",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Researchers say catastrophic AI risks remain uncertain but significant enough that interested parties should treat them as challenges to overcome.",
+      "source": "Axios — These 5 AI risks have the highest potential for catastrophe (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: AI is a cybersecurity risk accelerant, experts say",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: AI is a cybersecurity risk accelerant, experts say",
+      "source": "Axios — These 5 AI risks have the highest potential for catastrophe (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The experts said some mitigations could reduce the severity of the AI harms, but",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The experts said some mitigations could reduce the severity of the AI harms, but the chances of them happening remained above 10% in that scenario. The big picture: AI safety concerns have continually raised questions about guardrails. AI b",
+      "source": "Axios — These 5 AI risks have the highest potential for catastrophe (2026-07-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-01T09:47:09+00:00"
+}
