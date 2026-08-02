@@ -1,0 +1,98 @@
+{
+  "title": "DeepSeek's new bargain model accelerates AI's race to zero",
+  "url": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
+  "pub_date": "2026-08-01",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — DeepSeek's new bargain model accelerates AI's race to zero (2026-08-01)",
+  "body": "Data: Axios research; Chart: Sara Wise/Axios Chinese AI lab DeepSeek released a powerful new coding model Friday that charges pennies for vast amounts of code — the latest sign that some of the smartest software on Earth is rapidly becoming a commodity . Why it matters: Tech giants are pouring hundreds of billions of dollars into the computing infrastructure powering the AI revolution. Yet the intelligence that infrastructure produces is getting cheaper by the week. Zoom in: DeepSeek is the same Chinese startup that ignited a market meltdown last January by showing it could build a world-class AI model with far fewer resources than its U.S. rivals. Its newest model, V4 Flash, performs close to the level of Anthropic's Claude Opus 4.8, one of the industry's most capable systems, on tests of complex coding and autonomous software tasks. On Arena.ai's crowdsourced leaderboard for front-end coding, V4 Flash debuted ahead of Opus 4.8 — while delivering the best performance for its price among any model in its class. The price gap is staggering: DeepSeek charges about 28 cents for the same amount of output that costs $25 on Opus 4.8 — a 99% discount. Zoom out: With Chinese models like Kimi K3 bearing down on the U.S. market, July ushered in a full-scale price war across the AI landscape. OpenAI slashed the price of GPT-5.6 Luna — its fastest, cheapest model for high-volume tasks — by 80% on Thursday, only three weeks after its launch. Google released three new Gemini \"flash\" models all focused on efficiency. SpaceXAI released Grok 4.5 , Elon Musk's most capable model yet for coding, research and autonomous tasks, at the same price OpenAI originally charged for Luna before this week's cut. Meta quietly reversed course on its longtime embrace of open weights with Muse Spark 1.1 , a closed-source model priced aggressively for developers. The other side: Anthropic remains the clearest holdout, keeping its top-tier Claude models at premium pricing and betting that developers will pay extra for safety and precision. Between the lines: When a product becomes a commodity, buyers care less about who made it and more about what it costs. Think electricity or gasoline: Few people know which power plant supplied their home or which refinery produced the fuel in their tank. AI is heading that way fast. As the performance gap between top-tier models is shrinking, many AI applications no longer depend on a single provider, giving buyers more leverage to shop on price. \"At some point, the next model doesn't matter to you,\" says Zack Kass, OpenAI's former head of go-to-market and a global AI adviser. He calls the phenomenon \"diminishing model returns.\" What to watch: That could create a lucrative market for \"intelligent routers,\" Vinesh Sukumar, Qualcomm's vice president of AI product management, told Axios. Those systems would automatically choose the best model for each task based on capability, speed and price — further weakening the power of any one lab to command a premium. For frontier AI labs, that could pose an existential challenge: Spending tens of billions to build a slightly smarter model may buy only a temporary lead, without creating lasting pricing power. Reality check: Falling prices do not necessarily doom the frontier labs if cheaper AI unleashes vastly more demand. OpenAI is betting that companies will use its models so extensively that enormous volume can compensate for thinner margins. \"We will have so much usage of our models that we do not need to be a gigantically high-margin business to be able to afford model training,\" CEO Sam Altman said on the Invest Like the Best podcast . The bottom line: The U.S. and China are both racing to make intelligence abundant. Now someone has to prove abundance can still be profitable.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Tech giants are pouring hundreds of billions of dollars into the computing infra",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Tech giants are pouring hundreds of billions of dollars into the computing infrastructure powering the AI revolution. Yet the intelligence that infrastructure produces is getting cheaper by the week.",
+      "source": "Axios — DeepSeek's new bargain model accelerates AI's race to zero (2026-08-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: With Chinese models like Kimi K3 bearing down on the U.S. market, July ushered i",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: With Chinese models like Kimi K3 bearing down on the U.S. market, July ushered in a full-scale price war across the AI landscape. OpenAI slashed the price of GPT-5.6 Luna — its fastest, cheapest model for high-volume tasks — by 80% on Thurs",
+      "source": "Axios — DeepSeek's new bargain model accelerates AI's race to zero (2026-08-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: DeepSeek is the same Chinese startup that ignited a market meltdown last January",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: DeepSeek is the same Chinese startup that ignited a market meltdown last January by showing it could build a world-class AI model with far fewer resources than its U.S. rivals. Its newest model, V4 Flash, performs close to the level of Anth",
+      "source": "Axios — DeepSeek's new bargain model accelerates AI's race to zero (2026-08-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: When a product becomes a commodity, buyers care less about who made it and more",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: When a product becomes a commodity, buyers care less about who made it and more about what it costs. Think electricity or gasoline: Few people know which power plant supplied their home or which refinery produced the fuel in their tank. AI ",
+      "source": "Axios — DeepSeek's new bargain model accelerates AI's race to zero (2026-08-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The U.S. and China are both racing to make intelligence abundant. Now someone ha",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The U.S. and China are both racing to make intelligence abundant. Now someone has to prove abundance can still be profitable.",
+      "source": "Axios — DeepSeek's new bargain model accelerates AI's race to zero (2026-08-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Falling prices do not necessarily doom the frontier labs if cheaper AI unleashes",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Falling prices do not necessarily doom the frontier labs if cheaper AI unleashes vastly more demand. OpenAI is betting that companies will use its models so extensively that enormous volume can compensate for thinner margins. \"We will have ",
+      "source": "Axios — DeepSeek's new bargain model accelerates AI's race to zero (2026-08-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-02T09:46:33+00:00"
+}
