@@ -1,0 +1,85 @@
+{
+  "title": "AI's manifesto war",
+  "url": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
+  "pub_date": "2026-08-02",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI's manifesto war (2026-08-02)",
+  "body": "Silicon Valley's AI moguls are flooding Washington with competing blueprints for superintelligence, clashing over a defining question: Does safety come from spreading powerful AI or containing it? Why it matters: Their fight will shape who gets access to the best models, how America competes with China, and whether the government can slow the race in an emergency. Driving the news: Alarming developments, seemingly by the day, have turned the manifestos from thought exercises into an urgent policy battle. OpenAI and Anthropic both disclosed that their advanced models went rogue and broke into external systems during cybersecurity evaluations. Kimi K3 delivered a double shock: The Chinese model not only reached frontier-level performance, but did so with open weights that anyone can download, modify and deploy. The big picture: The shocks have sharpened the stakes for the flurry of manifestos dropping across Silicon Valley. Each mogul's post offers a different theory of the danger — and a different prescription for containing it. The manifesto map: July 14 — Set the standards: Google DeepMind CEO Demis Hassabis proposed an industry-funded, federally overseen \"Frontier AI Standards Body\" to test models before release. Voluntary reviews could eventually harden into binding rules governing access to the most powerful systems. July 24 — Open the defense: Nvidia CEO Jensen Huang argued that open models give American developers and cybersecurity defenders more tools, and rallied Meta, Microsoft, Google and OpenAI to sign a letter, \"Open Weights and American AI Leadership,\" supporting the open AI ecosystem. July 27 — Gate the danger: Anthropic CEO Dario Amodei called for \"mandatory safety testing,\" and tighter controls on the chips and distillation techniques helping China develop powerful open-weight models. He stopped short of supporting a blanket ban. July 28 — Spread access: Meta CEO Mark Zuckerberg cast broadly available \"personal superintelligence\" as a safeguard against a future controlled by a handful of companies and governments. July 28 — Build the brake: More than 1,200 frontier-lab employees signed \" Pacing the Frontier ,\" a petition asking Washington to create international tools for deliberately slowing development if AI begins advancing beyond human control. Reality check: OpenAI CEO Sam Altman is trying to occupy both sides of the divide. His lab backs investment in the open AI stack, despite selling closed models. Altman told reporters on Capitol Hill on Wednesday that OpenAI researchers helped shape the pacing letter. We're told Altman has talked with the White House about building the necessary tools to \"pace\" AI development, preserving the government's option to do so if needed in the future. Altman wants the tools and decisions in the hands of government, not any one company, so it's managed via democratic processes. Altman's No. 1 topic in administration and White House meetings was previewing the capabilities of the company's most powerful AI yet — Astra, the next major ChatGPT model family, as yet unreleased. OpenAI said Saturday that an internal version of Astra was behind research leaps in 10 major open mathematical problems in \"high-dimensional geometry, coding theory, arithmetic circuit complexity, group theory, operator algebras, quantum complexity, lattice cryptography and extremal combinatorics.\" Zoom out: The open-weight paradox runs through every manifesto. Open weights can spread innovation, strengthen cyber defenders and prevent a few companies from monopolizing AI. But as models gain stronger cyber and autonomous capabilities, the same openness can place dangerous tools beyond any company's ability to monitor, restrict or recall. Between the lines: These are competing theories of danger. Huang and Zuckerberg fear that concentrated control will weaken America and empower a small group of gatekeepers. Amodei and the pacing coalition fear that powerful capabilities will spread faster than companies or governments can contain them. Altman is trying to preserve the advantages of openness while building an emergency brake for the frontier. What to watch: The Trump administration is close to issuing a formal process (\" voluntary framework \") for reviewing cutting-edge AI systems. The manifestos aim to influence which risks that process should prioritize, and whose rules Washington should adopt.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Their fight will shape who gets access to the best models, how America competes",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Their fight will shape who gets access to the best models, how America competes with China, and whether the government can slow the race in an emergency.",
+      "source": "Axios — AI's manifesto war (2026-08-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Alarming developments, seemingly by the day, have turned the manifestos from tho",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Alarming developments, seemingly by the day, have turned the manifestos from thought exercises into an urgent policy battle. OpenAI and Anthropic both disclosed that their advanced models went rogue and broke into external systems during cy",
+      "source": "Axios — AI's manifesto war (2026-08-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The open-weight paradox runs through every manifesto. Open weights can spread in",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The open-weight paradox runs through every manifesto. Open weights can spread innovation, strengthen cyber defenders and prevent a few companies from monopolizing AI. But as models gain stronger cyber and autonomous capabilities, the same o",
+      "source": "Axios — AI's manifesto war (2026-08-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: These are competing theories of danger. Huang and Zuckerberg fear that concentra",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: These are competing theories of danger. Huang and Zuckerberg fear that concentrated control will weaken America and empower a small group of gatekeepers. Amodei and the pacing coalition fear that powerful capabilities will spread faster tha",
+      "source": "Axios — AI's manifesto war (2026-08-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: OpenAI CEO Sam Altman is trying to occupy both sides of the divide. His lab back",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: OpenAI CEO Sam Altman is trying to occupy both sides of the divide. His lab backs investment in the open AI stack, despite selling closed models. Altman told reporters on Capitol Hill on Wednesday that OpenAI researchers helped shape the pa",
+      "source": "Axios — AI's manifesto war (2026-08-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-03T11:10:09+00:00"
+}
