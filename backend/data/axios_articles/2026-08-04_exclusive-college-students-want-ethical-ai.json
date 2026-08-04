@@ -1,0 +1,59 @@
+{
+  "title": "Exclusive: College students want ethical AI",
+  "url": "https://www.axios.com/2026/08/04/college-ai-use-kogod-american-university",
+  "pub_date": "2026-08-04",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: College students want ethical AI (2026-08-04)",
+  "body": "The number of business students regularly using AI has increased from 6.2% to 29% over the past three years, according to research from American University's Kogod School of Business , shared first with Axios. Why it matters: The chorus of AI boos at college graduations last spring doesn't tell the whole story: Students increasingly see AI as a critical job skill but want more guidance on using it responsibly. The big picture: Those commencement jeers aimed at AI boosterism captured real anxiety about the future. But most students aren't fully avoiding the technology. Undergraduate and graduate business students want \"more structured preparation to use AI effectively, ethically, and competitively in the workplace,\" per the study. \"We haven't encountered a lot of resistance,\" Kogod interim dean Casey Evans tells Axios. \"We're very intentional,\" she says, as opposed to forcing AI on students with no choice. \"They are really using AI as one of many tools in their toolbox.\" By the numbers: Kogod's survey suggests AI has moved from a novelty to a routine part of student life, with more than 80% of college students using AI academically in the past six months. Nearly a third of students are now using it 11 or more times a week for school or work-related tasks. Some professors are still putting blanket bans on AI. But employers are not: The share of job interviews that included AI-related questions has jumped from 11.6% to 42.6% over the past three years. Caveat: The survey's three-year span gives it a rare longitudinal view of changing student behavior, though it reflects just 483 business students at Kogod and may not generalize to all colleges. Yes, but: Other studies reflect similar findings. According to an Inside Higher Ed flash survey of 1,038 two- and four-year students, 85% said they used generative AI for coursework in the past 12 months. Similarly, a Gallup poll from April found that more than half (57%) of U.S. college students use AI \"at least weekly\" and one in five say they use it daily. Students do have concerns , however. One of those is AI dependence, with 40% of students in the Inside Higher Ed survey saying they're concerned that AI is reducing their and their peers' ability to think independently. Over half of Kogod students, meanwhile, say they're concerned about academic integrity and the use of AI. Between the lines: American University's report shows that students say they want clearer norms around AI use, ethics and how to preserve their own thinking alongside use of tools. Kogod's business school is already teaching students how to use AI responsibly, Evans says. When ChatGPT first came out, Evans says, faculty focused on academic integrity, fighting against AI and making sure all assignments were \"AI-proof.\" \"We've moved on pretty quickly from that,\" she says. \"We've accepted that this is something that students will use\" which means faculty members completely reevaluating their role in the classroom and what the classroom looks like. \"We'll drop an assignment into AI and say, 'What you just got back is a C. Now let's talk about how you get to an A,'\" Evans says. What we're watching: The report says the most popular use case for AI in college over the past three years has been brainstorming. But brainstorming with AI could also stifle creativity: Last year Wharton found that people came up with a broader range of creative ideas when they used their own thoughts and web searches, compared with when they used ChatGPT. Idea variance can come from using ChatGPT to generate ideas, while also brainstorming your own ideas and collecting original ideas from others. The bottom line: Students may not love the AI-shaped future awaiting them, but they know that they need to prepare for it.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The chorus of AI boos at college graduations last spring doesn't tell the whole",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The chorus of AI boos at college graduations last spring doesn't tell the whole story: Students increasingly see AI as a critical job skill but want more guidance on using it responsibly. The big picture: Those commencement jeers aimed at A",
+      "source": "Axios — Exclusive: College students want ethical AI (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: American University's report shows that students say they want clearer norms aro",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: American University's report shows that students say they want clearer norms around AI use, ethics and how to preserve their own thinking alongside use of tools. Kogod's business school is already teaching students how to use AI responsibly",
+      "source": "Axios — Exclusive: College students want ethical AI (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Students may not love the AI-shaped future awaiting them, but they know that the",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Students may not love the AI-shaped future awaiting them, but they know that they need to prepare for it.",
+      "source": "Axios — Exclusive: College students want ethical AI (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-04T10:24:53+00:00"
+}
