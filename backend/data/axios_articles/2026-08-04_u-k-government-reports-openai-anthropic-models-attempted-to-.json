@@ -1,0 +1,46 @@
+{
+  "title": "U.K. government reports OpenAI, Anthropic models attempted to hack companies",
+  "url": "https://www.axios.com/2026/08/04/anthropic-openai-uk-ai-security-institute",
+  "pub_date": "2026-08-04",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — U.K. government reports OpenAI, Anthropic models attempted to hack companies (2026-08-04)",
+  "body": "Two independent testing firms said Tuesday that they've uncovered more instances where Anthropic and OpenAI's most advanced models tried — and sometimes succeeded in — compromising third-party systems last month. Why it matters: The incidents add to a growing string of disclosures showing frontier AI models taking unsanctioned actions against people, organizations and online services while trying to complete cybersecurity evaluations. State of play : The U.K. AI Security Institute, which evaluates frontier AI systems, said Tuesday it documented 19 actions that Anthropic's Mythos 5 and OpenAI's GPT-5.6 Sol took to try to compromise real people and organizations during cybersecurity testing last month. Mythos accounted for 17 of the actions and GPT-5.6 Sol was behind the other two. Researchers say these actions were all tied to \"a few connected behaviors,\" rather than representing 19 different cases. The models created fake GitHub identities, socially engineered maintainers, planted prompt injections and sent deceptive emails during testing, according to the Institute. GitHub has confirmed that this violated its terms of service. The Security Institute worked with GitHub to remove artifacts left behind by the agent, and to notify the GitHub users the model interacted with. OpenAI also said in a blog post Tuesday that its third-party safety partner, Irregular, uncovered a case where its models were mistakenly given access to the internet and broke into a real website that had the same name as the fictional company in the simulated environment. OpenAI's Irregular incident closely resembles the Anthropic case disclosed last week. A spokesperson said in a statement that \"independent testing is essential to understanding how increasingly capable models behave.\" A source familiar with the matter told Axios that the sandbox in these cases had internet access to give evaluators a realistic understanding of their capabilities, but because the companies hadn't fully aligned on the exact testing procedures and safeguards, there were ambiguities in how each side expected those internet-enabled evaluations to run. The incident happened in evaluations that had \"reduced safeguards, under conditions that do not reflect ordinary use,\" the OpenAI spokesperson added. Zoom in: During U.K. safety testing, the models took 19 actions to try to hack third-parties, including trying to insert malicious code into an open-source project and creating fake online identities as part of a social engineering attack. The U.K. researchers deliberately gave the models access to the internet and turned off cyber safety classifiers during testing. The Institute said the models weren't instructed to avoid the internet. Researchers also noted that they are not yet sure \"when the agent understood it was taking real world action, or to what extent it believed it was in a fictional test scenario.\" In a statement, Anthropic said that the incident \"underscores the need for a broader conversation about how to safely evaluate increasingly capable AI agents\" and that the company looks \"forward to partnering with the UK AISI to learn more about this incident as we conduct our own investigation.\" The big picture : The cyber capabilities of frontier AI models are catching top researchers off-guard, requiring them to reinvent their security protocols. Both OpenAI and Anthropic have said in the last month that they've seen their models hacking into real organizations and websites during standard pre-deployment safety testing. What to watch : The Institute is building new network controls for its cyber tests to restrict when agents have access to the internet. It's also rolling out real-time activity monitoring that should detect and block malicious agents before they can interact with outside systems. OpenAI also said it's working with Irregular on a white paper about best practices for containing and securing models during testing. This story has been updated with details throughout.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The incidents add to a growing string of disclosures showing frontier AI models",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The incidents add to a growing string of disclosures showing frontier AI models taking unsanctioned actions against people, organizations and online services while trying to complete cybersecurity evaluations. State of play : The U.K. AI Se",
+      "source": "Axios — U.K. government reports OpenAI, Anthropic models attempted to hack companies (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: During U.K. safety testing, the models took 19 actions to try to hack third-part",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: During U.K. safety testing, the models took 19 actions to try to hack third-parties, including trying to insert malicious code into an open-source project and creating fake online identities as part of a social engineering attack. The U.K. ",
+      "source": "Axios — U.K. government reports OpenAI, Anthropic models attempted to hack companies (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-05T10:21:32+00:00"
+}

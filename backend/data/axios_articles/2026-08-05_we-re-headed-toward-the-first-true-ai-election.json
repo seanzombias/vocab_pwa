@@ -1,0 +1,46 @@
+{
+  "title": "We're headed toward the first true AI election",
+  "url": "https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028",
+  "pub_date": "2026-08-05",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — We're headed toward the first true AI election (2026-08-05)",
+  "body": "This will be the first election cycle where AI is both a dominant policy debate — and a widely deployed political weapon. Why it matters: AI allows both candidates and bad actors to persuade and perplex with unprecedented speed, scale and precision in our elections. Watch what works, as those same techniques will likely be used against YOU. What to watch: Persuasion bots. Campaigns are training text bots to hold back-and-forth conversations in their candidate's voice. Some voters engage for HOURS, granting precise knowledge of what ideas and language move them most. Yale researchers found a bot that admits it's a bot is just as persuasive to people as one posing as a human. Simulated voters. Political operatives are running AI agents that mass-produce synthetic voters and test ads against them. This helps fine-tune the perfect message — including any words and images — before it ever reaches any actual human voters. AI firehose. Those Yale researchers found AI's conversational persuasion doesn't practically scale and noted that flooding social media could be the cheaper play. My bet: amplifying pre-existing views will win out and, in turn, that'll shape how LLMs answer future questions asked by voters. Between the lines: A huge new battleground will be attempting to mold what the most popular LLMs — Claude, Gemini, Grok and ChatGPT — say about candidates and their views. 📈 If you're a CEO or on a CEO's team: Ask to join Jim's new weekly Axios C-Suite newsletter.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI allows both candidates and bad actors to persuade and perplex with unpreceden",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI allows both candidates and bad actors to persuade and perplex with unprecedented speed, scale and precision in our elections. Watch what works, as those same techniques will likely be used against YOU. What to watch: Persuasion bots. Cam",
+      "source": "Axios — We're headed toward the first true AI election (2026-08-05)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: A huge new battleground will be attempting to mold what the most popular LLMs —",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: A huge new battleground will be attempting to mold what the most popular LLMs — Claude, Gemini, Grok and ChatGPT — say about candidates and their views. 📈 If you're a CEO or on a CEO's team: Ask to join Jim's new weekly Axios C-Suite newsle",
+      "source": "Axios — We're headed toward the first true AI election (2026-08-05)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-05T10:21:32+00:00"
+}

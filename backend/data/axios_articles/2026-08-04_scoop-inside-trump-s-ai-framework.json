@@ -1,0 +1,46 @@
+{
+  "title": "Scoop: Inside Trump's AI framework",
+  "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+  "pub_date": "2026-08-04",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: Inside Trump's AI framework (2026-08-04)",
+  "body": "The White House is excluding open models from its framework to test advanced AI capabilities, sources familiar with the matter told Axios. Why it matters: The voluntary framework will determine how the Trump administration reviews advanced AI models before release, but the White House isn't making it public. What's inside: The AI framework reviewed on Tuesday defines a covered frontier model as closed-source with state-of-the-art capabilities and national security risks, multiple sources briefed on meetings held at the White House said. There is no clear definition of what is considered state-of-the art or a national security risk. Open models are excluded, and the framework explicitly says nothing in it should be interpreted as restricting open models once they've been released. Zoom in: During the 30-day pre-release government review period, employees would be limited from accessing models. The models would be stored in high-security environments and there would need to be detailed logs on who is accessing the models. The review process will include various administration officials rather than a single office or agency. The big picture: The White House does not plan to publicly release the framework, Axios previously reported. The White House on Tuesday held staff-level meetings with industry to review the framework, and companies that weren't invited remain in the dark about its contents. It's also unclear which \"trusted partners\" will get early access to advanced models under the framework, including whether any foreign governments would qualify. Context: The executive order explicitly says the benchmarking process to assess advanced cyber capabilities of AI models will be classified. There is no requirement in the order to publicly release the voluntary framework. What's next: Companies on Tuesday were reportedly encouraged to share models with the government that are as close to public release as possible instead of early stage ones, according to people familiar with the discussions. Many companies with less advanced systems appear are likely to be left out of the framework, sources said.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The voluntary framework will determine how the Trump administration reviews adva",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The voluntary framework will determine how the Trump administration reviews advanced AI models before release, but the White House isn't making it public. What's inside: The AI framework reviewed on Tuesday defines a covered frontier model ",
+      "source": "Axios — Scoop: Inside Trump's AI framework (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: During the 30-day pre-release government review period, employees would be limit",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: During the 30-day pre-release government review period, employees would be limited from accessing models. The models would be stored in high-security environments and there would need to be detailed logs on who is accessing the models. The ",
+      "source": "Axios — Scoop: Inside Trump's AI framework (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-05T10:21:32+00:00"
+}

@@ -1,0 +1,98 @@
+{
+  "title": "OpenAI to pay $3.2M to settle DOJ worker discrimination case",
+  "url": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
+  "pub_date": "2026-08-04",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI to pay $3.2M to settle DOJ worker discrimination case (2026-08-04)",
+  "body": "OpenAI agreed Tuesday to pay $3.2 million to settle Justice Department allegations that it discriminated against U.S. workers by favoring temporary visa holders for jobs, according to the DOJ. Why it matters: Slapping a multimillion dollar fine on one of the world's biggest AI companies puts the tech sector on notice that Trump administration is cracking down on companies that game the visa system to bypass American talent. What they're saying: \"It is illegal to discriminate against U.S. workers by preferring temporary visa holders for jobs,\" Assistant Attorney General Harmeet K. Dhillon said in a Tuesday news release. \"This substantial settlement ensures that OpenAI redresses harm and changes its recruitment practices so that U.S. workers receive a fair opportunity for highly sought-after technology positions.\" The other side: A spokesperson for OpenAI told Axios in an emailed statement that the company's mission is to \"ensure that AGI benefits all of humanity.\" \"Fulfilling that mission and maintaining America's leadership in AI requires attracting and retaining the best talent from the United States and around the world.\" \"While we disagree with the DOJ's findings, we reached this agreement to resolve the matter and move forward with our PERM program, which is critical for employees and candidates requiring immigration support.\" Catch up quick: The DOJ is alleging OpenAI OpCo LLC and its subsidiary Statsig Inc. did not post jobs on its public website before filling them through the permanent labor certification process, known as PERM, despite routinely advertising other openings. The DOJ also alleges OpenAI discouraged U.S. workers from applying, including requiring mailed applications and advertising positions on late-night radio. Zoom in: OpenAI will pay $1.2 million in civil penalties and set aside $2 million for workers the DOJ says are eligible. Fewer than 10 positions were at issue, but the \"resolution amount reflects the harm to U.S. workers when they are shut out of applying for lucrative technology jobs,\" according to the DOJ. The settlement requires OpenAI post jobs on their career sites, accept electronic applications, train relevant staff and submit to DOJ monitoring and reporting. Zoom out: Tuesday's agreement marks the Justice Department's 13th settlement since relaunching its Protecting U.S. Workers Initiative in 2025 to strengthen enforcement of the Immigration and Nationality Act's ban on citizenship status discrimination. Go deeper: Scoop: Trump escalates citizenship crackdown",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Slapping a multimillion dollar fine on one of the world's biggest AI companies p",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Slapping a multimillion dollar fine on one of the world's biggest AI companies puts the tech sector on notice that Trump administration is cracking down on companies that game the visa system to bypass American talent.",
+      "source": "Axios — OpenAI to pay $3.2M to settle DOJ worker discrimination case (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The DOJ is alleging OpenAI OpCo LLC and its subsidiary Statsig Inc. did not post",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The DOJ is alleging OpenAI OpCo LLC and its subsidiary Statsig Inc. did not post jobs on its public website before filling them through the permanent labor certification process, known as PERM, despite routinely advertising other openings. ",
+      "source": "Axios — OpenAI to pay $3.2M to settle DOJ worker discrimination case (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Tuesday's agreement marks the Justice Department's 13th settlement since relaunc",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Tuesday's agreement marks the Justice Department's 13th settlement since relaunching its Protecting U.S. Workers Initiative in 2025 to strengthen enforcement of the Immigration and Nationality Act's ban on citizenship status discrimination.",
+      "source": "Axios — OpenAI to pay $3.2M to settle DOJ worker discrimination case (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: OpenAI will pay $1.2 million in civil penalties and set aside $2 million for wor",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: OpenAI will pay $1.2 million in civil penalties and set aside $2 million for workers the DOJ says are eligible. Fewer than 10 positions were at issue, but the \"resolution amount reflects the harm to U.S. workers when they are shut out of ap",
+      "source": "Axios — OpenAI to pay $3.2M to settle DOJ worker discrimination case (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"It is illegal to discriminate against U.S. workers by preferring temporary visa",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"It is illegal to discriminate against U.S. workers by preferring temporary visa holders for jobs,\" Assistant Attorney General Harmeet K. Dhillon said in a Tuesday news release. \"This substantial settlement ensures that OpenAI redresses har",
+      "source": "Axios — OpenAI to pay $3.2M to settle DOJ worker discrimination case (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Scoop: Trump escalates citizenship crackdown",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Scoop: Trump escalates citizenship crackdown",
+      "source": "Axios — OpenAI to pay $3.2M to settle DOJ worker discrimination case (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-05T10:21:32+00:00"
+}

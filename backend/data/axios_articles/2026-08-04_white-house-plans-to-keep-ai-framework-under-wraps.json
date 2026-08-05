@@ -1,0 +1,72 @@
+{
+  "title": "White House plans to keep AI framework under wraps",
+  "url": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
+  "pub_date": "2026-08-04",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — White House plans to keep AI framework under wraps (2026-08-04)",
+  "body": "The White House does not plan to publicly release its new framework for evaluating advanced AI models, three sources familiar with the discussions told Axios. Why it matters: The voluntary framework has global implications for AI security, but details will only be made available to the companies that are part of the process. Keeping it private means companies, policymakers, researchers and U.S. allies outside the process will be left guessing how the administration plans to implement one of its key AI policies. Driving the news: The White House on Tuesday held staff-level meetings with industry to go over the recently completed framework. Companies that weren't invited remain in the dark about its contents. The AI framework comes as industry grapples with high-profile cyber-attacks and rapid advances by Chinese AI developers, reigniting a debate on how to deal with open-source models. It's also unclear which \"trusted partners\" will get early access to advanced models under the framework, including whether any foreign governments would qualify. The European Union declined to comment and the U.K. did not respond to multiple requests for comment. The White House declined to comment. Zoom in: Open-source models were discussed, sources familiar said, without elaborating. Nvidia staff participated in the meetings, the sources added. Nvidia CEO and open-source advocate Jensen Huang was in D.C. last week meeting with Commerce Secretary Howard Lutnick and President Trump. Catch up quick: The voluntary framework , outlined in a June executive order, is intended to give AI developers a process for working with the government to determine whether models under development fall within its scope. It is also expected to set the rules for government access to AI models up to 30 days before release, covering confidentiality, cybersecurity, insider-risk, intellectual property and nondisclosure requirements. The executive order explicitly says the benchmarking process to assess advanced cyber capabilities of AI models will be classified. There is no requirement in the order to publicly release the voluntary framework.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The voluntary framework has global implications for AI security, but details wil",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The voluntary framework has global implications for AI security, but details will only be made available to the companies that are part of the process. Keeping it private means companies, policymakers, researchers and U.S. allies outside th",
+      "source": "Axios — White House plans to keep AI framework under wraps (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The White House on Tuesday held staff-level meetings with industry to go over th",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The White House on Tuesday held staff-level meetings with industry to go over the recently completed framework. Companies that weren't invited remain in the dark about its contents. The AI framework comes as industry grapples with high-prof",
+      "source": "Axios — White House plans to keep AI framework under wraps (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The voluntary framework , outlined in a June executive order, is intended to giv",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The voluntary framework , outlined in a June executive order, is intended to give AI developers a process for working with the government to determine whether models under development fall within its scope. It is also expected to set the ru",
+      "source": "Axios — White House plans to keep AI framework under wraps (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Open-source models were discussed, sources familiar said, without elaborating. N",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Open-source models were discussed, sources familiar said, without elaborating. Nvidia staff participated in the meetings, the sources added. Nvidia CEO and open-source advocate Jensen Huang was in D.C. last week meeting with Commerce Secret",
+      "source": "Axios — White House plans to keep AI framework under wraps (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-05T10:21:32+00:00"
+}
