@@ -1,0 +1,72 @@
+{
+  "title": "The comeback of a rate-sensitive America",
+  "url": "https://www.axios.com/2026/08/04/manufacturing-construction-labor-rates",
+  "pub_date": "2026-08-04",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The comeback of a rate-sensitive America (2026-08-04)",
+  "body": "Key sectors of the economy that spent years squeezed by high interest rates are gaining momentum. Why it matters: For years, manufacturing and construction were among the clearest signs that the Federal Reserve's tightening campaign — reversed only somewhat at the end of last year — was weighing on the economy. Now, manufacturing and construction are early sources of job growth, helped by an AI investment boom that has so far been unconstrained by still-high borrowing costs. What they're saying: \"The private labor market has rebounded in 2026 due to a resurgence of the highly cyclical manufacturing sector ... while a robust buildout of data centers has propelled construction employment,\" Troy Ludtka, senior economist at SMBC, wrote in a note Monday. Ludtka wrote that the AI infrastructure buildout should continue to underpin construction employment, while recent business surveys suggest manufacturing employment growth could keep revving up. The big picture: The manufacturing sector has expanded for seven straight months after contracting for much of the past two years, according to the Institute for Supply Management's monthly factory survey . The group said Monday that its employment gauge climbed into expansion territory for the first time in nearly three years. In other words, more surveyed manufacturers reported increasing employment rather than reducing it. The report also showed manufacturing output growing at the fastest rate since late 2021. The official jobs data is only starting to reflect manufacturing's health as suggested by the survey. Manufacturing payrolls have stabilized this year after a roughly 300,000 job decline between early 2023 and late 2025. Between the lines: One machinery manufacturer said the global AI infrastructure buildout has pushed demand for data center equipment into \"full procurement and manufacturing ramp-up,\" with booming orders for semiconductors, networking and power equipment. Also helping: Defense demand is at record highs, that company said. Zoom out: Nonresidential construction employment has climbed to a record high this year, adding about 15,000 jobs in the first six months of 2026 — one of its strongest first-half gains in years. The commercial side of the industry accounted for virtually all of construction's net employment growth, as residential building construction shed about 10,000 jobs over the same period. That hiring surge has coincided with the historic buildout of AI infrastructure. Private data center construction spending reached an annualized $68 billion in June — a record rate of spending — the Census Bureau said Monday . The other side: The housing sector is the exception. Residential investment has subtracted from GDP growth in 12 of the 18 quarters since the Fed started its rate-hiking campaign in 2022. Residential investment made a small positive contribution to GDP growth last quarter. Within business investment, spending on nonresidential structures was also a drag, but that weakness was more than offset by surging investment in equipment and intellectual property. \"Housing is weak because affordability ... is depressed,\" Ludtka told Axios in an email, adding that he was not seeing much prospect for improvement, unless home prices or mortgage rates come down. What to watch: The recovery remains uneven within manufacturing. Several manufacturers surveyed by the ISM reported weak orders from consumer-facing businesses and industrial customers. Other firms said that tariffs, rising input costs and geopolitical tensions continue to weigh on business. The bottom line: The sectors that traditionally bear the brunt of higher interest rates are no longer weighing on the economy as heavily as they once did. If the trend persists, it could add to the case that monetary policy is no longer restraining the economy as much as policymakers intend. \"Strong payroll growth from two of the most interest rate sensitive sectors will enable the Fed to continue its hawkish communication drift,\" Ludtka writes.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: For years, manufacturing and construction were among the clearest signs that the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: For years, manufacturing and construction were among the clearest signs that the Federal Reserve's tightening campaign — reversed only somewhat at the end of last year — was weighing on the economy. Now, manufacturing and construction are e",
+      "source": "Axios — The comeback of a rate-sensitive America (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Nonresidential construction employment has climbed to a record high this year, a",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Nonresidential construction employment has climbed to a record high this year, adding about 15,000 jobs in the first six months of 2026 — one of its strongest first-half gains in years. The commercial side of the industry accounted for virt",
+      "source": "Axios — The comeback of a rate-sensitive America (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: One machinery manufacturer said the global AI infrastructure buildout has pushed",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: One machinery manufacturer said the global AI infrastructure buildout has pushed demand for data center equipment into \"full procurement and manufacturing ramp-up,\" with booming orders for semiconductors, networking and power equipment. Als",
+      "source": "Axios — The comeback of a rate-sensitive America (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"The private labor market has rebounded in 2026 due to a resurgence of the highl",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"The private labor market has rebounded in 2026 due to a resurgence of the highly cyclical manufacturing sector ... while a robust buildout of data centers has propelled construction employment,\" Troy Ludtka, senior economist at SMBC, wrote",
+      "source": "Axios — The comeback of a rate-sensitive America (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The sectors that traditionally bear the brunt of higher interest rates are no lo",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The sectors that traditionally bear the brunt of higher interest rates are no longer weighing on the economy as heavily as they once did. If the trend persists, it could add to the case that monetary policy is no longer restraining the econ",
+      "source": "Axios — The comeback of a rate-sensitive America (2026-08-04)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-06T10:23:24+00:00"
+}

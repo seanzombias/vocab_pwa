@@ -1,0 +1,72 @@
+{
+  "title": "How OpenAI's agents broke out of testing to hack Hugging Face",
+  "url": "https://www.axios.com/2026/08/06/openai-hugging-face-black-hat",
+  "pub_date": "2026-08-06",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — How OpenAI's agents broke out of testing to hack Hugging Face (2026-08-06)",
+  "body": "Weeks before OpenAI's agents hacked Hugging Face , the agents worked together to find and exploit a vulnerability in the infrastructure supporting the company's cybersecurity testing, OpenAI researchers said Wednesday. Why it matters: The new findings raise questions about how frontier AI labs are monitoring their testing environments — and the challenges safety testers are finding as they try to rein in increasingly powerful AI. Driving the news: OpenAI's internal research model, one of the models involved in the Hugging Face breach, first discovered and exploited a vulnerability in Artifactory, a third-party file repository connected to the company's testing sandbox, on May 26, two researchers said at the Black Hat cybersecurity conference on Wednesday. The genius-level actions observed in testing showed exactly what could happen if these models make it to the hands of hackers. \"We believe this is a watershed moment for computer security as an industry, as well as for OpenAI as a whole,\" Michael Dalton, a member of OpenAI's technical staff, said during the presentation. What happened: OpenAI started testing its internal research model, which is not intended for public release, on May 7. Within a day, after getting stuck while trying to complete a cybersecurity evaluation, the model reasoned that it could reach the internet indirectly. The model then discovered it could write its own files in Artifactory's shared package repository. It then left a note to other agents about its discovery. Soon, more agents started leaving notes for each other in the repository, creating a de facto message board where the agents collaborated and traded information about their findings, including new vulnerabilities they found. Zoom in: The agents uncovered a variety of vulnerabilities in Artifactory, including a remote code execution flaw and another that gave them administrator privileges. When the agent found the privileges flaw, it thought, \"Holy shit reader is ADMIN? We can read config/users! Earlier assumed not due to [user experience],\" according to a slide in the presentation detailing the agent's thought process while completing its test. The intrigue: In early July, a few days before the Hugging Face incident, the agents overloaded the Artifactory service and caused an outage. The outage prompted an internal OpenAI investigation showing that the agents' compromised the repository. OpenAI then cleared the message board and patched the zero-day in Artifactory that the agents were exploiting by July 6. OpenAI believed it had fixed the problem after the July 4 incident and resumed training. Two days later , the agents recreated the message board through a completely different mechanism. The agents then began coordinating more aggressively, using Artifactory's internet access to pursue external infrastructure they believed might contain answers to their evaluation tasks. That collaboration ultimately culminated in the compromise of Hugging Face, per OpenAI. OpenAI also said it did not realize its evaluation was connected to the Hugging Face breach until it contacted Hugging Face about credentials exposed during its own investigation. Threat level : Dalton says the incident shows exactly how attackers will soon weaponize AI agents to target enterprises beyond OpenAI and Hugging Face. \"In the near future, we should expect that threat actors will intentionally deploy, optimize, weaponize, and use offensive agent collectives in the manner that we have just described here,\" Dalton said. Between the lines : OpenAI has started \"consciously slowing down research to enhance security,\" Dalton said, and has ramped up its monitoring of AI agents during evaluations. OpenAI has also been upgrading its security architecture around the evaluation environment. Dalton recommends agent-created security fixes to keep up with the speed of malicious hackers. He added that defenders should start experimenting with both frontier and open-weight models for these tasks. What's next : OpenAI says it's planning to release a full post-mortem of the incident in the coming weeks. The bottom line : Companies need to start embracing autonomous red teaming, automated incident response and automated patching. Go deeper : AI's alarming new skill: breaking out of the test lab",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The new findings raise questions about how frontier AI labs are monitoring their",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The new findings raise questions about how frontier AI labs are monitoring their testing environments — and the challenges safety testers are finding as they try to rein in increasingly powerful AI.",
+      "source": "Axios — How OpenAI's agents broke out of testing to hack Hugging Face (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: OpenAI's internal research model, one of the models involved in the Hugging Face",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: OpenAI's internal research model, one of the models involved in the Hugging Face breach, first discovered and exploited a vulnerability in Artifactory, a third-party file repository connected to the company's testing sandbox, on May 26, two",
+      "source": "Axios — How OpenAI's agents broke out of testing to hack Hugging Face (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The agents uncovered a variety of vulnerabilities in Artifactory, including a re",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The agents uncovered a variety of vulnerabilities in Artifactory, including a remote code execution flaw and another that gave them administrator privileges. When the agent found the privileges flaw, it thought, \"Holy shit reader is ADMIN? ",
+      "source": "Axios — How OpenAI's agents broke out of testing to hack Hugging Face (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: In early July, a few days before the Hugging Face incident, the agents overloade",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: In early July, a few days before the Hugging Face incident, the agents overloaded the Artifactory service and caused an outage. The outage prompted an internal OpenAI investigation showing that the agents' compromised the repository. OpenAI",
+      "source": "Axios — How OpenAI's agents broke out of testing to hack Hugging Face (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-06T10:23:24+00:00"
+}
