@@ -1,0 +1,85 @@
+{
+  "title": "AI designs new virus not found in nature",
+  "url": "https://www.axios.com/2026/08/06/ai-virus-designed-bacteria-viruses",
+  "pub_date": "2026-08-06",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI designs new virus not found in nature (2026-08-06)",
+  "body": "A Stanford-led research team has used generative AI to design a synthetic virus — the first time artificial intelligence has been harnessed to create a organism that has never been seen in nature. Why it matters: What could go wrong? The big picture: It could be the first step toward the nightmare scenario AI experts have already warned about: deadly pathogens that can't be stopped, because they've been created too quickly for our current surveillance systems to stop them. The research could also lead to medical breakthroughs, which is the hope of the research team that conducted the study. \"The ability of genome language models to generate entire functional genomes has not been tested,\" they wrote. Driving the news: Researchers wrote in Science that they used an AI model to design viruses that can infect and kill the microbe E. coli. While that could go a long way toward controlling deadly bacterial infections, the technology could be harnessed to develop more complex forms of life — and even help design biological weapons. The intrigue: The news also throws a new twist into government efforts to regulate high-risk research . The Trump administration has been focused on \"gain of function\" research on natural pathogens — as has Sen. Rand Paul (R-Ky.), whose committee held Anthony Fauci in contempt Thursday for refusing to answer questions from lawmakers investigating the origins of the COVID-19 pandemic. But the AI work created something entirely new. It goes way beyond just studying how to manipulate natural viruses. Between the lines: Biotechnology is regulated through a patchwork of laws and agencies, with breakthroughs frequently outpacing regulators. The Trump administration last month issued a policy for stopping high-risk research in the life sciences that prohibits federally funded \"gain of function\" research and calls for enhanced oversight of projects involving harmful biological agents. But that didn't specifically address AI-driven research, which is evolving at breakneck speeds. What they're saying: Johns Hopkins health security experts Thomas Inglesby and Moritz Hanke, writing in the same issue of Science , praised the Stanford team for taking precautions, but said there aren't enough existing guardrails to oversee generative genomics. \"The ability to compose viral genomes using generative AI now exists; the governance to safely steer it does not,\" they wrote .",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: What could go wrong? The big picture: It could be the first step toward the nigh",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: What could go wrong? The big picture: It could be the first step toward the nightmare scenario AI experts have already warned about: deadly pathogens that can't be stopped, because they've been created too quickly for our current surveillan",
+      "source": "Axios — AI designs new virus not found in nature (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Researchers wrote in Science that they used an AI model to design viruses that c",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Researchers wrote in Science that they used an AI model to design viruses that can infect and kill the microbe E. coli. While that could go a long way toward controlling deadly bacterial infections, the technology could be harnessed to deve",
+      "source": "Axios — AI designs new virus not found in nature (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The news also throws a new twist into government efforts to regulate high-risk r",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The news also throws a new twist into government efforts to regulate high-risk research . The Trump administration has been focused on \"gain of function\" research on natural pathogens — as has Sen. Rand Paul (R-Ky.), whose committee held An",
+      "source": "Axios — AI designs new virus not found in nature (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Biotechnology is regulated through a patchwork of laws and agencies, with breakt",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Biotechnology is regulated through a patchwork of laws and agencies, with breakthroughs frequently outpacing regulators. The Trump administration last month issued a policy for stopping high-risk research in the life sciences that prohibits",
+      "source": "Axios — AI designs new virus not found in nature (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Johns Hopkins health security experts Thomas Inglesby and Moritz Hanke, writing",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Johns Hopkins health security experts Thomas Inglesby and Moritz Hanke, writing in the same issue of Science , praised the Stanford team for taking precautions, but said there aren't enough existing guardrails to oversee generative genomics",
+      "source": "Axios — AI designs new virus not found in nature (2026-08-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-07T08:43:35+00:00"
+}
