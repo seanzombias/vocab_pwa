@@ -1,0 +1,61 @@
+{
+  "title": "How Kevin Warsh is rewiring the Fed",
+  "url": "https://www.axios.com/2026/08/10/kevin-warsh-fed-economy-rates-ai",
+  "pub_date": "2026-08-10",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — How Kevin Warsh is rewiring the Fed (2026-08-10)",
+  "body": "Federal Reserve chairman Kevin Warsh is attempting a high-wire act: He's trying to fundamentally rethink the central bank's approach to guiding the economy, while also using its standard policy toolkit to bring down stubbornly persistent inflation. A market blowup late last month showed the perils of trying both at the same time. The big picture: Markets sold off and the economic commentariat was sharply critical of a Warsh press conference on July 29, in which he was vague about the possibility of raising interest rates to combat inflation. Some analysts saw it as evidence of a lack of commitment to quashing inflation. To Warsh allies, it was a brief bump in the road toward a more credible Fed. Warsh is trying to rewire the central bank to take greater advantage of AI to understand the economy in real time — aiming for better decision-making a couple of years down the road, while sticking to a more traditional playbook now. Zoom out: Warsh's supporters frame a couple of volatile trading days as a small price to pay for a world where markets are less dependent on central bank handholding. And the damage was short-lived, with stocks and bonds recovering in the ensuing days. Much of the confusion coming out of the press conference owed to Warsh's attempt to accomplish two goals at once. He seeks a paradigm shift in how the Fed uses AI. But those tools will take time to develop and prove themselves, while inflation has been elevated for more than five years, creating a sense of urgency to bring it back to the Fed's 2% target. Right now, the Warsh Fed is prepared to use its standard tool of raising interest rates to combat inflation, based on tried-and-true practices of analyzing government economic statistics and adjusting the federal funds rate target range. State of play: The blowup after the press conference resulted in significant part from Warsh seeming reluctant to discuss rate hikes as the Fed's go-to option. It was likely exaggerated by traders who had bet on a rate hike unwinding their positions, and by outsized moves in the thinly traded market for the longest-term Treasury bonds. Market moves since then have pointed to more confidence in the Fed's commitment to 2% inflation. Since Warsh became chairman, markets have come to expect one or two rate hikes by year-end, which aligns with an emerging majority of the Fed policy committee, pending late-summer inflation data. Goldman Sachs president John Waldron tells Axios: \"I think commentators are overreacting to what he's doing, and we should give him the time and space to do what he's doing and judge the results over time.\" The intrigue: Warsh believes AI is a transformative technology that stands to remake the economy in ways that involve both huge long-term opportunity and risk of near-term disruption. He has told associates that before taking office, he built AI bots named \"Milton\" and \"Tobin\" that ingested the collected works of the great 20th-century economists Milton Friedman and James Tobin. Warsh then turned to the bots for their insights on contemporary economic questions. He also sees it as an urgent need for the Fed itself to more fully embrace AI, both to understand what's happening in the economy at any given moment and to reason toward better policy decisions. Warsh's new era What we're hearing: Since taking the Fed helm 10 weeks ago, Warsh has sought deep rethinking of long-established practices in an institution that can be set in its ways. In an organization that has often been hung up on the risks from using generative AI, he has encouraged staff to use the technology in more expansive and creative ways, with dozens of employees playing in a virtual sandbox to explore how it might generate better data and analysis. He's been particularly focused on whether the technology might enable the Fed to move beyond the backward-looking survey data and forward-looking projections on which central bankers traditionally rely. His aspiration is that eventually, real-time information from retailers, banks and other companies can give a more reliable guide to what's happening to inflation and growth than government surveys that have considerable delays, sampling error, and revisions. Warsh has also tried to reexamine basic precepts of how the Fed operates. He raised the possibility in July's meeting of cutting back from eight monetary policy meetings a year to six. (The New York Times first reported the discussion — a very un-Fed-like leak). No decision has been made. But the logic is that this would allow every meeting to incorporate two months' worth of inflation and employment data, whereas some meetings now come after just one. Moreover, fewer meetings could give Fed officials more bandwidth to focus on their many responsibilities outside of monetary policy, like bank regulation and payments systems. One option would be to keep eight meetings a year but make two of them focused on long-term debates rather than an immediate interest rate decision. Of note: While Warsh raises the possibility of major changes to how the Fed operates in the next couple of years, people who have worked with him describe a pragmatic and collegial approach to getting there. He has continued the practice of his two immediate predecessors, for example, in which the Fed chair speaks privately with each member of the policy-setting Federal Open Market Committee in the lead-up to the meeting to take their temperature. Reality check: Warsh leads a 112-year-old central bank with a $6.7 trillion balance sheet, which sits at the core of the global financial system. There's a reason it is historically cautious and slow to change. The bond market blowup on July 29 was a reminder of the hazards of bringing the \"move fast, break things\" tech sensibility to central banking. The bottom line: Expect the Warsh Fed to keep pushing boundaries of how technology can shape economic data and policymaking — but with more reassurance that for now, the basic Fed toolkit remains intact.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Warsh's supporters frame a couple of volatile trading days as a small price to p",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Warsh's supporters frame a couple of volatile trading days as a small price to pay for a world where markets are less dependent on central bank handholding. And the damage was short-lived, with stocks and bonds recovering in the ensuing day",
+      "source": "Axios — How Kevin Warsh is rewiring the Fed (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Warsh believes AI is a transformative technology that stands to remake the econo",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Warsh believes AI is a transformative technology that stands to remake the economy in ways that involve both huge long-term opportunity and risk of near-term disruption. He has told associates that before taking office, he built AI bots nam",
+      "source": "Axios — How Kevin Warsh is rewiring the Fed (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Expect the Warsh Fed to keep pushing boundaries of how technology can shape econ",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Expect the Warsh Fed to keep pushing boundaries of how technology can shape economic data and policymaking — but with more reassurance that for now, the basic Fed toolkit remains intact.",
+      "source": "Axios — How Kevin Warsh is rewiring the Fed (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Warsh leads a 112-year-old central bank with a $6.7 trillion balance sheet, whic",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Warsh leads a 112-year-old central bank with a $6.7 trillion balance sheet, which sits at the core of the global financial system. There's a reason it is historically cautious and slow to change. The bond market blowup on July 29 was a remi",
+      "source": "Axios — How Kevin Warsh is rewiring the Fed (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-10T09:04:10+00:00"
+}
