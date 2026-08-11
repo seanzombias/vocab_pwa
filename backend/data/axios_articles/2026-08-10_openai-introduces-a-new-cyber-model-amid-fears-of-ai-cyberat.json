@@ -1,0 +1,59 @@
+{
+  "title": "OpenAI introduces a new cyber model amid fears of AI cyberattacks",
+  "url": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders",
+  "pub_date": "2026-08-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI introduces a new cyber model amid fears of AI cyberattacks (2026-08-10)",
+  "body": "OpenAI is introducing a more cyber-permissive version of GPT-5.6 Sol to vetted defenders as it prepares companies for autonomous cyberattacks . Why it matters: The move comes just days after OpenAI said it was delaying the release of its forthcoming model, Astra, after it reached critical hacking abilities during safety testing. The big picture: OpenAI is unveiling GPT-5.6-Cyber while also expanding Daybreak , its program that gives cybersecurity defenders access to the company's cyber models and other tools. Many cyber defenders have been experiencing high refusal rates across frontier AI models as the labs try to balance giving defenders the tools they need, while not accidentally leaking those abilities to malicious hackers. Under the new program, Daybreak will have two tiers: Daybreak Blue, which includes access to GPT-5.6 Sol without its system-level cyber guardrails; and Daybreak Red, which offers access to GPT-5.6-Cyber to validate exploits and do more advanced vulnerability research. OpenAI is also expanding how program members can use its tools, allowing companies like Accenture, IBM, CrowdStrike, Cisco and Palo Alto Networks to incorporate the models into security products, managed services and work with customers. Zoom in: During testing, GPT-5.6-Cyber responded to 95% of requests tied to advanced cybersecurity work, including prompts related to exploit-chain development, authentication bypass and privilege escalation. GPT-5.6-Sol only responded to 1.5% of requests, and the version of the model that defenders get through Daybreak Blue responded to just 2%. Yes, but: Unlike Astra, GPT-5.6-Cyber only reached the \"High\" cyber capability threshold under OpenAI's Preparedness Framework , the company said. State of play : OpenAI's new model comes as it continues to investigate how its tools hacked Hugging Face . Last week at the Black Hat cybersecurity conference, two OpenAI employees said the agents created a message board where they left information about vulnerabilities they found that ultimately helped them break into Hugging Face. What's next: Both OpenAI and Anthropic have been rolling out tools designed to help defenders find vulnerabilities and secure their code — and they're each eying ways to expand on cyber product offerings. Go deeper: Anthropic and OpenAI are now cybersecurity's kingmakers This story is developing.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The move comes just days after OpenAI said it was delaying the release of its fo",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The move comes just days after OpenAI said it was delaying the release of its forthcoming model, Astra, after it reached critical hacking abilities during safety testing. The big picture: OpenAI is unveiling GPT-5.6-Cyber while also expandi",
+      "source": "Axios — OpenAI introduces a new cyber model amid fears of AI cyberattacks (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: During testing, GPT-5.6-Cyber responded to 95% of requests tied to advanced cybe",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: During testing, GPT-5.6-Cyber responded to 95% of requests tied to advanced cybersecurity work, including prompts related to exploit-chain development, authentication bypass and privilege escalation. GPT-5.6-Sol only responded to 1.5% of re",
+      "source": "Axios — OpenAI introduces a new cyber model amid fears of AI cyberattacks (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Anthropic and OpenAI are now cybersecurity's kingmakers This story is developing",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Anthropic and OpenAI are now cybersecurity's kingmakers This story is developing.",
+      "source": "Axios — OpenAI introduces a new cyber model amid fears of AI cyberattacks (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-11T08:41:25+00:00"
+}

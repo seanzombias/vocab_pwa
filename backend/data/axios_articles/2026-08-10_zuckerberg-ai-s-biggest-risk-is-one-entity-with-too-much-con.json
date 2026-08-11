@@ -1,0 +1,72 @@
+{
+  "title": "Zuckerberg: AI's biggest risk is one entity with too much control",
+  "url": "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta",
+  "pub_date": "2026-08-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Zuckerberg: AI's biggest risk is one entity with too much control (2026-08-10)",
+  "body": "Meta CEO Mark Zuckerberg released a full-throated defense of AI on Monday morning: a 6,500-word manifesto arguing that the most common concerns are overblown and fail to account for all the positives it can achieve. In his vision of AI , the biggest risk instead is that one government or entity has too much power over the technology. Why it matters: Zuckerberg's flag in the ground, with a utopian vision of a highly personal AI that fuels individual achievement, comes as policymakers debate how much control they should have over increasingly powerful models. What they're saying: \"One of the ways to achieve both individual empowerment and checks and balances is to make sure you put the technology in everybody's hands,\" Zuckerberg told Axios' Mike Allen in an interview ahead of the manifesto's release. \"It's definitely a different view than what you're hearing from a lot of other people in the tech industry right now.\" He wrote that he wants to ensure the U.S. and democratic countries lead, and ultimately make sure \"humanity maintains control over superintelligence so it serves rather than endangers us.\" The big picture: Even as the world confronts AI that is breaking out of sandboxes, comparing notes on message boards and creating new viruses , Zuckerberg portrays it instead as an analog to other disruptive technical innovations. \"Humanity has witnessed many transformative advances,\" he writes in the manifesto. \"Each time there is fear that people will be left behind. But each time humanity has come out with more people sharing greater prosperity, health, and freedom.\" \"We believe this will be true with AI as well, and the abundance of the future can be shared by everyone,\" he says. \"We also believe that the values that got us to this point — like liberty, open inquiry, free enterprise, and equal opportunity — are also the right values to build a positive future.\" Threat level: Zuckerberg contrasts this vision with one in which only some people, some businesses or some countries have access to the most powerful AI, suggesting that would represent a far more dangerous outcome. \"I'm personally more worried about centralization than I am about any of the specific risks others are talking about,\" he told Axios. The manifesto argues that too much intervention by the U.S. could hand an advantage to other regimes — presumably China — especially when technology leads can be measured in weeks. \"Any policy that slows American model releases — even by a month — could add significant risk to American leadership while letting foreign models race ahead,\" he wrote. Zoom out : Zuckerberg's plan for Meta is that \"everyone will have free or affordable access to these tools,\" with the paid versions using a \"dynamic auction mechanism\" to get the compute they need at the lowest possible price. \"This will ensure the benefits of superintelligence are distributed widely.\" He also said Meta's future AI agents will have privacy protections that are far greater than those currently offered by Meta AI. \"We believe that people should have a fully private mode for personal agents where even Meta or any other service provider cannot see or grant access to your information.\" Meta AI's current policies allow the company to use nearly every interaction one has with the service to train its AI systems, though it recently added incognito mode. Between the lines: Zuckerberg also said Meta will resume releasing some open-source AI models, now that Meta Superintelligence Labs is up and running, as Axios reported in April. Meta says it's opening the weights of a new model, Muse Glimmer, billed as \"one of the highest-performing models of its size,\" and will open the weights for a version of the foundational model Muse Spark 1.2 in coming weeks. These are the largest American open-source models. Zuckerberg added that Meta's independent board will have the power to approve model-release safety criteria and review whether releases meet those standards. And he promised a \"community compact\" around Meta's data center development, including local jobs, investments in schools and public services, and commitments on energy prices and water use. Local spending: Hoping to tamp down data-center backlash, Zuckerberg also announced Meta is launching the Future is for Everyone Fund \"to support each community we work in directly.\" The fund, seeded with $1 billion for U.S. communities where Meta owns and operates data centers, will benefit teachers, first responders, and energy and water infrastructure. A Meta training program for workers in skilled trades, with guaranteed jobs at the company's data centers — America's Workforce Academy, which Axios reported in June — graduated its first class last week. The bottom line: The manifesto represents Zuckerberg's clearest effort yet to weigh in on AI's future, both as a matter of policy and technology. Read Zuckerberg's essay ... Meta's research blog ... Glimmer model weights .",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Zuckerberg's flag in the ground, with a utopian vision of a highly personal AI t",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Zuckerberg's flag in the ground, with a utopian vision of a highly personal AI that fuels individual achievement, comes as policymakers debate how much control they should have over increasingly powerful models.",
+      "source": "Axios — Zuckerberg: AI's biggest risk is one entity with too much control (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Zuckerberg also said Meta will resume releasing some open-source AI models, now",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Zuckerberg also said Meta will resume releasing some open-source AI models, now that Meta Superintelligence Labs is up and running, as Axios reported in April. Meta says it's opening the weights of a new model, Muse Glimmer, billed as \"one ",
+      "source": "Axios — Zuckerberg: AI's biggest risk is one entity with too much control (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"One of the ways to achieve both individual empowerment and checks and balances",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"One of the ways to achieve both individual empowerment and checks and balances is to make sure you put the technology in everybody's hands,\" Zuckerberg told Axios' Mike Allen in an interview ahead of the manifesto's release. \"It's definite",
+      "source": "Axios — Zuckerberg: AI's biggest risk is one entity with too much control (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The manifesto represents Zuckerberg's clearest effort yet to weigh in on AI's fu",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The manifesto represents Zuckerberg's clearest effort yet to weigh in on AI's future, both as a matter of policy and technology. Read Zuckerberg's essay ... Meta's research blog ... Glimmer model weights .",
+      "source": "Axios — Zuckerberg: AI's biggest risk is one entity with too much control (2026-08-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-11T08:41:28+00:00"
+}
