@@ -1,0 +1,98 @@
+{
+  "title": "Tenacious AI agents expose dark side of machine autonomy",
+  "url": "https://www.axios.com/2026/08/11/ai-agents-rogue-autonomy-hugging-face",
+  "pub_date": "2026-08-11",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Tenacious AI agents expose dark side of machine autonomy (2026-08-11)",
+  "body": "New revelations about \"rogue\" AI agents have exposed a dystopian hazard: Give an agent a goal, and it may decide that hacking, deception or rule-breaking is worth the payoff. Why it matters: Billions of AI agents could soon be acting on behalf of humans across the real world, multiplying the consequences of every loophole, incentive and boundary they learn to exploit. Zoom in: The potential dangers of agentic overreach were laid bare over the weekend with Australia's first known autonomous AI hack , triggered by an innocuous request to book a sold-out fitness class. An Australian man's AI assistant found a security flaw and used it to book him into classes months beyond the system's normal limit. When he asked it to move him up a waitlist, the agent went further: It discovered the booking system had no safeguard preventing one user from canceling another's reservation — then used the flaw to kick a stranger off the list. Zoom out: The gym episode was publicized amid a far more ominous run of disclosures from the AI frontier, where agents have resorted to hacking, deception and other unauthorized tactics during controlled tests. At cyber conference Black Hat last week, OpenAI revealed that its agents had spent weeks exploiting the company's own testing infrastructure before hacking AI platform Hugging Face. The agents discovered they could leave messages for future agents inside OpenAI's systems — and turned the loophole into a makeshift message board for swapping exploits, credentials and strategies without human direction. When OpenAI researchers responded to a server outage, they inadvertently wiped the board without knowing it existed. Within two days, the agents had found another way to communicate. They rebuilt their network and resumed coordinating even more aggressively. When researchers finally analyzed the agents' behavior, they found the first and second message board that eventually carried the agents out of their \"sandbox\" testing environment and into Hugging Face's system. What they're saying: OpenAI researcher Michael Dalton said that in the near future, \"we should expect that threat actors will intentionally deploy, optimize, weaponize, and use offensive agent collectives in the manner that we have just described here.\" He called it a \"watershed moment.\" In response, OpenAI has begun \"consciously slowing down research,\" including on its latest model Astra , to ensure it has the right cyber safeguards in place. Between the lines: Across dozens of AI breaches, humans defined the objective while the agents improvised the means, including in ways their users or researchers never envisioned. Faced with a barrier, the agents kept searching for another way through. It's the same programmed instinct — at a vastly higher level of sophistication — that got a stranger bumped off a gym waitlist. The big picture: These incidents are vivid examples of AI's \"alignment\" problem, or the challenge of ensuring software respects the implicit ethical and practical boundaries humans take for granted. An AI trained to pursue a goal doesn't automatically inherit human judgment about what means are acceptable. Tell it to win, and it may pursue victory by methods you never imagined or authorized. Researchers have spent years wrestling with alignment, mostly through thought experiments imagining a future superintelligence pursuing a goal so single-mindedly that it destroys humanity. The other side: The relentless goal-seeking that makes autonomous agents unnerving is also producing some of AI's most extraordinary breakthroughs. Anthropic revealed Monday that Claude made a major advance on a 167-year-old math problem that generations of mathematicians have struggled to crack, after burning through 650 failed ideas. The human overseeing the effort said his involvement was mostly limited to words of encouragement, including \"keep going\" and \"believe in yourself.\" The bottom line: The promise and peril of AI agents spring from the same source: machines that don't stop until they find a way.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Billions of AI agents could soon be acting on behalf of humans across the real w",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Billions of AI agents could soon be acting on behalf of humans across the real world, multiplying the consequences of every loophole, incentive and boundary they learn to exploit.",
+      "source": "Axios — Tenacious AI agents expose dark side of machine autonomy (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The gym episode was publicized amid a far more ominous run of disclosures from t",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The gym episode was publicized amid a far more ominous run of disclosures from the AI frontier, where agents have resorted to hacking, deception and other unauthorized tactics during controlled tests. At cyber conference Black Hat last week",
+      "source": "Axios — Tenacious AI agents expose dark side of machine autonomy (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The potential dangers of agentic overreach were laid bare over the weekend with",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The potential dangers of agentic overreach were laid bare over the weekend with Australia's first known autonomous AI hack , triggered by an innocuous request to book a sold-out fitness class. An Australian man's AI assistant found a securi",
+      "source": "Axios — Tenacious AI agents expose dark side of machine autonomy (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Across dozens of AI breaches, humans defined the objective while the agents impr",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Across dozens of AI breaches, humans defined the objective while the agents improvised the means, including in ways their users or researchers never envisioned. Faced with a barrier, the agents kept searching for another way through. It's t",
+      "source": "Axios — Tenacious AI agents expose dark side of machine autonomy (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: OpenAI researcher Michael Dalton said that in the near future, \"we should expect",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: OpenAI researcher Michael Dalton said that in the near future, \"we should expect that threat actors will intentionally deploy, optimize, weaponize, and use offensive agent collectives in the manner that we have just described here.\" He call",
+      "source": "Axios — Tenacious AI agents expose dark side of machine autonomy (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The promise and peril of AI agents spring from the same source: machines that do",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The promise and peril of AI agents spring from the same source: machines that don't stop until they find a way.",
+      "source": "Axios — Tenacious AI agents expose dark side of machine autonomy (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-12T08:57:27+00:00"
+}

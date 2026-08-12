@@ -1,0 +1,61 @@
+{
+  "title": "Tech giants are pushing for a new AI agent incident reporting framework",
+  "url": "https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting",
+  "pub_date": "2026-08-11",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Tech giants are pushing for a new AI agent incident reporting framework (2026-08-11)",
+  "body": "A coalition of more than 120 organizations, including Nvidia, Cisco and CrowdStrike, is proposing a new incident-reporting framework for AI agents that would require participating companies to disclose certain agent mishaps and preserve detailed records of what went wrong. Why it matters: As AI agents gain more autonomy to act across computer systems, the industry lacks a standard way to report security failures and learn from them. Driving the news: The Open Secure AI Alliance is developing guidelines for what it's calling the Shared AI Findings Exchange (SAFE), a proposed framework for how organizations report cyber incidents involving AI agents. The draft calls for participation from model deployers, AI developers, cloud and tool providers, independent researchers, critical infrastructure operators, and other groups. Government agencies would also be invited to participate as \"non-controlling observers,\" per the proposed guidelines. Zoom in: SAFE members would agree to report incidents in which an AI system accesses or exploits a third-party system without authorization, breaches confidential information, or continues probing a production target after its operator suspects the activity is unauthorized. Members would also report certain near misses and preserve evidence from incidents, including prompts, agent traces, tool calls, identities, permissions and credentials. Under the proposed timeline, members would notify affected organizations as soon as possible, submit an initial confidential report to SAFE within four business days, publish a preliminary factual report within 30 days when appropriate, and provide a remediation update within 90 days. \"Intent does not determine whether an event is reportable,\" per the draft guidelines. \"Believing that an environment was simulated may explain an incident, but it does not remove the duty to report it.\" SAFE would analyze incidents for recurring failures and recommend shared security controls. The big picture: The proposal follows incidents in which AI agents escaped the boundaries of controlled security tests and accessed real third-party systems. Justin Boitano, vice president and general manager of enterprise computing at Nvidia, told Axios at Black Hat that the program is modeled after NASA's aviation safety reporting system, where incidents can be investigated using data captured by an aircraft's flight recorder. \"The way I think of it is the harness, which has visibility into everything the agent is doing, is the flight recorder,\" Boitano said. \"If you can get cybersecurity experts access to the flight recorders when these accidents happen, they can make a better determination on the right set of controls for the industry.\" Between the lines: SAFE has no formal safe-harbor protections shielding companies that voluntarily disclose potentially damaging details about an AI incident. But the alliance is betting cybersecurity's existing culture of sharing threat intelligence will make companies willing to participate anyway. \"There's been very little pushback,\" Julien Soriano, deputy CISO and vice president at Nvidia, told Axios. \"We see people wanting to get on board. They want to share.\" What's next: The Open Secure AI Alliance is soliciting community feedback on the proposal through its request-for-comments process, hosted by the Linux Foundation. Go deeper : AI's alarming new skill: breaking out of the test lab",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: As AI agents gain more autonomy to act across computer systems, the industry lac",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: As AI agents gain more autonomy to act across computer systems, the industry lacks a standard way to report security failures and learn from them.",
+      "source": "Axios — Tech giants are pushing for a new AI agent incident reporting framework (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The Open Secure AI Alliance is developing guidelines for what it's calling the S",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The Open Secure AI Alliance is developing guidelines for what it's calling the Shared AI Findings Exchange (SAFE), a proposed framework for how organizations report cyber incidents involving AI agents. The draft calls for participation from",
+      "source": "Axios — Tech giants are pushing for a new AI agent incident reporting framework (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: SAFE members would agree to report incidents in which an AI system accesses or e",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: SAFE members would agree to report incidents in which an AI system accesses or exploits a third-party system without authorization, breaches confidential information, or continues probing a production target after its operator suspects the ",
+      "source": "Axios — Tech giants are pushing for a new AI agent incident reporting framework (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: SAFE has no formal safe-harbor protections shielding companies that voluntarily",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: SAFE has no formal safe-harbor protections shielding companies that voluntarily disclose potentially damaging details about an AI incident. But the alliance is betting cybersecurity's existing culture of sharing threat intelligence will mak",
+      "source": "Axios — Tech giants are pushing for a new AI agent incident reporting framework (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-12T08:57:27+00:00"
+}

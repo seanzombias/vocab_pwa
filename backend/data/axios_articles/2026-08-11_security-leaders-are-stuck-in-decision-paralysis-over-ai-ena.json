@@ -1,0 +1,85 @@
+{
+  "title": "Security leaders are stuck in decision paralysis over AI-enabled cyberattacks",
+  "url": "https://www.axios.com/2026/08/11/ai-cybersecurity-hackers-enterprise-software",
+  "pub_date": "2026-08-11",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Security leaders are stuck in decision paralysis over AI-enabled cyberattacks (2026-08-11)",
+  "body": "Many security leaders at major companies, flush with expanded budgets to fend off AI-powered cyberattacks , are experiencing a level of decision fatigue that's freezing them in their tracks. Why it matters: Those leaders are still trying to size up how autonomous cyberattacks will affect their businesses at a time when they need to be taking bold action and mobilizing quickly, experts told Axios. The big picture: Companies have only a short window before AI models capable of end-to-end autonomous cyberattacks land in the hands of malicious attackers. But four months after Anthropic released Mythos Preview to prepare for what's to come, many companies are still debating where to put their money and which controls to prioritize. State of play: Ever since Anthropic rang the alarm on Mythos' abilities, security leaders have been wrestling with an increasingly complex security and regulatory landscape. OpenAI started rolling out similarly powerful models to vetted cyber defenders, and the release of open-weight models like Kimi K3 and GLM-5.2 has raised fears about hackers' access to cyber-capable AI models. Meanwhile, OpenAI's models colluded to hack Hugging Face, and Anthropic and Meta have shared stories about their models breaching third-party websites during safety tests. Threat level: CrowdStrike observed an 89% surge in attacks using AI to \"scale operations, accelerate tradecraft, and directly target AI infrastructure\" in the last year, according to its annual threat hunting report. Between the lines: Many companies are struggling to make decisions because security teams are stuck defining their AI governance strategies, including what constitutes AI risk and how they can responsibly deploy the technology, Nicole Carignan, senior vice president of security and AI strategy at Darktrace, told Axios. These leaders are also stuck in a loop of constant education and research, she added, as new capabilities keep emerging from frontier and open-weight model maintainers. Case in point: Evan Peña, co-founder and chief offensive security officer at Armadin, told Axios that he's seeing security leaders who are overwhelmed by the sheer number of products they could invest in to prepare for autonomous cyberattacks. Many executives have been given new budgets and board buy-in and are debating whether to pour that money into attack simulation tools, vulnerability discovery, penetration testing or bug bounties. Sherrod DeGrippo, vice president of threat intelligence at Palo Alto Networks' Unit 42, told Axios that she's heard from companies that are \"grappling with all of these questions,\" including agent permissions, identity, logging and accountability. Reality check: Security leaders don't need to buy into frontier AI labs' promises of a silver bullet for defending against autonomous cyberattacks, Snehal Antani, CEO and co-founder of Horizon3.ai, told Axios. Instead, companies can start by doubling down on the fundamentals, including threat detection, incident response, security assessments and remediation. \"The frontier labs are setting the expectation that they have some AI easy button that is going to solve the problem,\" Antani said. \"That does not exist, it is not possible.\" The bottom line: Organizations have to start acting to shore up their defenses now before they get all of the answers they want about what AI risk looks like. \"We've got to figure out how we're going to deal with that,\" DeGrippo said. \"There is work to be done.\" Go deeper: Companies don't need advanced AI to defend against AI-powered hacks",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Those leaders are still trying to size up how autonomous cyberattacks will affec",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Those leaders are still trying to size up how autonomous cyberattacks will affect their businesses at a time when they need to be taking bold action and mobilizing quickly, experts told Axios. The big picture: Companies have only a short wi",
+      "source": "Axios — Security leaders are stuck in decision paralysis over AI-enabled cyberattacks (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Many companies are struggling to make decisions because security teams are stuck",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Many companies are struggling to make decisions because security teams are stuck defining their AI governance strategies, including what constitutes AI risk and how they can responsibly deploy the technology, Nicole Carignan, senior vice pr",
+      "source": "Axios — Security leaders are stuck in decision paralysis over AI-enabled cyberattacks (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Organizations have to start acting to shore up their defenses now before they ge",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Organizations have to start acting to shore up their defenses now before they get all of the answers they want about what AI risk looks like. \"We've got to figure out how we're going to deal with that,\" DeGrippo said. \"There is work to be d",
+      "source": "Axios — Security leaders are stuck in decision paralysis over AI-enabled cyberattacks (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Companies don't need advanced AI to defend against AI-powered hacks",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Companies don't need advanced AI to defend against AI-powered hacks",
+      "source": "Axios — Security leaders are stuck in decision paralysis over AI-enabled cyberattacks (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Security leaders don't need to buy into frontier AI labs' promises of a silver b",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Security leaders don't need to buy into frontier AI labs' promises of a silver bullet for defending against autonomous cyberattacks, Snehal Antani, CEO and co-founder of Horizon3.ai, told Axios. Instead, companies can start by doubling down",
+      "source": "Axios — Security leaders are stuck in decision paralysis over AI-enabled cyberattacks (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-12T08:57:27+00:00"
+}

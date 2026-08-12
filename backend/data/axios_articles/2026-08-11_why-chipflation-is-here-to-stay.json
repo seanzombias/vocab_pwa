@@ -1,0 +1,46 @@
+{
+  "title": "Why \"chipflation\" is here to stay",
+  "url": "https://www.axios.com/2026/08/11/chips-memory-inflation-ai",
+  "pub_date": "2026-08-11",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Why \"chipflation\" is here to stay (2026-08-11)",
+  "body": "Data: U.S. Bureau of Labor Statistics via FRED ; Chart: Emily Peck/Axios Memory chip prices are skyrocketing, thanks to AI demand, and there's no end in sight. Why it matters: \"Chipflation\" is pushing up the prices for electronic goods like smartphones and laptops, as well as the costs for cloud storage and hardware — it also helps explain the eye-popping ascents in semiconductor stock prices. While the overall effect on inflation may not be huge — other kinds of products get more weight in the government's measure of consumer prices — the scale of this boom is unprecedented. By the numbers: The Producer Price Index for electronic components and accessories, which measures what companies pay for semiconductor chips and other electronics and accessories, has gone vertical this year. The PPI for those components rose 27.6% in June from the same time last year — the largest increase in records that date back to 1966, easily eclipsing the surge in prices during the dawn of the PC era in 1980 and the supply crunch in chips during the pandemic. And this category might understate what's happening because it includes some unrelated electronic inputs. Follow the money: The AI hyperscalers (Meta, Microsoft, Alphabet, et al) are locking up memory supply years in advance with long-term agreements. That's leaving traditional PC and phone makers competing for a shrinking pool of supply. The latest: Apple is testing memory chips from Chinese memory chipmaker CXMT as it deals with skyrocketing costs, the Wall Street Journal reported Monday. Apple would need White House approval to get around rules that typically prohibit such a tie-up. The big picture: We've never lived through a moment when prices for electronics have been such an inflationary force. Indeed, it's a reversal from a decades-long trend of the cost of computer memory becoming cheaper over time. Prices for memory have risen more than sixfold over the past year, according to a Morgan Stanley note in June that appears to have been the first to coin the term \"chipflation.\" Flashback: The price of a gigabyte of DRAM — the fast processing memory inside servers, PCs and phones — fell by around a factor of 10 every five years from 1957 to 2020, per the note. \"However, this trend no longer applies in the AI economy.\" How it works: \"Memory\" is a way of describing a device's brain — these chips essentially hold information on whatever a machine needs in the moment to get its work done. That could mean a web search or playing a video, or, lately, an AI model answering a question. It's basic stuff, until it's not. \"Memory chips are easy to ignore until your laptop slows down, your phone costs more, or, [if you're a company], your cloud bill jumps,\" Shawn Kim, head of Morgan Stanley's Europe and Asia technology team, explained in a podcast in June. Friction point: Earlier in the summer, when chipflation was first getting talked about, some analysts expected companies to pull back tech spending in the face of rising costs. Now, the thinking has shifted. Companies seem eager to keep spending. Companies don't have FOMO, they have its nerdier corollary — FOMP, or \"Fear of Missing Procurement,\" Morgan Stanley analysts wrote in a note Monday. What to watch: The July Consumer Price Index report is out on Wednesday and will track any rises in prices consumers are paying for electronics. Morgan Stanley forecasts only about a 0.10 percentage point increase in headline CPI because of this crunch, but a potential 10% year-over-year increase for computers specifically.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: \"Chipflation\" is pushing up the prices for electronic goods like smartphones and",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: \"Chipflation\" is pushing up the prices for electronic goods like smartphones and laptops, as well as the costs for cloud storage and hardware — it also helps explain the eye-popping ascents in semiconductor stock prices. While the overall e",
+      "source": "Axios — Why \"chipflation\" is here to stay (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: The price of a gigabyte of DRAM — the fast processing memory inside servers, PCs",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: The price of a gigabyte of DRAM — the fast processing memory inside servers, PCs and phones — fell by around a factor of 10 every five years from 1957 to 2020, per the note. \"However, this trend no longer applies in the AI economy.\" How it ",
+      "source": "Axios — Why \"chipflation\" is here to stay (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-12T08:57:27+00:00"
+}
