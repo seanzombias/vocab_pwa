@@ -1,0 +1,72 @@
+{
+  "title": "AI brings savings to clinical trials: study",
+  "url": "https://www.axios.com/2026/08/12/ai-clinical-trials-cost-savings",
+  "pub_date": "2026-08-12",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI brings savings to clinical trials: study (2026-08-12)",
+  "body": "Artificial intelligence isn't just speeding up early-stage drug development, it's starting to unlock millions of dollars' worth of new efficiencies in clinical trials on cancer treatments, research shared first with Axios shows. Why it matters: AI-powered tools could shave months off time-consuming processes like recruiting and enrolling patients, monitoring results and interpreting data. That could free up resources for more clinical studies and possibly lower the high failure rate for new drugs. What they found: A new Tufts Center for the Study of Drug Development analysis found AI agents can accelerate clinical development of cancer drugs by approximately 10 weeks and reduce direct operating costs by as much as $5.6 million in late-stage trials. The efficiencies increase with the number of tumors a drug can target: An experimental treatment with 50 active uses could see net benefits of as much as $565 million, Tufts found. Tufts applied a clinical monitoring agent from Medable, which provides a platform to support clinical trials, to an unspecified oncology drug development program in phase 2 and 3 trials. What they're saying: Ken Getz, the Tufts center's executive director, said deploying the agent led to new efficiencies, such as reducing the number of on-site visits, accelerating enrollment in the trial and locking in the data. \"To our knowledge, this is the first time that [predictive] modeling based on actual use and benchmark data has been applied to quantify the net financial impact of an agentic AI solution in a drug development program,\" he said. Between the lines: AI agents could become standard features of some clinical trials in three to five years, according to Medable officials, operating like self-driving cars to tackle the grinding but necessary record-keeping that accompanies an application for new drug approval. They also could be used to track the diversity of the trial population — a common concern that helps ensure an experimental treatment works for the broad population. Medable officials also say the technology will enable clinical trial researchers to understand the safety and effectiveness of a drug earlier — allowing them to focus on more strategic work in drug development. That's especially important in cancer drug trials, typically some of the most complex trials with some of the biggest monitoring budgets. Reality check: AI still doesn't guarantee a trial will be a success. Some of the big challenges don't involve information processing, but revolve around finding the right patients, getting their consent and making and distributing the drug. Humans also would presumably have to verify the AI agent's work, which could offset some of the overall time savings.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI-powered tools could shave months off time-consuming processes like recruiting",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI-powered tools could shave months off time-consuming processes like recruiting and enrolling patients, monitoring results and interpreting data. That could free up resources for more clinical studies and possibly lower the high failure ra",
+      "source": "Axios — AI brings savings to clinical trials: study (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: AI agents could become standard features of some clinical trials in three to fiv",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: AI agents could become standard features of some clinical trials in three to five years, according to Medable officials, operating like self-driving cars to tackle the grinding but necessary record-keeping that accompanies an application fo",
+      "source": "Axios — AI brings savings to clinical trials: study (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Ken Getz, the Tufts center's executive director, said deploying the agent led to",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Ken Getz, the Tufts center's executive director, said deploying the agent led to new efficiencies, such as reducing the number of on-site visits, accelerating enrollment in the trial and locking in the data. \"To our knowledge, this is the f",
+      "source": "Axios — AI brings savings to clinical trials: study (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: AI still doesn't guarantee a trial will be a success. Some of the big challenges",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: AI still doesn't guarantee a trial will be a success. Some of the big challenges don't involve information processing, but revolve around finding the right patients, getting their consent and making and distributing the drug. Humans also wo",
+      "source": "Axios — AI brings savings to clinical trials: study (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-13T08:59:35+00:00"
+}

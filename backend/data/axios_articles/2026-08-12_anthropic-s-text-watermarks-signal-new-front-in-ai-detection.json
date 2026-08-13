@@ -1,0 +1,46 @@
+{
+  "title": "Anthropic's text watermarks signal new front in AI detection",
+  "url": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection",
+  "pub_date": "2026-08-12",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Anthropic's text watermarks signal new front in AI detection (2026-08-12)",
+  "body": "Anthropic's new models will add machine-readable \"watermarks\" to Claude-generated text and files to comply with new European Union transparency regulations. Why it matters: Comms teams using Claude to simply clean up, translate, or format human-drafted press releases could stamp those documents with an AI signature. How it works: For models launched in the EU after Aug. 2, Anthropic is marking content in two ways, \"wherever Claude is offered, worldwide.\" Text watermarks: Claude embeds patterns into the generated text that Anthropic claims are \"imperceptible.\" File metadata: Generated media files carry digital signatures confirming the asset was processed by Claude. Yes, but: Anthropic highlighted two major limitations to its detection tech. AI-assisted can look AI-generated: Content may trigger a detected mark even if Claude was used solely to proofread, format or translate human-written copy. Detection drop-off: If text is heavily rewritten, mixed with other copy or too short, then the watermarks might not be detectable. Zoom out: Anthropic explained its changes are designed to meet Article 50 of the EU AI Act, which mandates AI disclosures for generated or manipulated content. OpenAI similarly outlined its compliance approach, though its current watermarking efforts primarily focus on images and audio rather than text. The moves mark a regulatory-driven turn in the ongoing effort to help audiences identify AI-generated text, audio and visual content. Digital platforms have recently accelerated their own AI identification measures: LinkedIn is testing a \"seems like AI slop\" button, Substack embedded Pangram's AI detection suite, and Snap stopped promoting AI-generated video in its main feed. What's next: AI providers have until Dec. 2 to bring legacy models into compliance with EU rules, meaning we'll get a clearer picture in the coming months of how the industry's biggest players plan to mark AI-generated content.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Comms teams using Claude to simply clean up, translate, or format human-drafted",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Comms teams using Claude to simply clean up, translate, or format human-drafted press releases could stamp those documents with an AI signature. How it works: For models launched in the EU after Aug. 2, Anthropic is marking content in two w",
+      "source": "Axios — Anthropic's text watermarks signal new front in AI detection (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Anthropic explained its changes are designed to meet Article 50 of the EU AI Act",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Anthropic explained its changes are designed to meet Article 50 of the EU AI Act, which mandates AI disclosures for generated or manipulated content. OpenAI similarly outlined its compliance approach, though its current watermarking efforts",
+      "source": "Axios — Anthropic's text watermarks signal new front in AI detection (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-13T08:59:35+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Quantifying the AI boom crowding-out effect",
+  "url": "https://www.axios.com/2026/08/12/ai-boom-goldman-sachs",
+  "pub_date": "2026-08-12",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Quantifying the AI boom crowding-out effect (2026-08-12)",
+  "body": "When investment on the scale of the current AI boom occurs, it inevitably has to come at the expense of something. All the resources devoted to building data centers and developing AI models would otherwise go to something else. The big picture: This crowding out is smaller than you might expect, Goldman Sachs economists find in a new note. But it does exist, they say, and takes the form of displacing other tech investment and construction , as well as raising corporate borrowing costs. By the numbers: AI investment will be about $600 billion this year, some 2% of GDP, accounting for 10% of business fixed investment and 15% of equipment investment, economists Jessica Rindels and David Mericle wrote. State of play: The first crowding-out channel they identify is the displacement of other tech spending at the hyperscalers themselves and at the companies that spend cold, hard cash on AI services. Corporate IT budgets, for example, that face new, big costs for AI tokens may seek to cut back on other software and tech spending. That doesn't have much impact on overall GDP, however, as it amounts to shifting spending around. Zoom out: The Goldman team also sees the data center boom crowding out other building activity, as construction labor and equipment is devoted to the AI buildout. Gross margins on data center construction are more than twice as high as margins on non-tech projects, Rindels and Mericle wrote, \"which has resulted in data centers pulling resources away from other projects.\" Zoom in: The hyperscalers' bottomless demand for capital has created a surge in AI-related debt issuance. The rest of the corporate sector faces higher borrowing costs as a result — which may hem in their own investment. But the Goldman team finds that this impact has been limited so far, raising corporate borrowing costs by only 0.05 percentage point and perhaps reducing non-AI investment by a modest $10 billion. The bottom line: \"While media reports and market commentary often claim that AI is making a very large contribution to U.S. GDP growth but also crowding out a great deal of other activity,\" Rindels and Mericle wrote, their analysis \"suggests that both claims are exaggerated.\"",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The Goldman team also sees the data center boom crowding out other building acti",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The Goldman team also sees the data center boom crowding out other building activity, as construction labor and equipment is devoted to the AI buildout. Gross margins on data center construction are more than twice as high as margins on non",
+      "source": "Axios — Quantifying the AI boom crowding-out effect (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The hyperscalers' bottomless demand for capital has created a surge in AI-relate",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The hyperscalers' bottomless demand for capital has created a surge in AI-related debt issuance. The rest of the corporate sector faces higher borrowing costs as a result — which may hem in their own investment. But the Goldman team finds t",
+      "source": "Axios — Quantifying the AI boom crowding-out effect (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"While media reports and market commentary often claim that AI is making a very",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"While media reports and market commentary often claim that AI is making a very large contribution to U.S. GDP growth but also crowding out a great deal of other activity,\" Rindels and Mericle wrote, their analysis \"suggests that both claim",
+      "source": "Axios — Quantifying the AI boom crowding-out effect (2026-08-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-13T08:59:35+00:00"
+}
