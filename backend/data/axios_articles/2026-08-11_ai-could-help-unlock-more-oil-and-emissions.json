@@ -1,0 +1,61 @@
+{
+  "title": "AI could help unlock more oil — and emissions",
+  "url": "https://www.axios.com/2026/08/11/ai-oil-gas-emissions-increase",
+  "pub_date": "2026-08-11",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — AI could help unlock more oil — and emissions (2026-08-11)",
+  "body": "Move over, data centers. AI's climate impact may extend well beyond the electricity it consumes. Why it matters: A new peer-reviewed study finds AI could help produce more oil and natural gas — and produce a climate impact the authors argue could far outweigh the technology's benefits for renewable energy. Driving the news: The research, just published in a Nature journal, concludes AI's role in boosting oil and gas production would outweigh its climate benefits from accelerating renewable energy, leading to a net increase in emissions under a range of scenarios. The study is among the first to estimate how AI-driven gains in fossil fuel production could affect global emissions. \"Most assessments of AI's climate impact are framed as a tradeoff between data center energy use and the emissions AI might help avoid through renewables and efficiency gains,\" said Holly Alpine, co-author of the paper. \"What's missing from that calculation entirely is the other side of the same ledger: the emissions enabled from using AI to make fossil fuel production cheaper and more profitable,\" Alpine said. Holly Alpine and Will Alpine , former Microsoft employees who founded the nonprofit initiative Enabled Emissions Campaign in 2024, co-led the study with researchers from Purdue University and an independent researcher. How it works: AI can help oil companies find new resources and recover more from existing fields. It can also help renewable energy by improving forecasting and operations. The new study argues the fossil-fuel gains are likely to dominate. By the numbers: The researchers estimate AI could add emissions equal to roughly 1% to 5% of the global energy sector's 2024 emissions under the scenarios they modeled. The study estimates those emissions would be roughly three to 13 times the International Energy Agency's estimate of current data-center emissions. The other side: A spokesperson for the American Petroleum Institute, the oil industry's main trade group, disputed the idea that more energy and lower emissions are in conflict. \"The U.S. oil and natural gas industry is continuing to produce more energy while reducing emissions by investing in better technology, implementing stronger operational practices and supporting science-based policy,\" API spokesperson Andrea Woods said in a statement. State of play: The oil industry's embrace of AI has accelerated over the past two years. Producers like Chevron, ExxonMobil, ADNOC and Aramco say AI is helping identify promising drilling prospects and improve recovery from existing fields. Oilfield-service giants SLB, Halliburton and Baker Hughes are deploying AI to guide drilling and optimize well placement. Analysts and consultancies, from Goldman Sachs to Wood Mackenzie, argue AI could lower production costs and increase economically recoverable reserves. The big picture: AI is a general-purpose technology that can boost productivity in both fossil fuels and clean energy. Some experts argue the more important question is which applications society chooses to prioritize. What they're saying: \"I think cleantech is going to win anyway, so let's just focus on how we unlock clean energy resources with AI,\" said Brian Janous, who previously worked with Holly Alpine at Microsoft and now runs data center developer Cloverleaf Infrastructure. \"I'm glad Will and Holly are doing what they're doing. I'm not sure what it's going to change, but at least it puts pressure on,\" he said. Zoom in: The researchers used a computer model of the global economy that estimates how AI-driven productivity gains ripple through energy markets. Across the study's 64 modeled scenarios, emissions declined only when fossil-fuel productivity gains from AI were zero, Holly Alpine said. The finding suggests that supporting renewable energy alone \"will not get us\" to lower emissions. Yes, but: The model doesn't attempt to estimate AI's potential to accelerate cleantech breakthroughs such as fusion or long-duration storage. \"There is a lot of AI dreaming out there,\" said Michael Lazarus, senior scientist emeritus at the climate research group Stockholm Environment Institute who advised the authors on the study. \"I don't know how one would anticipate that and model it.\" What we're watching: The study's authors are making a call that echoes that of many others working at the intersection of AI and environmental issues: more transparency. \"If we can start with transparency about the effects, then we can start to think about how to govern it,\" said Will Alpine.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: A new peer-reviewed study finds AI could help produce more oil and natural gas —",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: A new peer-reviewed study finds AI could help produce more oil and natural gas — and produce a climate impact the authors argue could far outweigh the technology's benefits for renewable energy.",
+      "source": "Axios — AI could help unlock more oil — and emissions (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The research, just published in a Nature journal, concludes AI's role in boostin",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The research, just published in a Nature journal, concludes AI's role in boosting oil and gas production would outweigh its climate benefits from accelerating renewable energy, leading to a net increase in emissions under a range of scenari",
+      "source": "Axios — AI could help unlock more oil — and emissions (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The researchers used a computer model of the global economy that estimates how A",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The researchers used a computer model of the global economy that estimates how AI-driven productivity gains ripple through energy markets. Across the study's 64 modeled scenarios, emissions declined only when fossil-fuel productivity gains ",
+      "source": "Axios — AI could help unlock more oil — and emissions (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I think cleantech is going to win anyway, so let's just focus on how we unlock",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I think cleantech is going to win anyway, so let's just focus on how we unlock clean energy resources with AI,\" said Brian Janous, who previously worked with Holly Alpine at Microsoft and now runs data center developer Cloverleaf Infrastru",
+      "source": "Axios — AI could help unlock more oil — and emissions (2026-08-11)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-14T08:55:14+00:00"
+}

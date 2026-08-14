@@ -1,0 +1,85 @@
+{
+  "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
+  "url": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
+  "pub_date": "2026-08-13",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Musk and Zuckerberg claw back into AI race with new model momentum (2026-08-13)",
+  "body": "Elon Musk and Mark Zuckerberg have muscled their way back into AI's elite ranks, defying early obituaries to close the gap on a new generation of Silicon Valley startups. Why it matters: Recent gains by tech giants SpaceX and Meta — long stuck in AI's second tier — are putting new pressure on a hierarchy dominated by OpenAI and Anthropic. State of play: Both companies released models this week featuring a combination of performance and price that would have been hard to imagine from either lab a year ago. SpaceX's Grok 4.6 scored essentially even with OpenAI's GPT-5.6 Sol Max on the closely watched Artificial Analysis Intelligence Index , and just behind Anthropic's Fable 5 Max. Promising \"something special,\" Musk said Grok 4.7 should arrive in three to four weeks and predicted it will \"exceed all current models\" after additional training on a massive trove of SpaceX data. Meta, meanwhile, is trying to squeeze the frontier from below. Its new models deliver competitive performance at dramatically lower cost — including Muse Glimmer, an open-weight system small enough to run locally on a laptop. Zuckerberg cast the push as \"superintelligence for everyone\" in a sweeping manifesto this week, reviving Meta's open-AI ambitions as the U.S. races to regain ground from China. Catch up quick: As OpenAI and Anthropic pulled ahead, Musk and Zuckerberg answered with the full force of their empires — spending billions on talent, infrastructure and acquisitions. Zuckerberg overhauled Meta's AI effort after the disappointing launch of Llama 4, then invested $14.3 billion in Scale AI and brought aboard its CEO, Alexandr Wang , to lead the push. Musk went even further, folding xAI into SpaceX and agreeing to acquire Cursor for $60 billion — bringing massive computing power, proprietary SpaceX data and a fast-growing AI coding platform under one roof. Between the lines: The AI race is starting to reward more than raw intelligence, as price becomes a decisive advantage for many users. \"You don't need to be the highest performing, most expensive model in the market to be able to be successful,\" Sonali Basak, chief investment strategist at iCapital, told Axios. Basak said that raises a more consequential question for Musk and Zuckerberg: whether their AI advancements can \"fuel the core businesses\" that financed their comeback. Reality check: The frontier labs still hold pole position — with even more capable models waiting in the wings, including systems deemed too sensitive for public release. \"I wouldn't say they've caught up to OpenAI or Anthropic,\" said John Belton, a portfolio manager at Gabelli Funds. A Meta employee told Axios the company still feels behind the frontier labs in model performance and development. What we're watching: Turbulence at Google could create an opening for either company to seize its place as Wall Street's public-market AI champion. Google had emerged as the established tech giant best positioned to challenge OpenAI and Anthropic, pairing elite talent with enormous resources and early momentum. That position suddenly looks shakier after an exodus of top AI talent — including Google's chief scientist — and setbacks involving its flagship model Gemini. The bottom line: OpenAI and Anthropic built their lead through years of technical excellence. Musk and Zuckerberg are nipping at their heels with decades of scale and resources.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Recent gains by tech giants SpaceX and Meta — long stuck in AI's second tier — a",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Recent gains by tech giants SpaceX and Meta — long stuck in AI's second tier — are putting new pressure on a hierarchy dominated by OpenAI and Anthropic. State of play: Both companies released models this week featuring a combination of per",
+      "source": "Axios — Musk and Zuckerberg claw back into AI race with new model momentum (2026-08-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: As OpenAI and Anthropic pulled ahead, Musk and Zuckerberg answered with the full",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: As OpenAI and Anthropic pulled ahead, Musk and Zuckerberg answered with the full force of their empires — spending billions on talent, infrastructure and acquisitions. Zuckerberg overhauled Meta's AI effort after the disappointing launch of",
+      "source": "Axios — Musk and Zuckerberg claw back into AI race with new model momentum (2026-08-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The AI race is starting to reward more than raw intelligence, as price becomes a",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The AI race is starting to reward more than raw intelligence, as price becomes a decisive advantage for many users. \"You don't need to be the highest performing, most expensive model in the market to be able to be successful,\" Sonali Basak,",
+      "source": "Axios — Musk and Zuckerberg claw back into AI race with new model momentum (2026-08-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: OpenAI and Anthropic built their lead through years of technical excellence. Mus",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: OpenAI and Anthropic built their lead through years of technical excellence. Musk and Zuckerberg are nipping at their heels with decades of scale and resources.",
+      "source": "Axios — Musk and Zuckerberg claw back into AI race with new model momentum (2026-08-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The frontier labs still hold pole position — with even more capable models waiti",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The frontier labs still hold pole position — with even more capable models waiting in the wings, including systems deemed too sensitive for public release. \"I wouldn't say they've caught up to OpenAI or Anthropic,\" said John Belton, a portf",
+      "source": "Axios — Musk and Zuckerberg claw back into AI race with new model momentum (2026-08-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-14T08:55:14+00:00"
+}
