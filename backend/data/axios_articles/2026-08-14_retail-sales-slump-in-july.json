@@ -1,0 +1,66 @@
+{
+  "title": "Retail sales slump in July",
+  "url": "https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup",
+  "pub_date": "2026-08-14",
+  "topics": [
+    "world_cup"
+  ],
+  "tags": [
+    "sports",
+    "world-cup"
+  ],
+  "source": "Axios — Retail sales slump in July (2026-08-14)",
+  "body": "Data: Census Bureau ; Chart: Neil Irwin/Axios American consumers have powered the economy forward this year. In July, they took a breather. Why it matters: While the underlying trend in consumer demand appears solid, retail sales hit an air pocket last month, suggesting a bumpier path ahead for overall growth. Combined with a weak jobs report last week and two subdued inflation readings this week, it points to the Federal Reserve having room to be patient on potential interest rate increases this fall. Driving the news: Retail sales fell 0.6% in July, the weakest performance in more than a year and well below the 0.1% gain analysts expected. Excluding gas stations and auto dealers, there was still a 0.3% decline in sales, meaning that the weakness was evident even apart from those volatile categories. Auto dealers' sales were down 2%, gasoline stations' sales fell 0.9%, and electronic and appliance store sales declined 0.5%. Of note: Some one-off shifts pulled the numbers downward. Amazon held its Prime Day discounting event earlier this year than last, helping explain a 2.2% drop in online sales. Moreover, most World Cup games took place in June, so the associated spending would have the mechanical effect of pushing retail sales upward in early summer and creating a misleading decline in July. Yes, but: The numbers were soft even accounting for those factors, giving some pause as to how robust consumer spending will be in the second half of the year. Growth in Personal Consumption Expenditures contributed a whopping 2.1 percentage points to overall GDP growth in the second quarter, even as other sectors combined to subtract from GDP. The retail sales control group that feeds directly into GDP calculations fell 0.4% in July, versus a 0.3% gain that analysts forecast, and previously reported gains for May and June were revised downward. What they're saying: \"The weaker July retail sales report shows that consumers took a breather last month after an ebullient burst of spending in the first half of the year,\" Nationwide chief economist Kathy Bostjancic wrote in a note. \"The contraction in core retail control spending last month, following downward revisions to the prior two months, translates into a bit less momentum for real consumer spending starting Q3 than previously expected.\" Reality check: The stock market is booming, gasoline prices are well off their recent highs, and the unemployment rate is low. There is no reason to expect broader consumer spending to experience a meaningful pullback. But the July retail numbers suggest there's no major acceleration taking place, either.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: While the underlying trend in consumer demand appears solid, retail sales hit an",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: While the underlying trend in consumer demand appears solid, retail sales hit an air pocket last month, suggesting a bumpier path ahead for overall growth. Combined with a weak jobs report last week and two subdued inflation readings this w",
+      "source": "Axios — Retail sales slump in July (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "sports",
+        "world-cup"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Retail sales fell 0.6% in July, the weakest performance in more than a year and",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Retail sales fell 0.6% in July, the weakest performance in more than a year and well below the 0.1% gain analysts expected. Excluding gas stations and auto dealers, there was still a 0.3% decline in sales, meaning that the weakness was evid",
+      "source": "Axios — Retail sales slump in July (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "sports",
+        "world-cup"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"The weaker July retail sales report shows that consumers took a breather last m",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"The weaker July retail sales report shows that consumers took a breather last month after an ebullient burst of spending in the first half of the year,\" Nationwide chief economist Kathy Bostjancic wrote in a note. \"The contraction in core ",
+      "source": "Axios — Retail sales slump in July (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "sports",
+        "world-cup"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The stock market is booming, gasoline prices are well off their recent highs, an",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The stock market is booming, gasoline prices are well off their recent highs, and the unemployment rate is low. There is no reason to expect broader consumer spending to experience a meaningful pullback. But the July retail numbers suggest ",
+      "source": "Axios — Retail sales slump in July (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "sports",
+        "world-cup"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-15T08:12:48+00:00"
+}

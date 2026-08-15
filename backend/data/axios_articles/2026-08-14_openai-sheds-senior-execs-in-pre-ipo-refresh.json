@@ -1,0 +1,85 @@
+{
+  "title": "OpenAI sheds senior execs in pre-IPO refresh",
+  "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+  "pub_date": "2026-08-14",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI sheds senior execs in pre-IPO refresh (2026-08-14)",
+  "body": "A wave of top OpenAI executives — including Sam Altman's top deputy, a longtime chief operating officer and the chief revenue officer — has left in the span of a month as the company retools its leadership ahead of an expected IPO. Why it matters: Co-founder Greg Brockman is getting more involved across every level of the company to build out a leadership team he hopes will catapult OpenAI past Anthropic in enterprise adoption, according to a source familiar with the matter. Zoom in: OpenAI's recent personnel changes are driven by strategy more than the revolving door that's come to define the broader AI talent exodus. OpenAI chief revenue officer Denise Dresser is leaving the company less than a year into the role. The lab appointed Dali Rajic, most recently president and COO of Google-owned cybersecurity company Wiz, to replace her. Her exit comes the same week longtime OpenAI executive Brad Lightcap — the company's former COO — announced his departure, along with the head of ethics, head of safety and chief futurist. Fidji Simo, the number two at the AI lab under CEO Sam Altman, left last month after taking a leave of absence for health reasons. Between the lines: Brockman is \"a founder in founder mode,\" according to a source familiar, meeting with more customers and teams across the company than ever before. The departures are viewed as a long-overdue clearing of underperforming leadership, another source says. Brockman told reporters, including Axios, at a July roundtable that he was \"very focused\" on \"the compute side and on the model execution side\" last year, but that he's now focused on the \"compute-powered economy.\" What they're saying: Brockman is publicly framing the departures as a change in corporate focus. \"Denise has led our revenue organization through a formative period for the business,\" Brockman said in a blog post about the personnel changes. \"The way we're deploying this technology is changing rapidly, and Dali will turn what we've learned into repeatable execution as we build out the full system to make AI broadly useful for people and businesses.\" Zoom out: OpenAI's safety and alignment teams have also seen a spate of departures. This week the Financial Times reported that the company's head of ethics, Chloé Bakalar, left after less than a year on the job. That follows the exits of head of safety systems, Johannes Heidecke, and chief futurist and former head of mission alignment Joshua Achiam. Sandhini Agarwal, who previously led AI safety teams at the company, left in July. Wired reports that the teams overseeing alignment for OpenAI's most powerful models are in the midst of a messy reorganization just as those models were found to escape their sandboxes and hack third-party systems. If you have tips, DM Mady on Signal at madymills.21",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Co-founder Greg Brockman is getting more involved across every level of the comp",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Co-founder Greg Brockman is getting more involved across every level of the company to build out a leadership team he hopes will catapult OpenAI past Anthropic in enterprise adoption, according to a source familiar with the matter.",
+      "source": "Axios — OpenAI sheds senior execs in pre-IPO refresh (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: OpenAI's safety and alignment teams have also seen a spate of departures. This w",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: OpenAI's safety and alignment teams have also seen a spate of departures. This week the Financial Times reported that the company's head of ethics, Chloé Bakalar, left after less than a year on the job. That follows the exits of head of saf",
+      "source": "Axios — OpenAI sheds senior execs in pre-IPO refresh (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: OpenAI's recent personnel changes are driven by strategy more than the revolving",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: OpenAI's recent personnel changes are driven by strategy more than the revolving door that's come to define the broader AI talent exodus. OpenAI chief revenue officer Denise Dresser is leaving the company less than a year into the role. The",
+      "source": "Axios — OpenAI sheds senior execs in pre-IPO refresh (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Brockman is \"a founder in founder mode,\" according to a source familiar, meeting",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Brockman is \"a founder in founder mode,\" according to a source familiar, meeting with more customers and teams across the company than ever before. The departures are viewed as a long-overdue clearing of underperforming leadership, another ",
+      "source": "Axios — OpenAI sheds senior execs in pre-IPO refresh (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Brockman is publicly framing the departures as a change in corporate focus. \"Den",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Brockman is publicly framing the departures as a change in corporate focus. \"Denise has led our revenue organization through a formative period for the business,\" Brockman said in a blog post about the personnel changes. \"The way we're depl",
+      "source": "Axios — OpenAI sheds senior execs in pre-IPO refresh (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-15T08:12:48+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "A convergence of biological risks",
+  "url": "https://www.axios.com/2026/08/14/biological-threats-ai-lab-research",
+  "pub_date": "2026-08-14",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — A convergence of biological risks (2026-08-14)",
+  "body": "What's the common thread connecting AI advances, biological breakthroughs, a preponderance of high-risk-high-reward research, escalating geopolitical tensions and a hollowed-out U.S. public health sector? They all heighten the risk that one day a lethal human-made pathogen will emerge, either accidentally or intentionally, and we won't be ready for it. Why it matters: The same advances that make this a pivotal moment for medical innovation are intensifying the risk of catastrophic lab mishaps, though how significant a risk is hotly debated by experts. \"It is a very small tweak from trying to target a disease, and making gene therapies to try to target a disease, to turning a virus into something that can be much more detrimental,\" said Ashish Jha, the Biden administration's COVID response coordinator. He has since founded a company that aims to detect emerging biological threats. The big picture: There are plenty of grim scenarios. A bad actor could use an AI-enabled bioweapon to cause mass casualties around the world. The world's largest AI companies have highlighted that risk themselves and called for more guardrails . But the ways in which the world has become more dangerous since the pandemic may be underappreciated, Jha told Axios. \"The scenario I worry most about is not a nation state deciding to use a biological weapon. The scenario I worry most about is an accidental release from a deliberate program,\" he said. And, in fact, scientific advances may have only made a lab leak more likely, despite fierce political blowback to \"gain of function\" research. \"Regardless of the science and AI and all that, the number of labs that are out there ... doing this kind of research has gone up, not down,\" one former senior Trump Health and Human Services official told Axios. And the rise of AI \"takes people with some limited experience and allows them to navigate or do experiments with a greater potential for success,\" the former official said. Driving the news: Last week's news that Stanford researchers used AI to create new synthetic viruses from scratch ratcheted up concerns that nefarious actors around the world could be attempting similar feats with more complex organisms. The novel viruses were found to be able to infect and kill the microbe E. coli — a medical advancement with huge upside. But recent reporting has highlighted how chatbots have been manipulated into telling users how to make deadly biological weapons. Reality check: This AI-enabled biology still involves a huge amount of manual lab work — a barrier to any weaponization plans. \"AI can't get around the fact that there are some pieces there that require physical checking,\" said David Manheim, founder of the Association for Long Term Existence and Resilience. \"Hopefully the physical labs are not willing to let AI systems do arbitrary things that nobody understands.\" And creating a virus that targets bacteria is still many steps behind creating a virus that targets humans. Yes, but: AI is constantly evolving, and last week's groundbreaking news was first revealed in a preprint manuscript nearly a year ago, so who knows what advancements in synthetic biology have been made since. Though Jha agrees there are many barriers to making a biological weapon, he says his question is: \"Given the number of people now working on these things, what are the chances that no one will succeed in the next five years?\" Where it stands: \"China, North Korea, and Russia probably maintain the knowledge and capability to produce and employ traditional biological pathogens and toxins, and historically have pursued ... pathogens that cause highly infectious or contagious diseases,\" this year's annual threat assessment from the U.S. intelligence community states. Advances in areas like nanotechnology and genomic editing \"could lead to novel biological threats or raise the potential for biological safety events resulting in the unintentional release of pathogens,\" the report adds. The other side: AI can also be used to bolster biodefense, and Google DeepMind last month announced its own bioresilience program that aims to prevent, detect and respond to biological threats. \"The good news is AI and advanced biology, and biotechnology give us a better chance today than in 2020\" to respond to a pandemic, the former senior HHS official said. HHS said in a statement that the U.S. \"remains fully equipped to respond to emerging public health threats\" and protect the public, citing its response to the hantavirus cruise outbreak and the Ebola health emergency in Africa.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The same advances that make this a pivotal moment for medical innovation are int",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The same advances that make this a pivotal moment for medical innovation are intensifying the risk of catastrophic lab mishaps, though how significant a risk is hotly debated by experts. \"It is a very small tweak from trying to target a dis",
+      "source": "Axios — A convergence of biological risks (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Last week's news that Stanford researchers used AI to create new synthetic virus",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Last week's news that Stanford researchers used AI to create new synthetic viruses from scratch ratcheted up concerns that nefarious actors around the world could be attempting similar feats with more complex organisms. The novel viruses we",
+      "source": "Axios — A convergence of biological risks (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: This AI-enabled biology still involves a huge amount of manual lab work — a barr",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: This AI-enabled biology still involves a huge amount of manual lab work — a barrier to any weaponization plans. \"AI can't get around the fact that there are some pieces there that require physical checking,\" said David Manheim, founder of t",
+      "source": "Axios — A convergence of biological risks (2026-08-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-15T08:12:48+00:00"
+}
