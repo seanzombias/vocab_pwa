@@ -1,0 +1,54 @@
+{
+  "title": "Kindergarten vaccine exemptions rose in 2025-2026: CDC",
+  "url": "https://www.axios.com/2026/08/17/kindergarten-vaccine-rates-fall",
+  "pub_date": "2026-08-17",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Kindergarten vaccine exemptions rose in 2025-2026: CDC (2026-08-17)",
+  "body": "Vaccination rates among American kindergartners decreased during the 2025–2026 school year for all tracked vaccines , the Centers for Disease Control and Prevention reported on Monday. Exemptions from getting one or more vaccines increased in 41 states and the District of Columbia, growing to 4.2% from 3.6% the year before. Why it matters: The drop-off coincided with continued efforts by the Trump administration to make controversial vaccine policy changes and with measles cases hitting levels not seen in more than three decades. By the numbers: Coverage with the MMR, DTaP, polio and varicella vaccine decreased in more than half of states, ranging from 92% for diphtheria, tetanus and acellular pertussis (DTaP) vaccine to 92.4% for the measles, mumps and rubella (MMR) and polio vaccines. The number of kindergartners attending school without documentation of completing the two-dose MMR vaccine series was about 280,000 in 2025–2026, officials said. The number of kindergartners exempt from one or more vaccines was about 155,000. 24 states reported exemptions exceeding 5%. MMR vaccine coverage among kindergartners by state ranged from 98.9% in West Virginia to 75.2% in Idaho. What they're saying: The CDC, in a statement, said the data showed a 0.1% decline in vaccination coverage among children entering kindergarten. The agency said it continues to encourage parents to discuss vaccination options with their doctors. Yes, but: It only takes a small drop in the vaccination rate to make herd immunity against measles plummet. The new data also doesn't indicate how many community clusters may actually have seen much greater declines. Between the lines: Polling shows childhood vaccines remain popular, but administration efforts to upend longstanding vaccine policies could further erode trust in vaccines and public health, medical experts say. President Trump last week signed an executive order calling for a slimmed-down childhood vaccine schedule and breaking the MMR vaccine into three separately administered shots. It also advises states to review federal vaccine recommendations and update their requirements for school enrollment. Capital Alpha Partners analyst Kim Monk wrote in a note Monday that any official vaccine scheduling recommendations or policy changes stemming from the order are expected to be challenged in court. \"As with past administration attempts to change or influence vaccine schedules, we think it's likely that providers and stakeholder groups will continue to ignore this advice, although these developments certainly don't help with ongoing vaccine hesitancy,\" Monk wrote.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The drop-off coincided with continued efforts by the Trump administration to mak",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The drop-off coincided with continued efforts by the Trump administration to make controversial vaccine policy changes and with measles cases hitting levels not seen in more than three decades. By the numbers: Coverage with the MMR, DTaP, p",
+      "source": "Axios — Kindergarten vaccine exemptions rose in 2025-2026: CDC (2026-08-17)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Polling shows childhood vaccines remain popular, but administration efforts to u",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Polling shows childhood vaccines remain popular, but administration efforts to upend longstanding vaccine policies could further erode trust in vaccines and public health, medical experts say. President Trump last week signed an executive o",
+      "source": "Axios — Kindergarten vaccine exemptions rose in 2025-2026: CDC (2026-08-17)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: The CDC, in a statement, said the data showed a 0.1% decline in vaccination cove",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: The CDC, in a statement, said the data showed a 0.1% decline in vaccination coverage among children entering kindergarten. The agency said it continues to encourage parents to discuss vaccination options with their doctors. Yes, but: It onl",
+      "source": "Axios — Kindergarten vaccine exemptions rose in 2025-2026: CDC (2026-08-17)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-18T08:20:47+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Women are missing out on the AI jobs boom",
+  "url": "https://www.axios.com/2026/08/18/ai-women-jobs-hiring",
+  "pub_date": "2026-08-18",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Women are missing out on the AI jobs boom (2026-08-18)",
+  "body": "Data: LinkedIn; Table: Danielle Alberti/Axios Women made up just over a quarter of new hires in the U.S. for AI roles last year — compared with half of new hires in non-AI occupations, per new LinkedIn data out Tuesday morning. Why it matters: These jobs are some of the fastest-growing and highest-paying in the country right now — at a time when the overall labor market is pretty sluggish — and the report shows women are getting left behind. By the numbers: Men landed 74%, and women 26%, of the new hires for AI roles in 2025. The highest-paying roles typically have higher percentages of men. To get hiring information, the platform looked at user, or member, profiles. For data on compensation it analyzed job listings. Zoom in: An increasingly popular job is called \"member of technical staff,\" a technical role common in AI labs that often sits at the intersection of advanced research and full-stack engineering. 82% of new hires to these roles went to men in 2025. And this year, median listed pay is $223,000. The data annotator job, meanwhile, with a median pay of $51,000, is roughly split 50/50 between men and women. Between the lines: The data confirms what our eyes have been telling us all along. Most of the public faces of the AI buildout have been men. Yes, but: The AI sector might make up a huge and growing part of the economy, but the jobs themselves are just a small sliver of the labor market. The bottom line: Women have long been underrepresented in the tech industry, particularly in leadership and technical roles. The AI boom is widening the divide. \"Women may be included in the AI economy, but not in the roles most likely to drive long-term economic mobility, leadership, and decision-making power,\" Sarah Steinberg, head of global public policy partnerships at LinkedIn, said in an email to Axios.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: These jobs are some of the fastest-growing and highest-paying in the country rig",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: These jobs are some of the fastest-growing and highest-paying in the country right now — at a time when the overall labor market is pretty sluggish — and the report shows women are getting left behind. By the numbers: Men landed 74%, and wo",
+      "source": "Axios — Women are missing out on the AI jobs boom (2026-08-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: An increasingly popular job is called \"member of technical staff,\" a technical r",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: An increasingly popular job is called \"member of technical staff,\" a technical role common in AI labs that often sits at the intersection of advanced research and full-stack engineering. 82% of new hires to these roles went to men in 2025. ",
+      "source": "Axios — Women are missing out on the AI jobs boom (2026-08-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The data confirms what our eyes have been telling us all along. Most of the publ",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The data confirms what our eyes have been telling us all along. Most of the public faces of the AI buildout have been men. Yes, but: The AI sector might make up a huge and growing part of the economy, but the jobs themselves are just a smal",
+      "source": "Axios — Women are missing out on the AI jobs boom (2026-08-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Women have long been underrepresented in the tech industry, particularly in lead",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Women have long been underrepresented in the tech industry, particularly in leadership and technical roles. The AI boom is widening the divide. \"Women may be included in the AI economy, but not in the roles most likely to drive long-term ec",
+      "source": "Axios — Women are missing out on the AI jobs boom (2026-08-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-18T08:20:47+00:00"
+}
