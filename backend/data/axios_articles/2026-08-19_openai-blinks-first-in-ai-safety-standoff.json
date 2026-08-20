@@ -1,0 +1,85 @@
+{
+  "title": "OpenAI blinks first in AI safety standoff",
+  "url": "https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic",
+  "pub_date": "2026-08-19",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI blinks first in AI safety standoff (2026-08-19)",
+  "body": "OpenAI said Tuesday it is pausing some model work over safety concerns, days after rival Anthropic doubled down on insisting that its own safety measures were solid enough that it didn't need to slow down. Why it matters: The two leading AI labs are publicly diverging on how to manage safety risks, potentially putting them on different model-release timelines as both prepare for expected IPOs. State of play: OpenAI has introduced new safety practices after finding that its upcoming model, Astra, posed potentially critical cybersecurity risks. \"[W]e always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment,\" CEO Sam Altman wrote on X , signaling that the Astra model was showing signs of misalignment, or when AI goes against intended goals. Last Friday, Anthropic said that if the safeguards laid out in its 186-page report are followed, a pause on its most capable models would not be required. Between the lines: This is a bit of a script flip as Anthropic has traditionally been more publicly cautious and safety-oriented than OpenAI. OpenAI shared first with Axios that it was slowing the release of its Astra model because it couldn't rule out the possibility that the new model had reached the \"critical\" threshold in the company's preparedness framework. The company added on Tuesday that it's in the process of rewriting that document, most of which dates back to 2023, when many of the concerns raised were theoretical scenarios rather than present realities. Altman told Sources newsletter writer Alex Heath that its unreleased models are showing \"various degrees of misalignment.\" Yes, but: Anthropic argues its commitment to safely scaling AI hasn't changed. Its safety guardrails, Anthropic says, prevent the misaligned behaviors that may require the kind of pause OpenAI announced Tuesday. Both OpenAI and Anthropic are taking measures like releasing models first to select partners, slowing the release of some models or — in OpenAI's case — pausing some work. But neither are stopping. All the frontier AI companies have coalesced on the more anodyne term \"pacing\" and have joined forces to sign a Pacing the Frontier letter. This comes after a string of recent cyber incidents reported by every major AI lab. Researchers across the AI industry are worried about AI safety following these incidents, Joseph Perla, founder of model routing company TrustedRouter, told Axios, adding \"this is sci-fi stuff.\" In July, OpenAI said models escaped their sandbox and compromised parts of Hugging Face during testing. (Astra wasn't involved.) Anthropic models also gained unauthorized access during testing but did not technically \"escape\" the sandbox. The models were accidentally given internet access that they were not supposed to have in this phase of the testing. Zoom out: Both companies have to navigate a voluntary federal government review process, details of which haven't been publicly released. Zoom in: Andrew Freedman, co-founder and CEO at AI safety nonprofit Fathom, said OpenAI is making a legitimate effort to avoid releasing misaligned models, arguing that without a pause, even more of its researchers would otherwise leave. The company has already seen significant departures. OpenAI's head of ethics, Chloé Bakalar, left after less than a year on the job. Head of safety systems Johannes Heidecke, chief futurist and former head of mission alignment Joshua Achiam and Sandhini Agarwal, who previously led AI safety teams at the company, have all recently departed the company. What they're saying: Former OpenAI board member Helen Toner argued that the company's pause is a positive sign and could be a guide for how to handle safety concerns going forward. Toner argued on X that \"pacing the frontier\" isn't about a fixed delay, but about labs giving themselves \"enough time\" to meet reasonable safety bars either by choice or because they have to. Even if the pause is a positive sign, there's no assurance that OpenAI or Anthropic will give themselves enough time before moving forward with development and release of models. \"How long and how robust these efforts will be a question of both market pressures and how hard it is to verify alignment internally,\" Freedman told Axios.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The two leading AI labs are publicly diverging on how to manage safety risks, po",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The two leading AI labs are publicly diverging on how to manage safety risks, potentially putting them on different model-release timelines as both prepare for expected IPOs. State of play: OpenAI has introduced new safety practices after f",
+      "source": "Axios — OpenAI blinks first in AI safety standoff (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Both companies have to navigate a voluntary federal government review process, d",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Both companies have to navigate a voluntary federal government review process, details of which haven't been publicly released.",
+      "source": "Axios — OpenAI blinks first in AI safety standoff (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Andrew Freedman, co-founder and CEO at AI safety nonprofit Fathom, said OpenAI i",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Andrew Freedman, co-founder and CEO at AI safety nonprofit Fathom, said OpenAI is making a legitimate effort to avoid releasing misaligned models, arguing that without a pause, even more of its researchers would otherwise leave. The company",
+      "source": "Axios — OpenAI blinks first in AI safety standoff (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: This is a bit of a script flip as Anthropic has traditionally been more publicly",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: This is a bit of a script flip as Anthropic has traditionally been more publicly cautious and safety-oriented than OpenAI. OpenAI shared first with Axios that it was slowing the release of its Astra model because it couldn't rule out the po",
+      "source": "Axios — OpenAI blinks first in AI safety standoff (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Former OpenAI board member Helen Toner argued that the company's pause is a posi",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Former OpenAI board member Helen Toner argued that the company's pause is a positive sign and could be a guide for how to handle safety concerns going forward. Toner argued on X that \"pacing the frontier\" isn't about a fixed delay, but abou",
+      "source": "Axios — OpenAI blinks first in AI safety standoff (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-20T08:22:12+00:00"
+}

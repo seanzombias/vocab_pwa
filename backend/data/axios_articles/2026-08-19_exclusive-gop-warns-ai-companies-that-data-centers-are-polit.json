@@ -1,0 +1,59 @@
+{
+  "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
+  "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+  "pub_date": "2026-08-19",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: GOP warns AI companies that data centers are politically radioactive (2026-08-19)",
+  "body": "The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing the party's chances of holding a vital seat in Ohio. In the memo, obtained by Axios, the National Republican Senatorial Committee says Democrats have made data centers a \"centerpiece\" of their campaign to defeat Sen. Jon Husted (R-Ohio) — and that it's working. \"If he loses and data centers get the blame, politicians across the country will take notice — and they will not go near the next one,\" the memo says. \"This has become a sleeper issue for the entire election cycle.\" Why it matters: Republicans want the AI companies to do whatever it takes to stem the public backlash. The big picture: AI CEOs and top Republicans share in the rising panic. They tell us internal polls show data centers are as popular as spent nuclear waste, and more broadly have become a proxy for feelings about AI. Tech giants are scrambling to pull together media campaigns to try to shift opinion before it hardens locally and nationally. But Democrats aren't dummies. They see the same polls and are moving fast. Even politicians who previously embraced data centers, including Pennsylvania Gov. Josh Shapiro (D), are racing to crack down on them this election year. On Tuesday, Shapiro, ahead of a possible 2028 presidential run, signed an executive order imposing \"strict guardrails\" for data-center development. There are now more than 4,000 data centers online across the U.S., with another 3,000-plus centers proposed or in progress. They're designed to power the AI that's transforming the American economy, but have drawn protests from communities nationwide because they require massive amounts of electricity, can drive up utility bills, use huge amounts of water, involve enormous warehouse-like structures and provide few jobs. They also have become local targets for residents' anxiety about how AI is eliminating jobs. Zoom in: Husted's opponent in Ohio, former Sen. Sherrod Brown (D), has spent millions of dollars on a summer ad campaign calling Husted \"the face of data centers in Ohio.\" Republicans say the issue is especially potent in heavily blue-collar Ohio because the state has several big data center projects in the works. Nvidia and OpenAI have announced a project in the last few days. Meta , Vantage and QTS also have projects there. The NRSC memo says Brown has made data centers his \"de facto opponent.\" By the numbers: A Fox News poll last week showed Brown leading Husted by 8 points. State of play: Republicans say in the memo, headlined \"Ohio Data Center Risk,\" that it's up to AI companies to improve perceptions of data centers by explaining \"who benefits, who pays, and why a community should want one.\" \"Until that happens, the issue will continue to dominate this race,\" the memo says. The bottom line: The memo argues that a Husted loss would cause long-lasting damage to AI companies in their push to build data centers nationwide to power future generations of AI. \"If voters' perceptions of data centers are not fixed quickly, the campaign against them will expand far beyond Ohio,\" the party warns. Axios' Maria Curi contributed reporting.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Republicans want the AI companies to do whatever it takes to stem the public bac",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Republicans want the AI companies to do whatever it takes to stem the public backlash. The big picture: AI CEOs and top Republicans share in the rising panic. They tell us internal polls show data centers are as popular as spent nuclear was",
+      "source": "Axios — Exclusive: GOP warns AI companies that data centers are politically radioactive (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Husted's opponent in Ohio, former Sen. Sherrod Brown (D), has spent millions of",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Husted's opponent in Ohio, former Sen. Sherrod Brown (D), has spent millions of dollars on a summer ad campaign calling Husted \"the face of data centers in Ohio.\" Republicans say the issue is especially potent in heavily blue-collar Ohio be",
+      "source": "Axios — Exclusive: GOP warns AI companies that data centers are politically radioactive (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The memo argues that a Husted loss would cause long-lasting damage to AI compani",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The memo argues that a Husted loss would cause long-lasting damage to AI companies in their push to build data centers nationwide to power future generations of AI. \"If voters' perceptions of data centers are not fixed quickly, the campaign",
+      "source": "Axios — Exclusive: GOP warns AI companies that data centers are politically radioactive (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-20T08:22:12+00:00"
+}

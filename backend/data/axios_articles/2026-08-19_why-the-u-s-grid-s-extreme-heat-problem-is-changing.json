@@ -1,0 +1,83 @@
+{
+  "title": "Why the U.S. grid's extreme heat problem is changing",
+  "url": "https://www.axios.com/2026/08/19/extreme-heat-electric-grid-utilities-demand",
+  "pub_date": "2026-08-19",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Why the U.S. grid's extreme heat problem is changing (2026-08-19)",
+  "body": "Solar energy and batteries are making it easier for utilities to meet surging electricity demand during extreme heat , but prolonged high temperatures are exposing other vulnerabilities in the grid. Why it matters: Electricity demand rises as air conditioners work harder in extreme heat, while high temperatures can make parts of the system less efficient and put additional stress on equipment. The big picture: Climate change is extending periods of extreme heat just as electrification and data centers add new loads, leaving parts of the grid working harder for longer. Between the lines: Michael Webber, a mechanical engineering professor at the University of Texas at Austin, tells Axios that grid operators face a \"triple whammy\" under extreme heat, as air conditioners, transmission lines and power plants all become less efficient. \"At the times we need the grid the most is when every single component in the grid is less efficient ... but also more fragile, and then we run it more,\" says Webber, who's also CTO of Energy Impact Partners, a clean-tech venture capital firm. A 2018 study Webber co-authored found that power plants, air conditioners and transmission systems tend to operate more efficiently at cooler temperatures. Zoom in: It's not just hotter days that matter. Webber says hot nights can prevent equipment from getting a chance to cool down. In Texas, \"it's not so much that it's 105°F during the day; it's that it only cools to 78°F at night,\" he says. \"The equipment never gets a break.\" Rob Gramlich, president of Grid Strategies, a consulting firm focused on electric transmission, says that problem is particularly acute for local distribution systems — including transformers — which need time to cool overnight. Utilities may need more redundancy in local distribution networks, as well as backup transformers that can be deployed when equipment fails, Gramlich says. \"They're going to have to build in more procurement and storage, which costs money,\" he adds. What we're watching: Longer hot seasons could also squeeze the spring and fall windows when power plants traditionally go offline for maintenance. A 2024 study Webber co-authored found the period of mild spring weather associated with lower electricity demand in Texas shifted earlier by 2.4 days per decade from 1959–2022, while the corresponding fall period shifted later by 1.1 days per decade. The researchers project those windows will converge around December and January by the mid-2040s — when an extreme cold event like Texas' deadly 2021 storm makes taking generation offline especially risky. Zoom out: California shows how rapidly the summer reliability equation can change as solar and storage proliferate. The state experienced rolling blackouts during summer heat in 2020, but it has since added solar and storage and is now \"basically in a good situation\" despite demand growth, Gramlich says. Through July, clean energy met or exceeded demand on the state's main grid for an average 6.8 hours per day, up from 0.4 hours in 2022, according to the California Energy Commission. Yes, but: Extended winter cold can pose a greater resource-adequacy challenge than summer heat, Gramlich says. Electric heating can drive up demand on cold mornings when solar output is low and batteries may have fewer opportunities to recharge. The bottom line: As solar and storage make summer peaks easier to manage, prolonged heat is exposing a different challenge: keeping the grid itself running efficiently and reliably for longer stretches. Go deeper: The grid's climate stress test",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Electricity demand rises as air conditioners work harder in extreme heat, while",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Electricity demand rises as air conditioners work harder in extreme heat, while high temperatures can make parts of the system less efficient and put additional stress on equipment. The big picture: Climate change is extending periods of ex",
+      "source": "Axios — Why the U.S. grid's extreme heat problem is changing (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: California shows how rapidly the summer reliability equation can change as solar",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: California shows how rapidly the summer reliability equation can change as solar and storage proliferate. The state experienced rolling blackouts during summer heat in 2020, but it has since added solar and storage and is now \"basically in ",
+      "source": "Axios — Why the U.S. grid's extreme heat problem is changing (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: It's not just hotter days that matter. Webber says hot nights can prevent equipm",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: It's not just hotter days that matter. Webber says hot nights can prevent equipment from getting a chance to cool down. In Texas, \"it's not so much that it's 105°F during the day; it's that it only cools to 78°F at night,\" he says. \"The equ",
+      "source": "Axios — Why the U.S. grid's extreme heat problem is changing (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Michael Webber, a mechanical engineering professor at the University of Texas at",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Michael Webber, a mechanical engineering professor at the University of Texas at Austin, tells Axios that grid operators face a \"triple whammy\" under extreme heat, as air conditioners, transmission lines and power plants all become less eff",
+      "source": "Axios — Why the U.S. grid's extreme heat problem is changing (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: As solar and storage make summer peaks easier to manage, prolonged heat is expos",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: As solar and storage make summer peaks easier to manage, prolonged heat is exposing a different challenge: keeping the grid itself running efficiently and reliably for longer stretches.",
+      "source": "Axios — Why the U.S. grid's extreme heat problem is changing (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: The grid's climate stress test",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: The grid's climate stress test",
+      "source": "Axios — Why the U.S. grid's extreme heat problem is changing (2026-08-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-20T08:22:12+00:00"
+}
