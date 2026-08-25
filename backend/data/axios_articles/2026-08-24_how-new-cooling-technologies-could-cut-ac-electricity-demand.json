@@ -1,0 +1,72 @@
+{
+  "title": "How new cooling technologies could cut AC electricity demand",
+  "url": "https://www.axios.com/2026/08/24/cooling-buildings-electricity-demand",
+  "pub_date": "2026-08-24",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — How new cooling technologies could cut AC electricity demand (2026-08-24)",
+  "body": "America's answer to hotter summers has overwhelmingly been more air conditioning, and engineers are now looking for ways to keep people cool without driving up electricity demand. Why it matters: The need for cooling is surging. The issue isn't just how to generate more electricity — it's how to use less of it and ease demand when grids are most strained. Between the lines: A July study finds that keeping buildings cool without relying solely on AC will be critical for adapting to climate change. AC is already nearly ubiquitous in the U.S., but that doesn't mean its electricity consumption has peaked. \"The market is saturated, but the use of air conditioning or the energy consumption for air conditioning will increase because of the overheating,\" Mat Santamouris, a University of New South Wales professor and the study's lead author, tells Axios. Higher temperatures mean Americans will run AC more, while cooling is becoming increasingly necessary in northern parts of the country that historically needed less of it. Threat level: More AC means more electricity demand at the very moments the grid is under the most pressure. AC can account for roughly half of total peak electricity demand on the hottest days in Texas, according to an International Energy Agency analysis . Ankit Kalanki, lead cooling expert at clean-energy nonprofit RMI, tells Axios that \"saving 1 kilowatt-hour of energy at midnight is not the same as reducing 1 kilowatt of peak demand at 6 p.m. when everyone is coming back from the office and turning on the air conditioner.\" The big picture: Meeting America's growing need for cooling doesn't have to mean supplying all of it with more electricity. \"We really have to avoid the solar radiation [entering] the building,\" Santamouris says. Letting that heat in and then spending electricity to remove it, he adds, \"is not so intelligent.\" State of play: The options largely fall into three categories: Keep heat out, cool more efficiently and ease demand on the grid. That includes smart windows and shading to block heat, reflective roof coatings, built-in energy storage to ease peak demand, and automation and ventilation to cut down on AC use. In Colorado , RMI and Boulder County are testing passive daytime radiative cooling paint on roofs. Kalanki calls it \"a more advanced version\" of white paint: It reflects sunlight while also radiating heat into the sky. Blue Frontier's air conditioners use a liquid desiccant to remove moisture from the air and built-in energy storage to reduce power use during peak-demand hours. Yes, but: There's no single cooling equivalent of double-pane windows. The right mix of cooling technologies depends on climate, building type and location, Santamouris says. Case in point: A 2024 study co-authored by Santamouris modeled heat-mitigation strategies in Riyadh, Saudi Arabia, and found that combining cool materials and greenery could reduce peak ambient temperatures by up to 4.5°C. Reality check: None of these technologies eliminates the need for AC, which can save lives during extreme heat. The goal is to reduce how frequently and intensely it operates. The bottom line: \"Efficiency is the cheapest resource that we have available,\" Kalanki says, because reducing demand can avoid the need for new generation, transmission and distribution infrastructure. Go deeper: The U.S. just had its hottest month on record",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The need for cooling is surging. The issue isn't just how to generate more elect",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The need for cooling is surging. The issue isn't just how to generate more electricity — it's how to use less of it and ease demand when grids are most strained.",
+      "source": "Axios — How new cooling technologies could cut AC electricity demand (2026-08-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: A July study finds that keeping buildings cool without relying solely on AC will",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: A July study finds that keeping buildings cool without relying solely on AC will be critical for adapting to climate change. AC is already nearly ubiquitous in the U.S., but that doesn't mean its electricity consumption has peaked. \"The mar",
+      "source": "Axios — How new cooling technologies could cut AC electricity demand (2026-08-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"Efficiency is the cheapest resource that we have available,\" Kalanki says, beca",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"Efficiency is the cheapest resource that we have available,\" Kalanki says, because reducing demand can avoid the need for new generation, transmission and distribution infrastructure.",
+      "source": "Axios — How new cooling technologies could cut AC electricity demand (2026-08-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: The U.S. just had its hottest month on record",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: The U.S. just had its hottest month on record",
+      "source": "Axios — How new cooling technologies could cut AC electricity demand (2026-08-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: None of these technologies eliminates the need for AC, which can save lives duri",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: None of these technologies eliminates the need for AC, which can save lives during extreme heat. The goal is to reduce how frequently and intensely it operates.",
+      "source": "Axios — How new cooling technologies could cut AC electricity demand (2026-08-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-25T08:26:56+00:00"
+}
