@@ -1,0 +1,72 @@
+{
+  "title": "Big Tech's AI spending is bigger than you think",
+  "url": "https://www.axios.com/2026/08/27/ai-spending-spending-balance-sheet",
+  "pub_date": "2026-08-27",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Big Tech's AI spending is bigger than you think (2026-08-27)",
+  "body": "To paraphrase Justin Timberlake in his iconic turn in the 2010 film \"The Social Network,\" a trillion dollars isn't cool. You know what is? $3 trillion. The big picture: That's roughly how much money seven Big Tech companies, including Google, Microsoft and Nvidia, have committed to spending on AI-related infrastructure in off-balance-sheet commitments, according to a new analysis from Morgan Stanley. And that's on top of the estimated $770 billion in debt and lease obligations that are on the balance sheets. Why it matters: The analysis finds that the total amount of spending on AI is much bigger than the already-mind-blowing headlines suggest, and — more of a red flag — it's more leveraged than is perhaps appreciated. How it works: Off-balance-sheet commitments are essentially financial obligations that don't show up in a company's official tally of what it owns and owes — it's not an official debt but an obligation to pay someone something in the future. For example, your household balance sheet would include your assets on one side — house, car, savings — and your debts on the other, mortgage, car loan, credit card. But it wouldn't include the lease you signed to rent a vacation house for the next five summers (you're living well, congrats). When the bank evaluates your creditworthiness for a loan, that Cape Cod promise to pay in the future doesn't count the same as your mortgage. Zoom in: Morgan Stanley looked at filings from the hyperscalers Google, Meta, Microsoft, Oracle and Amazon, as well as the chipmakers Nvidia and Broadcom and broke down their off-balance-sheet commitments. The hyperscalers have committed to $1.1 trillion in payments for data center leases that haven't yet begun. All seven companies have also agreed to buy $1.7 trillion of other stuff — purchase commitments for chips, memory and networking gear. These purchase agreements have ramped up this year — Google's commitments totaled $707 billion in the most recent quarter — from $72.5 billion in all of 2025, per the research. Morgan Stanley Research Follow the money: This is future revenue for memory chipmakers like Micron Technology and helps explain the phenomenal growth in that business. The intrigue: These commitments are a jumping-off point for suppliers and data center developers who take that guarantee of future payments and use it to borrow more. Here's how the researchers explain it: \" Suppliers and data center developers can borrow against long-dated leases, guarantees, or purchase commitments from investment grade hyperscalers, allowing capacity to be built before the hyperscalers make any payments or recognize liabilities.\" Between the lines: What this essentially means is that Big Tech companies with decent credit ratings are leveraging that status to generate an absolute ton of lending that can be difficult to track. Yes, but: Each of these companies is doing slightly different kinds of spending with different levels of risk. And it's not totally clear over what time period that $3 trillion gets spent — or if it gets spent. These are commitments, often contracts, but they could theoretically be renegotiated. What to watch: At some point these obligations will start showing up on official balance sheets. By that time, will these investments be paying off? Timing is the question on investors' minds, says Todd Castagno, head of global valuation, accounting and tax at Morgan Stanley who coauthored the analysis. This is, after all, a new market. \"It's like we are developing a car market without ever having seen the capabilities of car before, and everyone's gonna get a car — and how do we finance it, and how do we know what that car is worth in five years?\" The bottom line: Even in a moment where it seems like big numbers have lost their meaning, a handful of tech companies are driving an eye-watering amount of spending and borrowing that is changing the fabric of the economy and markets. And it's still unclear if all that spending will pay off.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The analysis finds that the total amount of spending on AI is much bigger than t",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The analysis finds that the total amount of spending on AI is much bigger than the already-mind-blowing headlines suggest, and — more of a red flag — it's more leveraged than is perhaps appreciated. How it works: Off-balance-sheet commitmen",
+      "source": "Axios — Big Tech's AI spending is bigger than you think (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Morgan Stanley looked at filings from the hyperscalers Google, Meta, Microsoft,",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Morgan Stanley looked at filings from the hyperscalers Google, Meta, Microsoft, Oracle and Amazon, as well as the chipmakers Nvidia and Broadcom and broke down their off-balance-sheet commitments. The hyperscalers have committed to $1.1 tri",
+      "source": "Axios — Big Tech's AI spending is bigger than you think (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: These commitments are a jumping-off point for suppliers and data center develope",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: These commitments are a jumping-off point for suppliers and data center developers who take that guarantee of future payments and use it to borrow more. Here's how the researchers explain it: \" Suppliers and data center developers can borro",
+      "source": "Axios — Big Tech's AI spending is bigger than you think (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: What this essentially means is that Big Tech companies with decent credit rating",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: What this essentially means is that Big Tech companies with decent credit ratings are leveraging that status to generate an absolute ton of lending that can be difficult to track. Yes, but: Each of these companies is doing slightly differen",
+      "source": "Axios — Big Tech's AI spending is bigger than you think (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Even in a moment where it seems like big numbers have lost their meaning, a hand",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Even in a moment where it seems like big numbers have lost their meaning, a handful of tech companies are driving an eye-watering amount of spending and borrowing that is changing the fabric of the economy and markets. And it's still unclea",
+      "source": "Axios — Big Tech's AI spending is bigger than you think (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-27T18:27:21+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Tech giants warn time is running out to prepare for AI threats",
+  "url": "https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning",
+  "pub_date": "2026-08-27",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Tech giants warn time is running out to prepare for AI threats (2026-08-27)",
+  "body": "OpenAI, Anthropic, Amazon Web Services, Microsoft and more than 100 other companies warned Thursday that the organizations now only have months to prepare for AI-enabled cyberattacks. Why it matters : Hospitals, water treatment plants and other critical infrastructure will face a swarm of hacking threats as AI makes sophisticated cyber capabilities cheaper and more accessible to attackers, the group write in an open letter . Driving the news : \"We have a limited window to strengthen cyber defenses,\" the letter says. The group is calling for \"collective action\" and urges organizations to use their shrinking window to secure critical infrastructure and make it more expensive and difficult for hackers using AI tools to break in. Signatories include a range of cloud providers, cybersecurity companies, AI companies, telecoms and financial services companies and think tanks. Zoom in: The organizations lay out a plan for how all companies and governments, as well as cybersecurity and AI companies, need to adapt to prepare for the changing threat landscape. Every organization needs to raise its internal security standards and fix its \"highest-risk weaknesses.\" They also should \"raise the security bar for what you buy, build, and deploy, including AI-generated code. \" Cybersecurity and technology companies must quickly test and build out tools that make \"AI-powered defense accessible and deployable for critical infrastructure operators.\" They also must share threat intelligence with one another, per the letter. Governments need to strengthen channels for sharing actionable threat intelligence, coordinate defense at the local, national and international levels, and fund cyber defense. Frontier AI companies should give defenders access to their most capable response models during major cyber incidents, along with \"significant funding, training, and hands-on support,\" especially for critical infrastructure providers. The big picture : The open letter comes amid a wave of cyberattacks against critical infrastructure, including one targeting U.S. water systems with an apparent AI-generated exploitation script . Critical infrastructure like water systems and power plants have long had vulnerabilities in the tools that power machinery, but hackers used to need to invest a large amount of time to understand the intricacies of those systems. AI models are now drastically lowering how much time and energy hackers need to put into those preparations, experts previously told Axios. Yes, but : The signatories didn't make any commitments, deadlines or specific investments as part of the letter. Go deeper: Frightening AI advances speed race to secure critical infrastructure",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The organizations lay out a plan for how all companies and governments, as well",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The organizations lay out a plan for how all companies and governments, as well as cybersecurity and AI companies, need to adapt to prepare for the changing threat landscape. Every organization needs to raise its internal security standards",
+      "source": "Axios — Tech giants warn time is running out to prepare for AI threats (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Frightening AI advances speed race to secure critical infrastructure",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Frightening AI advances speed race to secure critical infrastructure",
+      "source": "Axios — Tech giants warn time is running out to prepare for AI threats (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-27T18:27:21+00:00"
+}

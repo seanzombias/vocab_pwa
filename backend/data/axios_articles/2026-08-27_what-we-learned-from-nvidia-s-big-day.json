@@ -1,0 +1,59 @@
+{
+  "title": "What we learned from Nvidia's big day",
+  "url": "https://www.axios.com/2026/08/27/nvidia-ai-earnings-stock",
+  "pub_date": "2026-08-27",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — What we learned from Nvidia's big day (2026-08-27)",
+  "body": "Data: Source: S&P Capital IQ Pro, company releases; Note: Nvidia's fiscal year runs ahead of the calendar. The quarter ended July 2026 is its Q2 fiscal 2027.; Chart: Emily Peck/Axios AI behemoth Nvidia reported blowout earnings Wednesday — exceeding Wall Street's expectations — and even jaded investors who had grown a bit immune to the company's stratospheric growth over the past year seemed to like it. Why it matters: The chipmaker's earnings are viewed as a barometer of the overall health of the AI trade. Every three months when it reports its financials, Wall Street combs through the numbers for signs the whole shebang is slowing down. By the numbers: The numbers are bonkers. Nvidia's revenue was $96.2 billion in the second quarter — up more than double the same period a year ago. The latest: After chief financial officer Colette Kress told investors that the company expects revenue will jump another 70% next fiscal year — the expectation was 45% — the stock shot up in after-hours trading and is up more than 7% on Thursday morning. It didn't hurt that Kress also announced that Amazon would be buying an additional 2 million chips. Zoom in: Here are a few other takeaways that stood out: Supply chain problems. Nvidia is just like everyone else, squeezed by the surging demand for memory chips. The company said that price increases in the space are exceeding its expectations and shrinking its margins slightly for the year to come. This is a good problem to have, Kress said. Memory scarcity is being driven by the AI buildout — it's good for business. \"Unlike a component that simply raises our cost with no offset benefit, tighter memory supply is a symptom of the same demand surge that's driving our own growth.\" Buyback flex. If you want to understand how the mammoth chipmaker stands apart from the other companies in this space — the hyperscalers, frontier models and so forth — look no further than stock buybacks. Big Tech companies for years have led stock buybacks — but in the AI buildout, that has largely stopped or slowed. Alphabet repurchased zero shares in its most recent quarter. Nvidia is buying back $19 billion — more than last year. The breadth of the boom. It's more than just the tech giants. \"Most people see just hyperscalers,\" Nvidia chief executive Jensen Huang told investors. \"That's half the picture.\" The CEO said the other half driving AI demand is \"sovereign AI,\" or when countries build their own AI infrastructure, as well as the enterprise market, or all the other firms using AI. \"Everybody wants to be part of the AI revolution,\" Huang said. \"Everybody has to build infrastructure.\" Yes, but: There's little doubt that Nvidia has a huge business on its hands. But there are worries that it sits at the heart of an ecosystem that has yet to prove its value. The company is frequently accused of \"circular financing,\" or lending money, or backing funding, for customers who then push that money back to buy Nvidia tech. Executives were on the defensive about that Wednesday. Huang also took care to defend the company's $50 billion investment in the frontier AI labs. \"Investing in these companies is a once-in-a-generation opportunity,\" he said, noting that two of these companies \"will likely go public soon,\" probably referring to OpenAI and Anthropic. The bottom line: Nvidia is making real money, and investors seem to grudgingly have to hand it to them. What to watch: The stock today. Nvidia's stock price has fallen the day after five of its last six earnings reports, as Bloomberg points out .",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The chipmaker's earnings are viewed as a barometer of the overall health of the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The chipmaker's earnings are viewed as a barometer of the overall health of the AI trade. Every three months when it reports its financials, Wall Street combs through the numbers for signs the whole shebang is slowing down. By the numbers: ",
+      "source": "Axios — What we learned from Nvidia's big day (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Here are a few other takeaways that stood out: Supply chain problems. Nvidia is",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Here are a few other takeaways that stood out: Supply chain problems. Nvidia is just like everyone else, squeezed by the surging demand for memory chips. The company said that price increases in the space are exceeding its expectations and ",
+      "source": "Axios — What we learned from Nvidia's big day (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Nvidia is making real money, and investors seem to grudgingly have to hand it to",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Nvidia is making real money, and investors seem to grudgingly have to hand it to them. What to watch: The stock today. Nvidia's stock price has fallen the day after five of its last six earnings reports, as Bloomberg points out .",
+      "source": "Axios — What we learned from Nvidia's big day (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-27T18:27:21+00:00"
+}
