@@ -1,0 +1,98 @@
+{
+  "title": "Nvidia almighty: Chip riches flood through AI universe",
+  "url": "https://www.axios.com/2026/08/28/nvidia-ai-chip-circular-finance-startups",
+  "pub_date": "2026-08-28",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Nvidia almighty: Chip riches flood through AI universe (2026-08-28)",
+  "body": "Data: S&P Capital IQ Pro; Chart: Erin Davis/Axios Visuals Nvidia made billions selling AI's essential ingredient: chips. Now it's plowing those riches straight back into the AI ecosystem, betting on a buildout that craves ever more compute. Why it matters: Nvidia has become the AI industry's supplier, banker and kingmaker, feeding a self-reinforcing cycle in which chip profits finance the next wave of chip demand. State of play: Already the world's most valuable company, Nvidia is now worth more than five of the 11 sectors that make up the S&P 500. The chipmaker reported nearly $60 billion in quarterly profit Wednesday, prompting The Kobeissi Letter to call the results \"the most impressive earnings in history.\" Nvidia believes its reign is far from over, telling investors to expect roughly 70% revenue growth even from today's extraordinary heights. Zoom out: Nvidia's vast chip windfall has enabled the company to take on a new role as financial patron of the entire AI industry. Nvidia is involved in more than $750 billion worth of AI investments, financing deals and partnerships, according to PitchBook — a staggering footprint for a company whose core business is still selling chips. That figure does not include this week's reported $13 billion acquisition of Hugging Face , which would give Nvidia control over one of the industry's most important model-distribution hubs. CEO Jensen Huang has enlisted Wall Street to mobilize more than $500 billion for AI infrastructure, channeling outside capital toward the data-center buildout that drives more than 90% of Nvidia's quarterly revenue . Between the lines: The strategy creates a powerful flywheel: The more money Nvidia helps pour into AI, the more compute the industry builds — and the more chips it needs. What they're saying: Huang argues Nvidia's expanding reach reflects a position no other company can match, calling its role in the AI market \"singular.\" \"We're the only company in the world that ... offers an entire AI factory platform,\" Huang said on Wednesday's earnings call. \"Most companies just don't have the skills to do that.\" Reality check: Critics say Nvidia's flywheel looks uncomfortably circular. The company is helping finance customers and infrastructure projects that then spend heavily on its own hardware, raising questions about how much demand is being supported by Nvidia's own balance sheet. Huang has dismissed those concerns, telling CNBC Wednesday that Nvidia's investments will generate \"tremendous returns\" and that \"the risk is low.\" Threat level: The cozy relationship between Nvidia and its biggest customers is becoming increasingly competitive. OpenAI, Google, Amazon, Microsoft and others are developing their own custom chips designed to reduce their dependence on Nvidia. OpenAI claims its new Jalapeno chip outperforms Nvidia hardware on some workloads. Nvidia, meanwhile, is spending billions developing its own open-source AI models, aiming to become the American champion in a field increasingly dominated by Chinese models. The bottom line: The result is an unusually tangled ecosystem in which Nvidia is simultaneously supplier, investor, partner — and increasingly competitor — to AI's biggest players.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Nvidia has become the AI industry's supplier, banker and kingmaker, feeding a se",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Nvidia has become the AI industry's supplier, banker and kingmaker, feeding a self-reinforcing cycle in which chip profits finance the next wave of chip demand. State of play: Already the world's most valuable company, Nvidia is now worth m",
+      "source": "Axios — Nvidia almighty: Chip riches flood through AI universe (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Nvidia's vast chip windfall has enabled the company to take on a new role as fin",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Nvidia's vast chip windfall has enabled the company to take on a new role as financial patron of the entire AI industry. Nvidia is involved in more than $750 billion worth of AI investments, financing deals and partnerships, according to Pi",
+      "source": "Axios — Nvidia almighty: Chip riches flood through AI universe (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The strategy creates a powerful flywheel: The more money Nvidia helps pour into",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The strategy creates a powerful flywheel: The more money Nvidia helps pour into AI, the more compute the industry builds — and the more chips it needs.",
+      "source": "Axios — Nvidia almighty: Chip riches flood through AI universe (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Huang argues Nvidia's expanding reach reflects a position no other company can m",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Huang argues Nvidia's expanding reach reflects a position no other company can match, calling its role in the AI market \"singular.\" \"We're the only company in the world that ... offers an entire AI factory platform,\" Huang said on Wednesday",
+      "source": "Axios — Nvidia almighty: Chip riches flood through AI universe (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The result is an unusually tangled ecosystem in which Nvidia is simultaneously s",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The result is an unusually tangled ecosystem in which Nvidia is simultaneously supplier, investor, partner — and increasingly competitor — to AI's biggest players.",
+      "source": "Axios — Nvidia almighty: Chip riches flood through AI universe (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Critics say Nvidia's flywheel looks uncomfortably circular. The company is helpi",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Critics say Nvidia's flywheel looks uncomfortably circular. The company is helping finance customers and infrastructure projects that then spend heavily on its own hardware, raising questions about how much demand is being supported by Nvid",
+      "source": "Axios — Nvidia almighty: Chip riches flood through AI universe (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-28T19:41:29+00:00"
+}

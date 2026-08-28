@@ -1,0 +1,72 @@
+{
+  "title": "Judge blocks Pentagon's Anthropic blacklist",
+  "url": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+  "pub_date": "2026-08-28",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Judge blocks Pentagon's Anthropic blacklist (2026-08-28)",
+  "body": "A federal judge on Thursday struck down the Pentagon's blacklisting of Anthropic as a supply-chain risk , ruling that the government's actions violated Anthropic's constitutional rights. Why it matters: The ruling marks a major legal victory for Anthropic in its months-long fight with the Trump administration over how the military can use its AI models. Driving the news: U.S. District Judge Rita Lin ruled that the Pentagon's designation of Anthropic as a supply-chain risk was unlawful. \"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Lin wrote in her 59-page decision. \"Though the Department of War is undisputedly free to select the AI vendor of its choice, the evidence demonstrates that the broad measures imposed on Anthropic were illegal and baseless.\" Lin noted that the Pentagon continued pursuing work with Anthropic even after the designation: \"None of that is consistent with a genuine fear that Anthropic is a saboteur who would poison its software to harm national security.\" What they're saying: \"We welcome the court's ruling that this supply chain risk designation was unlawful,\" an Anthropic spokesperson said in a statement. \"We remain focused on working productively with the government to harness AI for our national security so all Americans benefit from this technology.\" Catch up quick: The dispute kicked off earlier this year after Anthropic and the Pentagon clashed over the military's use of the company's AI models. The Defense Department sought to use Claude for \"all lawful purposes,\" even in the most sensitive military and intelligence applications. Anthropic insisted that two areas remain off-limits: mass surveillance of Americans and fully autonomous weapons. The standoff escalated, with the Pentagon designating Anthropic a national security and supply-chain risk, leading the AI company to sue. What's next: The government is expected to appeal the ruling. Anthropic is also fighting a separate Pentagon designation under a different statute in the D.C. Circuit.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The ruling marks a major legal victory for Anthropic in its months-long fight wi",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The ruling marks a major legal victory for Anthropic in its months-long fight with the Trump administration over how the military can use its AI models.",
+      "source": "Axios — Judge blocks Pentagon's Anthropic blacklist (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: U.S. District Judge Rita Lin ruled that the Pentagon's designation of Anthropic",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: U.S. District Judge Rita Lin ruled that the Pentagon's designation of Anthropic as a supply-chain risk was unlawful. \"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Lin wr",
+      "source": "Axios — Judge blocks Pentagon's Anthropic blacklist (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The dispute kicked off earlier this year after Anthropic and the Pentagon clashe",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The dispute kicked off earlier this year after Anthropic and the Pentagon clashed over the military's use of the company's AI models. The Defense Department sought to use Claude for \"all lawful purposes,\" even in the most sensitive military",
+      "source": "Axios — Judge blocks Pentagon's Anthropic blacklist (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"We welcome the court's ruling that this supply chain risk designation was unlaw",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"We welcome the court's ruling that this supply chain risk designation was unlawful,\" an Anthropic spokesperson said in a statement. \"We remain focused on working productively with the government to harness AI for our national security so a",
+      "source": "Axios — Judge blocks Pentagon's Anthropic blacklist (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-28T19:41:29+00:00"
+}

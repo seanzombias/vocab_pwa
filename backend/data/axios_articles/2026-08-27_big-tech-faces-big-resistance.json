@@ -1,0 +1,72 @@
+{
+  "title": "Big Tech faces Big Resistance",
+  "url": "https://www.axios.com/2026/08/27/meta-settlement-big-tech-ai-backlash-data-centers",
+  "pub_date": "2026-08-27",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Big Tech faces Big Resistance (2026-08-27)",
+  "body": "Meta's landmark social media settlement marks the latest milestone in a decade-long unwinding of Big Tech's once-unfettered freedom to operate. Why it matters: The AI industry is watching closely . Its historic expansion, already fraught with job risks and public anxiety, depends on building thousands of power-hungry data centers in communities where opposition is rising fast. State of play: \"The last time we've seen the public this angry about an industry was during the financial crisis,\" Nidhi Hegde, executive director of the American Economic Liberties Project, told Axios. Meta's $17 billion settlement requires sweeping changes to how teens can use Instagram and Facebook, including daily time limits and restrictions on certain beauty filters. The social media company is now calling on its competitors, YouTube and TikTok, to adopt similar protections — arguing there won't be \"meaningful progress\" on teen safety without them. Between the lines: The pressure extends well beyond Meta, as public frustration with the tech industry increasingly produces court orders, cash penalties and constraints on how companies operate. Amazon agreed last year to pay $2.5 billion to settle a Federal Trade Commission consumer-protection case over Prime subscriptions. Apple and Google have both been forced to loosen their grip on app-store payments and distribution after years of litigation. TikTok agreed just last week to pay $400 million to settle federal allegations that it violated children's privacy laws. Threat level: AI may be especially exposed because its growth depends on something the social media boom didn't: a massive physical buildout in communities that can fight back. Opposition to new data centers has jumped sharply: 61% of Americans now oppose one being built in their area, up 12 percentage points in just four months, according to an Annenberg Public Policy Center survey. At least 75 data center projects worth roughly $130 billion were blocked or delayed in the first three months of this year amid local opposition, according to Data Center Watch . Up to half of proposed U.S. data centers could face delays or cancellations as the political backlash grows, investment firm Kimmeridge Energy Management told Bloomberg . The intrigue: Major Wall Street banks are beginning to flag data center resistance as a financial risk, with delays threatening the enormous compute buildout AI companies are counting on. Reality check: Big Tech still has enormous financial and political muscle. Meta's settlement is a fraction of the staggering penalties once contemplated, with early estimates suggesting the company could face more than $1 trillion in exposure. And despite the backlash, more than 1,500 data centers are already under construction in the U.S. — roughly half the number currently operating. The bottom line: \"Meta's settlement is a warning for the AI industry,\" Common Sense Media CEO James P. Steyer tells Axios. Big Tech remains immensely powerful, but its era of operational immunity is ending.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The AI industry is watching closely . Its historic expansion, already fraught wi",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The AI industry is watching closely . Its historic expansion, already fraught with job risks and public anxiety, depends on building thousands of power-hungry data centers in communities where opposition is rising fast. State of play: \"The ",
+      "source": "Axios — Big Tech faces Big Resistance (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Major Wall Street banks are beginning to flag data center resistance as a financ",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Major Wall Street banks are beginning to flag data center resistance as a financial risk, with delays threatening the enormous compute buildout AI companies are counting on.",
+      "source": "Axios — Big Tech faces Big Resistance (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The pressure extends well beyond Meta, as public frustration with the tech indus",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The pressure extends well beyond Meta, as public frustration with the tech industry increasingly produces court orders, cash penalties and constraints on how companies operate. Amazon agreed last year to pay $2.5 billion to settle a Federal",
+      "source": "Axios — Big Tech faces Big Resistance (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"Meta's settlement is a warning for the AI industry,\" Common Sense Media CEO Jam",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"Meta's settlement is a warning for the AI industry,\" Common Sense Media CEO James P. Steyer tells Axios. Big Tech remains immensely powerful, but its era of operational immunity is ending.",
+      "source": "Axios — Big Tech faces Big Resistance (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Big Tech still has enormous financial and political muscle. Meta's settlement is",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Big Tech still has enormous financial and political muscle. Meta's settlement is a fraction of the staggering penalties once contemplated, with early estimates suggesting the company could face more than $1 trillion in exposure. And despite",
+      "source": "Axios — Big Tech faces Big Resistance (2026-08-27)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-28T19:41:29+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "The case for the U.S. dollar's digital edge",
+  "url": "https://www.axios.com/2026/08/28/us-dollar-stablecoins-usdc",
+  "pub_date": "2026-08-28",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The case for the U.S. dollar's digital edge (2026-08-28)",
+  "body": "New financial technologies are making it faster and cheaper to move money across borders, seemingly reducing the world's reliance on the dollar . But new research presented at the Jackson Hole symposium suggests financial innovation may instead tighten the dollar's grip on global finance. Financial innovation is the theme for the annual gathering of central bankers, where they're grappling with how these technologies reshape the financial system. Why it matters: Dollar dominance gives the U.S. enormous financial clout and helps keep demand for its debt strong. If the paper is right, stablecoins and other forms of tokenized money could strengthen that position, even as concerns grow about America's fiscal health. What they're saying: The authors argue that making currencies easier to access and transact in could steer more financial activity toward those that already dominate global finance. \"Rather than dissipating network effects by leveling the playing field ... digitalization could intensify them,\" wrote Gordon Liao, Eswar Prasad and Tony Zhang, economists at Circle, Cornell University and Arizona State University, respectively. Circle issues USDC, one of the world's largest dollar-backed stablecoins. Zoom in: The authors use stablecoins — digital tokens backed by traditional assets — to model how new financial technologies could reinforce the dollar's dominance. They find that more companies would choose to borrow in dollars, creating more demand for dollar assets and making dollar markets deeper and more attractive to other borrowers. \"Issuance begets issuance,\" Liao, Prasad and Zhang wrote. By the numbers: The dollar remains firmly dominant in global finance, even as rising U.S. debt and geopolitical tensions test the foundations of its dominance. The paper says the dollar is on one side of roughly 90% of foreign-exchange transactions. It notes the euro, yen and pound have lost ground, while the Chinese renminbi has gained at their expense. The other side: The authors warn that a more dollar-reliant world, propelled by new technologies, comes with its own risks. It \"comes at the cost of greater exposure of other countries to spillovers from U.S. policies,\" they noted. Greater demand for tokenized Treasuries could also concentrate risk in that market, particularly if it leads to \"less fiscal discipline\" in Washington.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Dollar dominance gives the U.S. enormous financial clout and helps keep demand f",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Dollar dominance gives the U.S. enormous financial clout and helps keep demand for its debt strong. If the paper is right, stablecoins and other forms of tokenized money could strengthen that position, even as concerns grow about America's ",
+      "source": "Axios — The case for the U.S. dollar's digital edge (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The authors use stablecoins — digital tokens backed by traditional assets — to m",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The authors use stablecoins — digital tokens backed by traditional assets — to model how new financial technologies could reinforce the dollar's dominance. They find that more companies would choose to borrow in dollars, creating more deman",
+      "source": "Axios — The case for the U.S. dollar's digital edge (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: The authors argue that making currencies easier to access and transact in could",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: The authors argue that making currencies easier to access and transact in could steer more financial activity toward those that already dominate global finance. \"Rather than dissipating network effects by leveling the playing field ... digi",
+      "source": "Axios — The case for the U.S. dollar's digital edge (2026-08-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-28T19:41:29+00:00"
+}
