@@ -1,0 +1,111 @@
+{
+  "title": "Exclusive: Waymo says there's no AI shortcut to self-driving",
+  "url": "https://www.axios.com/2026/08/26/waymo-ai-shortcut-self-driving",
+  "pub_date": "2026-08-26",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+  "body": "Breakthroughs in AI are fueling hopes that more data and smarter models can provide a shortcut to self-driving vehicles. Waymo, after more than 15 years and 200 million driverless miles, says there is none. Why it matters: The answer could determine whether the AV race is a long, expensive slog that rewards Waymo's head start — or a new track that lets newer rivals hit the road faster. Driving the news: Srikanth Thirumalai, Waymo's vice president of onboard software, said in an exclusive interview with Axios that it takes more than just better AI to safely deploy AVs at scale. Waymo's goal from the start, he said, has been \"demonstrably safe AI.\" But a growing reliance from competitors on single \"end-to-end\" AI systems introduces risks. \"Even the best AI models with trillions of parameters still hallucinate... We don't have a choice to say, 'Let's hit refresh' ... There is no click reboot or reload or refresh [in] physical AI. You have to deal with the consequences of it.\" In a blog post published Wednesday, Thirumalai goes deeper on 10 AI lessons Waymo has gleaned from its first 200 million autonomous miles. Catch up quick: Waymo got its start as Google's self-driving car project in 2009, well before the modern deep-learning revolution. In the early days, it relied on many specialized models — one for pedestrian detection, another to tell when a light turns green, for example. Gradually it shifted toward fewer, larger foundation models, \"riding the AI wave,\" Thirumalai said. Now companies like Tesla, Wayve and Waabi are going even further, developing AV 2.0 systems they say are capable of humanlike reasoning — \"end-to-end\" neural networks that process raw sensor data and directly output steering commands. Waymo says it has tried the same tools but concluded that there aren't enough safety guardrails. \"What we found is that just pure end-to-end systems are not able to meet our safety bar at the scale that we operate,\" Thirumalai told Axios. Reality check: Thirumalai said Waymo published the blog post to counter a narrative that AI can provide a shortcut to safe self-driving, with public trust in the AV industry on the line. At the same time, it's a flex. The safety standards Waymo wants the industry to embrace — not to mention regulators and rulemakers — also play to its biggest competitive advantage: a big head start built on years of testing and real-world driving data. While it didn't name specific competitors, it laid out reasons why newer approaches to building AV systems could carry risks — effectively raising the bar those companies would have to clear. Zoom in: Waymo weighed in on one of the industry's biggest debates — whether cameras alone can solve full autonomy. When training its models, Waymo found that visibility was far better when cameras, lidar and radar worked together rather than when one or more sensors were eliminated. \"The AI can only make sense of what it sees, and if you just can't see it, the AI can't do much,\" Thirumalai said. Between the lines: It's a direct jab at Tesla, which is betting on a camera-only, end-to-end autonomous driving system. Better AI can't fully compensate for inadequate sensing, Thirumalai said. He added the same is true for high-definition mapping, which some rivals say is unnecessary. The bottom line: Waymo spent more than 15 years building a commanding lead in robotaxis, and Thirumalai argued now that there is no \"one silver bullet\" to reaching safe autonomy. Waymo's experience as the industry leader gives its argument weight — but it doesn't settle the debate. Rapid advances in AI could still prove there's a faster path to autonomy.",
+  "vocab_count": 7,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The answer could determine whether the AV race is a long, expensive slog that re",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The answer could determine whether the AV race is a long, expensive slog that rewards Waymo's head start — or a new track that lets newer rivals hit the road faster.",
+      "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Srikanth Thirumalai, Waymo's vice president of onboard software, said in an excl",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Srikanth Thirumalai, Waymo's vice president of onboard software, said in an exclusive interview with Axios that it takes more than just better AI to safely deploy AVs at scale. Waymo's goal from the start, he said, has been \"demonstrably sa",
+      "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Waymo got its start as Google's self-driving car project in 2009, well before th",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Waymo got its start as Google's self-driving car project in 2009, well before the modern deep-learning revolution. In the early days, it relied on many specialized models — one for pedestrian detection, another to tell when a light turns gr",
+      "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Waymo weighed in on one of the industry's biggest debates — whether cameras alon",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Waymo weighed in on one of the industry's biggest debates — whether cameras alone can solve full autonomy. When training its models, Waymo found that visibility was far better when cameras, lidar and radar worked together rather than when o",
+      "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: It's a direct jab at Tesla, which is betting on a camera-only, end-to-end autono",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: It's a direct jab at Tesla, which is betting on a camera-only, end-to-end autonomous driving system. Better AI can't fully compensate for inadequate sensing, Thirumalai said. He added the same is true for high-definition mapping, which some",
+      "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Waymo spent more than 15 years building a commanding lead in robotaxis, and Thir",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Waymo spent more than 15 years building a commanding lead in robotaxis, and Thirumalai argued now that there is no \"one silver bullet\" to reaching safe autonomy. Waymo's experience as the industry leader gives its argument weight — but it d",
+      "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Thirumalai said Waymo published the blog post to counter a narrative that AI can",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Thirumalai said Waymo published the blog post to counter a narrative that AI can provide a shortcut to safe self-driving, with public trust in the AV industry on the line. At the same time, it's a flex. The safety standards Waymo wants the ",
+      "source": "Axios — Exclusive: Waymo says there's no AI shortcut to self-driving (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-29T13:26:10+00:00"
+}

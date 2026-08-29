@@ -1,0 +1,46 @@
+{
+  "title": "Nvidia projects 70% revenue growth in 2028",
+  "url": "https://www.axios.com/2026/08/26/nvidia-earnings-jensen-huang-ai",
+  "pub_date": "2026-08-26",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Nvidia projects 70% revenue growth in 2028 (2026-08-26)",
+  "body": "Nvidia projected 70% revenue growth in its next fiscal year, sending its stock up in after-hours trading, while the company defended its decision to provide capital solutions to its customers. Why it matters: The stock is widely considered a bellwether for the health of the broader AI economy, but lately it has been trailing the broader semiconductor sector in market gains. Zoom in: In its latest quarter , Nvidia topped revenue and earnings expectations. The stock initially ticked downward in extended trading following the report — as investors maintained high expectations for the AI darling — but it jumped after Colette Kress , the chief financial officer, delivered the revenue projection on an earnings call. Kress said the company remains \"supply constrained,\" otherwise it could double revenue next year. By the numbers: Nvidia posted revenue of $96.2 billion in its most recent quarter, more than doubling its year-earlier showing, while net income jumped 126% to $59.7 billion. That exceeded S&P Capital IQ expectations of $92.1 billion in revenue and $51.2 billion in earnings for the period ended July 26. Revenue from data centers — Nvidia's largest source of sales — rose 117%, to $89 billion. The company projected revenue of $108 billion for its next reporting period, \"plus or minus 2%.\" That would be the first time Nvidia has exceeded $100 billion in a quarter. The impact: Nvidia shares — which had recorded a seven-day losing streak through Monday — rose 4.4% in after-hours trading. The big picture: Nvidia's earnings report comes after a string of investments and capital maneuvers designed to boost the AI economy and bolster its customer base, including a recent deal to backstop an OpenAI data center. The investments have called attention to concerns about a circular financing risk in the AI economy, which CEO Jensen Huang has dismissed. Huang said he was \"delighted\" for Nvidia to invest in frontier AI labs, calling it a \"once-in-a-generation opportunity\" and saying, \"I think the only regret that I have is that I didn't invest more and sooner.\" Kress said the company would go further, teasing a plans to \"provide selective credit enhancement for nearly two gigawatts of compute\" for \"another frontier AI lab.\" The CFO acknowledged circular financing criticisms. \"We recognize the scale of this support, and we know some will call this circular financing. We see it differently,\" Kress said. Without identifying companies by name, she added that \"these are once-in-a-generation companies\" and \"their technology leadership is proven, and their customer traction and usage are skyrocketing. We expect them to become the largest technology companies in history.\" Editor's note: This story has been updated with details from Nvidia's earnings conference call.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The stock is widely considered a bellwether for the health of the broader AI eco",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The stock is widely considered a bellwether for the health of the broader AI economy, but lately it has been trailing the broader semiconductor sector in market gains.",
+      "source": "Axios — Nvidia projects 70% revenue growth in 2028 (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: In its latest quarter , Nvidia topped revenue and earnings expectations. The sto",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: In its latest quarter , Nvidia topped revenue and earnings expectations. The stock initially ticked downward in extended trading following the report — as investors maintained high expectations for the AI darling — but it jumped after Colet",
+      "source": "Axios — Nvidia projects 70% revenue growth in 2028 (2026-08-26)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-29T13:26:10+00:00"
+}

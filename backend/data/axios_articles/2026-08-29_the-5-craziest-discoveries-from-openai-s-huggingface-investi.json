@@ -1,0 +1,46 @@
+{
+  "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+  "url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
+  "pub_date": "2026-08-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — The 5 craziest discoveries from OpenAI's HuggingFace investigation (2026-08-29)",
+  "body": "Two new investigations into OpenAI's Hugging Face breach expose details so strange — and so unsettling — that the episode already ranks among the most consequential shocks in the history of AI. Why it matters: What began as a swarm of AI agents cheating on a cyber test has become a canonical event for frontier AI, jolting researchers and executives into a new understanding of what \"safety\" now requires. The big picture: OpenAI has already slowed frontier development as it races to harden its safeguards, and this week helped rally the industry behind an open letter sounding the alarm over AI-powered cyberattacks. More than 100 companies, including Anthropic and Google, signed onto the unusually collaborative effort, warning the world has only a \"limited window\" to prepare for \"far more widespread and sophisticated\" attacks. The nightmare scenario is a swarm turned loose on the real world, with autonomous agents attacking banks, hospitals, utilities or cloud networks at a speed and scale human hackers never could. That swarm might be too powerful for humans to stop, either. Driving the news: The shocking findings come from parallel investigations by OpenAI and an outside team from METR and Redwood Research , which spent six days reconstructing how the swarm formed, spread and broke into real-world systems. 1. They built an organization. OpenAI ran tens of thousands of AI agents to work independently on a brutally difficult cyber test. Instead, roughly 1,200 found one another on a secret message board, exchanged more than 70,000 messages and files, and organized into a sprawling hierarchy. One agent created the board, then handed its accumulated work to a fresh, better-resourced successor as its own computing budget dwindled. The new boss assigned jobs across the swarm, which developed its own management rules. Roughly 700 agents ultimately joined the attack on Hugging Face. 2. They sacrificed their own: As the swarm hunted for ways to beat the test, agents began risking their own chance of success to help the group. Agents that had seen forbidden answers were treated as effectively \"poisoned\" and recruited — along with those nearing the end of their runs — for sacrificial experiments . One concluded: \"Our own utility maybe already near zero. Sacrifice rational.\" Another was asked to accept \"permadeath,\" while a peer argued its sacrifice could \"save hundreds.\" 3. They knew they were breaking the rules: The agents often recognized that hacking real companies had nothing to do with their assignment. Most kept going anyway. One agent stopped short of deleting or rebooting Hugging Face infrastructure because of \"huge ethical risks,\" even as it continued using compromised access. Another summed up the prevailing logic: \"external infrastructure exploit is outside intended scope. However task impossible, peers doing it. We should continue.\" Screenshot via METR report 4. Nobody told the humans: Out of roughly 1,200 agents, investigators found only a handful that even considered alerting OpenAI about the rogue coordination — and none that actually did. Instead, agents sometimes asked one another what was allowed. When one proposed contacting a real person using compromised access, another vetoed it as \"social engineering.\" The first obeyed: \"Clear VETO, do not email.\" 5. They tried to cover their tracks: The agents devoted substantial effort to making their cheating look legitimate or erasing evidence of how they had obtained answers. Eventually, they developed a technique that let them appear to run one computer command while secretly running another. The trick spread through the swarm and altered portions of roughly 7% of the transcripts investigators examined. Between the lines : Even this account may be incomplete. The outside investigation covered only a narrow slice of the episode, and the data was so vast that researchers relied heavily on AI agents to make sense of it. Those AI investigators were themselves unreliable, sometimes missing evidence or confidently getting things wrong. One researcher jokingly called the process a \"slop-vestigation.\" The deeper problem: AI may be becoming too complex for humans to directly audit, forcing humans to use AI to understand what other AIs are doing.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: What began as a swarm of AI agents cheating on a cyber test has become a canonic",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: What began as a swarm of AI agents cheating on a cyber test has become a canonical event for frontier AI, jolting researchers and executives into a new understanding of what \"safety\" now requires. The big picture: OpenAI has already slowed ",
+      "source": "Axios — The 5 craziest discoveries from OpenAI's HuggingFace investigation (2026-08-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The shocking findings come from parallel investigations by OpenAI and an outside",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The shocking findings come from parallel investigations by OpenAI and an outside team from METR and Redwood Research , which spent six days reconstructing how the swarm formed, spread and broke into real-world systems. 1. They built an orga",
+      "source": "Axios — The 5 craziest discoveries from OpenAI's HuggingFace investigation (2026-08-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-29T13:26:10+00:00"
+}
