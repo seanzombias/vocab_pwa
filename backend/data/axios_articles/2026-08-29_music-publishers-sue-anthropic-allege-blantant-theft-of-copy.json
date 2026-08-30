@@ -1,0 +1,72 @@
+{
+  "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+  "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+  "pub_date": "2026-08-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music (2026-08-29)",
+  "body": "Some of the world's largest music publishers filed a blockbuster lawsuit against Anthropic late Friday night, alleging \"one of the largest and most blatant ongoing thefts of intellectual property in history.\" Why it matters: The suit is the opening salvo in what is now likely to be a yearslong fight over music, AI, and how intellectual property is protected in a new era of technology. Driving the news: Units of Sony Music and Warner Music filed the suit in federal court in northern California late Friday night, naming Anthropic, CEO Dario Amodei and co-founder Benjamin Mann as defendants. The big picture : The Sony/Warner lawsuit is notable because it's broad. It alleges Anthropic unlawfully trained its models off \"tens of thousands\" of music publishers' copyrighted compositions, whereas other lawsuits have focused on a narrower set of works. BMG's lawsuit against Anthropic, for example, claims infringement against 493 compositions. What they're saying: \" Defendants Anthropic and its founders Dario Amodei and Benjamin Mann have conducted a brazen campaign of illegally torrenting, scraping, and downloading copyrighted works on a massive scale in order to develop, operate, and reap enormous profits from Anthropic's 'Claude' series of artificial intelligence ('AI') models,\" the plaintiffs write in the 48-page complaint. They also claim that Anthropic pirated thousands of copyrighted musical works and ask for hundreds of thousands of dollars in damages per infringed work. Thought bubble from Axios' Sara Fischer : The music's copyright system is structurally complicated, which can expose AI companies to multiple lawsuits for the same song. One song can have several copyrighted components, such as the lyrics, sound recording, or composition, that can be split among different copyright holders, including artists, publishers, and labels. Commercially released songs that require individual copyrights give plaintiffs a strong case to make for statutory damages, which don't require a copyright holder to prove their financial losses in court. Between the lines: This suit is not the first time Anthropic has been accused of piracy to train its models. In September 2025, the company agreed to the largest copyright settlement in U.S. history, a $1.5 billion deal with authors and publishers. Yes, but: The music industry is notorious for being litigious when it comes to copyright, as anyone who was around in the heyday of Napster and LimeWire can attest. For the record: Anthropic was not immediately available to comment on the suit. Editor's note: This story has been updated with additional information throughout.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The suit is the opening salvo in what is now likely to be a yearslong fight over",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The suit is the opening salvo in what is now likely to be a yearslong fight over music, AI, and how intellectual property is protected in a new era of technology.",
+      "source": "Axios — Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music (2026-08-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Units of Sony Music and Warner Music filed the suit in federal court in northern",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Units of Sony Music and Warner Music filed the suit in federal court in northern California late Friday night, naming Anthropic, CEO Dario Amodei and co-founder Benjamin Mann as defendants. The big picture : The Sony/Warner lawsuit is notab",
+      "source": "Axios — Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music (2026-08-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: This suit is not the first time Anthropic has been accused of piracy to train it",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: This suit is not the first time Anthropic has been accused of piracy to train its models. In September 2025, the company agreed to the largest copyright settlement in U.S. history, a $1.5 billion deal with authors and publishers. Yes, but: ",
+      "source": "Axios — Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music (2026-08-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \" Defendants Anthropic and its founders Dario Amodei and Benjamin Mann have cond",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \" Defendants Anthropic and its founders Dario Amodei and Benjamin Mann have conducted a brazen campaign of illegally torrenting, scraping, and downloading copyrighted works on a massive scale in order to develop, operate, and reap enormous ",
+      "source": "Axios — Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music (2026-08-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-30T13:22:26+00:00"
+}
