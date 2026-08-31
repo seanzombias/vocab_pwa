@@ -1,0 +1,72 @@
+{
+  "title": "AI giants lean into health care to stall public backlash",
+  "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
+  "pub_date": "2026-08-31",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI giants lean into health care to stall public backlash (2026-08-31)",
+  "body": "AI has an image problem . And one way to fix it is for top companies to dive headlong into health care. Why it matters: Saving the world with AI-designed cures is better than being blamed for ruining the environment or driving up Americans' utility bills. But even the most advanced AI models can't produce miracle treatments at the moment — and could create serious security risks if they try. That could set up a fraught debate over the next two or three years about the allocation of resources and whether the benefits of throwing vast amounts of computing capacity into medical research outweigh the costs. Driving the news: The Wall Street Journal reported this month that Anthropic was trying to shore up investor confidence ahead of its massive initial public offering with talk of pushing harder into health care and biology. CEO Dario Amodei wrote on X that Anthropic is moving quickly in biology and medicine \"and we hope to have incredible results in the coming years and some early glimmers in the coming months.\" Anthropic isn't alone: Nvidia and Eli Lilly are building a $1 billion drug discovery lab in San Francisco that will team up life science researchers with AI model builders and engineers. Isomorphic Labs, the AI drug discovery spinoff from Google, recently raised $2.1 billion to hire more AI and clinical talent and has ongoing research collaborations with Novartis, Lilly and Johnson & Johnson. Yes, but: Breakthroughs may still be years away. That's hardly reassuring to an increasingly anxious U.S. public that's gone NIMBY against data centers, with moratoriums, threatened lawsuits and fears of AI models taking more jobs. The technology is dramatically speeding up drug development and helping clinicians analyze medical scans and diagnose conditions. But it's also making health care more expensive , with software and scribes that more thoroughly document the care that's delivered. There also are concerns that AI-enabled research tools could be used for nefarious purposes, including potentially making a biological weapon. Anthropic implemented strict safeguards on its next-generation Claude Fable 5 model after concluding it could provide \"significant uplift\" to a bad actor. Between the lines: AI's push into health care comes as frontier labs like Anthropic and OpenAI prepare to go public to help cover the huge cost of training new models and maintaining multi-gigawatt computing infrastructures. Moving into the life sciences is a way to both diversify the companies' revenue streams and reshape public sentiment, said Lloyd Price, a partner at Nelson Advisors, a digital health M&A firm. \"It's a bit of a hearts-and-minds play ... the bad guys are stealing all of the resources but they could help humanity. The truth is very in the middle,\" Price told Axios. Price said real medical advances could transform people's perception of AI from an environmental and security risk into an essential public utility. Friction point: There still are big hurdles ahead, including rocky relations with the Trump administration, which is trying to take a hands-off regulatory approach while maintaining oversight of safety and privacy concerns. What's more, the public isn't wild about big drug companies, believing their profits are a big factor in high drug prices. An AI company could face backlash if the public thinks it's putting profits ahead of patients and contributing to the affordability crisis. The bottom line: AI labs will need to prove they're bringing measurable benefits to society, not just satisfying investors. The question is whether the public will put up with more server farms in their backyards to get there. \"What I hear a lot is, where is the material contribution or breakthrough that's directly led to a drug discovery? It's a team sport, and AI is just a player on the field,\" Price said.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Saving the world with AI-designed cures is better than being blamed for ruining",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Saving the world with AI-designed cures is better than being blamed for ruining the environment or driving up Americans' utility bills. But even the most advanced AI models can't produce miracle treatments at the moment — and could create s",
+      "source": "Axios — AI giants lean into health care to stall public backlash (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The Wall Street Journal reported this month that Anthropic was trying to shore u",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The Wall Street Journal reported this month that Anthropic was trying to shore up investor confidence ahead of its massive initial public offering with talk of pushing harder into health care and biology. CEO Dario Amodei wrote on X that An",
+      "source": "Axios — AI giants lean into health care to stall public backlash (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: AI's push into health care comes as frontier labs like Anthropic and OpenAI prep",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: AI's push into health care comes as frontier labs like Anthropic and OpenAI prepare to go public to help cover the huge cost of training new models and maintaining multi-gigawatt computing infrastructures. Moving into the life sciences is a",
+      "source": "Axios — AI giants lean into health care to stall public backlash (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: AI labs will need to prove they're bringing measurable benefits to society, not",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: AI labs will need to prove they're bringing measurable benefits to society, not just satisfying investors. The question is whether the public will put up with more server farms in their backyards to get there. \"What I hear a lot is, where i",
+      "source": "Axios — AI giants lean into health care to stall public backlash (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-08-31T15:34:40+00:00"
+}
