@@ -1,0 +1,61 @@
+{
+  "title": "Trump takes his \"Lake America\" push to Apple",
+  "url": "https://www.axios.com/2026/08/31/trump-lake-america-apple-maps-request",
+  "pub_date": "2026-08-31",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Trump takes his \"Lake America\" push to Apple (2026-08-31)",
+  "body": "President Trump has personally asked Apple to rename Lake Ontario \" Lake America \" on Apple Maps, Interior Secretary Doug Burgum said in an interview Monday. Why it matters: The request comes after Google changed the lake's name on mobile and desktop for U.S. users on Saturday. Google said in a statement that the changes complied with updates from the U.S. Geographic Names Information System (GNIS), which made the switch after Trump signed an executive order on Aug. 27. Driving the news: Apple Maps was slower than Google to make a similar change when Trump renamed the Gulf of Mexico Gulf of America and Mount Denali to Mount McKinley this year. Google took eight days to make the switch, while Apple took over three weeks . Apple did not immediately respond to Axios' request for comment about its plans. Zoom out: The change hasn't been smooth sailing for Google. The company said Saturday that people in Canada would still see Lake Ontario on maps, while U.S. addresses would show \"Lake America,\" but some Ontario government agency websites displayed \"Lake America\" on Sunday. Google said the discrepancy was due to selections made by website developers in Ontario who \"can select a region to localize the map, which determines how place names are displayed. 'Lake Ontario' will show when developers have set their region to Canada.\" Zoom in: MapQuest, which provided internet mapping nearly a decade before Google, isn't changing its maps to reflect Trump's order. \"We're not changing the name of Lake Ontario. Name it whatever you want at your leisure,\" the company wrote in a tweet that has since gone viral. Editor's note: This is a breaking news story and will be updated.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The request comes after Google changed the lake's name on mobile and desktop for",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The request comes after Google changed the lake's name on mobile and desktop for U.S. users on Saturday. Google said in a statement that the changes complied with updates from the U.S. Geographic Names Information System (GNIS), which made ",
+      "source": "Axios — Trump takes his \"Lake America\" push to Apple (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Apple Maps was slower than Google to make a similar change when Trump renamed th",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Apple Maps was slower than Google to make a similar change when Trump renamed the Gulf of Mexico Gulf of America and Mount Denali to Mount McKinley this year. Google took eight days to make the switch, while Apple took over three weeks . Ap",
+      "source": "Axios — Trump takes his \"Lake America\" push to Apple (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The change hasn't been smooth sailing for Google. The company said Saturday that",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The change hasn't been smooth sailing for Google. The company said Saturday that people in Canada would still see Lake Ontario on maps, while U.S. addresses would show \"Lake America,\" but some Ontario government agency websites displayed \"L",
+      "source": "Axios — Trump takes his \"Lake America\" push to Apple (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: MapQuest, which provided internet mapping nearly a decade before Google, isn't c",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: MapQuest, which provided internet mapping nearly a decade before Google, isn't changing its maps to reflect Trump's order. \"We're not changing the name of Lake Ontario. Name it whatever you want at your leisure,\" the company wrote in a twee",
+      "source": "Axios — Trump takes his \"Lake America\" push to Apple (2026-08-31)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-01T12:50:09+00:00"
+}

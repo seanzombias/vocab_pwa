@@ -1,0 +1,59 @@
+{
+  "title": "Apple, OpenAI legal fight keeps escalating. Here's how we got here",
+  "url": "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices",
+  "pub_date": "2026-09-01",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Apple, OpenAI legal fight keeps escalating. Here's how we got here (2026-09-01)",
+  "body": "Apple and OpenAI are escalating their legal fight over allegations that the ChatGPT maker used Apple employees to obtain closely guarded hardware secrets. Why it matters: If the case makes it to the discovery process, two of the most secretive companies in tech could be forced to reveal sensitive information about how they recruit talent, develop hardware and protect confidential information. Driving the news: On Monday, OpenAI responded to Apple's preliminary injunction request that asked a judge to block OpenAI from using any potential confidential information or trade secrets while the lawsuit remains in motion. In its response, OpenAI said: \"This dispute is a mess of Apple's own making, and it is trying to blame everyone else.\" After deeming Apple's allegations a \"witch hunt,\" OpenAI said in the filing that \"Apple's request for a preliminary injunction should be denied.\" The other side: Apple escalated on Monday too by saying in a court filing that OpenAI was actively destroying evidence in the trade secrets case, as first reported by Bloomberg . Zoom out: The tenuous relationship between OpenAI and Apple wasn't always that way. The two companies worked so closely that in 2025 Elon Musk even accused them of illegally colluding. Now they're locked in a federal lawsuit that exposes their growing competition for talent, hardware and control of the next generation of AI devices. Here are the key moments that turned Apple and OpenAI from partners into courtroom adversaries. Apple brings ChatGPT to the iPhone Apple and OpenAI started working together in June 2024 with plans to integrate ChatGPT into the iPhone, iPad and Mac. At the time, OpenAI CEO Sam Altman visited Apple HQ for the announcement. \"We're excited to partner with Apple to bring ChatGPT to their users in a new way,\" Altman said of the partnership. \"Together with Apple, we're making it easier for people to benefit from what AI can offer.\" OpenAI hints at hardware shift About a year later, signs of division began to appear. In May 2025, OpenAI bought io , a startup from former Apple designer Jony Ive, for $6.4 billion — a signal that the company was leaning into AI hardware. Ive and Altman unveiled their collaboration through a promotional commercial where they teased the future of an AI device. The cinematic teaser showed them sipping espresso in San Francisco. This was also a flag that the relations between Apple and OpenAI might be cooling as the AI company would be invading the hardware territory long held by Apple. Zoom out: Apple has been struggling to keep up in the AI race as a dominant player and has instead recalibrated into being more invested in how its software integrates with AI. In January, Apple partnered with Google to help Apple Intelligence features, like Siri, run on Google's Gemini AI models and cloud technology. The core moment: Apple's trade-secrets lawsuit In July, Apple sued OpenAI in federal court, alleging that the AI company engaged in trade secret theft and took Apple's IP to develop its own consumer hardware products. Apple alleges that OpenAI executives and former Apple employees orchestrated a broader effort to obtain confidential information about unreleased products. The iPhone maker also accused OpenAI of approaching Apple's partners with confidential information about Apple. OpenAI said it wasn't aware of evidence supporting Apple's allegations and defended employees' right to change jobs. The back-and-forth begins On Aug. 3, Apple requested a preliminary injunction aimed at preventing OpenAI from using the disputed information while the case proceeds. In response, OpenAI shared a blog post called \" Apple is getting this wrong ,\" claiming that the AI company never sought Apple's secrets. On August 5, OpenAI asked a federal judge to dismiss Apple's lawsuit, arguing Apple's allegations lacked merit. OpenAI argued the lawsuit was really about Apple's struggle to retain engineers and keep pace in AI. Apple, in a response , suggests that OpenAI's disputes and arguments for dismissal would be answered through the discovery process. In a new filing on Aug. 19, Apple made clear that it wants the courtroom battle to head into the discovery phase, suggesting OpenAI's arguments for dismissal would be answered through discovery. OpenAI snapped back in Monday's filing, alleging that Apple had not done enough to protect itself and was likely to fail in its legal challenges, saying the company \"cannot use its own sloppy procedures to blame others for its own mess.\" What's next: The case is scheduled for a court hearing before a judge on Oct. 1.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: If the case makes it to the discovery process, two of the most secretive compani",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: If the case makes it to the discovery process, two of the most secretive companies in tech could be forced to reveal sensitive information about how they recruit talent, develop hardware and protect confidential information.",
+      "source": "Axios — Apple, OpenAI legal fight keeps escalating. Here's how we got here (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: On Monday, OpenAI responded to Apple's preliminary injunction request that asked",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: On Monday, OpenAI responded to Apple's preliminary injunction request that asked a judge to block OpenAI from using any potential confidential information or trade secrets while the lawsuit remains in motion. In its response, OpenAI said: \"",
+      "source": "Axios — Apple, OpenAI legal fight keeps escalating. Here's how we got here (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The tenuous relationship between OpenAI and Apple wasn't always that way. The tw",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The tenuous relationship between OpenAI and Apple wasn't always that way. The two companies worked so closely that in 2025 Elon Musk even accused them of illegally colluding. Now they're locked in a federal lawsuit that exposes their growin",
+      "source": "Axios — Apple, OpenAI legal fight keeps escalating. Here's how we got here (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-01T12:50:08+00:00"
+}
