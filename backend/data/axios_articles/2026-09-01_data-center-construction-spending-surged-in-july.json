@@ -1,0 +1,39 @@
+{
+  "title": "Data center construction spending surged in July",
+  "url": "https://www.axios.com/2026/09/01/ai-data-center-constructon-spending",
+  "pub_date": "2026-09-01",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Data center construction spending surged in July (2026-09-01)",
+  "body": "Data: U.S. Census Bureau, FactSet Construction spending on AI data center \"shells\" soared in July, rising at an annualized rate of nearly 60% from July 2025 levels. Why it matters: It shows the AI building frenzy was gathering strength this summer, even as — or perhaps because — a bipartisan backlash grows. By the numbers: Data center construction spending jumped to an annual pace of more than $75 billion in July, Census Bureau data released Tuesday showed. That figure represents the value of the construction \"put in place\" during the month. It covers only the construction costs for the massive warehouse-like structures — often referred to as shells — that will be filled with racks of servers, processing units, memory chips and the fiber-optic connections that AI relies on. Reality check: Despite the gobsmacking amount of money being spent on data center construction, it's a pittance compared with what it costs to fill a data center with increasingly expensive processors and memory chips. Bottom line: Estimates peg construction at roughly 20% of all-in costs for a data center.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It shows the AI building frenzy was gathering strength this summer, even as — or",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It shows the AI building frenzy was gathering strength this summer, even as — or perhaps because — a bipartisan backlash grows. By the numbers: Data center construction spending jumped to an annual pace of more than $75 billion in July, Cen",
+      "source": "Axios — Data center construction spending surged in July (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Despite the gobsmacking amount of money being spent on data center construction,",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Despite the gobsmacking amount of money being spent on data center construction, it's a pittance compared with what it costs to fill a data center with increasingly expensive processors and memory chips. Bottom line: Estimates peg construct",
+      "source": "Axios — Data center construction spending surged in July (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-02T12:20:03+00:00"
+}

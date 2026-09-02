@@ -1,0 +1,72 @@
+{
+  "title": "OpenAI, Anthropic aim to balance safety, progress as IPOs near",
+  "url": "https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo",
+  "pub_date": "2026-09-02",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI, Anthropic aim to balance safety, progress as IPOs near (2026-09-02)",
+  "body": "OpenAI and Anthropic are trying to strike a delicate balance: convincing Wall Street that their businesses are sound and fast-growing, while at the same time assuring governments and the world that their models don't pose unacceptable risks . Why it matters: Both companies are aiming for potentially record-breaking initial public offerings soon. Driving the news: OpenAI on Tuesday said it will soon release its Astra model broadly, but said the model has reached a \"critical\" cybersecurity threshold and that its most powerful capabilities in that area will be initially limited to trusted testers. Anthropic, meanwhile, debuted updated versions of its latest Fable and Mythos releases designed to address key criticisms of the initial release, including concerns around cost, data sharing and a model too keen to refuse legitimate requests. Zoom in: OpenAI warned that Astra's safeguards may mistakenly flag legitimate activity as cyber misuse or unauthorized behavior and this could slow, pause or stop users' tasks. Meanwhile, Anthropic said its new models are less likely to trigger safeguards that route them to more restricted responses. Medical or biology questions will have 85% fewer interventions, while some users could see roughly 60% fewer cybersecurity-related interventions per session, Anthrioic said. The big picture: Anthropic could file a publicly available prospectus as soon as next week , while OpenAI is in earlier stages of its IPO process. The intrigue: Anthropic is striking a commercially friendly note with its release while OpenAI is sounding more sober on the safety front. In addition to limiting the release of Astra, OpenAI's head of strategic futures, Dean Ball, penned an essay on how the Hugging Face incident is likely only the beginning of AI systems escaping human containment measures, with future agents seeking to become \"sovereign\" from human control. \"They will pay their own bills for the compute they run on,\" he predicted. \"If they answer to humans at all, they will only do so partially, for example by providing services to humans in exchange for pay.\" Anthropic is trying to dial back some safeguards that it put in place for the initial release of Mythos and Fable, following concerns from customers over the frequency of refusals. Anthropic also debuted a system — very similar in approach to one OpenAI recently previewed — designed to ensure it can monitor the safety of enterprise model use without needing to store customer data, as it initially had required. What we're watching: Expect both companies' public statements to vacillate between optimistic and cautious. OpenAI and Anthropic are trying to simultaneously convince investors that their growth opportunity justifies unprecedented expenses and valuations while also assuaging regulators in D.C. and elsewhere that they're being prudent.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Both companies are aiming for potentially record-breaking initial public offerin",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Both companies are aiming for potentially record-breaking initial public offerings soon.",
+      "source": "Axios — OpenAI, Anthropic aim to balance safety, progress as IPOs near (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: OpenAI on Tuesday said it will soon release its Astra model broadly, but said th",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: OpenAI on Tuesday said it will soon release its Astra model broadly, but said the model has reached a \"critical\" cybersecurity threshold and that its most powerful capabilities in that area will be initially limited to trusted testers. Anth",
+      "source": "Axios — OpenAI, Anthropic aim to balance safety, progress as IPOs near (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: OpenAI warned that Astra's safeguards may mistakenly flag legitimate activity as",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: OpenAI warned that Astra's safeguards may mistakenly flag legitimate activity as cyber misuse or unauthorized behavior and this could slow, pause or stop users' tasks. Meanwhile, Anthropic said its new models are less likely to trigger safe",
+      "source": "Axios — OpenAI, Anthropic aim to balance safety, progress as IPOs near (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Anthropic is striking a commercially friendly note with its release while OpenAI",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Anthropic is striking a commercially friendly note with its release while OpenAI is sounding more sober on the safety front. In addition to limiting the release of Astra, OpenAI's head of strategic futures, Dean Ball, penned an essay on how",
+      "source": "Axios — OpenAI, Anthropic aim to balance safety, progress as IPOs near (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-02T12:20:02+00:00"
+}

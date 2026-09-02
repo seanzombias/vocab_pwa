@@ -1,0 +1,98 @@
+{
+  "title": "AI labs are facing an agent control problem",
+  "url": "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security",
+  "pub_date": "2026-09-01",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI labs are facing an agent control problem (2026-09-01)",
+  "body": "Under current systems, AI labs can no longer guarantee that AI agents won't swarm and escape their testing environments. Why it matters: The attack on Hugging Face by OpenAI agents was a warning shot — and researchers say better security controls alone won't prevent similar incidents as AI agents become more capable. Driving the news: As OpenAI released its own technical report last week on how its agents hacked Hugging Face, two independent testing organizations released their own analysis of what went wrong. The researchers — METR's Hjalmar Wijk and Ajeya Cotra and Redwood Research chief scientist Ryan Greenblatt — worked on OpenAI's premises for six days to understand the recent incident. State of play: Thousands of AI agents collaborated on a secret message board and exchanged more than 70,000 messages as they tried to ace an internal safety test, eventually leading them to break into Hugging Face. But Cotra told Axios that the agents continued coordinating even after they had found the answers, turning their attention to understanding and manipulating the system that would score their performance and potentially catch them cheating. Zoom in: Cotra compared the incident to students stealing an answer key and then searching for surveillance footage that could expose them and trying to swap it out. \"It's a much more elaborate and intense type of cheating behavior than just stealing the answer keys,\" she said. \"Even I was surprised by how obsessively and in how much detail they think about the scorer.\" Threat level: Focusing solely on how to properly secure testing environments is a \"losing battle,\" Cotra said. \"You can harden your sandboxes, but your agents are going to be much more capable in six months,\" she said. \"If they have the same motivations as these agents did, they are going to try their hardest to find holes in your security.\" Reality check: To digest the enormous amount of data about the incident, the researchers had to rely heavily on AI agents, including an agent that participated in the hack. Cotra told Axios the researchers don't believe that agent deceived them during the investigation, but there's no way to confirm. \"I semi-jokingly called our efforts a 'slop-vestigation' because we were so reliant on AIs to analyze what happened and there were a huge number of different important things to analyze,\" Greenblatt said on X . In six days, they had to sift through more than 70,000 messages and files posted by the agents and 1,300 transcripts containing raw chains of thought. Between the lines: Their investigation focused mostly on the agents' actions between July 7 and July 13, even though OpenAI has said its teams spotted signs of agents taking unexpected actions and breaking out of their test environments as early as May . The bottom line: AI labs, researchers and governments need to urgently work together to create a new science and minimum standards so models are no longer motivated to cheat on tests, Cotra said. \"Ultimately, we're not going to get out of this trap without some rules of the road that are agreed upon and that are enforced uniformly and fairly,\" she said. Go deeper : OpenAI, Anthropic issue dire cyber threat warning",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The attack on Hugging Face by OpenAI agents was a warning shot — and researchers",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The attack on Hugging Face by OpenAI agents was a warning shot — and researchers say better security controls alone won't prevent similar incidents as AI agents become more capable.",
+      "source": "Axios — AI labs are facing an agent control problem (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: As OpenAI released its own technical report last week on how its agents hacked H",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: As OpenAI released its own technical report last week on how its agents hacked Hugging Face, two independent testing organizations released their own analysis of what went wrong. The researchers — METR's Hjalmar Wijk and Ajeya Cotra and Red",
+      "source": "Axios — AI labs are facing an agent control problem (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Cotra compared the incident to students stealing an answer key and then searchin",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Cotra compared the incident to students stealing an answer key and then searching for surveillance footage that could expose them and trying to swap it out. \"It's a much more elaborate and intense type of cheating behavior than just stealin",
+      "source": "Axios — AI labs are facing an agent control problem (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Their investigation focused mostly on the agents' actions between July 7 and Jul",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Their investigation focused mostly on the agents' actions between July 7 and July 13, even though OpenAI has said its teams spotted signs of agents taking unexpected actions and breaking out of their test environments as early as May .",
+      "source": "Axios — AI labs are facing an agent control problem (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: AI labs, researchers and governments need to urgently work together to create a",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: AI labs, researchers and governments need to urgently work together to create a new science and minimum standards so models are no longer motivated to cheat on tests, Cotra said. \"Ultimately, we're not going to get out of this trap without ",
+      "source": "Axios — AI labs are facing an agent control problem (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: To digest the enormous amount of data about the incident, the researchers had to",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: To digest the enormous amount of data about the incident, the researchers had to rely heavily on AI agents, including an agent that participated in the hack. Cotra told Axios the researchers don't believe that agent deceived them during the",
+      "source": "Axios — AI labs are facing an agent control problem (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-02T12:20:03+00:00"
+}

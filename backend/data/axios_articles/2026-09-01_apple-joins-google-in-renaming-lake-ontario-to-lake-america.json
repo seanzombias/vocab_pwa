@@ -1,0 +1,61 @@
+{
+  "title": "Apple joins Google in renaming Lake Ontario to \"Lake America\"",
+  "url": "https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america",
+  "pub_date": "2026-09-01",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Apple joins Google in renaming Lake Ontario to \"Lake America\" (2026-09-01)",
+  "body": "Apple has changed the label on Lake Ontario to \" Lake America ,\" according to an Axios review of Apple Maps on Tuesday afternoon. Why it matters: Apple is the second major digital map provider to make the switch. Google did so over the weekend — at least for those in the United States. Driving the news: President Trump had reportedly asked Apple to make the switch last week, Department of the Interior Secretary Doug Burgum told Fox Business on Monday. Apple's decision comes less than a week after the president's executive order to rename the body of water along the U.S.-Canada border. The company also eventually changed the Gulf of Mexico to \" Gulf of America \" and Mount Denali to Mount McKinley last year when Trump renamed those sites via an executive order on the first day of his second term. Zoom out: It's unclear if Apple took a stance similar to Google, which updated the name for addresses in the United States. Canadian users will see Lake Ontario if their site provider has switched its location settings to Canada. International users outside of Canada will see Lake Ontario (Lake America) in Google Maps. Apple did not immediately respond to Axios' request for comment about the change. Zoom in: Google said it made the switch because the U.S. Geographic Names Information System (GNIS) had updated its maps, and Google follows those guidelines \"to reflect name changes in official government sources.\" Trump does not have the authority to unilaterally rename a shared body of water, and Canadian officials have said they will not call Lake Ontario \"Lake America.\" Worth noting: MapQuest, another digital map provider in the U.S., said it will not be changing the lake's name. \"Name it whatever you want at your leisure,\" the company wrote in a tweet that went viral. The company has also seen an engagement boost since the post, with its app being ranked No. 1 among navigation apps and No. 8 overall on Apple's App Store chart. The app was No. 2 in Canada's store on Sunday night, per TechCrunch .",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Apple is the second major digital map provider to make the switch. Google did so",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Apple is the second major digital map provider to make the switch. Google did so over the weekend — at least for those in the United States.",
+      "source": "Axios — Apple joins Google in renaming Lake Ontario to \"Lake America\" (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: President Trump had reportedly asked Apple to make the switch last week, Departm",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: President Trump had reportedly asked Apple to make the switch last week, Department of the Interior Secretary Doug Burgum told Fox Business on Monday. Apple's decision comes less than a week after the president's executive order to rename t",
+      "source": "Axios — Apple joins Google in renaming Lake Ontario to \"Lake America\" (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: It's unclear if Apple took a stance similar to Google, which updated the name fo",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: It's unclear if Apple took a stance similar to Google, which updated the name for addresses in the United States. Canadian users will see Lake Ontario if their site provider has switched its location settings to Canada. International users ",
+      "source": "Axios — Apple joins Google in renaming Lake Ontario to \"Lake America\" (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Google said it made the switch because the U.S. Geographic Names Information Sys",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Google said it made the switch because the U.S. Geographic Names Information System (GNIS) had updated its maps, and Google follows those guidelines \"to reflect name changes in official government sources.\" Trump does not have the authority",
+      "source": "Axios — Apple joins Google in renaming Lake Ontario to \"Lake America\" (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-02T12:20:02+00:00"
+}
