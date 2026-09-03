@@ -1,0 +1,72 @@
+{
+  "title": "How AI is playing a growing role in wildfire response",
+  "url": "https://www.axios.com/2026/09/02/ai-wildfire-response-help",
+  "pub_date": "2026-09-02",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — How AI is playing a growing role in wildfire response (2026-09-02)",
+  "body": "AI is already helping detect and monitor wildfires. Now, researchers are exploring how it could help fire officials decide where to deploy crews across multiple fires. Why it matters: Studies show climate change is contributing to longer, more intense wildfire seasons , forcing officials to make high-stakes decisions about how to prioritize limited resources. AI could help them process information to make those decisions faster. State of play: Jason Fallon, the U.S. Wildland Fire Service's division chief for wildland fire intelligence, told Axios that AI is ingrained in many areas of wildfire management nationally, including monitoring, detection, information dissemination and data transfer. AI-powered cameras, satellite systems and weather-prediction tools are helping agencies in Western states detect wildfires and deploy crews sooner. For satellite data triage, AI can \"help us quickly work through a workflow to separate noise from reality,\" Fallon said. Zoom in: Léonard Boussioux, an information systems professor at the University of Washington Foster School of Business, is part of a team researching how machine learning and optimization could assist fire officials in deciding where to send crews when multiple wildfires are burning. The approach predicts how multiple fires could evolve under different levels of suppression, then uses a mathematical model to recommend how crews could be deployed, according to a research paper that has yet to be peer reviewed. By the numbers: Last year, 77,850 wildfires were recorded across the U.S. — \"noticeably higher than the five- and 10-year averages,\" according to the National Interagency Coordination Center. This year's wildfire season is surpassing the 10-year average for the number of fires and acres burned, according to the National Interagency Fire Center. What they're saying: \"What's hard to do is to predict which fire is going to blow up,\" Boussioux told Axios. \"Which fire should we prioritize right now, knowing that we don't necessarily have [the] resources?\" Boussioux's team is trying to anticipate how multiple fires could evolve simultaneously. \"What we are doing essentially is: We predict two weeks in advance, and we also predict how [multiple fires] will behave\" under different levels of suppression, Boussioux said. What we're watching: Fallon said that research like Boussioux's has potential to aid wildfire decision-making, but \"I don't think we know yet to what degree.\" Reality check: AI's role is to augment firefighters, decision-makers and analysts — not replace them, Fallon said. Fire officials remain \"in control of directing the strategy and action,\" he said. AI can reduce cognitive workload and accelerate insights in complex, fast-changing environments, he said, but expertise, experience and risk decisions still need to come from humans. \"The machine doesn't have 30 years of experience fighting fire,\" he said. A model might not know that residents at the end of a road don't have vehicles and need assistance during an evacuation. \"It only knows what we can provide to it,\" Fallon said. Between the lines: AI won't solve the problem of massive, destructive wildfires, Matt Weiner, CEO of Megafire Action, a nonprofit focused on reducing catastrophic wildfire risk, told Axios. \"What it can do, and what it's already showing that it can do, is help us prioritize where we can do the most efficient work at every scale,\" Weiner said. That could mean helping fire officials understand how a new wildfire is likely to behave so they can \"direct the right resources for the right fire,\" he said. AI can provide inaccurate information, potentially putting lives and property at risk, while limited data on rare events can hinder its ability to forecast extreme wildfires, according to the Government Accountability Office. What's next: Researchers are developing more sophisticated tools for modeling complicated wildfire decisions, but their usefulness will depend on the quality and organization of the underlying data. \"We already have technology to make things better, but we do not necessarily have data available, or it's not properly managed or organized,\" Boussioux said. Amy Harder contributed reporting.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Studies show climate change is contributing to longer, more intense wildfire sea",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Studies show climate change is contributing to longer, more intense wildfire seasons , forcing officials to make high-stakes decisions about how to prioritize limited resources. AI could help them process information to make those decisions",
+      "source": "Axios — How AI is playing a growing role in wildfire response (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Léonard Boussioux, an information systems professor at the University of Washing",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Léonard Boussioux, an information systems professor at the University of Washington Foster School of Business, is part of a team researching how machine learning and optimization could assist fire officials in deciding where to send crews w",
+      "source": "Axios — How AI is playing a growing role in wildfire response (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: AI won't solve the problem of massive, destructive wildfires, Matt Weiner, CEO o",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: AI won't solve the problem of massive, destructive wildfires, Matt Weiner, CEO of Megafire Action, a nonprofit focused on reducing catastrophic wildfire risk, told Axios. \"What it can do, and what it's already showing that it can do, is hel",
+      "source": "Axios — How AI is playing a growing role in wildfire response (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"What's hard to do is to predict which fire is going to blow up,\" Boussioux told",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"What's hard to do is to predict which fire is going to blow up,\" Boussioux told Axios. \"Which fire should we prioritize right now, knowing that we don't necessarily have [the] resources?\" Boussioux's team is trying to anticipate how multip",
+      "source": "Axios — How AI is playing a growing role in wildfire response (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: AI's role is to augment firefighters, decision-makers and analysts — not replace",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: AI's role is to augment firefighters, decision-makers and analysts — not replace them, Fallon said. Fire officials remain \"in control of directing the strategy and action,\" he said. AI can reduce cognitive workload and accelerate insights i",
+      "source": "Axios — How AI is playing a growing role in wildfire response (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-03T12:17:56+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Altman raises stakes on government scrutiny as AI advances",
+  "url": "https://www.axios.com/2026/09/03/altman-government-scrutiny-ai-g20",
+  "pub_date": "2026-09-03",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Altman raises stakes on government scrutiny as AI advances (2026-09-03)",
+  "body": "CHAPEL HILL, N.C. — OpenAI CEO Sam Altman called the Trump administration's voluntary review of the company's forthcoming Astra model a \"productive process\" and said that closer engagement with government officials around the world will matter more as AI capabilities advance. Why it matters: OpenAI is close to releasing Astra, the first model designated at its \"critical\" cyber capability level that the company says requires stronger safeguards during development and before release. The Trump administration has developed a voluntary framework for reviewing some advanced AI models before release, including potentially giving government officials access for up to 30 days. The White House does not plan to publicly release the framework. That leaves much of the government's approach opaque to the public and companies outside the process, even as leading labs participate and more powerful models are released. Altman, in an interview with Axios, confirmed the administration reviewed Astra and noted the process is voluntary : \"But we of course did it.\" \"As these models get to a quite significant level of capability, I think the importance of really doing this, closely engaging with the safety institutes in the U.S., the U.K. and elsewhere in the world, will become more important.\" Altman called Astra \"a significant step forward.\" Context: Altman flew to the G20 Innovation Ministerial on Wednesday to speak with Commerce Secretary Howard Lutnick before an audience of commerce and technology ministers, who over two days heard the U.S. pitch on lead the world in AI. During a fireside chat with Lutnick at the summit lunch, Altman said he sees OpenAI as \"the pragmatic centrists … We think people need to be at the center of the economy and society and global decision-making, and that people should run the future, not AI.\" Nvidia CEO Jensen Huang, talking with Lutnick at the summit breakfast, warned against fear-driven AI messaging. \"The worst outcome,\" he told the foreign leader, \"is that you don't take advantage of it [AI], that you are left behind.\" Huang's message prompted nods from many of the ministers in the room. Altman, speaking with Axios, called for a \"realistic\" and \"accurate\" approach. \"I think doomerism — for the sake of trying to have more power, control or enforce a worldview — is really bad,\" he said. \"I think blind optimism without an acknowledgment of the risks is also bad.\" Between the lines: OpenAI and Anthropic have faced criticism that their support for some AI regulation could advantage the leading labs and make it harder for smaller competitors to keep up. The big picture: Altman said he expected Congress to establish a \"basic framework\" for advanced AI after he first testified before lawmakers in 2023, but that hasn't happened. \"I thought at that time that Congress was going to do something,\" Altman told Axios. He said the inaction is likely due to the pace of the technology: \"People have a hard time knowing how to regulate the right things and not slow down innovation,\" adding that \"it appears to be very hard to get Congress to do big things.\" What's next: Expect OpenAI to continue releasing its models as nations grapple with safety questions. \"Take our word for it that we have much, much, much more capable models coming soon, and try to think about what all the impacts of that on society could be and then need to get that right,\" Altman said.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: OpenAI is close to releasing Astra, the first model designated at its \"critical\"",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: OpenAI is close to releasing Astra, the first model designated at its \"critical\" cyber capability level that the company says requires stronger safeguards during development and before release. The Trump administration has developed a volun",
+      "source": "Axios — Altman raises stakes on government scrutiny as AI advances (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: OpenAI and Anthropic have faced criticism that their support for some AI regulat",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: OpenAI and Anthropic have faced criticism that their support for some AI regulation could advantage the leading labs and make it harder for smaller competitors to keep up. The big picture: Altman said he expected Congress to establish a \"ba",
+      "source": "Axios — Altman raises stakes on government scrutiny as AI advances (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-03T12:17:56+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Brain implants fuel U.S.-China bioscience rivalry",
+  "url": "https://www.axios.com/2026/09/03/brain-implants-elon-musk-neuralink-china-us",
+  "pub_date": "2026-09-03",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Brain implants fuel U.S.-China bioscience rivalry (2026-09-03)",
+  "body": "Brain implants like those being developed by Elon Musk's Neuralink are becoming the latest friction point in the intensifying U.S.-China rivalry in the life sciences. Why it matters: The devices are bringing new hope to patients with strokes, Parkinson's disease and other neurological conditions. And tech billionaires have fueled advances by pouring billions into biotech startups focused on linking the brain with computers. But a new national security analysis says U.S. development efforts are being overtaken by Beijing's full-court press around manufacturing, data and commercialization. The consequences could extend beyond health care, affecting U.S. military capabilities and the ability to train the next generation of AI models, according to the analysis. The report was produced by the National Security Commission on Emerging Biotechnology, which was created by Congress to review how biotechnology can affect national security. State of play: Brain-computer interfaces, or BCIs, are going mainstream. Companies like Neuralink, Precision Neuroscience, Paradromics and Synchron are testing new applications, like helping to restore communication for people who have lost the ability to speak. Rapid advances in artificial intelligence are reducing the time it takes to calibrate a device to a patient's brain signals and use them for functions like controlling a prosthetic part. And China leveled up the field this spring, when its National Medical Products Administration issued what's thought to be the world's first commercial approval of a BCI designed to revive hand movement in people with spinal cord injuries. The approval was part of a strategy that designated BCIs as a national \"future industry,\" alongside quantum computing and 6G wireless communications systems. The commission analysis says regulatory bottlenecks and funding concerns are drying up the U.S. pipeline for BCIs and shifting the playing field in China's favor, noting that new treatments for neurological conditions take an average of more than 11 years to reach approval. It calls for the Food and Drug Administration to develop a clearer pathway for bringing implants to market, and for the Centers for Medicare and Medicaid Services to come up with a way to pay for devices once they're through regulatory approvals. \"China is moving strategic technologies like BCI faster than the United States can,\" Sen. Todd Young (R-Ind.), the chair of the national security commission, tells Axios. \"Our government needs a coordinated biotechnology strategy to promote U.S. innovation and commercialization of what promises to be a truly revolutionary platform technology for health and national security.\" Between the lines: BCIs are another example of how technology is outpacing regulation — and posing thorny ethical and privacy issues. There's the basic question of who controls the device and data, and whether privacy laws like the Health Insurance Portability and Accountability Act even apply. Giving patients more control over their data may require new laws or regulations that could limit developers' ability to improve algorithms that decode brain signals, the Government Accountability Office has noted . But more consumer autonomy could provide safeguards that extend beyond medical settings and protect against data being accessed to make insurance or workplace decisions, or to study how people subconsciously respond to advertising or other messages. China currently has no neural-data-specific privacy or security regulations, per the commission analysis. Reality check: Brain implants remain a work in progress. Many fail within their first year, and experts say manufacturing improvements like new materials, coatings and batteries could address signal degradation and extend power life. It's also difficult to recruit patients for clinical trials who have profound disabilities but still are healthy enough to withstand brain surgery. What we're watching: Whether brain implants are included in the Trump administration's RAPID program — a joint effort between FDA and CMS to expedite Medicare coverage of certain \"breakthrough\" devices. Longer term, BCIs could be adapted for nonmedical purposes, like controlling swarms of drones through operators' thoughts.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The devices are bringing new hope to patients with strokes, Parkinson's disease",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The devices are bringing new hope to patients with strokes, Parkinson's disease and other neurological conditions. And tech billionaires have fueled advances by pouring billions into biotech startups focused on linking the brain with comput",
+      "source": "Axios — Brain implants fuel U.S.-China bioscience rivalry (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: BCIs are another example of how technology is outpacing regulation — and posing",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: BCIs are another example of how technology is outpacing regulation — and posing thorny ethical and privacy issues. There's the basic question of who controls the device and data, and whether privacy laws like the Health Insurance Portabilit",
+      "source": "Axios — Brain implants fuel U.S.-China bioscience rivalry (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Brain implants remain a work in progress. Many fail within their first year, and",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Brain implants remain a work in progress. Many fail within their first year, and experts say manufacturing improvements like new materials, coatings and batteries could address signal degradation and extend power life. It's also difficult t",
+      "source": "Axios — Brain implants fuel U.S.-China bioscience rivalry (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-03T12:17:56+00:00"
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Lutnick: Anthropic is \"back on the right side\" with Trump administration",
+  "url": "https://www.axios.com/2026/09/02/lutnick-anthropic-trump",
+  "pub_date": "2026-09-02",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Lutnick: Anthropic is \"back on the right side\" with Trump administration (2026-09-02)",
+  "body": "CHAPEL HILL, N.C. — Commerce Secretary Howard Lutnick said the Trump administration now trusts Anthropic following months of clashes with the AI company. Why it matters: The statement marks a remarkable turnaround in a relationship strained by a bitter fight over national security and AI safeguards . What they're saying: Asked if he trusts Anthropic CEO Dario Amodei, Lutnick told Axios' Mike Allen: \"We trust Anthropic.\" \"They've done what we asked. They're back on the right side. So the answer is: Yes,\" Lutnick said in an interview on Tuesday. The big picture: The declaration comes as Anthropic co-founder Tom Brown takes a more prominent role in the company's relationship with the White House, including a headlining spot at this week's G20 Innovation Ministerial . \"Really excited for our conversation, so I'd like to introduce you all to Tom Brown, one of the founders of Anthropic,\" Lutnick said on Wednesday to a room full of G20 ministers. Lutnick kicked off the discussion offering Brown an opportunity to introduce himself to an international audience: \"I don't think they know you so well. Anthropic, of course, is famous, but a little story helps.\" What they're saying: Brown praised President Trump's pro-data center post on Truth Social this week. \"I really love Trump's post from earlier this week... where he was pointing out that the data centers are just an enormous source of prosperity,\" Brown said. \"They produce a ton of jobs. They produce taxes. Now the way that we design them, we actually bring on more power to the grid,\" he said. Brown also highlighted Anthropic's support for the administration's ratepayer pledge. Between the lines: Industry knows aligning with the Trump administration goes a long way for policy priorities. Catch up quick: Personality differences added fuel to the fire in a clash between the Trump administration and Anthropic earlier this year that resulted in sweeping export controls on the company's most advanced models. Brown was instrumental in patching up the relationship, holding multiple conversations with Lutnick and National Cyber Director Sean Cairncross. A federal judge in August, meanwhile, struck down the Pentagon's blacklisting of Anthropic as a supply-chain risk , ruling that the government's actions violated Anthropic's constitutional rights. The company is also fighting a separate Pentagon designation under a different statute in the D.C. Circuit. The bottom line: Brown offers a reset for a company once on the outs with the White House.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The statement marks a remarkable turnaround in a relationship strained by a bitt",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The statement marks a remarkable turnaround in a relationship strained by a bitter fight over national security and AI safeguards .",
+      "source": "Axios — Lutnick: Anthropic is \"back on the right side\" with Trump administration (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Personality differences added fuel to the fire in a clash between the Trump admi",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Personality differences added fuel to the fire in a clash between the Trump administration and Anthropic earlier this year that resulted in sweeping export controls on the company's most advanced models. Brown was instrumental in patching u",
+      "source": "Axios — Lutnick: Anthropic is \"back on the right side\" with Trump administration (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Industry knows aligning with the Trump administration goes a long way for policy",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Industry knows aligning with the Trump administration goes a long way for policy priorities.",
+      "source": "Axios — Lutnick: Anthropic is \"back on the right side\" with Trump administration (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Asked if he trusts Anthropic CEO Dario Amodei, Lutnick told Axios' Mike Allen: \"",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Asked if he trusts Anthropic CEO Dario Amodei, Lutnick told Axios' Mike Allen: \"We trust Anthropic.\" \"They've done what we asked. They're back on the right side. So the answer is: Yes,\" Lutnick said in an interview on Tuesday. The big pictu",
+      "source": "Axios — Lutnick: Anthropic is \"back on the right side\" with Trump administration (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Brown offers a reset for a company once on the outs with the White House",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Brown offers a reset for a company once on the outs with the White House.",
+      "source": "Axios — Lutnick: Anthropic is \"back on the right side\" with Trump administration (2026-09-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-03T12:17:56+00:00"
+}
