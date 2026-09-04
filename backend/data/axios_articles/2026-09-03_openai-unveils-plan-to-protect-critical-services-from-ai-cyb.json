@@ -1,0 +1,72 @@
+{
+  "title": "OpenAI unveils plan to protect critical services from AI cyberattacks",
+  "url": "https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
+  "pub_date": "2026-09-03",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI unveils plan to protect critical services from AI cyberattacks (2026-09-03)",
+  "body": "OpenAI is launching a new initiaitve designed to provide subsidized access to its models to water systems, electricity providers, local governments and other critical services . Why it matters : Critical infrastructure organizations — which have long lacked the budget, manpower and time needed to shore up their cyber defenses — have been struggling to prepare for the anticipated wave of AI-enabled cyberattacks. Driving the news: OpenAI president Greg Brockman announced the new program while hosting 300 security leaders for a summit at the company's headquarters Thursday. Axios first reported on the summit and Brockman's anticipated announcement. Zoom in: OpenAI is committing $1 billion to a new Daybreak for Frontline Defenders initiative focused on protecting essential services around the world. The $1 billion will come in the form of expanded subsidized access to models, training, technical support and partnerships for participating organizations. OpenAI is also launching Daybreak for America program, which will provide access to its models to local governments, water systems, electricity providers, regional banks and other critical infrastructure. As part of Daybreak for America, OpenAI is starting a pilot program with the Multi-State Information Sharing and Analysis Center to train cyber defenders at state and local governments on using their models. OpenAI is also working with more than 35 technology and cybersecurity services to embed the AI lab's advanced models into their tools, services and workflows. Threat level: For years, cyber officials have feared that AI models will soon be capable of autonomously discovering and chaining together vulnerabilities in complex systems that power public utilities and services. While frontier labs like OpenAI have largely restricted access to the advanced cyber capabilities of their most powerful models, rapid improvements in open-weight models' capabilities are raising fears that AI-enabled attacks will be here sooner than anticipated. OpenAI says the new program will allow lesser-resourced utilities to review legacy code, analyze suspicious activity, identify and validate vulnerabilities, prioritize the most serious risks and develop and test security patches. Reality check: Expanding services and training doesn't solve all of the security problems that have plagued critical infrastructure for decades — which AI-enabled tools will likely now exacerbate. Many entities also need more workers who understand the nuances of protecting the physical systems they're trying to defend from digital threats. Go deeper: AI is supercharging hacks of everyday utilities",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: OpenAI president Greg Brockman announced the new program while hosting 300 secur",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: OpenAI president Greg Brockman announced the new program while hosting 300 security leaders for a summit at the company's headquarters Thursday. Axios first reported on the summit and Brockman's anticipated announcement.",
+      "source": "Axios — OpenAI unveils plan to protect critical services from AI cyberattacks (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: OpenAI is committing $1 billion to a new Daybreak for Frontline Defenders initia",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: OpenAI is committing $1 billion to a new Daybreak for Frontline Defenders initiative focused on protecting essential services around the world. The $1 billion will come in the form of expanded subsidized access to models, training, technica",
+      "source": "Axios — OpenAI unveils plan to protect critical services from AI cyberattacks (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: AI is supercharging hacks of everyday utilities",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: AI is supercharging hacks of everyday utilities",
+      "source": "Axios — OpenAI unveils plan to protect critical services from AI cyberattacks (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Expanding services and training doesn't solve all of the security problems that",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Expanding services and training doesn't solve all of the security problems that have plagued critical infrastructure for decades — which AI-enabled tools will likely now exacerbate. Many entities also need more workers who understand the nu",
+      "source": "Axios — OpenAI unveils plan to protect critical services from AI cyberattacks (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-04T12:18:30+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Widespread AI outage underway",
+  "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
+  "pub_date": "2026-09-03",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Widespread AI outage underway (2026-09-03)",
+  "body": "OpenAI's ChatGPT , Anthropic's Claude, and xAI's Grok are all down Thursday morning, according to the outage company Downdetector. Why it matters: Outages are common, but it's unusual for all three to go down at once, especially as the world increasingly relies on AI models. There have also been reported issues with Google's Gemini, but the company has not issued a confirmed outage notice. Editor's note: This is a breaking news story and will be updated.",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Outages are common, but it's unusual for all three to go down at once, especiall",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Outages are common, but it's unusual for all three to go down at once, especially as the world increasingly relies on AI models. There have also been reported issues with Google's Gemini, but the company has not issued a confirmed outage no",
+      "source": "Axios — Widespread AI outage underway (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-04T12:18:30+00:00"
+}

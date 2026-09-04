@@ -1,0 +1,72 @@
+{
+  "title": "AI models are becoming unknowable",
+  "url": "https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think",
+  "pub_date": "2026-09-04",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI models are becoming unknowable (2026-09-04)",
+  "body": "AI models may be getting safer while also getting harder to monitor. Which side of that seesaw prevails could determine whether AI is scaled safely or ruins civilization as we know it. Why it matters: Right now both options are running full steam and no one knows who's in charge of making sure the right one wins. State of play: OpenAI on Thursday released GPT-6 Astra , which president Greg Brockman said could eventually be seen as the start of artificial general intelligence, or AGI. Astra performs better, but it's also better at avoiding monitoring, meaning it could be harder to know what it's thinking or doing. OpenAI CEO Sam Altman separately told Axios this week that models are becoming \"superhuman\" in some capabilities and that \"we are just sailing in unknown waters.\" Between the lines: The top leaders of AI companies are sounding the alarm on their own technology just as it gets harder to understand a model's actions. OpenAI, Anthropic and more than 100 other companies warned that time is running out to prepare for AI-enabled attacks on critical infrastructure. Altman told Axios that Congress is struggling to figure out how to regulate such a fast moving technology. \"We've been talking to some external organizations about potential concrete standards we could put in place\" OpenAI chief scientist Jakub Pachocki told reporters, adding that OpenAI has also been working to strengthen its own processes. Threat level: While awaiting regulation, AI models are becoming unknowable. OpenAI chief scientist Jakub Pachocki said on a call with reporters that it would continue to get harder to monitor the thoughts of AI models over time. The Information reported this week that the latest OpenAI model used a new technique to boost its performance that may have also made its thoughts less transparent (OpenAI disputes that reporting.) In an analysis of a cyber incident in which an OpenAI model broke into the Hugging Face AI library to get the answers to a benchmark test, one researcher said AI agents generate so much activity that humans can't realistically monitor them without the use of more AI . What they're saying: \"This is an even bigger deal than Hugging Face,\" Sydney Von Arx, an AI Safety researcher and founder of the nonprofit Nightingale told Axios regarding lack of insight into model reasoning. The concern is that, over time, a model's thinking could happen in a hidden layer, which means it could do bad stuff without us knowing. OpenAI says this is not the case with Astra: the model doesn't write out its reasoning as often as prior models do, but that was not done intentionally. Regardless, if models do less thinking out loud some researchers worry their behavior will be harder to monitor. The bottom line: AI is getting sneakier and even the executives driving its growth are asking for help monitoring the risks.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Right now both options are running full steam and no one knows who's in charge o",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Right now both options are running full steam and no one knows who's in charge of making sure the right one wins. State of play: OpenAI on Thursday released GPT-6 Astra , which president Greg Brockman said could eventually be seen as the st",
+      "source": "Axios — AI models are becoming unknowable (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The top leaders of AI companies are sounding the alarm on their own technology j",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The top leaders of AI companies are sounding the alarm on their own technology just as it gets harder to understand a model's actions. OpenAI, Anthropic and more than 100 other companies warned that time is running out to prepare for AI-ena",
+      "source": "Axios — AI models are becoming unknowable (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"This is an even bigger deal than Hugging Face,\" Sydney Von Arx, an AI Safety re",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"This is an even bigger deal than Hugging Face,\" Sydney Von Arx, an AI Safety researcher and founder of the nonprofit Nightingale told Axios regarding lack of insight into model reasoning. The concern is that, over time, a model's thinking ",
+      "source": "Axios — AI models are becoming unknowable (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: AI is getting sneakier and even the executives driving its growth are asking for",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: AI is getting sneakier and even the executives driving its growth are asking for help monitoring the risks.",
+      "source": "Axios — AI models are becoming unknowable (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-04T12:18:29+00:00"
+}

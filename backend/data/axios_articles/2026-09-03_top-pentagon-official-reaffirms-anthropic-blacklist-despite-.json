@@ -1,0 +1,66 @@
+{
+  "title": "Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments",
+  "url": "https://www.axios.com/2026/09/03/pentagon-reaffirms-anthropic-blacklist",
+  "pub_date": "2026-09-03",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments (2026-09-03)",
+  "body": "Pentagon official Emil Michael on Thursday said that Anthropic is still considered a \" supply chain risk ,\" a day after Commerce Secretary Howard Lutnick said the company is \"back on the right side.\" Why it matters: The Trump administration is not entirely aligned on one of the world's leading AI labs following months of fighting over how the military can use its models. What they're saying: \"Anthropic is still a designated Supply Chain Risk at @DeptofWar and for the Defense Industrial Base. Thank you for your attention to this matter!\" Michael posted on X . Catch up quick: Lutnick told Axios' Mike Allen on the sidelines of the G20 Innovation Summit this week: \"We trust Anthropic.\" \"They've done what we asked. They're back on the right side. So the answer is: Yes,\" Lutnick said when asked if he trusts Anthropic CEO Dario Amodei. Personality differences under Amodei's leadership added fuel to the fire in a clash between the Trump administration and Anthropic earlier this year, but the company has been elevating co-founder Tom Brown 's role in its relationship with the White House. Yes, but: A federal judge in August struck down the Pentagon's blacklisting of Anthropic as a supply-chain risk , but the company is still fighting a separate Pentagon designation under a different statute in the D.C. Circuit. The bottom line: Anthropic is not completely out of the woods with the Trump administration as Brown increasingly takes center stage.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The Trump administration is not entirely aligned on one of the world's leading A",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The Trump administration is not entirely aligned on one of the world's leading AI labs following months of fighting over how the military can use its models.",
+      "source": "Axios — Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Lutnick told Axios' Mike Allen on the sidelines of the G20 Innovation Summit thi",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Lutnick told Axios' Mike Allen on the sidelines of the G20 Innovation Summit this week: \"We trust Anthropic.\" \"They've done what we asked. They're back on the right side. So the answer is: Yes,\" Lutnick said when asked if he trusts Anthropi",
+      "source": "Axios — Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Anthropic is still a designated Supply Chain Risk at @DeptofWar and for the Def",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Anthropic is still a designated Supply Chain Risk at @DeptofWar and for the Defense Industrial Base. Thank you for your attention to this matter!\" Michael posted on X .",
+      "source": "Axios — Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Anthropic is not completely out of the woods with the Trump administration as Br",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Anthropic is not completely out of the woods with the Trump administration as Brown increasingly takes center stage.",
+      "source": "Axios — Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments (2026-09-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-04T12:18:30+00:00"
+}
