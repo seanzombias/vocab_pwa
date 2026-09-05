@@ -1,0 +1,50 @@
+{
+  "title": "USPS whistleblower warns new ballot system could fail",
+  "url": "https://www.axios.com/2026/09/01/usps-whistleblower-mail-ballots-warning",
+  "pub_date": "2026-09-01",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — USPS whistleblower warns new ballot system could fail (2026-09-01)",
+  "body": "A U.S. Postal Service whistleblower is alleging the agency defied court orders while rushing to build a new ballot system that could reject thousands of mail ballots . The big picture: The whistleblower says the Postal Service built the system in weeks, not the nine months to a year normally needed for a project of this complexity. The system stems from an executive order signed by President Trump that mandated the federal government to generate lists of confirmed U.S. citizens eligible to vote, and for the postmaster general to propose a rule that USPS will not transmit ballots from any people not on their state list. The rule appeared in the Federal Register late last month. The latest: Sen. Richard Blumenthal (D-CT) sent a letter Monday to Postmaster General David Steiner with the whistleblower report, demanding that the agency explain its processes and whether it followed court orders to cease work on the new system. Blumenthal called the Trump administration's ordered changes a \"deeply troubling departure\" from the role the USPS traditionally plays in U.S. elections. Between the lines: USPS has historically issued guidance on election mail, such as envelope recommendations, but Blumenthal wrote that the agency has never imposed requirements that could lead it to refuse to deliver ballots. Under the system described by the whistleblower, the agency would check ballot barcodes against information uploaded by state election officials. One bad barcode could cause the entire batch — potentially thousands of ballots — to be rejected. \"We urge you to abandon this ill-conceived, unconscionable plan and ensure that all Americans can exercise their constitutional right to vote, including by mail, without interference by USPS,\" he wrote. Blumenthal asked the Postal Service to answer his questions by Friday and provide records by next Tuesday. What they're saying: \"Last night @OversightDems received an alarming whistleblower report from a USPS federal official that President Trump's attack on vote-by-mail is much more serious than previously known,\" House Oversight Committee ranking member Robert Garcia (D-Calif.) said in a statement. The House Oversight Committee has legislative jurisdiction over the USPS, though it is unclear whether it plans to investigate the whistleblower's claims. \"This is an unconstitutional and dangerous power grab and must be permanently and immediately blocked. We are fighting in the courts to protect the right to vote. We will have more to come on this serious and illegal attack on our vote by mail system,\" Garcia said. \"The process of building software to carry out this new verification check is neither complex nor unique for USPS since the Postal Service regularly uses bulk mailing and intelligent mail barcodes for a wide variety of large customers,\" White House spokesperson Lauren Bis said. \"Under President Trump, the federal government is working to ensure safe, transparent, and honest elections.\" For the record: The Postal Service has not yet returned a request for comment. Blumenthal's office said it has similarly not yet heard back from USPS. The legal battle over mail-in ballots is still underway, with 23 states and Washington, D.C. suing the administration in an effort to block Trump's executive order. U.S. District Judge Indira Talwani issued a couple of blocks on the order, but the Supreme Court later upheld the order , saying the states sued too early to prove harm would be done if the order went into effect. The ruling didn't weigh the merits of Trump's order, and the states have since filed a new lawsuit that faces a ticking clock as deadlines loom for printing and mailing ballots to voters. The bottom line: The claim puts a new spotlight on whether USPS can implement a major new ballot-screening system this close to an election, and whether it was building that system while courts told the agency to stop. Editor's note: This story has been updated with a comment from Rep. Robert Garcia and the White House.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: USPS has historically issued guidance on election mail, such as envelope recomme",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: USPS has historically issued guidance on election mail, such as envelope recommendations, but Blumenthal wrote that the agency has never imposed requirements that could lead it to refuse to deliver ballots. Under the system described by the",
+      "source": "Axios — USPS whistleblower warns new ballot system could fail (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Last night @OversightDems received an alarming whistleblower report from a USPS",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Last night @OversightDems received an alarming whistleblower report from a USPS federal official that President Trump's attack on vote-by-mail is much more serious than previously known,\" House Oversight Committee ranking member Robert Gar",
+      "source": "Axios — USPS whistleblower warns new ballot system could fail (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The claim puts a new spotlight on whether USPS can implement a major new ballot-",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The claim puts a new spotlight on whether USPS can implement a major new ballot-screening system this close to an election, and whether it was building that system while courts told the agency to stop. Editor's note: This story has been upd",
+      "source": "Axios — USPS whistleblower warns new ballot system could fail (2026-09-01)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-05T11:25:57+00:00"
+}

@@ -1,0 +1,72 @@
+{
+  "title": "EU tech chief: AI guardrails inevitable for U.S.",
+  "url": "https://www.axios.com/2026/09/04/eu-tech-chief-ai-guardrails-inevitable-us",
+  "pub_date": "2026-09-04",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — EU tech chief: AI guardrails inevitable for U.S. (2026-09-04)",
+  "body": "CHAPEL HILL, N.C. — The Trump administration used this week's G20 innovation summit to draw a bright line between U.S. and European approaches to AI regulation. The bloc's top tech official says the U.S. is ending up with many of the same guardrails anyway. Why it matters: The U.S. is urging countries to avoid Europe's sweeping approach to AI regulation, but the fight is shifting to which guardrails advanced AI needs and how governments put them in place. What they're saying: European Commission tech chief Henna Virkkunen told Axios that the two sides often end up addressing the same safety concerns, even if U.S. safeguards are starting to emerge through state laws and court cases rather than something broad like the EU AI Act. \"We see when it comes to technologies that in the USA the culture is different. So often it's coming via court cases, but often very similar things anyway, very similar concerns.\" \"I don't see that this is so like black and white,\" Virkkunen said. ChatGPT is officially facing strict rules under the Digital Services Act, for instance, and Virkkunen said it's important for the EU to simplify the bloc's rules and make the region \"easier, simpler, faster\" for businesses. The big picture: The U.S. hasn't adopted sweeping federal AI rules, but Washington is still shaping how companies develop and deploy advanced models through executive actions, voluntary frameworks, national security restrictions and other policy. Meanwhile, states are moving ahead with varying degrees of AI regulation, and product changes are being forced on companies through lawsuits. Zoom in: The EU is working on a framework for pre-deployment testing and trusted partner access, Virkkunen noted, another area where the EU is working through similar AI policy questions facing the U.S. \"So in [the] European Union, we are also working for that blueprint, and we are continuing to discuss also under G7, especially with our partners, how we should work on this topic.\" The Trump administration has developed a voluntary framework for reviewing some advanced AI models before release, including potentially giving government officials access for up to 30 days. The White House does not plan to publicly release this framework. OpenAI's Sam Altman confirmed this week to Axios that the administration reviewed its Astra model and noted the process is voluntary: \"But we of course did it.\" Industry leaders at the G20 innovation summit knocked the EU approach to regulation in remarks before Virkkunen as well as representatives from Germany, France and Italy. In response to White House Office of Science and Technology Policy Director Michael Kratsios' question about what foreign governments should and should not do, SpaceX CEO Elon Musk said an approach that's \"relatively free of regulation\" is the way to go. It's \"pretty straightforward,\" Musk said. \"You have to have an environment that's relatively free of regulation, meaning that new things must be default legal as opposed to default illegal.\" \"In the EU, for example, we find that the regulation level is extraordinarily high, and things are generally default illegal, and this inhibits progress with new technologies. It slows it down.\" The bottom line: As AI has grown more powerful, Washington has increasingly gotten involved with model releases.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The U.S. is urging countries to avoid Europe's sweeping approach to AI regulatio",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The U.S. is urging countries to avoid Europe's sweeping approach to AI regulation, but the fight is shifting to which guardrails advanced AI needs and how governments put them in place.",
+      "source": "Axios — EU tech chief: AI guardrails inevitable for U.S. (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The EU is working on a framework for pre-deployment testing and trusted partner",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The EU is working on a framework for pre-deployment testing and trusted partner access, Virkkunen noted, another area where the EU is working through similar AI policy questions facing the U.S. \"So in [the] European Union, we are also worki",
+      "source": "Axios — EU tech chief: AI guardrails inevitable for U.S. (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: European Commission tech chief Henna Virkkunen told Axios that the two sides oft",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: European Commission tech chief Henna Virkkunen told Axios that the two sides often end up addressing the same safety concerns, even if U.S. safeguards are starting to emerge through state laws and court cases rather than something broad lik",
+      "source": "Axios — EU tech chief: AI guardrails inevitable for U.S. (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: As AI has grown more powerful, Washington has increasingly gotten involved with",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: As AI has grown more powerful, Washington has increasingly gotten involved with model releases.",
+      "source": "Axios — EU tech chief: AI guardrails inevitable for U.S. (2026-09-04)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-05T11:25:57+00:00"
+}
