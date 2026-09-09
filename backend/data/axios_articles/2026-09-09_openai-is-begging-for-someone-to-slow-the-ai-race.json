@@ -1,0 +1,98 @@
+{
+  "title": "OpenAI is begging for someone to slow the AI race",
+  "url": "https://www.axios.com/2026/09/09/openai-artificial-general-intelligence-safety",
+  "pub_date": "2026-09-09",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI is begging for someone to slow the AI race (2026-09-09)",
+  "body": "AI leaders are sounding the alarm as their own breakthroughs sharpen an extraordinary dilemma: slow down and risk falling behind, or press ahead and risk losing control. Why it matters: AI executives and researchers increasingly see a race they can't safely slow on their own. Instead, they're urging governments, rivals and outside institutions to impose restraint across the field. \"The idea of racing forward at all costs seems absurd once one internalizes the seriousness of the stakes,\" OpenAI chief scientist Jakub Pachocki wrote Sunday. Meanwhile, Anthropic researcher Jacob Coxon said Tuesday he was leaving the company rather than contribute to what he sees as a race between OpenAI and Anthropic to build systems that will be difficult if not impossible to control. \"Neither company is acting responsibly,\" he said in a post on X. \"They are racing straight to self-improving superintelligence and gambling with our lives.\" Colleague Evan Hubinger, who leads alignment science at Anthropic, posted in support of Coxon: \"Jacob is correct here—we really do earnestly believe AI could kill all humans! I personally think it is (greater than)10% within the next decade,\" he said. \"I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to.\" State of play: OpenAI has spent the past week unveiling capabilities so dramatic that its own leaders — and industry titans like Nvidia CEO Jensen Huang — openly invoked the arrival of artificial general intelligence , or AGI. OpenAI defines the term as AI that can outperform humans across most economically valuable work. GPT-6 Astra , released Thursday and heralded as a \"generational leap\" toward AGI, demonstrated major gains across science, coding, cybersecurity and professional work. Zoom out: That burst of progress is fueling an existential debate inside OpenAI over how far — and how fast — the AI race can safely go. \"Currently I believe that no lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer,\" Pachocki wrote in a blog post titled \"An Alien Mind.\" Those fears turned concrete last month, when OpenAI agents escaped their intended environment and compromised Hugging Face — prompting the company to pause parts of its frontier-model development. In a personal essay, OpenAI's head of strategic futures Dean Ball sketched out an even more unsettling possibility: \"self-sovereign\" AI agents operating beyond human control. Such agents could earn money, buy their own computing power and spread across networks, forming what Ball likens to \"autonomous digital corporations, or even societies.\" \"A genuine loss of control event is entirely possible if we do not act,\" Ball wrote. OpenAI president Greg Brockman comments on Pachocki's essay. Screenshot via X. The intrigue: The Trump administration, which has largely resisted binding AI regulation, sees slowing down as a threat of its own. \"We can't pause. You can't, because the Chinese won't pause,\" Treasury Secretary Scott Bessent said Tuesday. \"If they were to pull ahead of us on AI, then nothing else matters.\" Between the lines: AI is beginning to accelerate its own development, shrinking the distance between one breakthrough and the next. OpenAI said Sunday that it had reached its goal of creating an \"automated research intern,\" but raised serious unresolved safety questions around AI systems that can help build increasingly powerful successors. Two days later, OpenAI revealed that an unreleased model more powerful than Astra had produced a proof for one of mathematics' seven Millennium Prize problems — a historic breakthrough. Reality check: AI labs have spent years warning that their technology could become extraordinarily dangerous, even as the business of building it has grown enormously lucrative. \"There is a long history of tech companies messaging one thing and then paying their lobbyists (internal & external) and trade associations to do the very opposite,\" New York Assemblymember Alex Bores posted on X. Bores, an influential AI critic, pointed to OpenAI's efforts to weaken or defeat proposals for mandatory third-party audits in states including Massachusetts. The other side: OpenAI says it's working on safeguards governments have yet to require, including a formal policy for publicly reporting serious AI incidents. \"My preferred policy is to have one. Right now we don't have one, and that's the big issue. And we're not alone in this,\" Ball told Axios. The bottom line: The calls are coming from inside the house — from the people with the clearest view of how fast AI is advancing, and the strongest incentives to keep the race going.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI executives and researchers increasingly see a race they can't safely slow on",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI executives and researchers increasingly see a race they can't safely slow on their own. Instead, they're urging governments, rivals and outside institutions to impose restraint across the field. \"The idea of racing forward at all costs s",
+      "source": "Axios — OpenAI is begging for someone to slow the AI race (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: That burst of progress is fueling an existential debate inside OpenAI over how f",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: That burst of progress is fueling an existential debate inside OpenAI over how far — and how fast — the AI race can safely go. \"Currently I believe that no lab has solved alignment and monitoring to a sufficient degree to continue responsib",
+      "source": "Axios — OpenAI is begging for someone to slow the AI race (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The Trump administration, which has largely resisted binding AI regulation, sees",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The Trump administration, which has largely resisted binding AI regulation, sees slowing down as a threat of its own. \"We can't pause. You can't, because the Chinese won't pause,\" Treasury Secretary Scott Bessent said Tuesday. \"If they were",
+      "source": "Axios — OpenAI is begging for someone to slow the AI race (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: AI is beginning to accelerate its own development, shrinking the distance betwee",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: AI is beginning to accelerate its own development, shrinking the distance between one breakthrough and the next. OpenAI said Sunday that it had reached its goal of creating an \"automated research intern,\" but raised serious unresolved safet",
+      "source": "Axios — OpenAI is begging for someone to slow the AI race (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The calls are coming from inside the house — from the people with the clearest v",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The calls are coming from inside the house — from the people with the clearest view of how fast AI is advancing, and the strongest incentives to keep the race going.",
+      "source": "Axios — OpenAI is begging for someone to slow the AI race (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: AI labs have spent years warning that their technology could become extraordinar",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: AI labs have spent years warning that their technology could become extraordinarily dangerous, even as the business of building it has grown enormously lucrative. \"There is a long history of tech companies messaging one thing and then payin",
+      "source": "Axios — OpenAI is begging for someone to slow the AI race (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-09T12:31:33+00:00"
+}

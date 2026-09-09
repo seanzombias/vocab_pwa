@@ -1,0 +1,59 @@
+{
+  "title": "Historic NYT v. OpenAI copyright battle heats up",
+  "url": "https://www.axios.com/2026/09/08/nyt-openai-microsoft-copyright-lawsuit",
+  "pub_date": "2026-09-08",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Historic NYT v. OpenAI copyright battle heats up (2026-09-08)",
+  "body": "A landmark copyright lawsuit filed by the New York Times against OpenAI and Microsoft in 2023 moved into a critical new phase Friday, as all three parties presented their official arguments to a judge, with hopes of a favorable ruling ahead of a possible trial. Why it matters: A ruling in favor of the Times could wreak havoc on the lucrative business models underpinning the AI industry. A ruling in favor of OpenAI and Microsoft would serve as a massive blow to the publishing industry, potentially undermining its ability to control and monetize how content is scraped and used by AI giants. Zoom in: In its motion for summary judgment, the Times argued OpenAI and Microsoft copied its works at scale to build commercial substitutes, which it believes violates the law. OpenAI argued existing copyright laws and legal precedents allow tech giants to scrape publicly available works to train their large language models, and that reported facts are not protected by copyright law. It cited studies that suggest outputs to queries via ChatGPT do not create commercial substitutes of the Times' work. Microsoft made similar claims for its Copilot AI product. How it works: In its filing, OpenAI cites two recent California federal court decisions, Kadrey v. Meta and Bartz v. Anthropic, which found using copyrighted works to train AI models constituted as \"fair use\" in both of those cases because the training was considered transformative. The Times doesn't dispute those findings, but says those cases are different and can't be applied to this suit because those plaintiffs didn't show that AI outputs competed with their products, creating market substitutions for their journalism. The Times also argues that the case, which it filed in a New York federal court, should be evaluated against binding copyright precedents established by higher courts — the Supreme Court and the Second Circuit — rather than those recent lower court rulings. Zoom out: Around the world, the case is being closely watched as a groundbreaking legal precedent that could shape the future of the AI industry. This is especially true for the Trump administration, which has publicly tied its national security and economic goals to the development of AI infrastructure. On Thursday, the Justice Department filed a brief supporting OpenAI in the case, arguing training large language models from millions of digital works delivers a transformative public benefit that offsets any competitive harm to the publishing industry. What to watch: District Judge Sidney Stein is expected to rule in the coming months whether the case, or key portions of it, should move to trial next year. Disclosure: Axios and OpenAI have a licensing and technology agreement that allows OpenAI to access part of Axios' story archives while helping fund the launch of Axios into several local cities and providing some AI tools. Axios has editorial independence.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: A ruling in favor of the Times could wreak havoc on the lucrative business model",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: A ruling in favor of the Times could wreak havoc on the lucrative business models underpinning the AI industry. A ruling in favor of OpenAI and Microsoft would serve as a massive blow to the publishing industry, potentially undermining its ",
+      "source": "Axios — Historic NYT v. OpenAI copyright battle heats up (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Around the world, the case is being closely watched as a groundbreaking legal pr",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Around the world, the case is being closely watched as a groundbreaking legal precedent that could shape the future of the AI industry. This is especially true for the Trump administration, which has publicly tied its national security and ",
+      "source": "Axios — Historic NYT v. OpenAI copyright battle heats up (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: In its motion for summary judgment, the Times argued OpenAI and Microsoft copied",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: In its motion for summary judgment, the Times argued OpenAI and Microsoft copied its works at scale to build commercial substitutes, which it believes violates the law. OpenAI argued existing copyright laws and legal precedents allow tech g",
+      "source": "Axios — Historic NYT v. OpenAI copyright battle heats up (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-09T12:31:33+00:00"
+}

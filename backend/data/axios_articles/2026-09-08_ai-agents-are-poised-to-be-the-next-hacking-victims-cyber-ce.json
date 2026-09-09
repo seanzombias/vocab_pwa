@@ -1,0 +1,111 @@
+{
+  "title": "AI agents are poised to be the next hacking victims, cyber CEO predicts",
+  "url": "https://www.axios.com/2026/09/08/ai-agents-bugcrowd-cyberattacks-hack",
+  "pub_date": "2026-09-08",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+  "body": "In a world of AI-enabled cyberattacks , the victims of hacks will no longer just be humans — they'll also be AI agents themselves, Bugcrowd CEO Dave Gerry told Axios. Why it matters: Cyber defenses are tailored toward predicting and defending humans. Now, companies need to start treating the agents roaming their systems as both potential adversaries and the targets. Driving the news: Gerry's prediction during an interview at the Black Hat cybersecurity conference last month came after OpenAI disclosed that its agentic system hacked Hugging Face but before the AI lab released its technical deep dive into how its agents carried out that attack. What he's saying: \"We're going to see agents as the victim,\" Gerry told Axios. \"You're going to start to see agents getting hacked, not people.\" The big picture : Gerry's prediction comes as AI labs continue to grapple with the long-tail impact of their agents taking unauthorized actions during pre-deployment security testing. But many of those cases involve AI agents acting in unintended ways, not hacking each other as a way to break into an organization. Zoom in: Gerry fully anticipates that the growing number of hacks against AI agents are going to take place in the enterprise, rather than on consumer-owned and operated agents, since that's where the bulk of AI agents are currently deployed. \"It's going to become the No. 1 attack vector that we're going to see,\" he said. \"To make our lives easier as humans, we've given [AI agents] the crown jewels to everything.\" He noted that many tools that companies have long relied on now also have agents themselves, making it harder to keep track of what's on a company network. \"You have all of these enterprise-approved tools that now magically got AI turned on,\" he said. \"Now, there's a backlog of all of this tech debt of things that I approved that I no longer approve.\" Between the lines: The cybersecurity industry has been trying to raise awareness about securing AI agents' identities for more than a year, warning that AI agents are now the latest example of insider threats. Those insider agents could be leveraged to provide hackers with unfettered access to sensitive systems, exfiltrate data and break into other parts of an organization. \"To me, that's inevitable,\" Gerry said. Zoom out: Even before AI agents started to proliferate in enterprise networks, poor identity controls were one of the top vectors for malicious hackers. Identity-based cyberattacks accounted for 60% of all of Cisco's incident response cases in 2024, for example. The intrigue: Visibility of the actions that AI agents are taking and their chain of thought is becoming more obfuscated as frontier models advance, making it more difficult for security teams to attribute attacks. What we're watching: \"It's new attacks. It's moving faster. It's moving at a bigger scale,\" Gerry said. \"But ultimately, this comes back to good cyber hygiene and understanding what exists and how do you put controls around it.\" Go deeper: AI models are becoming unknowable",
+  "vocab_count": 7,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Cyber defenses are tailored toward predicting and defending humans. Now, compani",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Cyber defenses are tailored toward predicting and defending humans. Now, companies need to start treating the agents roaming their systems as both potential adversaries and the targets.",
+      "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Gerry's prediction during an interview at the Black Hat cybersecurity conference",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Gerry's prediction during an interview at the Black Hat cybersecurity conference last month came after OpenAI disclosed that its agentic system hacked Hugging Face but before the AI lab released its technical deep dive into how its agents c",
+      "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Even before AI agents started to proliferate in enterprise networks, poor identi",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Even before AI agents started to proliferate in enterprise networks, poor identity controls were one of the top vectors for malicious hackers. Identity-based cyberattacks accounted for 60% of all of Cisco's incident response cases in 2024, ",
+      "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Gerry fully anticipates that the growing number of hacks against AI agents are g",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Gerry fully anticipates that the growing number of hacks against AI agents are going to take place in the enterprise, rather than on consumer-owned and operated agents, since that's where the bulk of AI agents are currently deployed. \"It's ",
+      "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Visibility of the actions that AI agents are taking and their chain of thought i",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Visibility of the actions that AI agents are taking and their chain of thought is becoming more obfuscated as frontier models advance, making it more difficult for security teams to attribute attacks. What we're watching: \"It's new attacks.",
+      "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The cybersecurity industry has been trying to raise awareness about securing AI",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The cybersecurity industry has been trying to raise awareness about securing AI agents' identities for more than a year, warning that AI agents are now the latest example of insider threats. Those insider agents could be leveraged to provid",
+      "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: AI models are becoming unknowable",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: AI models are becoming unknowable",
+      "source": "Axios — AI agents are poised to be the next hacking victims, cyber CEO predicts (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-09T12:31:33+00:00"
+}

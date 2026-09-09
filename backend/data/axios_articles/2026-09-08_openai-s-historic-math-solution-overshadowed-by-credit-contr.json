@@ -1,0 +1,90 @@
+{
+  "title": "OpenAI's historic math solution overshadowed by credit controversy",
+  "url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+  "pub_date": "2026-09-08",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — OpenAI's historic math solution overshadowed by credit controversy (2026-09-08)",
+  "body": "OpenAI says its AI has solved the Navier–Stokes Millennium Prize problem, a potentially historic breakthrough shadowed by questions over unpublished research by outside mathematicians. Why it matters: The controversy strikes at a core trust question for AI-assisted science: whether researchers can safely use frontier labs' tools to work on unpublished discoveries. State of play: OpenAI said Tuesday an internal model \"significantly more capable than GPT-6 Astra\" produced a proof that the three-dimensional Navier–Stokes equations can develop a singularity in finite time. The company says the effort began Sept. 1, after OpenAI researchers heard rumors that two Millennium Prize problems had been solved and launched its new internal model at the remaining problems. On a call with reporters, OpenAI executives said they devoted enormous computing power to the effort, putting the cost of solving the problem in the \"millions of dollars\" with roughly 10,000 agents at work. The equation helps explain how fluids move, which could be used to better understand everything from blood circulation to weather patterns. Friction point: NYU mathematician Tristan Buckmaster and Anthropic researcher Levent Alpöge had been working on closely related fluid-dynamics research. Buckmaster publicly questioned whether OpenAI raced down a research direction it learned about from their work and raised concerns about whether private Codex material could have played a role. He also alleged that OpenAI researcher Sébastien Bubeck pushed to remove Alpöge from authorship because he works for Anthropic, OpenAI's biggest competitor. Buckmaster said that when he threatened to make their interactions public, Bubeck allegedly responded: \"Why would you ruin your career?\" Between the lines: The controversy raises thorny questions about who owns the work completed with AI tools, and whether the labs are competing with their own customers. Zoom in: OpenAI says it did not access Buckmaster or Alpöge's specific user data while pursuing the proof. But the company acknowledged Tuesday that it can't entirely rule out an indirect connection. \"While unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models,\" OpenAI said. By default, OpenAI says it doesn't train on inputs or outputs from enterprise customers. Users of personal ChatGPT accounts can opt out of having their conversations used for training. What they're saying: \"Now that we can see their work, the approaches appear to be different,\" OpenAI CEO Sam Altman wrote on X. Altman admitted OpenAI launched the effort after hearing rumors that Anthropic's models had solved a major math problem: \"We were curious if ours could do it too.\" OpenAI says it does not intend to claim the $1 million Millennium Prize, instead framing the result as evidence of how quickly its most advanced systems are improving. Zoom out: The controversy taps into a broader push for companies to keep sensitive data and intellectual property away from the major AI labs, which Palantir CEO Alex Karp referred to as \"sovereign AI\" in a now-viral CNBC interview. \"This is what all the labs do everyday. read your chats and copy ideas,\" Joseph Perla, founder of model-routing company TrustedRouter, told Axios. Mady's thought bubble: It's striking that OpenAI spent millions of dollars in compute chasing a math breakthrough after hearing that outside researchers — including an Anthropic employee — were close to one themselves. The episode raises an uncomfortable question: What happens when the company providing scientists with AI research tools can also mobilize vastly more resources to compete with them? The bottom line: Disputes over what AI companies know about your work and usage of their tools are just beginning.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The controversy strikes at a core trust question for AI-assisted science: whethe",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The controversy strikes at a core trust question for AI-assisted science: whether researchers can safely use frontier labs' tools to work on unpublished discoveries. State of play: OpenAI said Tuesday an internal model \"significantly more c",
+      "source": "Axios — OpenAI's historic math solution overshadowed by credit controversy (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The controversy taps into a broader push for companies to keep sensitive data an",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The controversy taps into a broader push for companies to keep sensitive data and intellectual property away from the major AI labs, which Palantir CEO Alex Karp referred to as \"sovereign AI\" in a now-viral CNBC interview. \"This is what all",
+      "source": "Axios — OpenAI's historic math solution overshadowed by credit controversy (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: OpenAI says it did not access Buckmaster or Alpöge's specific user data while pu",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: OpenAI says it did not access Buckmaster or Alpöge's specific user data while pursuing the proof. But the company acknowledged Tuesday that it can't entirely rule out an indirect connection. \"While unlikely, we cannot rule out that de-ident",
+      "source": "Axios — OpenAI's historic math solution overshadowed by credit controversy (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The controversy raises thorny questions about who owns the work completed with A",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The controversy raises thorny questions about who owns the work completed with AI tools, and whether the labs are competing with their own customers.",
+      "source": "Axios — OpenAI's historic math solution overshadowed by credit controversy (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Now that we can see their work, the approaches appear to be different,\" OpenAI",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Now that we can see their work, the approaches appear to be different,\" OpenAI CEO Sam Altman wrote on X. Altman admitted OpenAI launched the effort after hearing rumors that Anthropic's models had solved a major math problem: \"We were cur",
+      "source": "Axios — OpenAI's historic math solution overshadowed by credit controversy (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Disputes over what AI companies know about your work and usage of their tools ar",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Disputes over what AI companies know about your work and usage of their tools are just beginning.",
+      "source": "Axios — OpenAI's historic math solution overshadowed by credit controversy (2026-09-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-09T12:31:33+00:00"
+}
