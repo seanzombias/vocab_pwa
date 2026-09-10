@@ -1,0 +1,59 @@
+{
+  "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company",
+  "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
+  "pub_date": "2026-09-09",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: Anthropic whistleblower gave up his equity to leave the company (2026-09-09)",
+  "body": "Anthropic researcher Jacob Coxon quit his job due to concerns about the safety of AI two months before his equity would have vested, he told Axios. Why it matters: The disclosure raises the stakes on Coxon's now mega-viral resignation from the AI lab, which laid out the broad view that the tech could end humanity. What they're saying: \"I no longer have anything to gain by juicing up Anthropic's valuation... I left before any of my equity vested,\" Coxon said in an interview with Axios Wednesday. In his post on X announcing his resignation, which now has over 115 million views, he wrote: \" The people building AI earnestly believe that it could kill us all by the end of the decade. This is not a marketing stunt.\" Other AI researchers, particularly from Google , have resigned over safety. But they did so after years of work, and presumably after their stock vested. Coxon was at Anthropic for just four months, and employees have to be there for six months for their stock to vest, he said. He still has equity in his prior employer, OpenAI. The big picture: Anthropic has traditionally been viewed as more publicly cautious and safety-oriented than other frontier AI labs, making Coxon's departure particularly striking. Coxon said he has not seen Anthropic compromise safety to outlast its competitors, but he is concerned about the future: \"If you're under pressure to race, you have to cut corners\" or \"skip steps in the oversight process,\" he said. Those concerns can sometimes go too far, he said, describing what \"sometimes feels like there's maybe excessive paranoia of OpenAI, excessive paranoia of China\" that can help justify pushing ahead. Threat level: As AI models are getting better, faster, they're also becoming harder to monitor. That, combined with the pressure to win on AI, was Coxon's breaking point that led him to quit. What was once science fiction about models knowing they are being tested, for example, is now \"just a daily fact of working with these AIs,\" he said. \"They know when they're being tested, and they will think about the fact that they're being tested.\" \"The word doom is kind of silly,\" he said, adding that serious leaders in the industry are \"on record saying they ... expect the potential for human extinction.\" The danger was evident during the many recent cyber incidents across frontier AI labs, he said. The bottom line: Coxon is one of now several people who have seen AI's peak capabilities up close — and are warning that what they saw could end humanity as we know it.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The disclosure raises the stakes on Coxon's now mega-viral resignation from the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The disclosure raises the stakes on Coxon's now mega-viral resignation from the AI lab, which laid out the broad view that the tech could end humanity.",
+      "source": "Axios — Scoop: Anthropic whistleblower gave up his equity to leave the company (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I no longer have anything to gain by juicing up Anthropic's valuation... I left",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I no longer have anything to gain by juicing up Anthropic's valuation... I left before any of my equity vested,\" Coxon said in an interview with Axios Wednesday. In his post on X announcing his resignation, which now has over 115 million v",
+      "source": "Axios — Scoop: Anthropic whistleblower gave up his equity to leave the company (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Coxon is one of now several people who have seen AI's peak capabilities up close",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Coxon is one of now several people who have seen AI's peak capabilities up close — and are warning that what they saw could end humanity as we know it.",
+      "source": "Axios — Scoop: Anthropic whistleblower gave up his equity to leave the company (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-10T12:25:20+00:00"
+}

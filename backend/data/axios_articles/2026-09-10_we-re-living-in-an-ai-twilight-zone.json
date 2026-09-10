@@ -1,0 +1,72 @@
+{
+  "title": "We're living in an AI twilight zone",
+  "url": "https://www.axios.com/2026/09/10/ai-anthropic-warning-humanity",
+  "pub_date": "2026-09-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — We're living in an AI twilight zone (2026-09-10)",
+  "body": "Two seemingly contradictory realities are true at once: Most people find AI only modestly useful, a more clever Google search. Many people building AI or using it obsessively worry it could severely damage or destroy humanity. Why it matters: We're living in an AI twilight zone. For many, the technology is simultaneously underwhelming in daily use and terrifying in its trajectory. The gap between these two realities helps explain why confusion and fear are exploding across politics, AI labs and business. State of play: The AI labs are in full panic. They worry the public dislikes AI and despises data centers — and that's before Anthropic insiders went public with their latest warnings that AI could end humanity this decade. They're uncertain how to showcase potential benefits of AI when X and now mainstream media are lit up with horror stories about rogue or ruinous AI. The data center backlash showed how fast public opinion turned against them. Their worst-case scenario: They lose full control of the politics, with both parties rushing to slow or stop AI in the run-up to the election. Between the lines: The past 36 hours show how fast politics and public opinion are moving. A low-level Anthropic employee for all of four months drove the national conversation — and 142 million views on X alone — by warning AI could end humanity. Numerous people, including Anthropic CEO Dario Amodei, have issued similar warnings to us for years. But the tone and timing struck a nerve — and stirred countless members of Congress to call for new AI regulations. Zoom in: Let's look at this tale of two worlds through two different sets of eyes — a mid-career manager and an Anthropic data scientist. The average manager has limited time to experiment with AI, worries it might threaten their job, and mostly uses the models as a search engine and for writing better emails or presentations. It's a nice-to-have, sometimes delightful, other times unimpressive. They don't understand the hype. The Anthropic employee spends all day, every day, staring at rapidly improving AI, often mesmerized, even spooked, by what it does. They see it exceeding even the most optimistic benchmarks, then spend their nights and weekends with similar AI obsessives discussing how it could cure cancer — or go rogue and destroy humankind. To them, this is truly civilizational and existential — a clear reality, not hype. The catch: AI companies have to explain both realities at once. But almost every version of the pitch sounds suspicious. Tell Americans today's AI will transform their lives, and many look at their own experience and wonder what the fuss is about. Tell them tomorrow's AI could become vastly more powerful, and the obvious response is: Then why are you racing to build it? Warn about catastrophic risk while spending hundreds of billions to accelerate development, and critics hear either hypocrisy or fear-based marketing. But keep in mind that the big AI labs are working with unreleased models weeks before the public sees them — plus early training data on future models, months in advance. So they are often warning about progress invisible to the public and government. The big picture: The politics are shifting fast. Until now, much of the AI backlash centered on tangible costs — lost jobs, deepfakes, power bills and data centers. Then on Tuesday, Anthropic researcher Jacob Coxon quit and accused frontier labs of \"gambling with our lives.\" Anthropic's alignment-science lead — who still works at the lab — responded by agreeing that AI could kill humanity, and said his personal odds of that happening in the next decade are over 10%. By Wednesday afternoon, the alarm had gone bipartisan in a Washington already rattled by OpenAI's Hugging Face incident: Sen. Chris Murphy (D-Conn.) described AI companies as being in a \"blind race to build a death machine first.\" Rep. Ted Lieu (D-Calif.) renewed his push for a bipartisan AI kill switch. Sen. Bernie Sanders (I-Vt.), who has already proposed a data center moratorium and ban on superintelligence, is convening senators next week for a briefing on AI's \"extraordinary dangers.\" Rep. Don Beyer, a Democrat from Northern Virginia, tweeted : \"I hope warnings like these will help my colleagues understand how important it is to take broad action on AI regulation, and to do it swiftly.\" Even Sen. Ted Cruz (R-Texas), one of Washington's loudest advocates for beating China in the AI race, called the risks \"dangerous and frightening\" and said guardrails are needed. The bottom line: The AI twilight zone has created fertile ground for a generational populist backlash. The industry requires Americans to absorb enormous disruption today for a future its own builders describe as miraculous or apocalyptic — sometimes in the same breath. Axios' Zachary Basu contributed to this report.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: We're living in an AI twilight zone. For many, the technology is simultaneously",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: We're living in an AI twilight zone. For many, the technology is simultaneously underwhelming in daily use and terrifying in its trajectory. The gap between these two realities helps explain why confusion and fear are exploding across polit",
+      "source": "Axios — We're living in an AI twilight zone (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Let's look at this tale of two worlds through two different sets of eyes — a mid",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Let's look at this tale of two worlds through two different sets of eyes — a mid-career manager and an Anthropic data scientist. The average manager has limited time to experiment with AI, worries it might threaten their job, and mostly use",
+      "source": "Axios — We're living in an AI twilight zone (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The past 36 hours show how fast politics and public opinion are moving. A low-le",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The past 36 hours show how fast politics and public opinion are moving. A low-level Anthropic employee for all of four months drove the national conversation — and 142 million views on X alone — by warning AI could end humanity. Numerous pe",
+      "source": "Axios — We're living in an AI twilight zone (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The AI twilight zone has created fertile ground for a generational populist back",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The AI twilight zone has created fertile ground for a generational populist backlash. The industry requires Americans to absorb enormous disruption today for a future its own builders describe as miraculous or apocalyptic — sometimes in the",
+      "source": "Axios — We're living in an AI twilight zone (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-10T12:25:20+00:00"
+}

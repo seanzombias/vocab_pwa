@@ -1,0 +1,98 @@
+{
+  "title": "Elon Musk's X is the AI community group chat",
+  "url": "https://www.axios.com/2026/09/10/elon-musk-x-ai-community-group-chat",
+  "pub_date": "2026-09-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Elon Musk's X is the AI community group chat (2026-09-10)",
+  "body": "Elon Musk bought Twitter saying civilization needed a \"common digital town square.\" Four years later, it's more like a live group chat for Silicon Valley's AI obsessives . Why it matters: Two years ago, X was fighting off competition from a slew of new entrants. Today, it remains relevant by becoming more niche. The people making AI news are often debating it, explaining it and occasionally breaking it on X before the rest of the information ecosystem catches up. State of play: New model releases, research papers, demos, hiring moves, high-profile executive exits and technical arguments ricochet through X in real time. The latest viral example came Tuesday when Anthropic researcher Jacob Coxon announced his resignation on X, along with a thread explaining his safety concerns. The post has over 100 million views. Another Anthropic employee chimed in to say he thinks there's a >10% chance that AI could kill all humans in the next decade. The combination sparked a ferocious news cycle about the dangers of scaling AI, and it was all kicked off by two employees posting on X. Flashback: The AI community, particularly the researchers who define the technical progress happening within frontier AI labs, has long coalesced around ideas on X. Back in 2025, Anthropic AI researcher Andrej Karpathy coined the term \" vibe coding \" in an X post, helping name one of the defining trends of the AI enterprise adoption curve. Even executives are now engaging more with the platform as a communications tool, with Nvidia CEO Jensen Huang launching his account in July alongside a post supporting open AI models. Researchers from Chinese AI labs are breaking geographic boundaries to reach new audiences on X, per Wired , which is part of what helped catapult open models to their current popularity . Zoom in: Huge investments in live video have made X a go-to platform for new live tech shows, such as \"TBPN,\" \" Stabledash ,\" \" MTS Live \" and others. While those shows don't always have viewership numbers that rival cable TV or even content creators on other platforms, the audience of AI insiders they attract has high value. Just ask TBPN: the network was acquired by OpenAI for a rumored \"low hundreds of millions,\" according to The Financial Times . Yes, but: AI buffs are still a tiny subset of X's overall user base, and data shows X faces ample competitive pressure from Threads in engaging the everyday user. Meta's Threads had 141.5 million daily active mobile users as of January 2026, topping X's 125 million, per Similarweb data . Reality check: Musk didn't create \"AI Twitter.\" Researchers and tech industry figures were already an influential part of the network long before he arrived. But Musk closed the Twitter acquisition just a month before OpenAI released ChatGPT. That kicked off an AI race whose participants were already networked together on the platform. Big Tech CEOs like Huang and Apple's new CEO John Ternus are now joining the platform to communicate major AI announcements. Meta's Mark Zuckerberg also returned to posting on X this year, after letting his account lay largely dormant since its creation in 2009. Zoom out: X itself is becoming an AI product. Musk's xAI acquired X, saying the companies would combine their data, models, computing power and distribution. Grok, the AI model from xAI, can use a connected X account to read timelines and follow what's happening on the platform. The bottom line: Under Musk, X has morphed into an AI obsessives group chat. That may not be relevant for the vast majority of the platform's users, but it is for some of the most powerful innovators in the world.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Two years ago, X was fighting off competition from a slew of new entrants. Today",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Two years ago, X was fighting off competition from a slew of new entrants. Today, it remains relevant by becoming more niche. The people making AI news are often debating it, explaining it and occasionally breaking it on X before the rest o",
+      "source": "Axios — Elon Musk's X is the AI community group chat (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: The AI community, particularly the researchers who define the technical progress",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: The AI community, particularly the researchers who define the technical progress happening within frontier AI labs, has long coalesced around ideas on X. Back in 2025, Anthropic AI researcher Andrej Karpathy coined the term \" vibe coding \" ",
+      "source": "Axios — Elon Musk's X is the AI community group chat (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: X itself is becoming an AI product. Musk's xAI acquired X, saying the companies",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: X itself is becoming an AI product. Musk's xAI acquired X, saying the companies would combine their data, models, computing power and distribution. Grok, the AI model from xAI, can use a connected X account to read timelines and follow what",
+      "source": "Axios — Elon Musk's X is the AI community group chat (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Huge investments in live video have made X a go-to platform for new live tech sh",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Huge investments in live video have made X a go-to platform for new live tech shows, such as \"TBPN,\" \" Stabledash ,\" \" MTS Live \" and others. While those shows don't always have viewership numbers that rival cable TV or even content creator",
+      "source": "Axios — Elon Musk's X is the AI community group chat (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Under Musk, X has morphed into an AI obsessives group chat. That may not be rele",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Under Musk, X has morphed into an AI obsessives group chat. That may not be relevant for the vast majority of the platform's users, but it is for some of the most powerful innovators in the world.",
+      "source": "Axios — Elon Musk's X is the AI community group chat (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Musk didn't create \"AI Twitter.\" Researchers and tech industry figures were alre",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Musk didn't create \"AI Twitter.\" Researchers and tech industry figures were already an influential part of the network long before he arrived. But Musk closed the Twitter acquisition just a month before OpenAI released ChatGPT. That kicked ",
+      "source": "Axios — Elon Musk's X is the AI community group chat (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-10T12:25:20+00:00"
+}

@@ -1,0 +1,72 @@
+{
+  "title": "AI's extinction debate breaks containment",
+  "url": "https://www.axios.com/2026/09/09/anthropic-ai-human-extinction-pdoom-safety-risks",
+  "pub_date": "2026-09-09",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI's extinction debate breaks containment (2026-09-09)",
+  "body": "An online panic erupted this week after millions discovered that leading AI researchers routinely debate and calculate the risk of human extinction. Taken at face value, the odds are chilling: 10%, 20%, sometimes far higher, assigned to the possibility of AI catastrophe. Why it matters: An esoteric debate over \" p(doom) \" has suddenly become a gut-level question for lawmakers, investors and millions of ordinary people: Why are we racing toward a technology its own builders believe could destroy us? Driving the news: A resignation post by Jacob Coxon, an Anthropic researcher who previously worked at OpenAI, has drawn over 110 million views on X after he accused frontier labs of \"gambling with our lives.\" The warning became vastly more explosive when Evan Hubinger, who leads Anthropic's Alignment Science team, publicly backed Coxon — saying \"we really do earnestly believe AI could kill all humans.\" Hubinger said that, in his view, the odds of human extinction within the next decade are over 10%, and that Anthropic still has no plan for how to keep superintelligence under human control. The big picture: Hubinger's post was widely cast as either a nightmare communications gaffe or a calculated dose of fear marketing from Anthropic, weeks before an IPO that could value the company at $2 trillion. In reality, his position has been echoed for years by AI's most influential figures: Geoffrey Hinton , the Nobel-winning \"godfather of AI,\" has estimated a 10%–20% chance that AI causes human extinction. Elon Musk has put the risk as high as 20%. Anthropic CEO Dario Amodei told Axios last year that there's a 25% chance things go \"really, really badly.\" What they fear: \"Doom\" is a catch-all for several paths to catastrophe, from bad actors weaponizing powerful AI to advanced systems slipping beyond human control. Humans with superpowers: AI could sharply lower the barrier to designing biological weapons , launching devastating cyberattacks or crippling critical infrastructure. Machines with agency: A sufficiently autonomous system could deceive its overseers, copy itself, evade safeguards and resist attempts to shut it down. The nightmare scenario: AI begins improving AI faster than humans can understand or contain the process, eventually producing systems too capable for their creators to control. Zoom out: The world underlying those p(doom) estimates has changed dramatically in just a year, as frontier AI has made breathtaking leaps in autonomy, cyber capability and its ability to accelerate AI research itself. Paul Christiano, the former OpenAI alignment chief who joined its board and safety committee Wednesday, said he shares safety fears about AI entering a rapid cycle of self-improvement. \"If we build superintelligence without more robust alignment I expect we will permanently lose control of it,\" Christiano wrote . \"If that happens then most people could die.\" Between the lines: AI researchers speak a probabilistic dialect that sounds utterly foreign to most normal people. Inside a lab, a 10% p(doom) can be shorthand for enormous uncertainty about unprecedented technology. In ordinary life, almost nobody would tolerate that risk from a plane, a drug or a nuclear reactor. Imagine Boeing's head of safety telling you before takeoff that there's a one-in-10 chance the next generation of aircraft ends in catastrophe — and that Boeing still doesn't know how to make it safe. What to watch: That is increasingly how the warnings are being heard outside the labs — as a safety alarm, rather than a probabilistic thought experiment. In Washington, the alarm is slowly intensifying: Sen. Bernie Sanders has proposed a ban on superintelligence and is convening senators for a briefing next week on AI's \"extraordinary dangers.\" The bigger political risk is that Americans were already souring on AI over jobs, power bills and data centers long before extinction entered the mainstream conversation.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: An esoteric debate over \" p(doom) \" has suddenly become a gut-level question for",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: An esoteric debate over \" p(doom) \" has suddenly become a gut-level question for lawmakers, investors and millions of ordinary people: Why are we racing toward a technology its own builders believe could destroy us?",
+      "source": "Axios — AI's extinction debate breaks containment (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: A resignation post by Jacob Coxon, an Anthropic researcher who previously worked",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: A resignation post by Jacob Coxon, an Anthropic researcher who previously worked at OpenAI, has drawn over 110 million views on X after he accused frontier labs of \"gambling with our lives.\" The warning became vastly more explosive when Eva",
+      "source": "Axios — AI's extinction debate breaks containment (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The world underlying those p(doom) estimates has changed dramatically in just a",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The world underlying those p(doom) estimates has changed dramatically in just a year, as frontier AI has made breathtaking leaps in autonomy, cyber capability and its ability to accelerate AI research itself. Paul Christiano, the former Ope",
+      "source": "Axios — AI's extinction debate breaks containment (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: AI researchers speak a probabilistic dialect that sounds utterly foreign to most",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: AI researchers speak a probabilistic dialect that sounds utterly foreign to most normal people. Inside a lab, a 10% p(doom) can be shorthand for enormous uncertainty about unprecedented technology. In ordinary life, almost nobody would tole",
+      "source": "Axios — AI's extinction debate breaks containment (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-10T12:25:20+00:00"
+}

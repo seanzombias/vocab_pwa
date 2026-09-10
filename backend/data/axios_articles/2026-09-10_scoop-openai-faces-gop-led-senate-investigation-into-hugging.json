@@ -1,0 +1,59 @@
+{
+  "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
+  "url": "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley",
+  "pub_date": "2026-09-10",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach (2026-09-10)",
+  "body": "A Republican-led Senate subcommittee that oversees disaster management is investigating OpenAI's handling of the Hugging Face breach in July, Axios has learned. Why it matters: The investigation comes amid rapidly escalating concern on Capitol Hill about the existential dangers posed by AI following public warnings by several Anthropic and OpenAI researchers. \"As you may know, in the public domain, more AI experts are warning about the existential risks of AI,\" Sen. Josh Hawley (R-Mo.) wrote in a letter to OpenAI CEO Sam Altman first obtained by Axios. He added: \"Just this week, three Anthropic researchers expressed publicly that there is a greater than 10% chance that AI could kill all human beings within the next decade.\" Driving the news: Hawley, the chair of the Senate Homeland Security & Governmental Affairs subcommittee on Disaster Management, wrote that he is launching the probe in response to findings from OpenAI's recently released internal investigation . Hawley described OpenAI's handling of the cyber test — specifically not taking more drastic action after researchers became aware their agents had gone rogue — as \"reckless.\" He also noted that OpenAI \"redacted many important details\" about the incident in its report. \"The American people deserve to know the details of what went on in the Hugging Face incident and other incidents of AI models going rogue,\" he wrote. Catch up quick: The Hugging Face breach marked a turning point in the history of AI, leading OpenAI to slow down the release of its own model and rally the industry to sound the alarm over AI-powered cyberattacks. An outside team from METR and Redwood Research conducted an investigation into the incident but it is incomplete and limited in scope. OpenAI did not respond to a request for comment. What's next: Hawley is demanding answers from Altman by Oct. 1 to 16 questions related to the Hugging Face incident and the steps taken by OpenAI in response to it. He is also seeking a wide array of documents about the incident and about OpenAI's internal policies and procedures more broadly.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The investigation comes amid rapidly escalating concern on Capitol Hill about th",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The investigation comes amid rapidly escalating concern on Capitol Hill about the existential dangers posed by AI following public warnings by several Anthropic and OpenAI researchers. \"As you may know, in the public domain, more AI experts",
+      "source": "Axios — Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Hawley, the chair of the Senate Homeland Security & Governmental Affairs subcomm",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Hawley, the chair of the Senate Homeland Security & Governmental Affairs subcommittee on Disaster Management, wrote that he is launching the probe in response to findings from OpenAI's recently released internal investigation . Hawley descr",
+      "source": "Axios — Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The Hugging Face breach marked a turning point in the history of AI, leading Ope",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The Hugging Face breach marked a turning point in the history of AI, leading OpenAI to slow down the release of its own model and rally the industry to sound the alarm over AI-powered cyberattacks. An outside team from METR and Redwood Rese",
+      "source": "Axios — Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach (2026-09-10)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-10T12:25:20+00:00"
+}
