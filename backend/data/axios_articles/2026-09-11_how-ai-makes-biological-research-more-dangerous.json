@@ -1,0 +1,46 @@
+{
+  "title": "How AI makes biological research more dangerous",
+  "url": "https://www.axios.com/2026/09/11/ai-warnings-biological-research-dangerous",
+  "pub_date": "2026-09-11",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — How AI makes biological research more dangerous (2026-09-11)",
+  "body": "This week's dire warnings about unchecked artificial intelligence destroying humanity are refocusing attention on how models already are being used in dangerous bioscience experiments — and the lack of safeguards. Why it matters: There's growing alarm about emerging risks from advances like AI-designed viruses. But it's hard to erect guardrails when there's no ironclad way of even knowing how some AI systems will act. AI-enabled bioweapons are one of the worst-case scenarios researchers have raised for the kind of catastrophic danger that could wipe out humanity. Driving the news: On Thursday, Anthropic disclosed that it disrupted five potential instances of actors using its models in ways that could support the development of biological weapons. The disclosure came in a threat assessment detailing real-world case studies it uncovered and disrupted between December and August. In two of the cases, researchers were attempting to use Claude for assistance with gain-of-function research on dangerous viruses — research that enhances pathogens in a lab to better understand them and their potential for starting pandemics. The assessment notes that biological capabilities can be used for beneficial or harmful purposes, and that it's difficult to determine intent, especially when sophisticated actors can hide their motives. \"We take these cases as evidence not of the imminence of biological threats currently uplifted by Claude, but rather as evidence that significant dual-use research efforts are associated with state actors of concern who routinely evade our access controls,\" the report concludes. \"Safeguarding access to such content will necessarily require account and institutional signals to verify user legitimacy, and the rudimentary observability provided by data retention to identify misuse.\" Anthropic's most recent models have been launched with safeguards that restrict access to biological research queries that could be misused. The big picture: The assessment comes as AI is rapidly reshaping the life sciences and testing the patchwork of laws and government agencies that oversee high-risk research. Last month, a Stanford research team reported that it used a different kind of generative AI to design a synthetic virus — the first time the technology was harnessed to create an organism not seen in nature. A survey of more than 100 national security experts by the Institute for Security and Technology this month found 70% believe AI meaningfully increases the risk of developing a bioweapon, or will within two to three years. The experts said AI's chief threat is lowering the barrier to entry for less-skilled actors and states. The top concern is biology capable of unleashing pandemics, not chemical attacks. How it works: Current AI models have capabilities that might be misused, researchers from Fordham, Johns Hopkins, Oxford, Stanford, Columbia and NYU warned earlier this year . They can design new shells that enclose a virus' DNA, forecast how pathogens evolve, create nucleic acid sequences within DNA or RNA to evade safety screening software, and design viral genomes that have extra power when synthesized in laboratories, the researchers wrote. AI developers also are releasing new, more efficient biological models, often without conducting basic safety assessments — a practice that wouldn't be tolerated in other parts of life science research, they wrote. Threat level: The concern is that advanced AI can help bad actors easily execute complex processing tasks without conscience. Training the models on data that links a virus' genetics to real-world traits — like transmissibility or immune evasion — could lower the bar for creating dangerous pathogens, the experts warn . There are increasing calls for the government to review emerging AI models and set safety standards the way it evaluates other sensitive technologies, replacing the current system of voluntary consultations on risks between AI labs and federal officials. A focal point could be the Department of Commerce's Center for AI Standards and Innovation (CAISI), which was established last year to guide national standard-setting. \"We have this moment to step back and say what do we want this future of AI to look like and what's part of that ecosystem?\" Tom Inglesby, director of the Johns Hopkins Center for Health Security, told Axios. \"The public needs to know most powerful models being developed in this country are being reviewed for high-end national security risks.\" Some experts say the future lies in systems that are created for specific research purposes, like Google DeepMind's AlphaFold , but don't behave like agents — the programs that can independently plan and execute tasks and avoid human monitoring. \"Once you add autonomy ... you create uncertainty that could be quite dangerous because you may not be able to anticipate what they do in the future,\" said Hamza Chaudhry, AI and national security lead at the Future of Life Institute, a nonprofit that aims to reduce the risks of AI. \"The reason people are concerned about super smart systems is that their autonomy can increase as fast as their intelligence.\" What we're watching: Whether policymakers act on the latest warnings. A \"kill switch\" bill in Congress, for example, would give the government the authority to deactivate AI models that can cause catastrophic harm. Another measure would create a legal framework for AI developers to coordinate against emerging AI-specific security risks.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: There's growing alarm about emerging risks from advances like AI-designed viruse",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: There's growing alarm about emerging risks from advances like AI-designed viruses. But it's hard to erect guardrails when there's no ironclad way of even knowing how some AI systems will act. AI-enabled bioweapons are one of the worst-case ",
+      "source": "Axios — How AI makes biological research more dangerous (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: On Thursday, Anthropic disclosed that it disrupted five potential instances of a",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: On Thursday, Anthropic disclosed that it disrupted five potential instances of actors using its models in ways that could support the development of biological weapons. The disclosure came in a threat assessment detailing real-world case st",
+      "source": "Axios — How AI makes biological research more dangerous (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-11T12:23:43+00:00"
+}

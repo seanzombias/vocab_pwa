@@ -1,0 +1,105 @@
+{
+  "title": "AI is making it harder to trust your own eyes this election",
+  "url": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections",
+  "pub_date": "2026-09-09",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+  "body": "Politicians have long made it hard to trust their words. Now, AI -generated campaign ads flooding the airwaves and social media are making it harder to trust your own eyes and ears. Why it matters: Americans' trust in politicians and institutions has been tanking in recent years — and AI campaign ads could deepen that erosion, political tech experts say. What they're saying: \"I think that it is true that Americans are losing faith in elite institutions to tell them what is true and what is not, and AI exacerbates that trend,\" Nate Persily, co-director of the Stanford Law AI Initiative, tells Axios. \"The more artificial media that we consume, the less likely that people will be able to discern what is true from what is false, and also the less that they might care. And that's an important caveat.\" Driving the news: Texas Senate nominee Ken Paxton recently released a realistic campaign ad targeting Democratic nominee James Talarico that used an AI-generated Talarico to deliver some of his most controversial statements, sometimes stripped of context. The synthetic Talarico combined and repackaged remarks Talarico had made about biological sex, God and Christianity, sometimes stripping them of their original context. The ad was based on real remarks, but it altered some of Talarico's wording while using an AI-generated version of him to deliver them Between the lines: Paxton's ad lands amid a broader backlash against AI, including increasingly visible fights over data centers . \"The one thing that both right and left seem to agree on is that they don't trust AI,\" Sarah Kreps, the director of Cornell's Tech Policy Institute, tells Axios. \"They want authenticity, not AI-generated slop.\" Kreps notes Paxton may have run an unnecessary risk: \"He'd probably be better served just letting the quotes speak for themselves, rather than making it a murky thing where he's risking conflating himself with all this AI backlash.\" Zoom in: AI can degrade public trust even when people aren't fooled. \"The main harm from the rise of AI constructed media is not that people will be duped by something that is AI generated,\" Persily says. The bigger worry, he says, is that bad actors can dismiss something real as another deepfake. Even when voters recognize an ad as synthetic, the emotional impact can persist, UC Irvine epistemologist Cailin O'Connor says. \"If you see some public figure saying something bad or doing something bad, you might still have negative emotions about them as a result.\" Kreps says persistent skepticism and vigilance can also become \"tiring because it's just more of an inconvenience,\" leading people to assume content is fake until proven otherwise. Zoom out: Not all political AI is equally deceptive. For example, cartoonish ads for Los Angeles mayoral candidate Spencer Pratt operated more like memes than deepfakes. Federal legislation is essentially nonexistent, while many states require deepfake disclosures for potentially deceptive ads and impose looser restrictions on clearly satirical content In New York, state Democrats recently asked election officials to investigate a Republican gubernatorial campaign's AI ad over allegedly missing \"materially deceptive\" labels. The Republican says it was satire. The bottom line: Without clearer rules, voters face a patchwork of AI campaign standards that could push them away from shared facts and further erode trust in politicians Go deeper: An explosion of AI deepfakes is redefining American elections",
+  "vocab_count": 8,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Americans' trust in politicians and institutions has been tanking in recent year",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Americans' trust in politicians and institutions has been tanking in recent years — and AI campaign ads could deepen that erosion, political tech experts say.",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Texas Senate nominee Ken Paxton recently released a realistic campaign ad target",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Texas Senate nominee Ken Paxton recently released a realistic campaign ad targeting Democratic nominee James Talarico that used an AI-generated Talarico to deliver some of his most controversial statements, sometimes stripped of context. Th",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Not all political AI is equally deceptive. For example, cartoonish ads for Los A",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Not all political AI is equally deceptive. For example, cartoonish ads for Los Angeles mayoral candidate Spencer Pratt operated more like memes than deepfakes. Federal legislation is essentially nonexistent, while many states require deepfa",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: AI can degrade public trust even when people aren't fooled. \"The main harm from",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: AI can degrade public trust even when people aren't fooled. \"The main harm from the rise of AI constructed media is not that people will be duped by something that is AI generated,\" Persily says. The bigger worry, he says, is that bad actor",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Paxton's ad lands amid a broader backlash against AI, including increasingly vis",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Paxton's ad lands amid a broader backlash against AI, including increasingly visible fights over data centers . \"The one thing that both right and left seem to agree on is that they don't trust AI,\" Sarah Kreps, the director of Cornell's Te",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I think that it is true that Americans are losing faith in elite institutions t",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I think that it is true that Americans are losing faith in elite institutions to tell them what is true and what is not, and AI exacerbates that trend,\" Nate Persily, co-director of the Stanford Law AI Initiative, tells Axios. \"The more ar",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Without clearer rules, voters face a patchwork of AI campaign standards that cou",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Without clearer rules, voters face a patchwork of AI campaign standards that could push them away from shared facts and further erode trust in politicians",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: An explosion of AI deepfakes is redefining American elections",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: An explosion of AI deepfakes is redefining American elections",
+      "source": "Axios — AI is making it harder to trust your own eyes this election (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-11T12:23:43+00:00"
+}

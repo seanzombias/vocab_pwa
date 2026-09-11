@@ -1,0 +1,59 @@
+{
+  "title": "Congress gripped by AI panic after doomsday warnings",
+  "url": "https://www.axios.com/2026/09/11/congress-ai-anthropic-coxon-researcher-democrats",
+  "pub_date": "2026-09-11",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Congress gripped by AI panic after doomsday warnings (2026-09-11)",
+  "body": "Anthropic insiders' warnings this week that AI could end humanity in the next decade have members of Congress frantically seeking answers and trying to cobble together some kind of response. Why it matters: Federal lawmakers are at the \"concepts of a plan\" stage at this point, with congressional leaders showing little apparent urgency to mobilize. Some rank-and-file members in both parties say something must be done: \"We should absolutely act, and act with urgency,\" Rep. Johnny Olszewski (D-Md.) told Axios. Rep. Anna Paulina Luna (R-Fla.) wrote Wednesday in a post on X that \"Congress needs to convene a special session on AI and what the future of the U.S. looks like.\" Driving the news: Former Anthropic researcher Jacob Coxon kicked off the frenzy Tuesday with a post on X declaring that \"the people building AI earnestly believe that it could kill us all by the end of the decade.\" Coxon quit his job at the AI giant after just four months to publicly raise the alarm about the dangers of the technology, giving up his equity in the process, Axios' Madison Mills reported. His warning was echoed by several current Anthropic employees, with one, Evan Hubinger, responding on X that \"we really do earnestly believe AI could kill all humans!\" \"AI developers believe their technology could cause human extinction,\" wrote another, Samuel Marks. \"This could happen in the next few years.\" State of play: Dozens of members of Congress — mostly Democrats, but a handful of Republicans as well — have since called for urgent action and floated a wide variety of legislative responses. Rep. Ted Lieu (D-Calif.), one of House Democrats' most vocal advocates for AI regulations, is pushing his bipartisan bill to require AI developers to build a human-activated \"kill switch\" as part of any AI system. Sen. Bernie Sanders (I-Vt.) said he and Rep. Greg Casar (D-Texas) \"will soon be introducing legislation ... to pause advanced AI and ban superintelligence altogether.\" Others called for a more cautious approach, with Rep. Nathaniel Moran (R-Texas) writing that \"we need AI to flourish\" and calling for \"deliberate, thoughtful, and prudent policymaking\" to mitigate its risks. Sen. Ruben Gallego (D-Ariz.) proposed a bipartisan AI Select Committee, something Lieu has also privately pitched to House Democratic leadership, according to sources familiar with the matter. House Minority Leader Hakeem Jeffries (D-N.Y.) has not yet come to a decision on whether to pursue the idea if Democrats win the majority, sources said. Some members have privately bristled at the proposal because the panel may clash with existing House committees on jurisdiction, but most sources suggested it is widely supported and has a decent chance of being implemented. Reality check: House Republican leaders, who control both chambers of Congress, have not given any indication that they are treating this as a pressing matter. The House is set to be in session for just four more days before Election Day, with lawmakers meeting on Capitol Hill next week before going on a six-week recess. House Speaker Mike Johnson (R-La.) will put a bill narrowly focused on regulating data centers on the floor next week, Axios' Kate Santliz first reported, but has given no indication he is planning a broader push to regulate AI. Instead, many Democrats are speaking about the issue as something they will tackle in 2027 if they take the majority in one or both chambers. \"This is an enormous issue and should be one of our top priorities in the next Congress,\" Rep. Joe Morelle (D-N.Y.) told Axios, saying Republicans \"should be ashamed that they did absolutely nothing the last four years.\" \"Trying to fix the deficit and the debt, that's complicated, it's going to take decades, it will take an enormous amount of political courage. This is so straightforward,\" said Rep. Greg Landsman (D-Ohio). He added: \"Everyone, including the industry, wants to be regulated, and Johnson's like ... 'don't care.'\" What we're hearing: Not every Democrat is feeling the pressure to act either. One committee ranking member, speaking on the condition of anonymity to offer candid thoughts about AI, said of Coxon: \"I think he's wrong.\" \"Anyone who has come to me with extreme predictions like that usually undermines their credibility,\" the lawmaker said, though they acknowledged Capitol Hill needs to get \"a better handle\" on AI. This ranking member said they support the idea of an AI select committee because \"it would be a waste\" to devote staff members' time to learning extensively about AI when that panel could \"do that work for me.\"",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Federal lawmakers are at the \"concepts of a plan\" stage at this point, with cong",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Federal lawmakers are at the \"concepts of a plan\" stage at this point, with congressional leaders showing little apparent urgency to mobilize. Some rank-and-file members in both parties say something must be done: \"We should absolutely act,",
+      "source": "Axios — Congress gripped by AI panic after doomsday warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Former Anthropic researcher Jacob Coxon kicked off the frenzy Tuesday with a pos",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Former Anthropic researcher Jacob Coxon kicked off the frenzy Tuesday with a post on X declaring that \"the people building AI earnestly believe that it could kill us all by the end of the decade.\" Coxon quit his job at the AI giant after ju",
+      "source": "Axios — Congress gripped by AI panic after doomsday warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: House Republican leaders, who control both chambers of Congress, have not given",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: House Republican leaders, who control both chambers of Congress, have not given any indication that they are treating this as a pressing matter. The House is set to be in session for just four more days before Election Day, with lawmakers m",
+      "source": "Axios — Congress gripped by AI panic after doomsday warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-11T12:23:43+00:00"
+}

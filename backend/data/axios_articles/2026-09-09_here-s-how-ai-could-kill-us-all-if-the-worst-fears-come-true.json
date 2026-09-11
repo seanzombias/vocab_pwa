@@ -1,0 +1,59 @@
+{
+  "title": "Here's how AI could kill us all (if the worst fears come true)",
+  "url": "https://www.axios.com/2026/09/09/ai-doom-pdoom-kill-all-humans-anthropic",
+  "pub_date": "2026-09-09",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Here's how AI could kill us all (if the worst fears come true) (2026-09-09)",
+  "body": "AI researchers shook the world Tuesday when they publicly acknowledged that there's a non-zero chance of AI killing off humanity in the next decade. Why it matters: AI doomsday fears have existed for years, but as the technology has become more powerful and embedded in our lives, those warnings are breaking into the mainstream. State of play: Anthropic researchers are sounding the alarm that rogue versions of superintelligent AI could destroy humanity. Anthropic's Jacob Coxon wrote on X: \"No other human activity poses this level of danger.\" So how would AI kill us all, exactly? Experts generally worry about two broad paths to catastrophe: humans weaponizing extremely powerful AI, or humans losing control of it. In these scenarios, AI could make it easier for bad actors to create biological, chemical or other weapons. Or rogue systems could attack infrastructure at unprecedented scale while evading human oversight. Data: MIT IT FutureTech and the University of Queensland ; Chart: Herb Scribner/Axios How it works: In theory, a powerful rogue AI could evade oversight, replicate itself and resist attempts to shut it down. This rogue AI could, in theory, develop biological or chemical weapons for nefarious actors, commit a massive cyber attack that cripples humanity's infrastructure, or centralize power in a way that would bring down civilization. Another feared pathway is through recursive self-improvement, in which an AI helps build supercharged versions of itself before humans can understand it. If this theoretical AI was misaligned from human goals, it could limit humanity's chances of containing or monitoring it before it acts out against humans. OpenAI CEO Sam Altman told Axios that models are developing quicker than humans can anticipate: \"These models are getting superhuman in many of their capabilities, and we are just sailing in unknown waters.\" Reality check: There's no scientific way to determine the odds of AI killing off humanity. But insiders usually express their estimates using a shorthand — p(doom). What is p(doom) exactly? The term p(doom) is shorthand for a best guess at the probability that AI causes an existential catastrophe or doomsday scenario. Many AI leaders and researchers believe p(doom) becomes increasingly more likely with the arrival of artificial general intelligence (AGI), the forerunner to superintelligence . Context: \"Doom\" is in the eye of the beholder. Some mean literal human extinction. Others include civilization's collapse or humanity's loss of control over society. What are the odds of p(doom)? The chances of p(doom) really depend on who you ask. Roman Yampolskiy , an AI safety scientist, has put the chances at 99.99%. AMI Labs founder Yann LeCun says any guess is a wild one, but p(doom) is \"a lot less likely than a nuclear Holocaust.\" Other estimates are similarly scattered: Elon Musk has put his p(doom) around 20%, while Anthropic CEO Dario Amodei has estimated a 10%-25% chance of a catastrophic outcome. More recently, AI godfather Geoffrey Hinton put the number at between 10%-20%. Hinton told CNN : \"Anybody who estimates probabilities like that is really just making a wild guess. They're just giving you their gut feeling.\" Is doomsday possible yet? We're not there yet. Experts generally agree that Claude, Grok and ChatGPT aren't plotting to end the world. The 2026 International AI Safety Report , for example, said today's systems aren't capable of causing humanity to lose control. AI would have to get much better at long-term autonomous planning, hiding its actions, evading oversight, gaining access to real-world systems and resisting shutdown attempts. However, there are recent examples of AI agents acting autonomously and maliciously , beyond human understanding, resembling the type of rogue AI agents that some fear could lead to doomsday. Can p(doom) be prevented? Researchers are working on ways to lower the risk. One such way is for humans to build kill switches or safeguards that could stop rogue AI agents. A RAND report last April outlined nine mitigation strategies to stop bad actors from using AI to create deadly bioweapons, including more controls and safeguards. Yes, but: This gets tricky, fast. Leading AI companies are under pressure from shareholders, investors and their bosses to build, build, build — fast. The IPO headwinds could add to those incentives. And it doesn't help that China and other U.S. AI companies are building their own powerful models, some open-weight and available for free, providing a potential runway for bad actors. The bottom line: No one can accurately guess the odds of an AI doomsday, but scientists are sounding the alarm that the chances are real.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI doomsday fears have existed for years, but as the technology has become more",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI doomsday fears have existed for years, but as the technology has become more powerful and embedded in our lives, those warnings are breaking into the mainstream. State of play: Anthropic researchers are sounding the alarm that rogue vers",
+      "source": "Axios — Here's how AI could kill us all (if the worst fears come true) (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: No one can accurately guess the odds of an AI doomsday, but scientists are sound",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: No one can accurately guess the odds of an AI doomsday, but scientists are sounding the alarm that the chances are real.",
+      "source": "Axios — Here's how AI could kill us all (if the worst fears come true) (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: There's no scientific way to determine the odds of AI killing off humanity. But",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: There's no scientific way to determine the odds of AI killing off humanity. But insiders usually express their estimates using a shorthand — p(doom). What is p(doom) exactly? The term p(doom) is shorthand for a best guess at the probability",
+      "source": "Axios — Here's how AI could kill us all (if the worst fears come true) (2026-09-09)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-11T12:23:44+00:00"
+}
