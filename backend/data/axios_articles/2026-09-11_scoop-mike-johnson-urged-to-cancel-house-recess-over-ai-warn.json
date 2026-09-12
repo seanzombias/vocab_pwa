@@ -1,0 +1,78 @@
+{
+  "title": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
+  "url": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+  "pub_date": "2026-09-11",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Scoop: Mike Johnson urged to cancel House recess over AI warnings (2026-09-11)",
+  "body": "A letter is circulating among House members urging Speaker Mike Johnson (R-La.) to bring back the House \"immediately\" and keep it in session until Congress passes AI safeguards , Axios has learned. Why it matters: Such drastic action has been proposed by members of both parties this week after current and former Anthropic researchers went public with warnings that AI could kill off humanity in the next decade. The letter to Johnson, drafted by Sam Liccardo (D-Calif.), says \"urgent action\" is needed \"to address catastrophic risk posed by advanced artificial intelligence,\" according to a copy first obtained by Axios . The letter is co-signed by Reps. George Whitesides (D-Calif.) and Lori Trahan (D-Mass.) but was still being circulated as of Friday afternoon. Driving the news: The letter calls for the House to \"return to Washington immediately and remain in session until Congress advances meaningful, bipartisan AI safeguards.\" It notes that the House, which reconvenes Monday, is scheduled to be in session just one more week before departing for a month and a half, returning Nov. 9. \"You can forgive every American who believes that Congress remains unserious about confronting our nation's most pressing challenges,\" the letter says. Reality check: Despite growing urgency from rank-and-file members to respond to the existential threat allegedly posed by AI, congressional leadership has largely offered up silence. Johnson is planning a vote next week on a bill to prevent data centers from driving up Americans' energy costs but has offered no indication that the House will vote on any AI regulations before Election Day. A spokesperson for Johnson did not provide comment. Between the lines: The letter points to the myriad bipartisan bills that have been proposed to regulate AI, arguing they \"deserve consideration, public debate, thoughtful amendment, and action.\" They include the AI Kill Switch Act , introduced by Reps. Ted Lieu (D-Calif.) and Nathaniel Moran (R-Texas), which would require all AI systems to maintain some way for humans to slow or shut them down. Another is the FRONTIER Act , proposed by Trahan and Rep. Jay Obernolte (R-Calif.) to create a national framework regulating the development and deployment of new AI models. \"Whether with these proposals or any other variants, AI experts and leading companies agree that the United States can lead the world in artificial intelligence while establishing reasonable safeguards that protect Americans and our national security,\" the letter says. The bottom line: \"To our children who will have read a post-apocalyptic history, 'Why Congress Slept' — likely written by agentic AI — our inaction will be inexplicable, and unforgivable,\" the letter says.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Such drastic action has been proposed by members of both parties this week after",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Such drastic action has been proposed by members of both parties this week after current and former Anthropic researchers went public with warnings that AI could kill off humanity in the next decade. The letter to Johnson, drafted by Sam Li",
+      "source": "Axios — Scoop: Mike Johnson urged to cancel House recess over AI warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The letter calls for the House to \"return to Washington immediately and remain i",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The letter calls for the House to \"return to Washington immediately and remain in session until Congress advances meaningful, bipartisan AI safeguards.\" It notes that the House, which reconvenes Monday, is scheduled to be in session just on",
+      "source": "Axios — Scoop: Mike Johnson urged to cancel House recess over AI warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The letter points to the myriad bipartisan bills that have been proposed to regu",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The letter points to the myriad bipartisan bills that have been proposed to regulate AI, arguing they \"deserve consideration, public debate, thoughtful amendment, and action.\" They include the AI Kill Switch Act , introduced by Reps. Ted Li",
+      "source": "Axios — Scoop: Mike Johnson urged to cancel House recess over AI warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"To our children who will have read a post-apocalyptic history, 'Why Congress Sl",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"To our children who will have read a post-apocalyptic history, 'Why Congress Slept' — likely written by agentic AI — our inaction will be inexplicable, and unforgivable,\" the letter says.",
+      "source": "Axios — Scoop: Mike Johnson urged to cancel House recess over AI warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Despite growing urgency from rank-and-file members to respond to the existential",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Despite growing urgency from rank-and-file members to respond to the existential threat allegedly posed by AI, congressional leadership has largely offered up silence. Johnson is planning a vote next week on a bill to prevent data centers f",
+      "source": "Axios — Scoop: Mike Johnson urged to cancel House recess over AI warnings (2026-09-11)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-12T11:45:16+00:00"
+}
