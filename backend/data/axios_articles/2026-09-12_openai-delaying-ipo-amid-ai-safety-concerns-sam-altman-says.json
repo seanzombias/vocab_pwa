@@ -1,0 +1,72 @@
+{
+  "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+  "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+  "pub_date": "2026-09-12",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI delaying IPO amid AI safety concerns, Sam Altman says (2026-09-12)",
+  "body": "OpenAI will not go public this year given all the safety work it needs to do, CEO Sam Altman said in a Fortune interview released Saturday. Why it matters: Altman's comments come as fears over doomsday AI scenarios have ramped up since an Anthropic employee resigned and issued a dire warning about AI's capabilities. What they're saying: \"Right now would be an ill-advised moment to go public,\" Altman said . \"I would say not 2026, yeah. We got a lot of stuff to do,\" Altman told Fortune editor-in-chief Alyson Shontell. \"Meeting this moment of what is going to be required for safety and alignment, and how the industry and governments can work together, I'm happy to be able to do that as a private company.\" The intrigue: The market expected blockbuster IPOs from both OpenAI and Anthropic this year. Altman's move puts the ball squarely in Anthropic CEO Dario Amodei's court — especially given Amodei's warning Saturday that AI development needs to be slowed. The bottom line: \" I think a key principle that we should all agree on is that we cannot take actions that would risk losing control of the future to AI,\" Altman said. That means investors may have to wait a while. Editor's note: This story has been updated with new information throughout.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Altman's comments come as fears over doomsday AI scenarios have ramped up since",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Altman's comments come as fears over doomsday AI scenarios have ramped up since an Anthropic employee resigned and issued a dire warning about AI's capabilities.",
+      "source": "Axios — OpenAI delaying IPO amid AI safety concerns, Sam Altman says (2026-09-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The market expected blockbuster IPOs from both OpenAI and Anthropic this year. A",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The market expected blockbuster IPOs from both OpenAI and Anthropic this year. Altman's move puts the ball squarely in Anthropic CEO Dario Amodei's court — especially given Amodei's warning Saturday that AI development needs to be slowed.",
+      "source": "Axios — OpenAI delaying IPO amid AI safety concerns, Sam Altman says (2026-09-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Right now would be an ill-advised moment to go public,\" Altman said . \"I would",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Right now would be an ill-advised moment to go public,\" Altman said . \"I would say not 2026, yeah. We got a lot of stuff to do,\" Altman told Fortune editor-in-chief Alyson Shontell. \"Meeting this moment of what is going to be required for ",
+      "source": "Axios — OpenAI delaying IPO amid AI safety concerns, Sam Altman says (2026-09-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \" I think a key principle that we should all agree on is that we cannot take act",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \" I think a key principle that we should all agree on is that we cannot take actions that would risk losing control of the future to AI,\" Altman said. That means investors may have to wait a while. Editor's note: This story has been updated",
+      "source": "Axios — OpenAI delaying IPO amid AI safety concerns, Sam Altman says (2026-09-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-13T12:53:21+00:00"
+}
