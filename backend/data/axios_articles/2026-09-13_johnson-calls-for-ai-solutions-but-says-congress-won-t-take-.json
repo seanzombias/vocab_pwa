@@ -1,0 +1,85 @@
+{
+  "title": "Johnson calls for AI solutions but says Congress won't take the lead",
+  "url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
+  "pub_date": "2026-09-13",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Johnson calls for AI solutions but says Congress won't take the lead (2026-09-13)",
+  "body": "House Speaker Mike Johnson (R-La.) said Sunday that Congress won't lead the charge on regulating AI safety . Why it matters: Calls for AI companies to adopt safety protocols reached a fever pitch this week, prompting the four biggest AI labs to endorse slowing their models' development. Driving the news: Johnson was urged this week to cancel the House recess and bring representatives back to D.C. to pass a law on AI safeguards. During a Sunday appearance on CNN's \"State of the Union,\" Johnson said Congress intervening isn't the answer and that AI companies can halt their work at any time. We have to \"resist Congress jumping in and imposing some sort of emergency moratorium. It's got to be done right, safely, wisely. In a separate appearance on NBC's \"Meet the Press,\" Johnson conceded that he would recall House members and schedule a vote on AI regulation \"if we had a solution,\" but said any action from Congress must be done carefully. \"We have to put up some guardrails, some safety measures in place to ensure that AI doesn't run away ....But at the same time, we've got to make sure that we don't lose our edge in the global competition on this with China. Because that would be a national security threat.\" What they're saying: Johnson told CNN and NBC he would like to organize a meeting between President Trump , members of Congress, and the top AI officials who call the shots at their respective companies. Johnson added to CNN that he would prefer AI company leaders to take a leadership role and responsibility for ensuring the safety of their products, rather than pushing Congress to implement rules. Johnson's comments mirror former White House AI czar David Sacks, who said late Saturday that the major labs should simply pace development on their own, without the government having to intervene. The other side: House Minority Leader Hakeem Jeffries (D-N.Y.) told ABC's \"This Week\" that Democrats planned to meet Tuesday morning to discuss AI. \"We should take decisive action now so that we can slow down, as the CEOs have recently acknowledged, slow down the pace of development in order to protect the American people and ensure that AI is proceeding safely,\" he said. Zoom out: CNN's Jake Tapper pointed out that several AI leaders agreed with a 3,800-word essay published Saturday by Anthropic's Dario Amodei, in which he proposed slowing AI development and implementing more safety measures. Johnson seemed skeptical, saying that the companies \"all have very different ideas on what the guardrails should be. There's no consensus among them. And Congress is obviously less qualified than the people who are pushing this frontier to know all the ins and outs of it.\" The House speaker also said Americans shouldn't panic over the technology and the doomsday warnings , though Axios' Andrew Solender reported last week that rank-and-file members of Congress are urging action . \"We need to handle this new technology like we have others in the past and make sure we're doing everything we can responsibly to also not smother American innovation. We have to do both things simultaneously,\" Johnson said. Go deeper: Labs are begging for someone to slow the AI race Editor's note: This story has been updated with comment from additional comments to NBC and comment from House Minority Leader Hakeem Jeffries",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Calls for AI companies to adopt safety protocols reached a fever pitch this week",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Calls for AI companies to adopt safety protocols reached a fever pitch this week, prompting the four biggest AI labs to endorse slowing their models' development.",
+      "source": "Axios — Johnson calls for AI solutions but says Congress won't take the lead (2026-09-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Johnson was urged this week to cancel the House recess and bring representatives",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Johnson was urged this week to cancel the House recess and bring representatives back to D.C. to pass a law on AI safeguards. During a Sunday appearance on CNN's \"State of the Union,\" Johnson said Congress intervening isn't the answer and t",
+      "source": "Axios — Johnson calls for AI solutions but says Congress won't take the lead (2026-09-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: CNN's Jake Tapper pointed out that several AI leaders agreed with a 3,800-word e",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: CNN's Jake Tapper pointed out that several AI leaders agreed with a 3,800-word essay published Saturday by Anthropic's Dario Amodei, in which he proposed slowing AI development and implementing more safety measures. Johnson seemed skeptical",
+      "source": "Axios — Johnson calls for AI solutions but says Congress won't take the lead (2026-09-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Johnson told CNN and NBC he would like to organize a meeting between President T",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Johnson told CNN and NBC he would like to organize a meeting between President Trump , members of Congress, and the top AI officials who call the shots at their respective companies. Johnson added to CNN that he would prefer AI company lead",
+      "source": "Axios — Johnson calls for AI solutions but says Congress won't take the lead (2026-09-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Labs are begging for someone to slow the AI race Editor's note: This story has b",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Labs are begging for someone to slow the AI race Editor's note: This story has been updated with comment from additional comments to NBC and comment from House Minority Leader Hakeem Jeffries",
+      "source": "Axios — Johnson calls for AI solutions but says Congress won't take the lead (2026-09-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-14T14:30:28+00:00"
+}

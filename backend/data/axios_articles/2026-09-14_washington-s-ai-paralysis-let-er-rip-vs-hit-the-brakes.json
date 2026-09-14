@@ -1,0 +1,85 @@
+{
+  "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes",
+  "url": "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress",
+  "pub_date": "2026-09-14",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Washington's AI paralysis: Let 'er rip vs. hit the brakes (2026-09-14)",
+  "body": "President Trump is as all-in on AI as a politician could be: all gas, no brakes, and zero interest in hand-wringing about dystopian risks or public disdain. Democrats are as conflicted on AI as a party could be: skeptical of the labs, spooked by their warnings, but split on whether to shut it all down. Why it matters: This staggering divide makes consensus on federal AI regulation almost unimaginable this year — and probably through early 2029, regardless of who wins control of Congress. Zoom in: Trump has governed as the AI president from Day 1 , applying the same doctrine to models and the data centers that power them — build faster, regulate less, beat China. Speaking in Ireland on Sunday, he dismissed new safety warnings as the work of \"a lot of negative forces ... bringing up things that won't happen\" — and reduced the stakes to one line: \"Whoever wins AI wins.\" It's unclear which \"negative forces\" Trump has in mind: Calls to slow the race — or \" pace the frontier \" — are now coming from the leaders of America's premier AI labs, including Anthropic, OpenAI, SpaceXAI and Google. Between the lines: Trump's accelerationist allies, including venture capitalists in Silicon Valley, see the safety alarms as a cynical ploy by the field's dominant players to lock in favorable regulations. David Sacks, Trump's former AI czar and a leading voice for the administration's hands-off approach, has a simple answer : Slow yourselves down. If OpenAI and Anthropic truly think the frontier is moving too fast, Sacks argues, they can decelerate on their own without using Washington to force competitors to do the same. House Speaker Mike Johnson (R-La.) echoed Sacks' argument that the labs don't need Congress to slow themselves down — and rejected calls for an emergency moratorium. Johnson said on NBC's \"Meet the Press\" that he'd recall the House and put AI regulation to a vote \"if we had the solution,\" but warned Congress against rushing into rules it doesn't yet understand. His preferred first step is a summit: Johnson said Sunday he wants Trump, congressional leaders and the heads of the major AI labs in a room as soon as possible to hammer out a common approach to safety. The other side: Congressional Democrats are coalescing around urgency, but have no comparable doctrine on what to actually do. House Minority Leader Hakeem Jeffries says his caucus will meet Tuesday to debate what action to take, while former President Barack Obama is privately urging the party to make AI a top priority. The policy spectrum is vast — and doesn't neatly map onto what the labs themselves are asking for. On the progressive end, Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) want to ban superintelligence outright, pause advanced AI development and threaten violators with up to 20 years in prison . Others are reaching for more conventional Washington fixes: Sen. Ruben Gallego (D-Ariz.) wants a bipartisan AI select committee with subpoena power, while Sen. Chris Van Hollen (D-Md.) is demanding that OpenAI open its models to federal safety reviews. What to watch: The unprecedented push for restraint from inside the AI industry, colliding with deepening public unease, could scramble this political stalemate. Michigan GOP Senate nominee Mike Rogers, a Trump ally running in a swing state, said Anthropic CEO Dario Amodei's new warning convinced him \"we must slow down development\" so government can catch up. Sen. Josh Hawley (R-Mo.) is investigating AI's \"existential risk,\" while Sens. John Thune (R-S.D.) and Amy Klobuchar (D-Minn.) are pursuing a narrower plan requiring companies to test and report catastrophic risks. Reality check: Political pressure and lobbying could crack open the door to narrow bipartisan measures, though any meaningful regulation would still have to survive Trump's veto pen. The bottom line: Washington is deeply divided on whether AI is a national triumph to unleash or a national emergency to contain.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: This staggering divide makes consensus on federal AI regulation almost unimagina",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: This staggering divide makes consensus on federal AI regulation almost unimaginable this year — and probably through early 2029, regardless of who wins control of Congress.",
+      "source": "Axios — Washington's AI paralysis: Let 'er rip vs. hit the brakes (2026-09-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Trump has governed as the AI president from Day 1 , applying the same doctrine t",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Trump has governed as the AI president from Day 1 , applying the same doctrine to models and the data centers that power them — build faster, regulate less, beat China. Speaking in Ireland on Sunday, he dismissed new safety warnings as the ",
+      "source": "Axios — Washington's AI paralysis: Let 'er rip vs. hit the brakes (2026-09-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Trump's accelerationist allies, including venture capitalists in Silicon Valley,",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Trump's accelerationist allies, including venture capitalists in Silicon Valley, see the safety alarms as a cynical ploy by the field's dominant players to lock in favorable regulations. David Sacks, Trump's former AI czar and a leading voi",
+      "source": "Axios — Washington's AI paralysis: Let 'er rip vs. hit the brakes (2026-09-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Washington is deeply divided on whether AI is a national triumph to unleash or a",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Washington is deeply divided on whether AI is a national triumph to unleash or a national emergency to contain.",
+      "source": "Axios — Washington's AI paralysis: Let 'er rip vs. hit the brakes (2026-09-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Political pressure and lobbying could crack open the door to narrow bipartisan m",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Political pressure and lobbying could crack open the door to narrow bipartisan measures, though any meaningful regulation would still have to survive Trump's veto pen.",
+      "source": "Axios — Washington's AI paralysis: Let 'er rip vs. hit the brakes (2026-09-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-14T14:30:28+00:00"
+}
