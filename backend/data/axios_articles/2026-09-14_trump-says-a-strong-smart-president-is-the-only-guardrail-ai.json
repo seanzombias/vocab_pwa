@@ -1,0 +1,42 @@
+{
+  "title": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
+  "url": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
+  "pub_date": "2026-09-14",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Trump says a strong, smart president is the only \"guardrail\" AI needs (2026-09-14)",
+  "body": "President Trump lashed out at calls for new AI guardrails and protections on Monday, arguing AI only needs a \"STRONG AND SMART (High IQ!) PRESIDENT\" and that AI critics should \"BEWARE!\" Why it matters: Trump continues to plant himself against calls for AI safety regulations as a growing chorus of AI leaders and CEOs , spearheaded by Anthropic CEO Dario Amodei over the weekend, call for a slowdown in AI's development and better regulations to help keep humanity safe. Amodei, OpenAI CEO Sam Altman and Elon Musk agreed that AI is quickly becoming more powerful, potentially beyond what humans can understand and monitor, prompting calls for a slowdown. The Trump administration has repeatedly clashed with Amodei and Anthropic, with the Pentagon previously designating the company as a supply-chain risk and stalling the release of its Mythos model. What he's saying: Trump said Monday afternoon that fears of \"AI taking over the World, destroying Humanity, and all other things bad, is a HOAX,\" putting it on par with Russian election interference claims and his own impeachments. He said the AI development \"will not be stopped by brilliantly run Destructive Forces\" under his presidency. This was the second time he condemned AI safety fears in a 12-hour span. Early on Monday, he said that \"the only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!\" Trump wrote on Truth Social . \"WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so.\" Trump said his administration \"has stopped AI 'people' from doing bad, or potentially bad, 'things,'\" though he didn't elaborate. (The White House did not immediately respond to Axios' request for comment Monday.) He also took a swipe at Anthropic CEO Dario Amodei, \"who is now pretending to be a 'perfect little angel.'\" \"We already have tremendous CRIMINAL and REGULATORY power over these companies!\" Trump also suggested there's \"a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China.\" Zoom out: Trump has continued to oppose tighter AI regulations, just as Washington is moving to discuss what can and should be done. Trump, who has been pro-AI since his return to the White House, downplayed the need for AI safety checks and regulations on Sunday, suggesting to reporters that he didn't want to fall behind China in the race for stronger AI. Trump's former AI czar David Sacks similarly pushed back against Altman and Amodei, saying the two can control AI's pace without a regulatory framework. The other side: China's Foreign Ministry also criticized calls to slow AI development Monday, per CNBC . \"Fear-mongering, confrontation, competition will just disrupt [the] process of global AI governance,\" said Guo Jiakun, a spokesperson for China's Foreign Ministry. Editor's note: This story has been updated with additional information.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Trump continues to plant himself against calls for AI safety regulations as a gr",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Trump continues to plant himself against calls for AI safety regulations as a growing chorus of AI leaders and CEOs , spearheaded by Anthropic CEO Dario Amodei over the weekend, call for a slowdown in AI's development and better regulations",
+      "source": "Axios — Trump says a strong, smart president is the only \"guardrail\" AI needs (2026-09-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Trump has continued to oppose tighter AI regulations, just as Washington is movi",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Trump has continued to oppose tighter AI regulations, just as Washington is moving to discuss what can and should be done. Trump, who has been pro-AI since his return to the White House, downplayed the need for AI safety checks and regulati",
+      "source": "Axios — Trump says a strong, smart president is the only \"guardrail\" AI needs (2026-09-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-15T12:56:10+00:00"
+}

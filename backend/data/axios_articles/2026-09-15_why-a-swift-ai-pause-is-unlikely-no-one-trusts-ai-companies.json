@@ -1,0 +1,46 @@
+{
+  "title": "Why a swift AI pause is unlikely: No one trusts AI companies",
+  "url": "https://www.axios.com/2026/09/15/ai-trust-safety-anthropic-openai",
+  "pub_date": "2026-09-15",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Why a swift AI pause is unlikely: No one trusts AI companies (2026-09-15)",
+  "body": "Most agree the AI industry needs oversight. The critical barrier: Few really trust the industry, or the safety advocates who come from inside the house. Why it matters: Factions in the Trump administration, business executives wary of competitive threats, and advocates for cheaper, more customizable \"open\" models fear that new regulatory hurdles will offer frontier AI companies too much power. What they're saying: \"I do not want a few humans in control of intelligence,\" Gavin Baker, a top tech investor and commentator on the AI race, said Sunday on X . Baker said Anthropic CEO Dario Amodei was surely sincere when he proposed new AI regulatory proposals in an essay Saturday , although the moves \"would be good for his business over the long-term.\" Catch up quick : Four leading U.S. AI companies endorsed a potential pause in AI development this weekend after a series of troubling hacking incidents and awe-inducing displays of new model capabilities. The suggested pause caused a dip in global markets Monday as investors pondered what a slowdown in AI, one of the few reliable engines of economic growth this year, would do to economies around the world. Any hope of quick action extending from that fragile unity quickly shattered as critics spoke up and made clear just how much they distrust frontier AI players. AI distrust, explained Here are the key factors shaping that distrust, which are poised to delay the kind of \"all-hands-on-deck\" response many want. 💰Money : Anthropic stands alone in the history of capitalism, a company whose leaders are so concerned with safety that it broke away from OpenAI. Its employees, up to the CEO, honestly believe its product is so dangerous that there's a chance it could destroy humanity. And yet, as soon as this week, it's expected to file for what many expect will be the biggest IPO of all time, seeking to raise $100 billion at a $2 trillion valuation. Picture Oppenheimer meeting with sell-side analysts and you get a window into the Dr. Strangelove of it all. That duality — dire warnings and fundraising based on promises of AI Valhalla — continues to sow confusion. ⚠️ Safety : A group of AI obsessives and technologists for years have spent vast sums financing research and organizations dedicated to AI safety. The problem is that many critics see some of that work as lacking in substance, too focused on the probability of end-of-the-world scenarios. Another issue is how closely aligned some safety research organizations are to frontier AI labs. Many of those organizations employ former OpenAI and Anthropic employees, accept free tokens (for analysis) and take funding from organizations focused on existential risk. Anthropic has pointed to METR, which conducted the evaluation of the HuggingFace incident at OpenAI, as a possible third-party evaluator. But industry skeptics point to a laundry list of financial and personal ties between the two companies as a non-starter for competitors. To the extent top U.S. AI companies embrace self-regulation, an increasingly likely possibility, finding third-party organizations that are viewed as truly independent will be a challenge. While self-regulation has worked in plenty of industries, it has a mixed track record in tech, with Meta's largely toothless Oversight Board as exhibit A. 📊 Business : A coterie of business leaders, including Nvidia CEO Jensen Huang and Microsoft CEO Satya Nadella, have embraced open weight AI systems, which are generally cheaper and offer companies the chance to build and customize proprietary models with their own data. Most of the best open models were made by Chinese startups, and some U.S. companies are using them to save money and protect themselves from potential competition from frontier AI companies. Given expectations that China would be unlikely to cooperate with any voluntary pause or slowdown, any attempt to bring AI systems under control could lead to a ban or restrictions on usage of Chinese models, something that might cause many U.S. businesses to revolt. 🏛️ Politics : Top administration officials, including White House AI advisor David Sacks, have repeatedly dismissed the push for regulation and oversight as a classic attempt at \"regulatory capture.\" A slowdown brokered by the frontier labs could freeze their lead in place, an incentive that Sacks and venture capitalist Bill Gurley have pointed to a number of times. What we're watching : Who steps into the vacuum. While the industry squabbles over which evaluators are most honest and most independent, some key figures with Washington ties tell Axios they're thinking of starting their own shops to potentially fill the void. The bottom line : Getting four top AI labs — Anthropic, OpenAI, SpaceX and Google — to agree on anything is a huge leap forward for the kind of regulation many AI proponents believe the industry desperately needs. But a lack of trust in the companies makes swift oversight unlikely. Maria Curi contributed reporting.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Factions in the Trump administration, business executives wary of competitive th",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Factions in the Trump administration, business executives wary of competitive threats, and advocates for cheaper, more customizable \"open\" models fear that new regulatory hurdles will offer frontier AI companies too much power.",
+      "source": "Axios — Why a swift AI pause is unlikely: No one trusts AI companies (2026-09-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I do not want a few humans in control of intelligence,\" Gavin Baker, a top tech",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I do not want a few humans in control of intelligence,\" Gavin Baker, a top tech investor and commentator on the AI race, said Sunday on X . Baker said Anthropic CEO Dario Amodei was surely sincere when he proposed new AI regulatory proposa",
+      "source": "Axios — Why a swift AI pause is unlikely: No one trusts AI companies (2026-09-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-15T12:56:09+00:00"
+}
