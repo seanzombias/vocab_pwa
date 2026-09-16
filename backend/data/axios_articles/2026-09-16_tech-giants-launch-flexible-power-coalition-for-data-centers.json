@@ -1,0 +1,46 @@
+{
+  "title": "Tech giants launch flexible-power coalition for data centers",
+  "url": "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers",
+  "pub_date": "2026-09-16",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Tech giants launch flexible-power coalition for data centers (2026-09-16)",
+  "body": "A new coalition launched Wednesday is seeking a triple win for a data center industry that lately has struggled to notch any wins at all. The big picture: Tech giants Google and Nvidia are partnering with startup Emerald AI to back data centers that can flex their power demand — a strategy they say could curb electricity prices, mollify angry neighbors and grow the economy with more AI infrastructure. The launch comes amid mounting backlash to data centers centered on their resource impacts and power prices, and new polling shows the public-opinion challenge is getting steeper. What they're saying: \"It's really a win-win-win solution,\" said Josh Parker, head of sustainability at Nvidia, in a call with reporters Monday ahead of the official launch of the coalition, called the AI Energy Management Alliance . State of play: The coalition brings together 20 companies and organizations spanning the AI and energy sectors, including Anthropic, utilities National Grid and AES, and power producers Constellation, NRG and RWE. The group is technically a relaunch. An earlier iteration, the Advanced Energy Management Alliance, was founded in 2014 to advocate for demand-response companies but had become largely inactive, Emerald AI CEO Varun Sivaram said on Monday's call. The revamped group is narrowly focused on making AI data centers more flexible power users — and convincing regulators and utilities to reward them for it. Friction point: A whopping 84% of Americans say they're concerned about data centers' impact on local electricity prices, according to new AP-NORC/University of Chicago Energy Policy Institute polling released Wednesday . More than half of Americans are extremely or very concerned about AI's environmental impacts, up from 41% a year ago. In a rare point of bipartisan agreement, roughly equal shares of Democrats and Republicans — 79% and 76%, respectively — support requiring data center developers to pay for the grid upgrades needed to support them. How it works: Data centers have traditionally been treated as giant, round-the-clock power users. The coalition wants to change the rules so facilities that can reliably cut their grid demand when electricity supplies are tight can get connected faster and potentially avoid some costly grid upgrades. The flexibility could come from shifting or pausing AI computing jobs, tapping batteries or nearby power generation, coalition leaders said. Google has committed 1 gigawatt of power demand it can reduce when needed through utility agreements nationwide, said Tyler Norris, Google's head of advanced energy market innovation. The group plans to push the approach with federal and state regulators, regional grid operators and utilities. Yes, but: The bargain depends on data centers actually delivering the flexibility they promise. Sivaram said facilities should qualify for faster or larger connections only if their ability to cut demand is \"verifiable and enforceable.\" Reality check: Convincing communities that this complicated solution can actually address their concerns will be a tall order. \"Power-flexible data centers are a wonky topic,\" Sivaram told Axios. His pitch: Data centers could cut their electricity use when the grid is stressed, helping avoid costly infrastructure while bringing in revenue that can support other electricity users. The goal, Sivaram said, is to turn data centers into \"good grid citizens\" that communities see as assets rather than burdens. What we're watching: Whether regulators actually create the fast lane the coalition wants. Federal regulators in June directed regional grid operators to examine new options for connecting large, flexible power users, providing an opening for the approach AEMA is advocating. Editor's note: Amy Harder is a fellow at the University of Chicago's Institute for Climate and Sustainable Growth, but was not involved in the polling and received no advance access beyond that provided to other journalists. Editor's note: This story has been corrected to note that 76% of Republicans (not 78%) support requiring data center developers to pay for grid upgrades.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"It's really a win-win-win solution,\" said Josh Parker, head of sustainability a",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"It's really a win-win-win solution,\" said Josh Parker, head of sustainability at Nvidia, in a call with reporters Monday ahead of the official launch of the coalition, called the AI Energy Management Alliance . State of play: The coalition",
+      "source": "Axios — Tech giants launch flexible-power coalition for data centers (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Convincing communities that this complicated solution can actually address their",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Convincing communities that this complicated solution can actually address their concerns will be a tall order. \"Power-flexible data centers are a wonky topic,\" Sivaram told Axios. His pitch: Data centers could cut their electricity use whe",
+      "source": "Axios — Tech giants launch flexible-power coalition for data centers (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-16T12:53:50+00:00"
+}

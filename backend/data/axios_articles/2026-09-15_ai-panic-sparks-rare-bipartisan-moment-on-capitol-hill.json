@@ -1,0 +1,46 @@
+{
+  "title": "AI panic sparks rare bipartisan moment on Capitol Hill",
+  "url": "https://www.axios.com/2026/09/15/ai-congress-regulation-bill-trump-bipartisan",
+  "pub_date": "2026-09-15",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI panic sparks rare bipartisan moment on Capitol Hill (2026-09-15)",
+  "body": "Lawmakers who want to regulate AI are doing something unusual as Congress barrels towards a lengthy recess with no tangible solution in sight: They're working across the aisle. Why it matters: Bipartisanship is increasingly elusive on Capitol Hill of late, but it remains a crucial first step for action in a Senate that requires 60 votes to pass most legislation. The latest example: Sens. Josh Hawley (R-Mo.) and Richard Blumenthal (D-Conn.) are pressing congressional leadership for a vote on their bill to establish a federal program to assess and monitor AI systems. \"Recent incidents of rogue AI agent swarms hacking into public websites and systems have removed lingering doubts concerning the ability of these agents to wreak havoc on our cyber infrastructure,\" the pair wrote in a letter first obtained by Axios. \"Congress cannot delay legislating to address frontier AI risks much longer. Industry-led evaluations are not enough.\" State of play: Several new bipartisan efforts to regulate AI have cropped up in the week since several current and former employees at Anthropic and OpenAI went public with concerns about the existential risks posed by their own products. Reps. Russell Fry (R-S.C.) and Suhas Subramanyam (D-Va.) are founding a caucus focused on AI small businesses, called the Innovators Caucus, as Axios first reported Monday. Among the group's stated goals is starting work on a federal framework to regulate AI, as well as bringing small businesses to the AI policymaking table. The doomsday warnings have also breathed new life into existing bipartisan proposals to mitigate the dangers of AI. Rep. Ted Lieu (D-Calif.) has been publicly hawking his bill with Rep. Nathaniel Moran (R-Texas) to require AI companies to include a human-activated \"kill switch\" in their systems. Lieu has also privately pitched Democratic leadership on creating a bipartisan AI select committee if they retake control of the House next year. Reps. Lori Trahan (D-Mass.) and Jay Obernolte (R-Calif.) have also been championing their comprehensive AI regulation bill, the Frontier Act. Zoom out: It has been years since Congress passed multiple pieces of truly big bipartisan legislation, and decades since bipartisan lawmaking on marquee issues was a regular practice. The most common moments when cross-party cooperation sees a renaissance on Capitol Hill these days: crises. Consider what got passed in the 117th Congress, on the heels of the Jan. 6 attack and the COVID pandemic: $1.2 trillion in infrastructure spending , a $280 billion semiconductor and research bill and the first major gun safety law in decades, all with bipartisan majorities. Yes, but: House Speaker Mike Johnson (R-La.) has signaled that his chamber will not take any action on the AI front before the House leaves for a six-week recess that doesn't end until after Election Day. Johnson said in a CNN interview Sunday that Congress should \"not smother American innovation\" with overly burdensome AI regulations. President Trump has gone even further in dismissing the urgency of federal AI regulations, writing in a Truth Social post Monday: \"AI taking over the World, destroying Humanity, and all other things bad, is a HOAX.\" What to watch: House Minority Leader Hakeem Jeffries (D-N.Y.) has sounded a considerably more dire note on the issue. A potential House Democratic majority next year may be the place where AI regulation finally finds its footing on Capitol Hill.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Bipartisanship is increasingly elusive on Capitol Hill of late, but it remains a",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Bipartisanship is increasingly elusive on Capitol Hill of late, but it remains a crucial first step for action in a Senate that requires 60 votes to pass most legislation. The latest example: Sens. Josh Hawley (R-Mo.) and Richard Blumenthal",
+      "source": "Axios — AI panic sparks rare bipartisan moment on Capitol Hill (2026-09-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: It has been years since Congress passed multiple pieces of truly big bipartisan",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: It has been years since Congress passed multiple pieces of truly big bipartisan legislation, and decades since bipartisan lawmaking on marquee issues was a regular practice. The most common moments when cross-party cooperation sees a renais",
+      "source": "Axios — AI panic sparks rare bipartisan moment on Capitol Hill (2026-09-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-16T12:53:50+00:00"
+}
