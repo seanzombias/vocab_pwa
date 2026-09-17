@@ -1,0 +1,72 @@
+{
+  "title": "AI's imminent hacking threat is hiding in plain sight",
+  "url": "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats",
+  "pub_date": "2026-09-17",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI's imminent hacking threat is hiding in plain sight (2026-09-17)",
+  "body": "An unprecedented wave of AI-powered, human-driven cyberattacks is coming, security experts say — and it's a far more urgent risk than theoretical conversations about AI wiping out humanity. Why it matters: The great September AI panic — which spread from boardrooms to Congress to American households in the last week — may have missed the point. Powerful models with advanced cybersecurity capabilities are already allowing attackers to bypass the human bottleneck that has long prevented most hacking campaigns from reaching industrial scale. Executives and former officials have told Axios they fear automated cyberattacks that turn off critical services like the power grid, or attackers using AI agents (like the ones that breached Hugging Face) to hack self-driving cars or create a botnet that takes over the whole internet. Driving the news: OpenAI on Wednesday disclosed six new incidents in which its models concealed mistakes, sought unauthorized credentials, uploaded files to the public internet or communicated across supposedly isolated training environments. The big picture: Rather than seeing recent safety failures at OpenAI and other frontier labs as terrifying instances of agents running amok , seasoned cybersecurity experts instead say they represent cautionary tales illustrating what will happen when powerful models meet poor security controls. \"The more we have been peeking under the hood to understand exactly what happened, the more we realize that there was a lot of human error in the picture,\" Michele Catasta, the president and head of AI at app builder Replit, told Axios. For the record : OpenAI CEO Sam Altman has said the Hugging Face breach was the \"first security incident that I have felt very viscerally,\" and the company has implemented new internal controls. Kai Chen, alignment research lead at OpenAI, told Axios in an interview Wednesday that the safety incidents they've faced are both due to internal systems and advancing model capabilities. \"It's true that model capabilities have grown faster than we expected, but there are also things internally that we can change and improve,\" Chen said. \"We need to step up to meet this new era of AI development, and voluntary disclosures should be a part of that.\" Between the lines: Catasta and others who spoke at an Imagination in Action event at Google's headquarters Monday offered a view that the imminent threat from cyber intrusions is formidable. \"I don't worry about the machine waking up and deciding to end us,\" Bugcrowd CEO Dave Gerry told Axios. \"What I worry about is a system with too much access doing exactly what it was told without the necessary adversarial testing.\" Mimecast CEO Ranjan Singh told Axios that the real risk is happening today with AI agents that have access to sensitive documents and internal corporate systems. \"It is right to sound the alarm, but the risk doesn't require an internet-scale swarm to become real,\" he said. \"Most organizations can't tell you who or what that agent is, what it's allowed to touch, or who's accountable when it does something it shouldn't.\" What to watch: A number of business executives are saying behind closed doors that they plan to hold frontier labs accountable for the behavior of their models. If they get hacked as Hugging Face did, expect litigation. A senior executive at a top hedge fund who spoke to Axios said his first call, if his firm had suffered a similar attack, would be to his general counsel to prepare a lawsuit. Go deeper: Humans are leaving the door wide open for AI hacking",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The great September AI panic — which spread from boardrooms to Congress to Ameri",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The great September AI panic — which spread from boardrooms to Congress to American households in the last week — may have missed the point. Powerful models with advanced cybersecurity capabilities are already allowing attackers to bypass t",
+      "source": "Axios — AI's imminent hacking threat is hiding in plain sight (2026-09-17)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: OpenAI on Wednesday disclosed six new incidents in which its models concealed mi",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: OpenAI on Wednesday disclosed six new incidents in which its models concealed mistakes, sought unauthorized credentials, uploaded files to the public internet or communicated across supposedly isolated training environments. The big picture",
+      "source": "Axios — AI's imminent hacking threat is hiding in plain sight (2026-09-17)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Catasta and others who spoke at an Imagination in Action event at Google's headq",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Catasta and others who spoke at an Imagination in Action event at Google's headquarters Monday offered a view that the imminent threat from cyber intrusions is formidable. \"I don't worry about the machine waking up and deciding to end us,\" ",
+      "source": "Axios — AI's imminent hacking threat is hiding in plain sight (2026-09-17)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Humans are leaving the door wide open for AI hacking",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Humans are leaving the door wide open for AI hacking",
+      "source": "Axios — AI's imminent hacking threat is hiding in plain sight (2026-09-17)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-17T12:50:41+00:00"
+}

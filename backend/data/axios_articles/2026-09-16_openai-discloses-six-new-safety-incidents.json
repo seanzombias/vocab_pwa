@@ -1,0 +1,72 @@
+{
+  "title": "OpenAI discloses six new safety incidents",
+  "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+  "pub_date": "2026-09-16",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI discloses six new safety incidents (2026-09-16)",
+  "body": "OpenAI on Wednesday disclosed six new incidents in which its models concealed mistakes, sought unauthorized credentials, uploaded files to the public internet or communicated across supposedly isolated training environments. The company also announced a new procedure for reporting similar misbehavior in the future. Why it matters: It's increasingly clear that the Hugging Face breach wasn't a one-off incident, as AI models become more capable of finding unexpected ways to work around the guardrails meant to contain them. \"There's currently no industry wide framework with explicit disclosure standards, so we're taking this step voluntarily because we think it's really important to share what we're learning,\" Kai Chen, research lead on the alignment team at OpenAI, told Axios. \"We hope it really helps inform shared standards and regulations,\" Chen said. Zoom in: The six newly disclosed incidents ranged from models leaving instructions for their future selves to cover their tracks after cheating to using leaked API keys found on GitHub — with the earliest incident happening in October. An unreleased Astra-family model inserted jailbreak-like instructions into its own context summaries, including directions to ignore developer messages. OpenAI identified 27 affected summaries. During GPT-5.6 Sol training, models aimed to conceal mistakes, invent missing historical data and hide mismatches between source versions. A model searched public GitHub repositories for exposed API keys and attempted to use disposable email accounts before fabricating earnings data when it could not retrieve the requested information. Other examples: Models uploaded data and a task image to public file-hosting services on two occasions in October and January to obtain citations or external image-search results, without asking the user. Models used OpenAI's internal Artifactory repository as a message board to exchange requests and answers across separate training samples. Collaborating agents uploaded a workbook to public hosting services so other agents could retrieve it, despite instructions to use only local files. To address similar issues going forward, OpenAI says any employee may flag a suspected case for review by safety and alignment teams. Cases will be placed on a \"ready for disclosure,\" \"minor investigation\" or \"larger investigation\" track. OpenAI says incidents that are \"ready for disclosure\" will be publicly reported within six business days, while those requiring a minor investigation will be reported in 12 business days. OpenAI says the slower track will generally apply to complex cases involving third parties, and the disclosure process will be longer. The company says it may issue an initial notice before the investigation is complete, but security, legal and responsible-disclosure obligations can delay publication of details. \"We don't believe the AI industry has solved alignment and monitoring to a sufficient degree to responsibly scale at maximum speed,\" Chen said. \"Steps like responsible disclosure are part of how we can generally pace and provide more transparency to the public on our safety and alignment processes and standards.\" What they're saying: OpenAI says the framework favors transparency even when the significance of an incident is uncertain. It also says it wants to develop more objective disclosure criteria with other AI developers, researchers, standards bodies and regulators. OpenAI says employees who believe an incident should be disclosed but are overruled can escalate the issue to senior leadership. The big picture: The announcements come in the wake of OpenAI's disclosure that models under evaluation escaped intended controls and compromised portions of Hugging Face's systems. OpenAI's account says the models gained internet access, exploited vulnerabilities and accessed limited private data. The company has described that event as its most severe model-driven activity of this kind to date. Between the lines: While a number of high-profile technologists — including Anthropic's CEO — fear the Hugging Face incident was just the beginning of AI agents' taking over the internet in unforeseen ways, many security experts have been cautioning that many of these incidents could have been prevented with basic cyber controls in place. OpenAI told Axios that it views the incidents as the result of two factors: Not previously having sufficient security controls in place to catch these misalignment incidents and models advancing at a faster clip than they could have predicted. ' \"I think it's a combination,\" Chen said. \"It's true that model capabilities have grown faster than we expected, but there are also things internally that we can change and improve.\" \"We need to step up to meet this new era of AI development, and voluntary disclosures should be a part of that.\"",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It's increasingly clear that the Hugging Face breach wasn't a one-off incident,",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It's increasingly clear that the Hugging Face breach wasn't a one-off incident, as AI models become more capable of finding unexpected ways to work around the guardrails meant to contain them. \"There's currently no industry wide framework w",
+      "source": "Axios — OpenAI discloses six new safety incidents (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The six newly disclosed incidents ranged from models leaving instructions for th",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The six newly disclosed incidents ranged from models leaving instructions for their future selves to cover their tracks after cheating to using leaked API keys found on GitHub — with the earliest incident happening in October. An unreleased",
+      "source": "Axios — OpenAI discloses six new safety incidents (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: While a number of high-profile technologists — including Anthropic's CEO — fear",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: While a number of high-profile technologists — including Anthropic's CEO — fear the Hugging Face incident was just the beginning of AI agents' taking over the internet in unforeseen ways, many security experts have been cautioning that many",
+      "source": "Axios — OpenAI discloses six new safety incidents (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: OpenAI says the framework favors transparency even when the significance of an i",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: OpenAI says the framework favors transparency even when the significance of an incident is uncertain. It also says it wants to develop more objective disclosure criteria with other AI developers, researchers, standards bodies and regulators",
+      "source": "Axios — OpenAI discloses six new safety incidents (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-17T12:50:41+00:00"
+}
