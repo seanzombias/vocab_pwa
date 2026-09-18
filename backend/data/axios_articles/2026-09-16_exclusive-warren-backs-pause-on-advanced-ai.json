@@ -1,0 +1,85 @@
+{
+  "title": "Exclusive: Warren backs pause on advanced AI",
+  "url": "https://www.axios.com/2026/09/16/warren-ai-pause",
+  "pub_date": "2026-09-16",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Warren backs pause on advanced AI (2026-09-16)",
+  "body": "Sen. Elizabeth Warren (D-Mass.) is the latest prominent Democrat to back a pause on advanced artificial intelligence, her office told Axios exclusively. Why it matters: The idea of slowing down AI development — once considered a non-starter in a fierce race to beat China — is gaining momentum. Driving the news: Warren on Wednesday will call for a pause on advanced AI development but will stop short of calling for a ban on superintelligence, breaking with Sen. Bernie Sanders (I-Vt.). \"We should immediately press pause on the development of advanced AI while lawmakers and regulators put systems in place to keep people safe,\" Warren will say ahead of a roundtable hosted by Sanders on Wednesday. \"Congress must urgently pass legislation to put stronger guardrails in place before we have a cyberattack, economic crisis, or national security disaster facilitated by AI.\" Sanders' proposal calls for a pause and a ban on superintelligence, and threatens up to 20 years in prison for violations, which its authors note is similar to the penalties for illegally developing nuclear weapons. Between the lines: The progressive movement — like every other political faction — does not have a unified position when it comes to the nitty-gritty of AI regulation. Warren and Sanders have also released AI tax plans with varying approaches. Warren has proposed taxing AI companies, while Sanders wants the government to take equity stakes in them. Catch up quick: Frontier lab CEOs have coalesced around a message of pacing or slowing frontier AI development and seeking international collaboration. Warren said the industry's push to \"pace the frontier\" is \"insufficient,\" arguing that elected officials, not AI CEOs, should decide the technology's future. Suggestions to weaken antitrust protections to confront AI risks are \"transparently self-serving,\" she said. Anthropic CEO Dario Amodei has called for an exemption in antitrust law to help coordinate AI pacing. Former antitrust government officials say that would not be necessary because the law does not prevent AI companies from coordinating to prevent harm and sharing legitimate cybersecurity information. The big picture: More Democrats with national profiles are weighing in on the idea of a pause as the Trump administration flatly rejects it. Kamala Harris this week endorsed slowing down and called on President Trump to pursue a treaty with China. Barack Obama also backed the idea of slowing down as a good first step. The bottom line: More Democrats are calling to slow AI development, but there's little agreement on what government should do about it.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The idea of slowing down AI development — once considered a non-starter in a fie",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The idea of slowing down AI development — once considered a non-starter in a fierce race to beat China — is gaining momentum.",
+      "source": "Axios — Exclusive: Warren backs pause on advanced AI (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Warren on Wednesday will call for a pause on advanced AI development but will st",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Warren on Wednesday will call for a pause on advanced AI development but will stop short of calling for a ban on superintelligence, breaking with Sen. Bernie Sanders (I-Vt.). \"We should immediately press pause on the development of advanced",
+      "source": "Axios — Exclusive: Warren backs pause on advanced AI (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Frontier lab CEOs have coalesced around a message of pacing or slowing frontier",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Frontier lab CEOs have coalesced around a message of pacing or slowing frontier AI development and seeking international collaboration. Warren said the industry's push to \"pace the frontier\" is \"insufficient,\" arguing that elected officials",
+      "source": "Axios — Exclusive: Warren backs pause on advanced AI (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The progressive movement — like every other political faction — does not have a",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The progressive movement — like every other political faction — does not have a unified position when it comes to the nitty-gritty of AI regulation. Warren and Sanders have also released AI tax plans with varying approaches. Warren has prop",
+      "source": "Axios — Exclusive: Warren backs pause on advanced AI (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: More Democrats are calling to slow AI development, but there's little agreement",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: More Democrats are calling to slow AI development, but there's little agreement on what government should do about it.",
+      "source": "Axios — Exclusive: Warren backs pause on advanced AI (2026-09-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-18T12:24:46+00:00"
+}

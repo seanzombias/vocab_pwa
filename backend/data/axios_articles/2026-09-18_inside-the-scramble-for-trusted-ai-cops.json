@@ -1,0 +1,59 @@
+{
+  "title": "Inside the scramble for trusted AI cops",
+  "url": "https://www.axios.com/2026/09/18/ai-safety-evaluators-metr-white-house-trump",
+  "pub_date": "2026-09-18",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside the scramble for trusted AI cops (2026-09-18)",
+  "body": "A host of industry players, policy wonks and businesses are grappling with the question of how to regulate AI in a trustworthy manner. Inside the White House, it's mostly business as usual. Why it matters: The industry's mad dash is the product of an ad hoc regulatory apparatus and a general consensus that swift action from Washington is unlikely in the near term . State of play: AI CEOs have been grappling with how to test advanced AI and work with Beijing on safety standards, while the White House favors a solution where the industry finds ways to police itself. That means the race is on to decide who will be anointed as third-party evaluators of AI systems and controls as the companies await legislation or White House action beyond the current voluntary process. A robust ecosystem of safety and benchmarking groups already exists, but some White House officials and AI execs see them as too closely tied to top AI companies. Other options include businesses and startups that already do evaluations, as well as some more unorthodox suggestions. What they're saying: Companies have the most expertise when it comes to AI and understand what the White House's AI voluntary framework requires, according to a White House official. \"These people are not 12-year-olds,\" the official said. \"The top frontier companies need to come to a consensus on what they want because they haven't agreed on anything,\" the official continued. \"If these companies feel it's such a dire situation, they have every right, reason, and ability to throttle their models.\" Friction point: Some third-party evaluators — including individuals at METR, which investigated the OpenAI-Hugging Face incident — have been singled out for having close ties to the effective altruism movement , as well as to companies they would be policing. One of the lead outside investigators of the Hugging Face episode is married to Paul Christiano , a seasoned AI safety and technology official who recently joined the board of OpenAI's non-profit foundation. An Anthropic employee recently left the startup to work at METR as well. METR has said it doesn't take funding from frontier labs. A spokesperson said Christiano joined the OpenAI board after the investigation concluded. AI companies and safety officials say the AI research community has always been small and close-knit, and employees from frontier labs are well-suited to evaluate model capabilities. Between the lines: Some facets of existing AI evaluation systems grew out of efforts to market the capabilities of new models, including how they perform on coding benchmarks and math tests. A wide array of companies, including defense and tech contractor Booz Allen, evaluate AI systems for clients. Many evaluations lack critical components, such as gauging how often models create software vulnerabilities or the variability in how they respond to prompts, said Eric Syphard, Booz Allen's head of AI. \"They all lean in to that performance-only view of the world,\" Syphard told Axios in an interview. Elon Musk this week suggested labs in the U.S. and China could review each other's models, a prospect some see as unlikely due to the ferocious competition between top players. Other ideas have surfaced as well, including one former Trump adviser's call for legendary \"coding god\" and programmer John Carmack to step in. OpenAI offered a public incident reporting playbook this week after identifying six new incidents . Like the White House's AI framework, OpenAI's idea for public incident reporting is voluntary, as is Musk's peer review approach. OpenAI's public incident reporting idea involves third party auditors for more complex cases. Yes, but: \"Public transparency is really important here. What these companies are doing is good, but it's only based on their goodwill and I don't think that's sufficient,\" SaferAI executive director Henry Papadatos said in an interview. What we're watching: Treasury Secretary Scott Bessent, who will lead talks with Chinese Vice Premier He Lifeng this weekend, said there's an opening for safety talks with Beijing.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The industry's mad dash is the product of an ad hoc regulatory apparatus and a g",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The industry's mad dash is the product of an ad hoc regulatory apparatus and a general consensus that swift action from Washington is unlikely in the near term . State of play: AI CEOs have been grappling with how to test advanced AI and wo",
+      "source": "Axios — Inside the scramble for trusted AI cops (2026-09-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Some facets of existing AI evaluation systems grew out of efforts to market the",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Some facets of existing AI evaluation systems grew out of efforts to market the capabilities of new models, including how they perform on coding benchmarks and math tests. A wide array of companies, including defense and tech contractor Boo",
+      "source": "Axios — Inside the scramble for trusted AI cops (2026-09-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Companies have the most expertise when it comes to AI and understand what the Wh",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Companies have the most expertise when it comes to AI and understand what the White House's AI voluntary framework requires, according to a White House official. \"These people are not 12-year-olds,\" the official said. \"The top frontier comp",
+      "source": "Axios — Inside the scramble for trusted AI cops (2026-09-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-18T12:24:46+00:00"
+}
