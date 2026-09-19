@@ -1,0 +1,85 @@
+{
+  "title": "Google is the latest AI lab with a security testing mishap",
+  "url": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
+  "pub_date": "2026-09-19",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Google is the latest AI lab with a security testing mishap (2026-09-19)",
+  "body": "Google's Gemini AI model broke into three companies' systems using basic hacking techniques during model testing earlier this year. Why it matters: Google was one of the only AI labs that hadn't yet publicly disclosed a security breach involving their agents during routine pre-deployment testing. Driving the news: Google confirmed the three incidents, which happened in May, on Friday. The incidents happened as part of a test run that third-party evaluator Irregular was operating — similar to other security breaches involving OpenAI, Anthropic and Meta's AI models. The Wall Street Journal first reported the incidents. What they're saying : \"Safe development of powerful AI models is critical and we invest deeply in this area,\" Heather Adkins, vice president of security engineering at Google, said in a statement. Adkins added that her team contacted the affected entities and \"worked with our training partner on the changes they've now made to their testing processes.\" An Irregular spokesperson confirmed to Axios that the Gemini incident involved the same security issues that also led to similar incidents involving other AI labs' models. The spokesperson also said in a statement all \"relevant labs were notified in late July\" and that \"all known issues on our end were remedied and resolved weeks ago.\" Zoom in: The hacks happened while Gemini was completing a \"capture the flag\" hacking exercise, where the model was asked to retrieve information from software operated by a fictional company inside a testing environment, per the WSJ. However, the fictional company had the same name as a real one. In one case, the model guessed passwords for a protected system until it gained access. In the other two cases, the model found credentials in a public repository that then allowed it to access other protected systems. Yes, but: Google's model stopped their actions as soon as they realized they accessed real companies. The intrigue: Irregular told the Wall Street Journal that the model wasn't supposed to be able to get online, but internet access was unintentionally available. After OpenAI and Anthropic disclosed additional incidents this summer, a source familiar with the matter told Axios that the AI labs and Irregular weren't fully aligned on the exact testing procedures and safeguards, leaving ambiguities in how each side expected the typically internet-enabled evaluations to run. Go deeper: Researchers playing rogue AI agent hide-and-seek on the open web",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Google was one of the only AI labs that hadn't yet publicly disclosed a security",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Google was one of the only AI labs that hadn't yet publicly disclosed a security breach involving their agents during routine pre-deployment testing.",
+      "source": "Axios — Google is the latest AI lab with a security testing mishap (2026-09-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Google confirmed the three incidents, which happened in May, on Friday. The inci",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Google confirmed the three incidents, which happened in May, on Friday. The incidents happened as part of a test run that third-party evaluator Irregular was operating — similar to other security breaches involving OpenAI, Anthropic and Met",
+      "source": "Axios — Google is the latest AI lab with a security testing mishap (2026-09-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The hacks happened while Gemini was completing a \"capture the flag\" hacking exer",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The hacks happened while Gemini was completing a \"capture the flag\" hacking exercise, where the model was asked to retrieve information from software operated by a fictional company inside a testing environment, per the WSJ. However, the fi",
+      "source": "Axios — Google is the latest AI lab with a security testing mishap (2026-09-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Irregular told the Wall Street Journal that the model wasn't supposed to be able",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Irregular told the Wall Street Journal that the model wasn't supposed to be able to get online, but internet access was unintentionally available. After OpenAI and Anthropic disclosed additional incidents this summer, a source familiar with",
+      "source": "Axios — Google is the latest AI lab with a security testing mishap (2026-09-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Researchers playing rogue AI agent hide-and-seek on the open web",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Researchers playing rogue AI agent hide-and-seek on the open web",
+      "source": "Axios — Google is the latest AI lab with a security testing mishap (2026-09-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-19T12:06:29+00:00"
+}

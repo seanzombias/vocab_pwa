@@ -1,0 +1,54 @@
+{
+  "title": "2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls",
+  "url": "https://www.axios.com/2026/09/18/newsom-ai-2028-focus",
+  "pub_date": "2026-09-18",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — 2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls (2026-09-18)",
+  "body": "California Gov. Gavin Newsom, a presumptive presidential candidate, is getting louder on AI, releasing an executive order amid the Washington stalemate. Why it matters: Democrats with national profiles this week are seizing on AI alarm, making their positions clear and Newsom – despite some deference shown to other 2028 contender Kamala Harris – wasn't going to sit this one out. Driving the news: Newsom on Friday issued an executive order tackling two major topics of debate inside the beltway this week -- independent auditors and kill switches. He did so taking direct aim at Washington: \"With Donald Trump and Congress asleep at the wheel, Governor Gavin Newsom is once again taking the lead to strengthen AI safety for all Americans.\" Newsom was early to stake out a position on an issue that is increasingly politically salient, signing the first AI executive order in 2023. Between the lines: In the absence of U.S. legislation or more action from the Trump administration, states have stepped in to fill the void on AI regulation, a development some top AI execs sought to avoid. There are more than 600 bills in 47 states about AI, according to the National Conference of State Legislatures, up 24% from last year. California, Illinois and Massachusetts are among the states leading the charge. All three are run by Democrats, who are seeking to seize the mantle of AI regulation nationally. Yes, but : Politicians in both parties are using antipathy toward data centers to punish opponents, including GOP candidates in gubernatorial races in Pennsylvania and Wisconsin. California has emerged as both the state filling the federal regulatory void and one largely aligned with the frontier AI labs it is regulating. The executive order accelerates the implementation of two bills signed into law last week -- both of which were endorsed by OpenAI and Anthropic -- on independent verification organizations. Newsom's position on a kill switch is also aligned with what frontier labs are already working toward . The big picture: Former Vice President Harris this week also called for slowing down advanced AI development and Illinois Governor J.B. Pritzker -- another presidential contender -- on Friday touted his AI bill . \"Trump says that the only AI guardrails that we need are a strong and smart president. And, of course, he is neither of those things,\" Pritzker said. The Illinois bill requires companies to implement their own frameworks for frontier AI safety. A third party then has to create an annual report assessing whether developers are complying with that requirement. What we're watching: The Senate bill in Massachusetts goes further than Illinois, mandating independent evaluations of the models themselves, every four months. Anthropic has backed it , while OpenAI has backed a narrower version. OpenAI shifted its position on California's bills last week and may do so again in Massachusetts as AI alarm mounts.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Democrats with national profiles this week are seizing on AI alarm, making their",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Democrats with national profiles this week are seizing on AI alarm, making their positions clear and Newsom – despite some deference shown to other 2028 contender Kamala Harris – wasn't going to sit this one out.",
+      "source": "Axios — 2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls (2026-09-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Newsom on Friday issued an executive order tackling two major topics of debate i",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Newsom on Friday issued an executive order tackling two major topics of debate inside the beltway this week -- independent auditors and kill switches. He did so taking direct aim at Washington: \"With Donald Trump and Congress asleep at the ",
+      "source": "Axios — 2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls (2026-09-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: In the absence of U.S. legislation or more action from the Trump administration,",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: In the absence of U.S. legislation or more action from the Trump administration, states have stepped in to fill the void on AI regulation, a development some top AI execs sought to avoid. There are more than 600 bills in 47 states about AI,",
+      "source": "Axios — 2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls (2026-09-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-19T12:06:29+00:00"
+}
