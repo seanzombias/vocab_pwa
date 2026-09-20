@@ -1,0 +1,72 @@
+{
+  "title": "The tech battle to build your AI assistant",
+  "url": "https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple",
+  "pub_date": "2026-09-20",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — The tech battle to build your AI assistant (2026-09-20)",
+  "body": "The long-promised personal AI assistant is finally arriving, with a suddenly crowded field of agents offering to run pieces of your everyday life. Why it matters: For years, tech's \"personal assistants\" were little more than voice-controlled search boxes. Rapid advances in AI are finally giving them the memory, judgment and autonomy to act on our behalf. Catch up fast: Chatbots answer questions. AI agents can actually do things — shopping, making calls, booking tickets, managing calendars and navigating the web. The model first took off in coding and other professional work. Now it's spilling into the far more intimate terrain of everyday life. The intrigue: OpenAI is expected to enter the market soon after hiring the creator of OpenClaw — a breakout hit among AI power users earlier this year — to \"drive the next generation of personal agents.\" Driving the news: A consumer-agent race has erupted almost overnight, with startups and tech giants pursuing the same basic idea — persistent digital proxies that know your life. Instinct has become buzzy by connecting to users' email, messages, screen, audio and location — then proactively texting or calling to help run their lives. It recently added its own email addresses and the ability to make phone calls, and is now in talks for a $10 billion valuation . Grok Bot, launched by Elon Musk's SpaceXAI in August, gives persistent agents their own cloud computers, lets them sign into users' apps and keeps them working around the clock. Meta's Muse brought the concept to a broader consumer audience this month with a polished app, a customizable avatar and deep integration with Meta's ecosystem. Apple's Siri is finally getting its AI overhaul , bringing more context and capability to an assistant already built into hundreds of millions of devices. The big picture: The battle to become your personal agent is also a battle to become the keeper of your personal information and data. The frontier AI race has revolved around raw intelligence. Personal agents win by becoming useful and deeply embedded in your daily life. The more an agent knows about your relationships, schedule and spending, the more useful it becomes. Between the lines: Becoming someone's default agent could be one of the most valuable relationships in consumer technology. People are likely to share far more with an AI that manages their lives than they did with a search engine. The catch: Nobody yet knows what price consumers will pay for that convenience, in cost or privacy. Apple says some server-based Apple Intelligence features, including the upgraded Siri, will have usage limits , with expanded access potentially tied to iCloud plans. Meta is offering free and paid Muse tiers, while pitching the product as more privacy-conscious than its earlier AI offerings. What to watch: Some people inside and outside the industry argue that users should own the personal data and context their agents accumulate, rather than handing that relationship to ad-driven tech giants. will.i.am, whose FYI.AI offers agents equipped with their own phone numbers that can text, call and collaborate with humans to build projects, says he recoils at getting an agent for free \"in exchange for extracting your very core — how you think.\" \"That's nasty,\" the Black Eyed Peas frontman told Axios. \"We've seen that with social media.\"",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: For years, tech's \"personal assistants\" were little more than voice-controlled s",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: For years, tech's \"personal assistants\" were little more than voice-controlled search boxes. Rapid advances in AI are finally giving them the memory, judgment and autonomy to act on our behalf. Catch up fast: Chatbots answer questions. AI a",
+      "source": "Axios — The tech battle to build your AI assistant (2026-09-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: A consumer-agent race has erupted almost overnight, with startups and tech giant",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: A consumer-agent race has erupted almost overnight, with startups and tech giants pursuing the same basic idea — persistent digital proxies that know your life. Instinct has become buzzy by connecting to users' email, messages, screen, audi",
+      "source": "Axios — The tech battle to build your AI assistant (2026-09-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: OpenAI is expected to enter the market soon after hiring the creator of OpenClaw",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: OpenAI is expected to enter the market soon after hiring the creator of OpenClaw — a breakout hit among AI power users earlier this year — to \"drive the next generation of personal agents.\"",
+      "source": "Axios — The tech battle to build your AI assistant (2026-09-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Becoming someone's default agent could be one of the most valuable relationships",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Becoming someone's default agent could be one of the most valuable relationships in consumer technology. People are likely to share far more with an AI that manages their lives than they did with a search engine. The catch: Nobody yet knows",
+      "source": "Axios — The tech battle to build your AI assistant (2026-09-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-20T12:41:42+00:00"
+}
