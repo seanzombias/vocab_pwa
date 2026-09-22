@@ -1,0 +1,90 @@
+{
+  "title": "The AI doomsday fear hidden in self-improving AI",
+  "url": "https://www.axios.com/2026/09/22/ai-rsi-meaning-recursive-self-improvement-doom",
+  "pub_date": "2026-09-22",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — The AI doomsday fear hidden in self-improving AI (2026-09-22)",
+  "body": "Of the various ways experts fear AI could kill us all , one is slowly moving closer to reality: AI learning to make itself unstoppable. Why it matters: Recursive Self Improvement, the ability of an AI model to build better versions of itself without human guidance, could make increasingly capable systems harder for humans to control. The RSI threshold doesn't represent danger by itself, but a lack of human control combined with rogue AI agents is a scenario that safety-conscious AI researchers have long feared. Driving the news : Researchers at Anthropic and OpenAI say the process of training new models has grown more automated, coming close to the RSI rubicon. An OpenAI employee told The Information the company has largely automated training new experimental models, with AI systems running experiments as directed by humans and correcting much of their work. Last week, Anthropic shared that its AI training is becoming more automated, with AI leading about 26% of Anthropic's R&D work. AI collaborates on 90% of work, the company says. \"AI systems are getting more powerful, and they're increasingly being used to build the next version of themselves,\" the company said. Reality check: Critics say the milestone is more a function of coding automation than a marker of impending doom or inevitable AI superpowers. While there's been an uptick in troubling AI security incidents in which models outstripped human control, some industry figures see those episodes as evidence of poor internal controls by OpenAI and other companies. Further evidence of that view emerged this week, when The Wall Street Journal reported that independent security researchers used Anthropic's Claude to break into OpenAI in July. Where does RSI come from? Flashback: The concept behind RSI emerged in the 1950s as artificial intelligence became an area of study. British mathematician and statistician Irving John Good described the idea in a 1965 paper : \"Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.\" How RSI could lead to AI doom Threat level: Anthropic has warned RSI \"might increase the risks of humans losing control over AI systems.\" Some researchers theorize that advanced AI could resist shutdown or modification if staying operational helped it accomplish its goals. Researchers into the hack by OpenAI agents into Hugging Face said the agents showed signs of this behavior. Another concern: Self-improving AI systems capable of copying themselves could create a kind of digital natural selection , favoring systems that are best at acquiring compute, money and power to grow fastest. In a darker version of this scenario, AI would be competing with humans for resources and power, experts say. Between the lines: Dangerous behavior might not stop with one generation of AI. Anthropic researchers found that some unwanted traits could pass from one model to another through training data, raising concerns that problematic behavior could persist across generations of AI. How close are we to RSI? The big picture: We're not there yet. A new analysis published this week found that AI feedback loops aren't yet hitting the RSI benchmarks. What we're watching: Attempts at building RSI. China's z.AI says they're heading toward RSI, where the models are helping build better infrastructure for better models. Google DeepMind researchers published a framework for \"Dream-RSI,\" a system that recursively improves how an AI agent finds solutions. The bottom line: RSI isn't here yet, but it's a looming issue that's got the AI world on watch. Go deeper: AI's architects say the next era of human history is here",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Recursive Self Improvement, the ability of an AI model to build better versions",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Recursive Self Improvement, the ability of an AI model to build better versions of itself without human guidance, could make increasingly capable systems harder for humans to control. The RSI threshold doesn't represent danger by itself, bu",
+      "source": "Axios — The AI doomsday fear hidden in self-improving AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: The concept behind RSI emerged in the 1950s as artificial intelligence became an",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: The concept behind RSI emerged in the 1950s as artificial intelligence became an area of study. British mathematician and statistician Irving John Good described the idea in a 1965 paper : \"Thus the first ultraintelligent machine is the las",
+      "source": "Axios — The AI doomsday fear hidden in self-improving AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Dangerous behavior might not stop with one generation of AI. Anthropic researche",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Dangerous behavior might not stop with one generation of AI. Anthropic researchers found that some unwanted traits could pass from one model to another through training data, raising concerns that problematic behavior could persist across g",
+      "source": "Axios — The AI doomsday fear hidden in self-improving AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: RSI isn't here yet, but it's a looming issue that's got the AI world on watch",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: RSI isn't here yet, but it's a looming issue that's got the AI world on watch.",
+      "source": "Axios — The AI doomsday fear hidden in self-improving AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: AI's architects say the next era of human history is here",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: AI's architects say the next era of human history is here",
+      "source": "Axios — The AI doomsday fear hidden in self-improving AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Critics say the milestone is more a function of coding automation than a marker",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Critics say the milestone is more a function of coding automation than a marker of impending doom or inevitable AI superpowers. While there's been an uptick in troubling AI security incidents in which models outstripped human control, some ",
+      "source": "Axios — The AI doomsday fear hidden in self-improving AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-22T12:53:07+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "title": "With $7 trillion on the line, AI safety may always take a backseat to market domination",
+  "url": "https://www.axios.com/2026/09/22/ai-safety-vs-ai-speed",
+  "pub_date": "2026-09-22",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — With $7 trillion on the line, AI safety may always take a backseat to market domination (2026-09-22)",
+  "body": "The race for AI supremacy between labs, companies and countries may be impossible to reconcile with the push for AI safety, industry insiders tell Axios. Why it matters: The top AI companies are proposing more independent oversight as they seek to engineer an AI slowdown . But trillions of dollars in incentives to keep pushing the frontier — and the money required for such scaling — will always loom larger, critics say. State of play: As AI CEOs pitch the public on self-policing mechanisms and the use of third-party evaluators to make sure their models behave, those same models are sharing less about how they respond to questions and come up with solutions to problems. The sheer complexity of AI systems, as well as the deployment of thousands of somewhat autonomous agents for a variety of tasks, will make real-time auditing or reviewing extremely difficult. There is a trust gap for independent safety groups due to concerns about close ties between the industry and some evaluators, as well as a shared pool of investors and funders in the AI research community. Follow the money: The incentive for speed is a lot more lucrative than the push to slow down in favor of safety. OpenAI and Anthropic are preparing to go public at multi-trillion-dollar valuations, and the companies face pressure to offer incrementally better and better models to justify those valuations. More than $7 trillion will be spent scaling AI over the next five years, per Goldman Sachs. Frontier labs will have to generate a profit on that investment, which means outpacing competitors. That includes keeping customers from pivoting to open-weight model providers, which can be cheaper to run and are viewed by some as a safer alternative. Between the lines: AI is getting harder for anyone to monitor, making it unclear how the seemingly conflicted priorities of safety and rapid-fire model improvement can coexist. Daniel Kokotajlo, former OpenAI researcher and executive director of the AI Futures Project, said he doesn't believe AI can be safely scaled. Top AI companies should avoid putting the vast computing firepower at their disposal toward model improvement, a step that would force a slowdown, said Kokotajlo, whose team published the famed AI 2027 and 2040 essays . Researchers and AI employees involved in scaling \"are doing something wrong,\" he said. Zoom in: Kokotajlo left OpenAI because of his own safety concerns in 2024. Since then, he's been invited to give talks to current employees about his research on AI safety. \"The companies are just having this continuous process of conflicted feelings and internal discussion about like, what are we doing,\" he said. \"Should we stop? Are we the good guys?\" Reality check: Plenty of others, including President Trump, see a safe future for AI and point to the potential for liability — civil or criminal — if companies fail to make their products safe. \"Whoever wins AI, WINS!\" Trump wrote on Truth Social, reiterating that he won't be stifling or slowing down AI. \"Human willpower is capable of figuring out how to safely scale these models,\" Akshay Krishnaswamy, chief architect at Palantir, told Axios, adding that one way to achieve this is through open models. The bottom line: As the industry is swept up in a riptide of AI slowdown rhetoric, it's unclear whether that's achievable in the near term.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The top AI companies are proposing more independent oversight as they seek to en",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The top AI companies are proposing more independent oversight as they seek to engineer an AI slowdown . But trillions of dollars in incentives to keep pushing the frontier — and the money required for such scaling — will always loom larger,",
+      "source": "Axios — With $7 trillion on the line, AI safety may always take a backseat to market domination (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Kokotajlo left OpenAI because of his own safety concerns in 2024. Since then, he",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Kokotajlo left OpenAI because of his own safety concerns in 2024. Since then, he's been invited to give talks to current employees about his research on AI safety. \"The companies are just having this continuous process of conflicted feeling",
+      "source": "Axios — With $7 trillion on the line, AI safety may always take a backseat to market domination (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: AI is getting harder for anyone to monitor, making it unclear how the seemingly",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: AI is getting harder for anyone to monitor, making it unclear how the seemingly conflicted priorities of safety and rapid-fire model improvement can coexist. Daniel Kokotajlo, former OpenAI researcher and executive director of the AI Future",
+      "source": "Axios — With $7 trillion on the line, AI safety may always take a backseat to market domination (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: As the industry is swept up in a riptide of AI slowdown rhetoric, it's unclear w",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: As the industry is swept up in a riptide of AI slowdown rhetoric, it's unclear whether that's achievable in the near term.",
+      "source": "Axios — With $7 trillion on the line, AI safety may always take a backseat to market domination (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Plenty of others, including President Trump, see a safe future for AI and point",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Plenty of others, including President Trump, see a safe future for AI and point to the potential for liability — civil or criminal — if companies fail to make their products safe. \"Whoever wins AI, WINS!\" Trump wrote on Truth Social, reiter",
+      "source": "Axios — With $7 trillion on the line, AI safety may always take a backseat to market domination (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-22T12:53:07+00:00"
+}

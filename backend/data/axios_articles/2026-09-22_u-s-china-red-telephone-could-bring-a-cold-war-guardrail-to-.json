@@ -1,0 +1,72 @@
+{
+  "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
+  "url": "https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit",
+  "pub_date": "2026-09-22",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — U.S.-China \"red telephone\" could bring a Cold War guardrail to AI (2026-09-22)",
+  "body": "A distinctly Cold War calculus is looming over this week's Trump-Xi summit in Washington, as the U.S. and China weigh an emergency \"red phone\" for the day AI goes haywire. Why it matters: U.S.-China relations are so brittle that an AI hotline — not a trade pact, strategic slowdown or diplomatic reset — could emerge as the summit's most meaningful outcome. State of play: President Trump has spent the past week lashing out at AI \"doomers\" and boiling the race down to a single imperative: beat China. Trump has called AI-catastrophe fears a \"HOAX\" and vowed the U.S. would \"not in any way hinder or stifle\" AI as it fights to preserve its lead over Beijing. America's leading AI labs largely share Trump's urgency about China, but not his conclusion: many argue the intensity of the race is precisely why global safeguards are needed. The other side: China is every bit as determined to win the AI race, but its leader Xi Jinping — who lands in Washington Wednesday for his first state visit since 2015 — is balancing two competing fears: Falling behind: Xi has no interest in a safety regime that freezes the race with America still ahead. Beijing is pushing cheap, capable open-source models around the world while portraying U.S. chip controls and calls for restraint as a calculated effort to keep China down. Losing control: Xi wants AI powerful enough to transform China's economy, but never so powerful that it slips beyond the control of the Communist Party. Beijing focuses less on Silicon Valley-style extinction scenarios than on nearer-term dangers, like cyberattacks , malicious use and disruptions to critical infrastructure. Zoom in: That narrow overlap is why Treasury Secretary Scott Bessent pitched Chinese officials this weekend on a \"notification mechanism\" for AI incidents with national-security implications. The Cold War precedent is the hotline Washington and Moscow established after the Cuban Missile Crisis — a direct channel designed to keep accidents and ambiguity from escalating into nuclear Armageddon. Trump and Xi are expected to discuss shared AI risks when they meet Thursday, while officials are also exploring a formal U.S.-China AI dialogue that could give the crisis channel a more permanent home. Reality check: So far, nobody has publicly defined what would make the red phone ring. In an AI catastrophe — say, a frontier model launches a major cyberattack on critical infrastructure — the first alarm may sound inside a private company rather than a military command center. That gets thorny fast: The lab may know more than the government about what its model is doing, while officials would have to decide how much sensitive information to share before they fully understand the threat themselves. Between the lines: Washington and Beijing already have crisis hotlines, as well as a history of going dark when they're needed most. China suspended military contacts after Nancy Pelosi's 2022 Taiwan visit . Months later, Beijing declined a Pentagon request for a call after the U.S. shot down its surveillance balloon — precisely the kind of tense, ambiguous moments the channels were built to defuse. COVID offered another warning: A cross-border threat that demanded transparency and cooperation instead fueled a bitter U.S.-China blame game over origins, information-sharing and responsibility. The bottom line: The very existence of the proposal is an acknowledgment that AI is no longer just another arena of U.S.-China competition. A serious failure on either side could quickly become a shared crisis.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: U.S.-China relations are so brittle that an AI hotline — not a trade pact, strat",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: U.S.-China relations are so brittle that an AI hotline — not a trade pact, strategic slowdown or diplomatic reset — could emerge as the summit's most meaningful outcome. State of play: President Trump has spent the past week lashing out at ",
+      "source": "Axios — U.S.-China \"red telephone\" could bring a Cold War guardrail to AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: That narrow overlap is why Treasury Secretary Scott Bessent pitched Chinese offi",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: That narrow overlap is why Treasury Secretary Scott Bessent pitched Chinese officials this weekend on a \"notification mechanism\" for AI incidents with national-security implications. The Cold War precedent is the hotline Washington and Mosc",
+      "source": "Axios — U.S.-China \"red telephone\" could bring a Cold War guardrail to AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Washington and Beijing already have crisis hotlines, as well as a history of goi",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Washington and Beijing already have crisis hotlines, as well as a history of going dark when they're needed most. China suspended military contacts after Nancy Pelosi's 2022 Taiwan visit . Months later, Beijing declined a Pentagon request f",
+      "source": "Axios — U.S.-China \"red telephone\" could bring a Cold War guardrail to AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The very existence of the proposal is an acknowledgment that AI is no longer jus",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The very existence of the proposal is an acknowledgment that AI is no longer just another arena of U.S.-China competition. A serious failure on either side could quickly become a shared crisis.",
+      "source": "Axios — U.S.-China \"red telephone\" could bring a Cold War guardrail to AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: So far, nobody has publicly defined what would make the red phone ring. In an AI",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: So far, nobody has publicly defined what would make the red phone ring. In an AI catastrophe — say, a frontier model launches a major cyberattack on critical infrastructure — the first alarm may sound inside a private company rather than a ",
+      "source": "Axios — U.S.-China \"red telephone\" could bring a Cold War guardrail to AI (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-22T12:53:07+00:00"
+}
