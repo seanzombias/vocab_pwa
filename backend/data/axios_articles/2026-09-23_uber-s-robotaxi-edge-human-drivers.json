@@ -1,0 +1,61 @@
+{
+  "title": "Uber's robotaxi edge: human drivers",
+  "url": "https://www.axios.com/2026/09/23/uber-robotaxi-human-drivers",
+  "pub_date": "2026-09-23",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Uber's robotaxi edge: human drivers (2026-09-23)",
+  "body": "Uber is betting billions on a driverless future, but the secret to making the economics work could be — surprise! — its vast army of human drivers. Why it matters: Uber believes a hybrid network of robots and people can keep its expensive autonomous vehicles busier, and therefore more profitable, than fleets made up entirely of robotaxis. The big picture: Think of a high-tech robotaxi like an airplane: It costs money whether it's carrying passengers or sitting on the ground. The more trips each vehicle makes, the more revenue Uber and its robotaxi partners can squeeze from that expensive asset, offsetting the fixed costs of the technology, vehicle financing, insurance, depot space and other infrastructure. Between the lines: Ride-hailing is a supply-driven business, and robotaxis aren't a substitute for drivers, Uber says — they're an additional form of supply. With greater supply comes lower prices and shorter wait times, which means increased reliability. That stimulates more demand, and ultimately makes the ride-hailing pie bigger. That's Uber's theory. Robotaxi economics remain unproven , Uber's own president of autonomous mobility and delivery, Sarfraz Maredia, tells Axios. It's still early, and no company is making money yet operating them, nor is anyone yet operating them at massive scale. Whether AVs and all that's needed to support a fleet — including charging infrastructure and maintenance — will ultimately be cheaper than today's ride-hailing model \"very much has yet to be proven,\" Maredia says. \"The unit economics today have a long way to go.\" Uber's bet is that its mix of human drivers and AVs will produce better returns. How it works: In a hybrid network — and Lyft has a similar philosophy —AVs would handle the steady \"base load\" of everyday demand. Human drivers, meanwhile, would provide extra capacity during rush hour, bad weather, concerts and other demand spikes. Maredia points to late nights as an example: Uber can recharge robotaxis when electricity is cheapest while human drivers handle the bar-closing rush. So far , Uber says, robotaxis are taking shorter city-center trips, while drivers get longer, more lucrative ones. \"You could argue that the AVs are getting the scraps,\" CEO Dara Khosrowshahi told Fast Company earlier this year. That flexibility is an advantage , Uber says. A robotaxi operator needs enough cars to handle its busiest periods — leaving expensive AVs sitting idle when demand falls. Uber, by contrast, can size its robotaxi fleet for normal demand and summon more human drivers when needed. Drivers only get paid when they're working, whereas robotaxis cost money even when they're idle. Reality check: Drivers will be displaced eventually, and Uber doesn't argue that point. Part-time drivers who use Uber as a safety net — women, caregivers and lower-income workers — will be disproportionally affected, the company acknowledges. Others will have to work longer or at different times and places to earn the same amount, the company says. But a hybrid network will help ease that transition, it says. By the numbers: Uber says trips are up in Austin and Atlanta, where Waymo AVs are sharing the Uber app with drivers, and driver earnings have stayed consistent. Uber says Waymos on its network in Austin and Atlanta are completing about 30% more trips per vehicle per day than AVs in other major robotaxi markets. Yes, but: Independent research from Gridwise, an app that lets gig drivers track earnings, expenses and mileage, had different findings. It compared earnings for Uber and Lyft drivers in the second quarter with the same period two years ago and found base pay per hour was lower in San Francisco and Los Angeles, where they are competing with Waymo. In Austin, where Waymos are exclusively available on Uber, base pay and gross pay per hour rose less than rideshare drivers in other parts of the country, Gridwise found, suggesting AV growth could already be putting pressure on driver earnings. The bottom line: Humans may make Uber's robotaxi math work. Whether the math works as well for the humans is less certain.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Uber believes a hybrid network of robots and people can keep its expensive auton",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Uber believes a hybrid network of robots and people can keep its expensive autonomous vehicles busier, and therefore more profitable, than fleets made up entirely of robotaxis. The big picture: Think of a high-tech robotaxi like an airplane",
+      "source": "Axios — Uber's robotaxi edge: human drivers (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Ride-hailing is a supply-driven business, and robotaxis aren't a substitute for",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Ride-hailing is a supply-driven business, and robotaxis aren't a substitute for drivers, Uber says — they're an additional form of supply. With greater supply comes lower prices and shorter wait times, which means increased reliability. Tha",
+      "source": "Axios — Uber's robotaxi edge: human drivers (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Humans may make Uber's robotaxi math work. Whether the math works as well for th",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Humans may make Uber's robotaxi math work. Whether the math works as well for the humans is less certain.",
+      "source": "Axios — Uber's robotaxi edge: human drivers (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Drivers will be displaced eventually, and Uber doesn't argue that point. Part-ti",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Drivers will be displaced eventually, and Uber doesn't argue that point. Part-time drivers who use Uber as a safety net — women, caregivers and lower-income workers — will be disproportionally affected, the company acknowledges. Others will",
+      "source": "Axios — Uber's robotaxi edge: human drivers (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-23T13:04:32+00:00"
+}

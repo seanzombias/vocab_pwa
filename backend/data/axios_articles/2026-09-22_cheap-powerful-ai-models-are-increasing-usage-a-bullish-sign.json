@@ -1,0 +1,72 @@
+{
+  "title": "Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom",
+  "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier",
+  "pub_date": "2026-09-22",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom (2026-09-22)",
+  "body": "AI companies have competed on having the best and often most dangerous models for years. Now, they're pivoting to a new focus: cost. Why it matters: The biggest risk to the AI boom is demand, and recent innovations to make models cheaper while maintaining powerful levels of intelligence have offered a bullish signal. As the prices of top models from OpenAI, Anthropic and others come down, usage is increasing dramatically, a trend that points to the kind of demand that will be necessary to justify trillions of dollars in spending. State of play: It's modelpalooza in the AI world this week, with OpenAI, Anthropic, SpaceX and some Chinese model providers all offering new releases. Most of them are offering shocking levels of intelligence at prices that would've been unthinkable just a few months ago. OpenAI is releasing GPT-6 Sol and GPT-6 Luna on Tuesday, which bring down the cost for top business customers by 50% from previous iterations of the same models, the company shared with Axios. Anthropic is releasing Opus 5.5 on Tuesday, which the company says costs around 40% less to run than Opus 5 while maintaining top intelligence. Elon Musk's xAI on Monday released Grok 4.7 , pitching the new model around price-performance. Yet in a testament to the sheer brutality of competition in the AI race, it only took 24 hours for new options to wipe out much of that price advantage. Threat level: The ferocity and speed of the race during an ongoing price war is an issue for OpenAI and Anthropic, which need to retain customers and revenue growth to justify their sky-high multitrillion-dollar valuations. Yes, but: Even as they face margin pressure, the trend is positive for the AI boom overall, as the price reductions make it much easier to bet on a bright future for AI use. Follow the money: There is emerging evidence that cost cutting is a rising tide that can lift revenues for all AI providers. In a report sent to clients, Citadel Securities found that falling per-token costs are fueling additional usage, and overall AI spending is increasing. That points to higher eventual profits for labs or any company providing the computing firepower that services AI usage. Morgan Stanley sees competition from Chinese providers as yet another bullish signal for AI because it will increase overall demand for computing by capturing more customers who can now access AI for less. This concept is referred to in classic economic theory as Jevons paradox , which holds that when technology brings down the cost of a resource, consumption increases. Between the lines: Open-weight model companies, primarily coming out of China, have been on a tear in recent weeks. DeepSeek this month released V4.1 Flash, which it says beats its previous flagship offering on a number of benchmarks with technical updates that allow the company to charge less for its intelligence. That model is now No. 1 on OpenRouter's leaderboard with a 172% spike in usage this week. Reality check: Lowering costs to take market share isn't new in the AI world. AI companies have a long history of releasing a new model and then lowering the cost for prior releases, or even releasing \"flash\" versions of larger models that are smaller and cheaper to run. But the increased competition from open-weight model providers and their massive rise on leaderboards is fueling a broader focus on cost across offerings from top AI labs. The bottom line: AI sticker shock feels like a distant memory given the massive push from labs to deliver cheaper models.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The biggest risk to the AI boom is demand, and recent innovations to make models",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The biggest risk to the AI boom is demand, and recent innovations to make models cheaper while maintaining powerful levels of intelligence have offered a bullish signal. As the prices of top models from OpenAI, Anthropic and others come dow",
+      "source": "Axios — Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Open-weight model companies, primarily coming out of China, have been on a tear",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Open-weight model companies, primarily coming out of China, have been on a tear in recent weeks. DeepSeek this month released V4.1 Flash, which it says beats its previous flagship offering on a number of benchmarks with technical updates th",
+      "source": "Axios — Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: AI sticker shock feels like a distant memory given the massive push from labs to",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: AI sticker shock feels like a distant memory given the massive push from labs to deliver cheaper models.",
+      "source": "Axios — Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Lowering costs to take market share isn't new in the AI world. AI companies have",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Lowering costs to take market share isn't new in the AI world. AI companies have a long history of releasing a new model and then lowering the cost for prior releases, or even releasing \"flash\" versions of larger models that are smaller and",
+      "source": "Axios — Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom (2026-09-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-23T13:04:33+00:00"
+}

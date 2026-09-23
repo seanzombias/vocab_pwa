@@ -1,0 +1,72 @@
+{
+  "title": "AI labs are cutting model costs - and it could help them slow down safely",
+  "url": "https://www.axios.com/2026/09/23/price-war-pause-slowdown-ai-frontier",
+  "pub_date": "2026-09-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI labs are cutting model costs - and it could help them slow down safely (2026-09-23)",
+  "body": "The shift of the AI frontier toward more powerful, lower-cost models could pave the way for safely slowing development, experts say. Why it matters: Top U.S. startups including OpenAI and Anthropic, as well as other AI players, have to develop a financially viable path to allow them to slow development. Otherwise financial incentives will be too powerful . Driving the news : The health of the entire U.S. economy now rests in part on the AI boom. Yet the companies at the center of the race are burning far more cash than they take in, and will be for the foreseeable future. Their top executives have also shown unusual solidarity in expressing a desire to slow the pace of model development due to a troubling series of incidents in which rogue AI agents hacked outside companies. Between the lines : To enable a slowdown, in a financial sense, the companies have to find a way to build a value proposition to users that isn't solely rooted in the most mind-blowing intelligence imaginable. That's because remaining at the so-called frontier of capabilities requires a treadmill of never-ending — and mind-boggling spending — to keep up. Slowing the extent of that spending, some of which is used for the computing firepower needed to train new models, would help the companies generate better returns. That wouldn't necessarily threaten spending on computing, data centers and infrastructure such as upgrading the electric grid, according to some economists and AI pros. Those investments will still be needed in order to service demand for AI usage that continues to skyrocket. Catch up quick: Everybody gets a new model this week, and the one thing they all have in common is that they're cheaper than ever without forgoing top intelligence. OpenAI, Anthropic and SpaceX all emphasized the relatively low costs of their new models this week, as well as their ability to outperform some of their own top systems from only a few months ago. Chinese models including DeepSeek have done the same. DeepSeek's V4.1 Flash, released earlier this month, is now number one on OpenRouter's leaderboard with a 172% spike in usage this week. Reality check: The rationale for the price cuts also goes beyond safety. In a report sent to clients, Citadel Securities found that falling per-token costs are fueling enough additional usage to increase overall AI spending, meaning higher profits for labs even as they cut costs. This paradox is why the AI labs have a rich history of effectively cutting prices for models over time: it increases their customer base and their profits. The bottom line: The race to win on AI costs could be the very thing that allows the labs to enable the slowdown they are seeking.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Top U.S. startups including OpenAI and Anthropic, as well as other AI players, h",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Top U.S. startups including OpenAI and Anthropic, as well as other AI players, have to develop a financially viable path to allow them to slow development. Otherwise financial incentives will be too powerful . Driving the news : The health ",
+      "source": "Axios — AI labs are cutting model costs - and it could help them slow down safely (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Everybody gets a new model this week, and the one thing they all have in common",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Everybody gets a new model this week, and the one thing they all have in common is that they're cheaper than ever without forgoing top intelligence. OpenAI, Anthropic and SpaceX all emphasized the relatively low costs of their new models th",
+      "source": "Axios — AI labs are cutting model costs - and it could help them slow down safely (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The race to win on AI costs could be the very thing that allows the labs to enab",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The race to win on AI costs could be the very thing that allows the labs to enable the slowdown they are seeking.",
+      "source": "Axios — AI labs are cutting model costs - and it could help them slow down safely (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The rationale for the price cuts also goes beyond safety. In a report sent to cl",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The rationale for the price cuts also goes beyond safety. In a report sent to clients, Citadel Securities found that falling per-token costs are fueling enough additional usage to increase overall AI spending, meaning higher profits for lab",
+      "source": "Axios — AI labs are cutting model costs - and it could help them slow down safely (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-23T13:04:33+00:00"
+}
