@@ -1,0 +1,46 @@
+{
+  "title": "Inside China's mind on AI",
+  "url": "https://www.axios.com/2026/09/24/china-ai-plan-trump-xi-visit",
+  "pub_date": "2026-09-24",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside China's mind on AI (2026-09-24)",
+  "body": "China is waging a much different war for AI supremacy than the U.S. Why it matters: China is obsessed with state control and adoption. Chinese officials are laser-focused on deep, widespread AI domestic use they can monitor and steer at every level of their economy. By contrast, America is obsessed with developing superior AI faster. Period. The U.S. thinking: The nation first to true super-intelligence wins everything. China and the U.S. agree on three AI certainties: The country with the most powerful AI holds power, sets global standards, and wins the coming decades economically and militarily. From there, the two nations are on different roads. China's 15th Five-Year Plan , released in March, captures their strategy well. AI appears 52 times, 5x more than a half-decade earlier. Computing power gets its own full chapter. Their goal is clear: Integrate AI across 90% of the economy by 2030. America has nothing like this. The bottom line: China doesn't get spooled up about white-collar job loss or humanity-ending rogue AI. The regime is worried most about AI turning against ... the regime. Chen Yixin, China's spy chief, warned this month — in public — about AI's ability to launch public opinion wars and \"cognitive warfare against China,\" threatening \"political security, institutional security and ideological security.\" China's weaknesses China's AI strategy targets some substantial domestic problems they purposely omit in their AI sales pitch. Why it matters: Americans tend to focus on China's growing strength — but much of its AI thinking flows from glaring weakness. 😱 They're staring down: An aging population: China's population has shrunk for four years straight — and is very old. They have nearly as many people over 60 as America has in total. This helps explain their robotics obsession . Very high youth unemployment: China's currently sits at 19% , basically double that of the U.S. — and an angry, young population with powerful AI tools is a threat to power. Poor population outside major cities: This is a huge pain point . Then add in a five-year housing crisis , with prices falling for most people's most valuable asset. Inferior chip production: Nvidia is simply way better than anything they've got. You can't compete on AI with uncompetitive chips — and Huawei, their Nvidia , is way behind despite state-directed help. Export addiction: China is crushing it on exports , often flooding foreign markets with cheap cars, parts and technology. But its domestic economy is sucking wind — strong supply, weak demand. China's strengths China is America's only real AI competition — and, despite its weaknesses, it has some serious, structural advantages. Why it matters: China leads in the physical ingredients for scaling AI: power, materials, robots and cheap models people actually use. These are the key ingredients for turning super-human intelligence into real economic and military power. Think of it this way: If they catch up — or lap us — on AI capabilities and chip production, they're way better positioned to instantly impose and roll it out across society. 🦾 Their edge exists thanks to: Power: Electricity is the biggest bottleneck on America's AI buildout, and China is swimming in it. BloombergNEF estimates China will add almost six times as much generating capacity as the U.S. over the next five years. Vital materials: China dominates the minerals AI hardware runs on. The IEA tracks 20 essential ones for building AI and adjacent tech — and China dominates all but one, usually by huge margins. They have applied export controls to half of them as a way to slow us down. Rolling out robots: This is where AI truly meets the real work. More than half of all industrial robots installed worldwide in 2024 went to China. They dominate us on this one. Better AI will equal better robots. Cheap, widespread adoption: Chinese open-source models are the world's default for developers building cheaply. Five of the six most popular models on OpenRouter , a leading AI marketplace, come from Chinese firms. Land-and-sky autonomy: They're simply crushing us on self-driving cars and self-flying drones. China's DJI alone has over 70% of the global drone market. Understanding China's AI China builds the world's best cheap open-source AI but trails America's most cutting-edge AI by about half a year , on a fraction of the investment. That's the consensus of most AI experts we talk to. Truthfully, there's no rock-solid way to measure it, and every model release resets the estimates. Why it matters: Everyone agrees on this: Chinese models are very good, gaining fast and are much cheaper to use. The four you need to know: Kimi K3 (Moonshot): Widely rated as the best all-around open Chinese model. It's strongest on long, multi-step agentic tasks. Qwen3.8-Max (Alibaba): Also highly regarded and even tops some model rankings. GLM-5.3 (Zhipu / Z.ai): China's coding specialist. Its predecessor scored within a point of Anthropic's Claude Opus 4.8 on a key coding test, at under a fifth of the cost. DeepSeek V4 / V4.1-Flash: Among the cheapest to use . It's MIT-licensed and truly open. The twist: U.S. officials and AI companies accuse Chinese labs of \" distillation ,\" covertly firing millions of questions at American models and training on the answers. Washington has threatened sanctions and blacklisting, but hasn't pulled the trigger. Worth noting: U.S. frontier labs have lately focused far more on building powerful lower-cost models to try to make sure Chinese AI can't undercut them on price. Using it vs. fearing it China is not big on dissent — or public opposition and hand-wringing about the regime's priorities. That helps explain why the Chinese public is far more bullish on AI than America's. Why it matters: They use it, like it and trust it — by wide margins. 80% of Chinese people use AI weekly vs. 54% of Americans. It's in schools, public services and robots in hotels and stores. 84% of Chinese people say AI excites them . That's the highest of any country. Only 38% of Americans say the same. 87% of Chinese people trust AI , compared to just 32% of Americans. And 54% want more of it in daily life. That share is a measly 17% here. Worth noting: Don't over-read it. ChinaTalk, a sharp China tracker, argues the optimism is overstated and masks rising worry about AI wiping out jobs. 📈 If you're a CEO or on a CEO's team: Ask to join Jim's new weekly Axios C-Suite newsletter.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: China is obsessed with state control and adoption. Chinese officials are laser-f",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: China is obsessed with state control and adoption. Chinese officials are laser-focused on deep, widespread AI domestic use they can monitor and steer at every level of their economy. By contrast, America is obsessed with developing superior",
+      "source": "Axios — Inside China's mind on AI (2026-09-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: China doesn't get spooled up about white-collar job loss or humanity-ending rogu",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: China doesn't get spooled up about white-collar job loss or humanity-ending rogue AI. The regime is worried most about AI turning against ... the regime. Chen Yixin, China's spy chief, warned this month — in public — about AI's ability to l",
+      "source": "Axios — Inside China's mind on AI (2026-09-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-24T12:57:19+00:00"
+}

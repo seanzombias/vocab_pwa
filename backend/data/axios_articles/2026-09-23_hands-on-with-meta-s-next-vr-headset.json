@@ -1,0 +1,50 @@
+{
+  "title": "Hands-on with Meta's next VR headset",
+  "url": "https://www.axios.com/2026/09/23/hands-on-with-metas-next-vr-headset",
+  "pub_date": "2026-09-23",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Hands-on with Meta's next VR headset (2026-09-23)",
+  "body": "Meta's new virtual reality glasses take a big step toward being something an average person might be willing to wear, ditching much of the bulk as well as the need for handheld controllers. Why it matters: Unlike Meta's Ray-Bans, its VR devices have struggled to break out of their gamer niche and into the mainstream. Yes, but: In order to slim down the size, the new Meta VR glasses require a wired \"puck\" that can be held or clipped onto a belt. It contains much of the device's computing horsepower, including its processor, battery and storage. Zoom in: I spent about half an hour on Tuesday getting to use a prototype of the new specs, which are controlled through a combination of eye-tracking, hand gestures and voice commands. Magnetic prescription inserts attach easily, similar to the approach Apple took with Vision Pro. Zoom out: The glasses are designed to serve a range of purposes from watching a movie or immersive concert to playing games and getting work done. I played a re-imagined version of Beat Saber that cleverly re-maps the music game for control via hand motions. I watched a clip from last year's NBA finals. I used a trio of virtual monitors to do some \"vibe coding\" on a website, with one display showing the Muse terminal and another previewing the site itself. Meta sees these VR glasses as a \"general device,\" Meta VP of product Angela Chang told Axios. \"It's not built for any specific use case per se.\" My thought bubble: It's the most practical combination I've seen of an Apple Vision Pro-class device in a headset I'd be willing to wear outside of the house. The big picture: Google is working on a similar device, known as Project Aura, set to debut later this year and built in partnership with Xreal. Meta touts its wider field of view and higher optical quality, among other advantages over Aura. Between the lines : As for why it won't arrive until next spring, Meta executives say they want to be sure it makes a good first impression, especially inside a VR ecosystem. \"We really are trying to strive for a very high bar on the software quality and experience side,\" Chang said. Bottom line : Meta said it has modest expectations for unit sales, but says success will look like attracting folks beyond gamers, Chang said. \"Are we bringing in new people into VR who, you know, maybe in the past would have looked at the Quest and said, 'Nah, that's not for me?'\"",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Unlike Meta's Ray-Bans, its VR devices have struggled to break out of their game",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Unlike Meta's Ray-Bans, its VR devices have struggled to break out of their gamer niche and into the mainstream. Yes, but: In order to slim down the size, the new Meta VR glasses require a wired \"puck\" that can be held or clipped onto a bel",
+      "source": "Axios — Hands-on with Meta's next VR headset (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The glasses are designed to serve a range of purposes from watching a movie or i",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The glasses are designed to serve a range of purposes from watching a movie or immersive concert to playing games and getting work done. I played a re-imagined version of Beat Saber that cleverly re-maps the music game for control via hand ",
+      "source": "Axios — Hands-on with Meta's next VR headset (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: I spent about half an hour on Tuesday getting to use a prototype of the new spec",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: I spent about half an hour on Tuesday getting to use a prototype of the new specs, which are controlled through a combination of eye-tracking, hand gestures and voice commands. Magnetic prescription inserts attach easily, similar to the app",
+      "source": "Axios — Hands-on with Meta's next VR headset (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-24T12:57:19+00:00"
+}

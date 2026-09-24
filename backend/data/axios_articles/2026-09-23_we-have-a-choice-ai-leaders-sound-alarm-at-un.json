@@ -1,0 +1,85 @@
+{
+  "title": "\"We have a choice\": AI leaders sound alarm at UN",
+  "url": "https://www.axios.com/2026/09/23/ai-leaders-un-security-council-global-safeguards",
+  "pub_date": "2026-09-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"We have a choice\": AI leaders sound alarm at UN (2026-09-23)",
+  "body": "Executives from leading artificial intelligence organizations urged global cooperation Wednesday to address risks from increasingly autonomous AI systems during a UN Security Council meeting. The big picture: AI capabilities are advancing faster than governments are developing safeguards, raising concerns about whether humans can maintain control over increasingly autonomous systems. OpenAI CEO Sam Altman appeared in person at the meeting, while Anthropic's Dario Amodei and Hugging Face CEO Clem Delangue joined by video conference. Driving the news: \" We have a choice in front of us,\" Altman said. \"AI can either be more like a new renaissance of creativity and discovery, or more like a new industrial revolution of upheaval and disarray.\" He outlined the risks of AI systems becoming increasingly autonomous, warning \"they could move faster than our institutions, concentrate power in too few hands, or make decisions that people no longer understand or control,\" fears he noted become increasingly urgent as AI systems move toward self-improvement . \"It doesn't matter whether people put the risk of catastrophe at 10% or 1% or 12% or 0.1 percent,\" he said. \"None of these levels are remotely acceptable, and we should not train models that we cannot make an extremely strong case that we'll be able to keep under human control.\" State of play: A recent Hugging Face breach and newly disclosed AI safety incidents have intensified concerns about monitoring and security standards. The UN-backed Independent International Scientific Panel on AI warned that the present AI firewalls are \"unravelling.\" Last week, OpenAI disclosed six new incidents where its models concealed mistakes, sought unauthorized credentials or committed other misbehaviors — making it clear the Hugging Face breach was an eye-opener, not a standalone fluke, Axios previously reported. \" To better understand and mitigate these emerging cybersecurity risks, the global community needs stronger standards for monitoring and incident disclosure,\" Delangue said Wednesday, reflecting on the summer breach that triggered a cascade of new questions about AI capabilities. Zoom out: AI's current trajectory needs to continue for only one or two years before reaching what Amodei called \"a country of geniuses in a data center,\" he said in his remarks. That holds massive opportunity, he said, pointing to a discovery announced Wednesday that was led by his company's LLM, Claude: an enzyme system hidden in bacteriophage DNA. Amodei also noted serious risks of the technology, such as misuse by bad actors to create biological weapons or loss of control over advanced systems. Managing that risk depends on global cooperation, he said, calling for an agreement to ban the use of AI to make biological weapons; new evaluation and verification systems; common standards for testing models for risks; and a notification system for global security concerns. Catch up quick: Industry leaders have raised fresh alarms in recent weeks about the rapid advancement of their technology and the need to slow its pace. President Trump , who appeared before the UN General Assembly Tuesday, vowed not to hamstring AI development. The bottom line: Altman warned, \"If AI is to be democratic, the most important decisions cannot be made by labs in San Francisco alone.\" He added, \"They must be shaped through democratic processes and by governments accountable to the people that they serve.\" Go deeper: Exclusive: Thune believes Trump is willing to listen on AI guardrails",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: \" We have a choice in front of us,\" Altman said. \"AI can either be more like a n",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: \" We have a choice in front of us,\" Altman said. \"AI can either be more like a new renaissance of creativity and discovery, or more like a new industrial revolution of upheaval and disarray.\" He outlined the risks of AI systems becoming inc",
+      "source": "Axios — \"We have a choice\": AI leaders sound alarm at UN (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Industry leaders have raised fresh alarms in recent weeks about the rapid advanc",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Industry leaders have raised fresh alarms in recent weeks about the rapid advancement of their technology and the need to slow its pace. President Trump , who appeared before the UN General Assembly Tuesday, vowed not to hamstring AI develo",
+      "source": "Axios — \"We have a choice\": AI leaders sound alarm at UN (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: AI's current trajectory needs to continue for only one or two years before reach",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: AI's current trajectory needs to continue for only one or two years before reaching what Amodei called \"a country of geniuses in a data center,\" he said in his remarks. That holds massive opportunity, he said, pointing to a discovery announ",
+      "source": "Axios — \"We have a choice\": AI leaders sound alarm at UN (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Altman warned, \"If AI is to be democratic, the most important decisions cannot b",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Altman warned, \"If AI is to be democratic, the most important decisions cannot be made by labs in San Francisco alone.\" He added, \"They must be shaped through democratic processes and by governments accountable to the people that they serve",
+      "source": "Axios — \"We have a choice\": AI leaders sound alarm at UN (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Exclusive: Thune believes Trump is willing to listen on AI guardrails",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Exclusive: Thune believes Trump is willing to listen on AI guardrails",
+      "source": "Axios — \"We have a choice\": AI leaders sound alarm at UN (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-24T12:57:19+00:00"
+}

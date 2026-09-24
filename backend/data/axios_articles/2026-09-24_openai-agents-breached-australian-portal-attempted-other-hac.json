@@ -1,0 +1,19 @@
+{
+  "title": "OpenAI agents breached Australian portal, attempted other hacks in routine data collection.",
+  "url": "https://www.axios.com/2026/09/24/openai-agents-australia-data-breach",
+  "pub_date": "2026-09-24",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI agents breached Australian portal, attempted other hacks in routine data collection. (2026-09-24)",
+  "body": "OpenAI's autonomous agents breached an Australian Medicare portal and probed other public data sites in May and June after being stymied in routine data-collection efforts. Why it matters : The new incidents, which were revealed by security researchers and Australian officials Wednesday, indicate that the scope of rogue AI activity may be greater than what's been publicly acknowledged. The agents took those steps while engaged in ordinary data retrieval tasks, according to researchers, a distinction from other hacks by systems programmed specifically for cybersecurity work. The revelation is likely to raise fresh questions about OpenAI's internal controls and safeguards. Driving the news : Australian Prime Minister Anthony Albanese said an OpenAI model breached the country's Medicare Statistics Reporting Service in June and accessed non-public files . The agents aren't believed to have accessed personal information, according to Albanese and OpenAI. This was part of a pattern of behavior that occurred in May and June, wherein the OpenAI agents sought to bypass data collection restrictions for several websites using a novel security technique. The models also attempted to hack a University of New Mexico website and a domain from Data USA, which aggregates and organizes government data, according to a report by AI safety firm Transluce. \"Overall, the evidence is consistent with, but does not prove, that the agents may have learned this behavior over one or more training runs,\" according to the Transluce report. Catch-up quick : OpenAI has faced intense scrutiny after a swarm of its agents hacked AI platform Hugging Face in July to cheat on a cyber test. OpenAI last week disclosed six new incidents in which its models behaved in unexpected ways, and the company has since proposed a new framework for publicly reporting similar misbehavior in the future. CEO Sam Altman and other top AI executives, including Anthropic's Dario Amodei, Google's Demis Hassabis and Elon Musk, all said they would support a slowdown in frontier AI development after that and a spate of other similar incidents came to light . Reality check : Some cybersecurity pros and tech execs have said the problem has less to do with AI systems run amok and more to do with AI companies failing to proceed with sufficient caution. \"Companies ought to ship safe products,\" Nvidia CEO Jensen Huang said in an interview with journalist Ezra Klein that was released Wednesday. \"If your product is not ready to ship, don't ship the product.\" Zoom in : An OpenAI spokesman said the company discovered several instances involving Australian websites in which its models \"took actions we did not intend\" as it continues an investigation into \"misaligned model activity.\" Albanese criticized how OpenAI disclosed the findings to Australia and said he expressed \"extreme concern\" to Altman when he spoke to him Wednesday. What's next : Australia is launching a multi-agency cyber task force to investigate the incident, consider legislative changes and whether it's necessary to refer the matter to federal police.",
+  "vocab_count": 0,
+  "vocab": [],
+  "fetched_at": "2026-09-24T12:57:19+00:00"
+}
