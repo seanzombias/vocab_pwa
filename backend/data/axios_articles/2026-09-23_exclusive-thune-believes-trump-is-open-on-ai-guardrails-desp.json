@@ -1,0 +1,59 @@
+{
+  "title": "Exclusive: Thune believes Trump is open on AI guardrails despite public defiance",
+  "url": "https://www.axios.com/2026/09/23/trump-thune-ai-regulations",
+  "pub_date": "2026-09-23",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Thune believes Trump is open on AI guardrails despite public defiance (2026-09-23)",
+  "body": "Senate Majority Leader John Thune says he doesn't believe President Trump is \"really dug in\" against guardrails for AI , despite Trump's public campaign against restricting the technology. Why it matters: Thune told Axios he spoke privately with Trump as the AI issue was getting \"pretty hot\" a few weeks ago and believes some of Trump's strong pushback is against public \"paranoia and noise around the subject.\" \"I don't think it's an issue that he's really dug in on,\" Thune told Axios. Thune reads Trump's position as a preference for companies coming up with ways to secure their systems, rather than Congress or the administration. That approach relies more on experts to provide guidance. Trump has called recent fears around AI safety a \"hoax.\" \"I do think that the threats are real,\" Thune told Axios in an interview on Wednesday at his Capitol office. Zoom out : Thune has Trump's skepticism in one ear and tech leader alarm in the other. Anthropic CEO Dario Amodei called Thune to discuss AI safety before sounding his latest public alarm on the risks of AI, Thune told Axios. The two also talked about Thune's AI bill. What to watch: \"I think you have to have at least some sort of a plan and some guardrails around it, which is what I think our bill does,\" Thune said, referencing the bill he has introduced with Sen. Amy Klobuchar (D-Minn.) in past years. \"But I do also think that there are people who are... doing a lot of fear mongering,\" Thune added. Thune's bill, which has passed out of committee last Congress but has not yet been reintroduced this Congress, puts the onus on tech companies to mitigate AI risks. It also requires AI companies to report on any serious risks with frontier models and to come up with plans to address the concerns. Sen. Ted Cruz (R-Texas) has been involved with the bill this Congress. Thune said Klobuchar is trying to get more Democratic co-sponsors on board — including Sens. Chris Coons (D-Del.) and Maria Cantwell (D-Wash.) — before re-introducing the bill. The details: Democrats have two main sticking points, according to Thune: Pre-deployment testing is something companies can opt into in the bill language. Democrats want it mandated. Cantwell is asking for AI rulemaking authority at the Department of Commerce. Thune worries rulemaking authority could give the executive too much power. The bottom line: Thune is able to pull on experience working on AI policy. If he had not become leader, he would have again chaired the Commerce committee, which has jurisdiction over much of the issue. Go deeper: \"We have a choice\": AI leaders sound alarm at UN Editor's note: This story has been updated with a more complete version of Thune's quote on Trump's position on AI guardrails.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Thune told Axios he spoke privately with Trump as the AI issue was getting \"pret",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Thune told Axios he spoke privately with Trump as the AI issue was getting \"pretty hot\" a few weeks ago and believes some of Trump's strong pushback is against public \"paranoia and noise around the subject.\" \"I don't think it's an issue tha",
+      "source": "Axios — Exclusive: Thune believes Trump is open on AI guardrails despite public defiance (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Thune is able to pull on experience working on AI policy. If he had not become l",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Thune is able to pull on experience working on AI policy. If he had not become leader, he would have again chaired the Commerce committee, which has jurisdiction over much of the issue.",
+      "source": "Axios — Exclusive: Thune believes Trump is open on AI guardrails despite public defiance (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: \"We have a choice\": AI leaders sound alarm at UN Editor's note: This story has b",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: \"We have a choice\": AI leaders sound alarm at UN Editor's note: This story has been updated with a more complete version of Thune's quote on Trump's position on AI guardrails.",
+      "source": "Axios — Exclusive: Thune believes Trump is open on AI guardrails despite public defiance (2026-09-23)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-25T13:03:54+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "AI's never-before-seen capital grab",
+  "url": "https://www.axios.com/2026/09/24/ai-private-credit-capital-grab",
+  "pub_date": "2026-09-24",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — AI's never-before-seen capital grab (2026-09-24)",
+  "body": "A new analysis of the AI buildout shows its staggering scale: $10.3 trillion in estimated AI infrastructure investment through 2032. That amounts to 3.6% of GDP a year, dwarfing the investment booms that built America's railroads , highways, electric grid and telecom networks. Why it matters: The AI boom has become far too big and too costly for even the largest tech companies to finance alone. This has resulted in trillions of dollars in demand for outside capital — and the potential risks that come along with that, according to new research being presented Friday at the Brookings Papers on Economic Activity. Financing the buildout will require tapping bond markets, banks and private credit on a massive scale, adding to the flood of debt competing for investors' money at a time when borrowing costs are already surging. So far, those higher costs appear to be doing little to curb the industry's appetite to build. The knock-on effect: The more capital the buildout absorbs, the greater the potential pressure on borrowing costs elsewhere in the economy. In effect, any other entity that needs capital — from the U.S. government financing its $2 trillion per year deficit to an individual seeking a home mortgage or car loan — is in competition for funds with these hyperscalers. What they're saying: Stijn Van Nieuwerburgh, a Columbia Business School professor behind the new paper on how the AI infrastructure boom is being financed, says the industry's appetite for investment remains remarkably resilient to higher rates. \"They are so gung-ho to build these things\" that even recent rate hikes and historically high long-term yields won't \"deter too much of that development,\" Van Nieuwerburgh told reporters recently. Morgan Stanley estimates that Big Tech will need roughly $2.9 trillion to expand its computing capacity through 2028 — with more than half coming from outside investors, according to the paper. Case in point: Facebook parent Meta chose to finance most of its $30 billion Hyperion data center through outside investors, even though doing so meant paying substantially more to borrow. The project's debt carries an interest rate at least 1 percentage point higher than Meta likely would have paid on its own debt, adding more than $5 billion in costs over the life of the deal, the paper estimates. Threat level: The surge of outside money — much of it from private credit — allows the AI boom to keep scaling. But it spreads possible risks across the financial system, often through financing structures that are harder for investors and regulators to track. The infrastructure would need to generate $3.7 trillion in annual revenue in the next six years to earn a 10% return — roughly 9% of GDP. \"The risks have been spreading throughout the financial system,\" Van Nieuwerburgh said, as the industry taps pension funds, sovereign wealth funds, private credit and other sources of outside capital. \"With that expansion comes more complexity, more opacity, and it's becoming difficult to track where the risks are being distributed,\" he said. \"These risks are coming to a pension fund near you, so to speak.\" What to watch: Van Nieuwerburgh says the influx of outside capital risks allowing the buildout to race ahead of actual demand. \"Sooner or later, we're going to have oversupply, just like we do in every real estate cycle, and then the prices will collapse,\" he said. \"I don't see why this time is different.\" The bottom line: The AI investment boom is now a major force in the broader economy, boosting growth while putting new pressure on capital markets and the financial system. \" This AI buildout is by far the largest ... it's 50% larger than the second-largest, which was the railroad buildout,\" Van Nieuwerburgh said.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The AI boom has become far too big and too costly for even the largest tech comp",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The AI boom has become far too big and too costly for even the largest tech companies to finance alone. This has resulted in trillions of dollars in demand for outside capital — and the potential risks that come along with that, according t",
+      "source": "Axios — AI's never-before-seen capital grab (2026-09-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Stijn Van Nieuwerburgh, a Columbia Business School professor behind the new pape",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Stijn Van Nieuwerburgh, a Columbia Business School professor behind the new paper on how the AI infrastructure boom is being financed, says the industry's appetite for investment remains remarkably resilient to higher rates. \"They are so gu",
+      "source": "Axios — AI's never-before-seen capital grab (2026-09-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The AI investment boom is now a major force in the broader economy, boosting gro",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The AI investment boom is now a major force in the broader economy, boosting growth while putting new pressure on capital markets and the financial system. \" This AI buildout is by far the largest ... it's 50% larger than the second-largest",
+      "source": "Axios — AI's never-before-seen capital grab (2026-09-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-25T13:03:54+00:00"
+}

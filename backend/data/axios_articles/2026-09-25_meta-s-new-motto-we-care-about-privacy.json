@@ -1,0 +1,42 @@
+{
+  "title": "Meta's new motto: we care about privacy",
+  "url": "https://www.axios.com/2026/09/25/meta-ai-muse-privacy",
+  "pub_date": "2026-09-25",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Meta's new motto: we care about privacy (2026-09-25)",
+  "body": "Meta is seeking to make privacy protections a centerpiece of new products including its viral assistant Muse , marking a major shift for a company built on extensive use of customer data. Why it matters: The radical turnaround is an acknowledgment that the winner of AI's new assistant race will have to reassure users that they can turn over their emails, finances, health data and other sensitive information. Without that, a super-intelligent personal agent is essentially useless. Driving the news: Meta, whose privacy policy once allowed it nearly unfettered access to use almost everything people did with Meta AI (in almost any way it wanted), has made a significant shift in recent months to put privacy at the center of its AI strategy. In a 6,500-word August manifesto , CEO Mark Zuckerberg laid out a broad promise. \" We believe that people should have a fully private mode for personal agents where even Meta or any other service provider cannot see or grant access to your information.\" With Muse, which appears to be on a path to becoming one of the most popular AI hits since ChatGPT, the company is offering all customers their own personal virtual machine. A soon-to-be-available option would ensure that even Meta won't have access to the data. Meta is also readying a similar \"private processing\" option for interactions with its AI glasses. Small efforts have been underway for more than a year, starting with the addition of incognito chats and private processing , which arrived first in WhatsApp, where Meta also provides end-to-end encryption. More recently, the options have spread to other Meta apps. Yes, but: Customers still have to pay close attention if they want to minimize the amount of data shared with Meta. In Muse, for example, the default setting allows interactions to be used for training the company's AI models, though that can be turned off. And not all of the privacy changes being offered to Muse users apply to those accessing Meta AI in other ways, such as through the Facebook, Instagram or Meta AI apps. Plus, Meta devices continue to spur other types of privacy concerns. \"Meta's products that embed microphones and cameras in everyday devices pose serious privacy risks to people just trying to live their lives and go about their day without being recorded or surveilled,\" Electronic Privacy Information Center executive director Alan Butler told Axios. \"Confidential processing doesn't solve the problem of pushing embedded surveillance systems out into the world.\" The big picture: Meta has spent years building a thriving business based on tapping extensive knowledge about its customers to serve up content and ads that it knows will be right up their alley. Its practices have also drawn lawsuits from a wide range of entities that say Meta designed social media to be addictive and caused harm. How it works: Meta is betting on a new business model to fund Muse, which won't provide the same data for targeted advertising that supports most of the company's services. Muse has $20- and $100-per-month paid tiers for heavy users, but Meta expects the free tier to account for most usage. \"We believe that Muse will make you money, and we're standing behind this by making Muse free for a huge number of tokens, with the expectation that over time we will profit by taking a small fee from transactions,\" Zuckerberg said. Our thought bubble : There's still a trust gap based on Meta's years of gobbling up nearly all the data it could. That can't be addressed with words, but requires establishing a new track record.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The radical turnaround is an acknowledgment that the winner of AI's new assistan",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The radical turnaround is an acknowledgment that the winner of AI's new assistant race will have to reassure users that they can turn over their emails, finances, health data and other sensitive information. Without that, a super-intelligen",
+      "source": "Axios — Meta's new motto: we care about privacy (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Meta, whose privacy policy once allowed it nearly unfettered access to use almos",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Meta, whose privacy policy once allowed it nearly unfettered access to use almost everything people did with Meta AI (in almost any way it wanted), has made a significant shift in recent months to put privacy at the center of its AI strateg",
+      "source": "Axios — Meta's new motto: we care about privacy (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-25T13:03:54+00:00"
+}
