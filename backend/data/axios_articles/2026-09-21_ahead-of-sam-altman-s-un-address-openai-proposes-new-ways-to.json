@@ -1,0 +1,54 @@
+{
+  "title": "Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks",
+  "url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china",
+  "pub_date": "2026-09-21",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks (2026-09-21)",
+  "body": "OpenAI on Monday released international AI safety standards as world leaders, namely the U.S. and China, weigh how to mitigate risk. Why it matters: The U.S. approach to coordinating on AI risk with China will be heavily informed by industry recommendations. Driving the news: U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng over the weekend discussed a U.S.-China AI dialogue to notify the other country when AI incidents reached national security risk levels. The devil is in the details, and OpenAI is proposing solutions that CEO Sam Altman will cover in his address at the United Nations Security Council in New York on Wednesday. What they're saying: OpenAI recommends leveraging AI safety institutes around the world to facilitate standard-setting through the U.S. Center for AI Standards and Innovation, which is part of the Commerce Department. The company also recommends shared global measurements for classifying incidents and how to track, report and respond to alignment issues. The goal is to have international standards for incidents that happen before deployment in test settings and those that occur in the real world, an OpenAI official told Axios. What we're watching: Expect AI labs to continue chiming in as all eyes are on President Trump and Chinese President Xi Jinping's meetings and a state dinner featuring industry heavy hitters later this week.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The U.S. approach to coordinating on AI risk with China will be heavily informed",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The U.S. approach to coordinating on AI risk with China will be heavily informed by industry recommendations.",
+      "source": "Axios — Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks (2026-09-21)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng over th",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng over the weekend discussed a U.S.-China AI dialogue to notify the other country when AI incidents reached national security risk levels. The devil is in the details, a",
+      "source": "Axios — Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks (2026-09-21)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: OpenAI recommends leveraging AI safety institutes around the world to facilitate",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: OpenAI recommends leveraging AI safety institutes around the world to facilitate standard-setting through the U.S. Center for AI Standards and Innovation, which is part of the Commerce Department. The company also recommends shared global m",
+      "source": "Axios — Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks (2026-09-21)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-26T12:31:32+00:00"
+}

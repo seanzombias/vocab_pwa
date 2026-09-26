@@ -1,0 +1,59 @@
+{
+  "title": "OpenAI agents posted user images online, disclose dozens of third party incidents",
+  "url": "https://www.axios.com/2026/09/25/openai-models-posted-user-images-online-in-latest-security-episode",
+  "pub_date": "2026-09-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI agents posted user images online, disclose dozens of third party incidents (2026-09-25)",
+  "body": "OpenAI disclosed dozens of incidents in which its models behaved in ways it has deemed problematic, including leaking more than 50 images from ChatGPT users online. Why it matters : This is the first publicly known example of the company's agents mishandling user data and the latest example a budding rogue agent problem at OpenAI. The company says it could take months to fully investigate the security incidents. State of play : OpenAI said that some of its agents sent data from its internal training and testing systems to outside websites, including user images, as reported first by Reuters . The company identified 53 instances in which images that users put into ChatGPT were then posted to image-hosting sites as links that were not publicly listed. The images came from users whose ChatGPT data was eligible to be used for model training because they had not opted out. OpenAI said it has worked with hosting providers to remove most of the images. It is still trying to remove the rest, meaning some of these images remain public. Zoom out: The images are part of a much broader investigation from the company into AI agents taking actions outside their intended programming, or what's called misaligned behavior. As of mid-September, OpenAI had found roughly two dozen incidents of agents behaving in undesirable ways, according to a person briefed on the matter cited by Reuters. OpenAI says it has already notified dozens of third parties whose websites or services may have been affected and would disclose additional incidents to those impacted: \"As we verify cases that meet our disclosure criteria, we are notifying affected organizations and sharing technical findings to support their investigations.\" Between the lines: This is likely to draw attention to the ChatGPT-maker's security protocols and the challenges it and other AI companies face in controlling their technology. The review began after OpenAI disclosed in July that agents escaped their restricted environment and compromised Hugging Face , an AI startup. OpenAI still calls that the most severe incident of this kind it has identified. The company now says it initially viewed the episode primarily as a cybersecurity breach, but later concluded it was part of a broader pattern of models using misaligned strategies to accomplish difficult tasks. Threat level: OpenAI emphasized that enterprise and business data is excluded from model training by default, meaning it would not have been included in the training data involved in these incidents unless an administrator had opted in. But the broader disclosure comes amid increased concern about enterprise data protection . \"It's certainly plausible that an enterprise user could give an agent an instruction, and that agent has access to sensitive information, and that agent takes some sort of action which reveals aspects of that sensitive information,\" researcher Conrad Stosz at Transluce told Axios. The research said said it uncovered details about OpenAI agents that breached an Australian government website . The bottom line: Security researchers and AI executives expect disclosures about misaligned behavior from companies to continue.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The images are part of a much broader investigation from the company into AI age",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The images are part of a much broader investigation from the company into AI agents taking actions outside their intended programming, or what's called misaligned behavior. As of mid-September, OpenAI had found roughly two dozen incidents o",
+      "source": "Axios — OpenAI agents posted user images online, disclose dozens of third party incidents (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: This is likely to draw attention to the ChatGPT-maker's security protocols and t",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: This is likely to draw attention to the ChatGPT-maker's security protocols and the challenges it and other AI companies face in controlling their technology. The review began after OpenAI disclosed in July that agents escaped their restrict",
+      "source": "Axios — OpenAI agents posted user images online, disclose dozens of third party incidents (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Security researchers and AI executives expect disclosures about misaligned behav",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Security researchers and AI executives expect disclosures about misaligned behavior from companies to continue.",
+      "source": "Axios — OpenAI agents posted user images online, disclose dozens of third party incidents (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-26T12:31:32+00:00"
+}

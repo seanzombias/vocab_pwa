@@ -1,0 +1,59 @@
+{
+  "title": "Inside Trump's \"super intelligence\" naming problem",
+  "url": "https://www.axios.com/2026/09/25/trump-ai-super-intelligence-tech-definition",
+  "pub_date": "2026-09-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside Trump's \"super intelligence\" naming problem (2026-09-25)",
+  "body": "President Trump is pushing world leaders and U.S. agencies to rename AI \"super intelligence.\" Why it matters: \"Superintelligence\" already has a distinct meaning in AI — and is fueling debates over whether the most advanced systems should be slowed or stopped. The big picture: Superintelligence — broadly, AI that surpasses human cognition — has become both an industry ambition and the focus of efforts to slow its development or ban it altogether . Yes, but: Trump doesn't seem to be talking about that kind of superintelligent AI. \"The use of the word 'artificial' ... makes it sound fake,\" he said before the UN General Assembly gathering on Tuesday, adding, \"it is not fake. It's actually amazing.\" He announced that all \"United States documents, and hopefully the world's, will be changed to use the much more accurate term 'super' as opposed to artificial.\" Trump posted Friday that China's Xi Jinping, \"seemed to like\" the idea. The White House did not immediately respond to Axios' question about whether it had considered the term's existing meaning when Trump proposed the new name. Defining superintelligence Situational awareness: Philosopher Nick Bostrom is credited with popularizing the term. He wrote in his influential 2014 book, \"Superintelligence: Paths, Dangers, Strategies,\" that it could be \"tentatively\" defined as \"any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest.\" Meta CEO Mark Zuckerberg has also frequently used \"superintelligence,\" including in the name of Meta's AI division. The industry view OpenAI noted in a 2023 memo that superintelligence \"will be the most impactful technology humanity has ever invented.\" But it \"could lead to the disempowerment of humanity or even human extinction.\" What they're saying: Jacob Coxon , the former Anthropic researcher whose warnings about AI's capabilities set off a fast-moving panic this month, wrote that OpenAI and Anthropic were \"racing straight to self-improving superintelligence and gambling with our lives.\" A petition for a moratorium on superintelligence development from the Future of Life Institute has been signed by prominent tech-world figures like Geoffrey Hinton , the Nobel-winning \"godfather of AI,\" and Apple co-founder Steve Wozniak. A proposal by the AI Futures Project, a nonprofit AI research foundation, that Axios first reported on earlier this year called for delaying the development of superintelligence to 2040. Where AI stands now OpenAI president Greg Brockman recently predicted that the company's GPT-6 Astra model could eventually be seen as the arrival of artificial general intelligence , or AGI . Like superintelligence, a simple definition of AGI isn't entirely clear. But Google's DeepMind researchers said in a report earlier this year that \"[g]iven that current AI models are already superhuman in many respects (but not yet general enough), the first AGI will already be superhuman on many tasks.\" What we're watching: The boundaries of AGI and superintelligence remain unsettled. But Trump's proposed \"SI\" label is entering a field where \"superintelligence\" already means something else. Go deeper: \"We have a choice\": AI leaders sound alarm at UN",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: \"Superintelligence\" already has a distinct meaning in AI — and is fueling debate",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: \"Superintelligence\" already has a distinct meaning in AI — and is fueling debates over whether the most advanced systems should be slowed or stopped. The big picture: Superintelligence — broadly, AI that surpasses human cognition — has beco",
+      "source": "Axios — Inside Trump's \"super intelligence\" naming problem (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Jacob Coxon , the former Anthropic researcher whose warnings about AI's capabili",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Jacob Coxon , the former Anthropic researcher whose warnings about AI's capabilities set off a fast-moving panic this month, wrote that OpenAI and Anthropic were \"racing straight to self-improving superintelligence and gambling with our liv",
+      "source": "Axios — Inside Trump's \"super intelligence\" naming problem (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: \"We have a choice\": AI leaders sound alarm at UN",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: \"We have a choice\": AI leaders sound alarm at UN",
+      "source": "Axios — Inside Trump's \"super intelligence\" naming problem (2026-09-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-26T12:31:32+00:00"
+}
