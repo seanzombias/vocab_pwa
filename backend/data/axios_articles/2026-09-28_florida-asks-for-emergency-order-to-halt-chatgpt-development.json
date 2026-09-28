@@ -1,0 +1,85 @@
+{
+  "title": "Florida asks for emergency order to halt ChatGPT development",
+  "url": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier",
+  "pub_date": "2026-09-28",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Florida asks for emergency order to halt ChatGPT development (2026-09-28)",
+  "body": "Florida Attorney General James Uthmeier has asked for an emergency injunction against OpenAI and ChatGPT, claiming the company doesn't have the ability to properly regulate its own technology. Why it matters: The legal fight could further test how far states can go to restrict AI companies despite the federal government declining to enact guardrails. Florida's request specifically cites a Sept. 26 Axios scoop that OpenAI and Anthropic are facing tens of thousands of security incidents with their models, not the dozens that are publicly known. What they're saying: \"Stop calling it safe,\" Uthmeier said in a video posted to X on Monday. \"Stop pretending it's human. Stop selling it to kids. If Sam Altman meant what he said about slowing down, he can join our ask to the court. If he will not, we ask the court to do what OpenAI will not do for itself: protect Florida families.\" Representatives for OpenAI did not immediately respond to Axios' request for comment. Catch up quick: Uthmeier first sued OpenAI in June, alleging that the company violated Florida's Deceptive and Unfair Trade Practices Act for being \"negligent and grossly negligent in the design, marketing, sale, promotion, and distribution\" of ChatGPT product. The suit alleged that OpenAI \"failed to warn Floridians of ChatGPT's dangers, fraudulently misrepresented the safety of ChatGPT, and created a public nuisance by releasing ChatGPT in Florida without proper safeguards. Zoom in: The motion details multiple instances in which OpenAI says its AI models bypassed safety restraints while completing tasks, including the Hugging Face hack. It also cites attempted hacks of U.S. government websites and an incident in which an OpenAI agent gained unauthorized access to an Australian health department site . The motion alleges OpenAI violates the Children's Online Privacy Protection Act by collecting personal information from children under 13 without parental consent and lacks adequate measures to prevent minors from accessing ChatGPT. It adds that \"[i]n examining the way ChatGPT interacts with minors, researchers have 'wanted to test the guardrails [of ChatGPT]. The visceral initial response is, 'Oh my Lord, there are no guardrails.'\" Zoom out: The motion cites reporting from Axios' Madison Mills that OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents involving problematic model behavior, including \"bypassing guardrails, creating message boards, escaping sandboxes, website hijacking, self-prompting or seeking to bypass monitors.\" The incidents vary in severity, and most investigated so far are not known to have caused real-world harm. OpenAI recently announced it was pausing training on its most capable models and would resume only when additional safeguards and \"alignment improvements\" are in place. Editor's note: This is a breaking news story. Please check back for updates.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The legal fight could further test how far states can go to restrict AI companie",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The legal fight could further test how far states can go to restrict AI companies despite the federal government declining to enact guardrails. Florida's request specifically cites a Sept. 26 Axios scoop that OpenAI and Anthropic are facing",
+      "source": "Axios — Florida asks for emergency order to halt ChatGPT development (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Uthmeier first sued OpenAI in June, alleging that the company violated Florida's",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Uthmeier first sued OpenAI in June, alleging that the company violated Florida's Deceptive and Unfair Trade Practices Act for being \"negligent and grossly negligent in the design, marketing, sale, promotion, and distribution\" of ChatGPT pro",
+      "source": "Axios — Florida asks for emergency order to halt ChatGPT development (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The motion cites reporting from Axios' Madison Mills that OpenAI, Anthropic and",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The motion cites reporting from Axios' Madison Mills that OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents involving problematic model behavior, including \"bypassing guardrails, creating message bo",
+      "source": "Axios — Florida asks for emergency order to halt ChatGPT development (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The motion details multiple instances in which OpenAI says its AI models bypasse",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The motion details multiple instances in which OpenAI says its AI models bypassed safety restraints while completing tasks, including the Hugging Face hack. It also cites attempted hacks of U.S. government websites and an incident in which ",
+      "source": "Axios — Florida asks for emergency order to halt ChatGPT development (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Stop calling it safe,\" Uthmeier said in a video posted to X on Monday. \"Stop pr",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Stop calling it safe,\" Uthmeier said in a video posted to X on Monday. \"Stop pretending it's human. Stop selling it to kids. If Sam Altman meant what he said about slowing down, he can join our ask to the court. If he will not, we ask the ",
+      "source": "Axios — Florida asks for emergency order to halt ChatGPT development (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-28T16:09:05+00:00"
+}

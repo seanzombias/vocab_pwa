@@ -1,0 +1,61 @@
+{
+  "title": "SpaceX brings Starship home early after first orbital flight",
+  "url": "https://www.axios.com/2026/09/28/spacex-starship-orbital-flight",
+  "pub_date": "2026-09-28",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — SpaceX brings Starship home early after first orbital flight (2026-09-28)",
+  "body": "SpaceX's next-generation Starship rocket successfully reached Earth orbit for the first time Monday morning. Why it matters: The massive, fully-reusable Starship is key to SpaceX's commercial spaceflight ambitions, while NASA is counting on a modified version for use as a lunar lander in its Artemis program. Driving the news: Starship launched from South Texas just before 9 a.m. ET on a planned test flight of about 10 hours. It's set to orbit Earth about six times before splashing down in the Pacific Ocean, west of Chile. As part of the mission, Starship deployed 26 of the company's new, better-performing Starlink V3 internet satellites. Zoom in: Starship's first-stage Super Heavy booster splashed down in the Gulf of America shortly after launch. SpaceX says this Super Heavy was modified after ice clogging issues interfered with a splashdown attempt on the last test flight. What they're saying: \" Flight tests until this point have intentionally flown passively safe suborbital trajectories to maximize public safety while allowing for maximum learning,\" SpaceX says in a mission summary. \"By going to orbit, the next phase of developing Starship to be fully and rapidly reusable can begin.\" What's next: SpaceX plans to eventually \"catch\" Starship in the arms of its launch tower — a feat it's accomplished with Super Heavy, but not Starship — but isn't making the attempt this time. Editor's note: This story has been updated with the latest developments.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The massive, fully-reusable Starship is key to SpaceX's commercial spaceflight a",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The massive, fully-reusable Starship is key to SpaceX's commercial spaceflight ambitions, while NASA is counting on a modified version for use as a lunar lander in its Artemis program.",
+      "source": "Axios — SpaceX brings Starship home early after first orbital flight (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Starship launched from South Texas just before 9 a.m. ET on a planned test fligh",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Starship launched from South Texas just before 9 a.m. ET on a planned test flight of about 10 hours. It's set to orbit Earth about six times before splashing down in the Pacific Ocean, west of Chile. As part of the mission, Starship deploye",
+      "source": "Axios — SpaceX brings Starship home early after first orbital flight (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Starship's first-stage Super Heavy booster splashed down in the Gulf of America",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Starship's first-stage Super Heavy booster splashed down in the Gulf of America shortly after launch. SpaceX says this Super Heavy was modified after ice clogging issues interfered with a splashdown attempt on the last test flight.",
+      "source": "Axios — SpaceX brings Starship home early after first orbital flight (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \" Flight tests until this point have intentionally flown passively safe suborbit",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \" Flight tests until this point have intentionally flown passively safe suborbital trajectories to maximize public safety while allowing for maximum learning,\" SpaceX says in a mission summary. \"By going to orbit, the next phase of developi",
+      "source": "Axios — SpaceX brings Starship home early after first orbital flight (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-28T16:09:05+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "\"Window for action may close\" if AI begins improving itself, AI pioneers warn",
+  "url": "https://www.axios.com/2026/09/28/ai-pioneers-intelligence-explosion",
+  "pub_date": "2026-09-28",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"Window for action may close\" if AI begins improving itself, AI pioneers warn (2026-09-28)",
+  "body": "Some of the world's foremost AI researchers and policy leaders — including at OpenAI, Anthropic and Microsoft — are warning that AI's growing ability to automate its own development could rapidly speed up its progress. Why it matters : Such a rapid scale-up in capabilities would leave governments and institutions with little time to prepare for or respond to the consequences, they say. In one scenario, they caution, a year's worth of advances could occur in a matter of weeks. The warning's authors include Turing Award winners such as Geoffrey Hinton, as well as OpenAI's chief scientist, Microsoft's chief scientific officer and a co-founder of Anthropic. Driving the news : In a new white paper, they say AI models that can automate the process of improving themselves will create an \"intelligence explosion.\" The paper points to evidence that AI systems at Anthropic and OpenAI are beginning to perform more internal research and development tasks and automate a sizable proportion of engineering tasks. How it works : Those developments indicate that the two companies are edging closer to the threshold of \"recursive self improvement, \" whereby AI systems improve themselves rapidly. The authors estimate that once AI models reach expert-level R&D capabilities, it will be possible for a developer to support an AI workforce equal to millions of top human researchers. Catch up quick : The warning comes after Axios revealed that OpenAI and Anthropic are investigating tens of thousands of incidents in which frontier models took steps that outside evaluators would consider problematic. The incidents, which for the most part aren't known to have caused real-world harm, raise questions about how much the companies — or any top AI developer — can control their technology. As capabilities expand further, the researchers warn that society is unprepared. Reality check : The authors say such an intelligence explosion is far from certain. A number of developments could prevent many of the RSI scenarios they present, including computing constraints, automation challenges, diminishing returns from expanding capabilities or time-consuming training runs. Zoom in : Hinton's participation is noteworthy, as he is widely credited with laying the intellectual foundations for today's boom, although he has warned about what he expected would be negative side effects of AI for years. Since leaving Google, Hinton has been among the loudest voices about AI's potential dangers and has discussed the risks from widespread job displacement, cyberattacks, biological weapons and other concerns. The researchers call for greater government visibility into AI R&D automation, ways to pause or slow its acceleration if needed, and more preparation for its impact. They suggest mandatory reporting of incidents, independent evaluators, safety requirements for testing powerful systems and creating ways to pause certain AI work. The bottom line : The paper's authors acknowledge the uncertainty about RSI and its impact but say that if it does occur, there will be little time to make adjustments. \"Once an intelligence explosion begins,\" the paper says, \"the window for action may close.\"",
+  "vocab_count": 0,
+  "vocab": [],
+  "fetched_at": "2026-09-28T16:09:05+00:00"
+}

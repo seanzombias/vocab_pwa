@@ -1,0 +1,72 @@
+{
+  "title": "AI's man of the moment",
+  "url": "https://www.axios.com/2026/09/28/dario-amodei-artificial-intelligence-ai",
+  "pub_date": "2026-09-28",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI's man of the moment (2026-09-28)",
+  "body": "Dario Amodei went from a MAGA smear campaign target, to a \"Saturday Night Live\" punching bag, to a private White House dinner with President Trump — all in the space of 72 hours this weekend. Such is life for the face of AI in America. The big picture: He may not have sought the status, but Anthropic's quirky, intellectual CEO has become the frontman for a technology that seems to be changing the world by the day. In the history of capitalism, there has seldom been a more unusual spokesman for a transformative industry. A physicist by training with links to effective altruism , Amodei runs Anthropic in a way some inside and outside the company have compared to a religious leader . His penchant for being plain-spoken — especially when it comes to the risk of disaster — has earned him admirers and critics in equal measure, although he has remained consistent in his positions for years. The SNL sketch captured what often frustrates allies about him: calling for more regulation and a slowdown to establish greater safety, while accelerating the theory that he and Anthropic are best-equipped to be at the vanguard. A looming IPO could make him one of the world's multibillionaires, provided he doesn't scare everyone off first. The intrigue: OpenAI's Sam Altman does more press, and fits the traditional CEO mold much more neatly. But despite that — or, perhaps, precisely because he's more unvarnished — Amodei has become the first thing people think of when they think of AI. Between the lines: Consider how Anthropic spent the last few days. ⚠️ On Thursday, Axios's Maria Curi and Marc Caputo scooped a new MAGA memo doing the rounds at the White House that sought to paint Amodei as the poster child of the effective altruism movement, a recent bogeyman for conservatives who want a more muscular future for AI. (Anthropic has said Amodei doesn't identify as an effective altruist but is sympathetic to some of its tenets.) 🍽️ By Sunday, Maria and Marc scooped that President Trump had personally invited Amodei to dinner. (A dinner critics tried to head off by trashing him directly to the president hours beforehand.) Nothing changed in between, but it was emblematic of the rocky relationship the company and the administration have had for months. In between, Amodei got the SNL treatment — an unflattering \"Weekend Update\" skit that painted him as barely able to complete a sentence without saying AI was going to kill us all. Reality check: Bad press hasn't stopped Anthropic from growing at almost unimaginable speed. The company is on pace for an annual revenue rate of more than $100 billion, more than 10x where it was a year ago. If the looming IPO goes as planned, and the revenue keeps up, by the end of the year, Anthropic could be one of America's 50 largest companies by revenue and 10 largest by market capitalization. Stunning stat: Anthropic didn't even exist six years ago. In less than a decade, Amodei will have gone from a somewhat obscure scientist to one of the most important people in human history. The bottom line: Not every icon looks like a movie star or talks like a theatre legend. Axios's Bradley Olson contributed.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: OpenAI's Sam Altman does more press, and fits the traditional CEO mold much more",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: OpenAI's Sam Altman does more press, and fits the traditional CEO mold much more neatly. But despite that — or, perhaps, precisely because he's more unvarnished — Amodei has become the first thing people think of when they think of AI.",
+      "source": "Axios — AI's man of the moment (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Consider how Anthropic spent the last few days. ⚠️ On Thursday, Axios's Maria Cu",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Consider how Anthropic spent the last few days. ⚠️ On Thursday, Axios's Maria Curi and Marc Caputo scooped a new MAGA memo doing the rounds at the White House that sought to paint Amodei as the poster child of the effective altruism movemen",
+      "source": "Axios — AI's man of the moment (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Not every icon looks like a movie star or talks like a theatre legend. Axios's B",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Not every icon looks like a movie star or talks like a theatre legend. Axios's Bradley Olson contributed.",
+      "source": "Axios — AI's man of the moment (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Bad press hasn't stopped Anthropic from growing at almost unimaginable speed. Th",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Bad press hasn't stopped Anthropic from growing at almost unimaginable speed. The company is on pace for an annual revenue rate of more than $100 billion, more than 10x where it was a year ago. If the looming IPO goes as planned, and the re",
+      "source": "Axios — AI's man of the moment (2026-09-28)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-28T16:09:05+00:00"
+}
