@@ -1,0 +1,59 @@
+{
+  "title": "Scoop: OpenAI's annual recurring revenue nears $70B",
+  "url": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+  "pub_date": "2026-09-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: OpenAI's annual recurring revenue nears $70B (2026-09-29)",
+  "body": "OpenAI's annual recurring revenue is nearing $70 billion, as enterprise sales more than doubled since July, sources familiar with the financials tell Axios. Why it matters: Rival Anthropic has owned enterprise AI adoption, but OpenAI has been catching up. By the numbers: OpenAI's annualized revenue run rate has grown more than 70% since the beginning of the third quarter, reaching almost $70 billion. Its business-to-business revenue has grown more than 100% over the same period. On the consumer side, OpenAI added more revenue during the third quarter than it added during all of 2025. The big picture: The growth comes as OpenAI and Anthropic prepare for IPOs, which would give investors the clearest look yet at both the revenue opportunity and extraordinary spending driving their growth. Anthropic's revenue grew twelvefold to nearly $4.6 billion in 2025, according to an IPO prospectus seen by Reuters . But its growth has skyrocketed since then, hitting an annualized total of about $65 billion in July and continuing to surge, according to figures in The New York Times and elsewhere. Anthropic's prospectus also shows it has $518 billion in future cloud, computing and infrastructure obligations, according to Reuters. The intrigue: As part of that prospectus, Anthropic warned investors that its technology could pose \"existential risk\" to humanity. This comes after Axios reported top AI labs are investigating tens of thousands of incidents in which their technology took steps reasonable researchers would describe as problematic. Reality check: Axios could not immediately learn details about OpenAI's expenses, which is important context in relation to their business growth.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Rival Anthropic has owned enterprise AI adoption, but OpenAI has been catching u",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Rival Anthropic has owned enterprise AI adoption, but OpenAI has been catching up. By the numbers: OpenAI's annualized revenue run rate has grown more than 70% since the beginning of the third quarter, reaching almost $70 billion. Its busin",
+      "source": "Axios — Scoop: OpenAI's annual recurring revenue nears $70B (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: As part of that prospectus, Anthropic warned investors that its technology could",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: As part of that prospectus, Anthropic warned investors that its technology could pose \"existential risk\" to humanity. This comes after Axios reported top AI labs are investigating tens of thousands of incidents in which their technology too",
+      "source": "Axios — Scoop: OpenAI's annual recurring revenue nears $70B (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Axios could not immediately learn details about OpenAI's expenses, which is impo",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Axios could not immediately learn details about OpenAI's expenses, which is important context in relation to their business growth.",
+      "source": "Axios — Scoop: OpenAI's annual recurring revenue nears $70B (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-29T14:24:20+00:00"
+}

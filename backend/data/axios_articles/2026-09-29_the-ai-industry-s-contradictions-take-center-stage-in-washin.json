@@ -1,0 +1,46 @@
+{
+  "title": "The AI industry's contradictions take center stage in Washington, Silicon Valley",
+  "url": "https://www.axios.com/2026/09/29/washington-ai-regulation-openai-devday-anthropic",
+  "pub_date": "2026-09-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — The AI industry's contradictions take center stage in Washington, Silicon Valley (2026-09-29)",
+  "body": "In Washington, DC and San Francisco this week, the promise of AI will be front and center — even as warnings about the dangers of the technology swirl in the background. Why it matters: The country is struggling to reconcile alarming AI disclosures from the same industry players eager to show off their latest, most advanced tech. Meanwhile in Washington, administration officials hold deep-seated skepticism about regulation and the motivations of top AI companies. State of play: On Tuesday, President Trump, Vice President JD Vance, other administration officials and industry leaders will gather for an event to celebrate the beginning of a \" Golden Age \" and highlight AI. Trump, House Speaker Mike Johnson and executives will meet later that day as bipartisan calls for regulation mount but little appetite from the president and his allies to step in remains. OpenAI President Greg Brockman, Anthropic CEO Dario Amodei, Google CEO Sundar Pichai, Palantir CEO Alex Karp are among the executives that will be there. Johnson on Monday in a Fox Business interview said \"a little oversight, a little transparency, I think, would go a long way here\" without committing to passing legislation during the lame duck session. Across the country in San Francisco, OpenAI will be holding its now-annual DevDay conference where the company shares the latest and greatest things coming out of its labs. CEO Sam Altman will be there and the company is touting 20+ launches. That has been made logistically more difficult by the need for executives to be in DC and thematically more challenging because the event comes amid revelations that AI agents spawned by its models have been breaking past intended controls. OpenAI is trying to skate a fine line, aiming to show both that it is continuing to make meaningful progress and that it takes security seriously. Zoom in : The company is still expected to share a slew of new products, including a new always-on AI agent, according to sources familiar with the situation. Developers are also expected to get access to at least one new model. However it won't be an updated version of Astra, OpenAI's most powerful model. OpenAI told The Wall Street Journal it was scrapping that release due to safety concerns. While this particular Astra successor was scrapped, there will be future Astra models, the sources said. Nor will attendees get a peek at OpenAI's new consumer hardware. The device is set to be debuted later this year, Axios has reported , though it may not ship until 2027. DevDay will coincide with Brockman's Washington visit as the Trump administration and Congress weigh AI safety concerns against staying ahead of China. With Altman scheduled to give the DevDay keynote, volunteered to go to DC, sources said. Behind the scenes: Sources familiar with Hill meetings said lawmakers on both sides of the aisle are increasingly frustrated company officials appear to welcome the notion of regulation but can be unhelpful when it comes to the nitty gritty of policymaking. Ro Khanna (D-Calif.) said he was initially willing to collaborate more with the company but has lost trust after the Hugging Face incident and OpenAI's decision to back out of testifying at a recent hearing . \"They've been playing games,\" he said. \"We will get them once I'm chair of the committee,\" Khanna told Axios, referring to OpenAI. He has proposed \"kill switch\" legislation and other ways to contain rogue AI systems. The other side: OpenAI's chief global affairs officer Chris Lehane said they've \"engaged constructively and proactively\" in dozens of meetings and \"the recent jump in capabilities\" prompted the company to \"revisit past assumptions.\" One senior Democratic aide said OpenAI is highly accessible, always a phone call away, and straight-shooting when they have disagreements on legislation. The same aide added OpenAI, Anthropic and the broader industry can still be slow, indecisive and political when it comes to regulation: \"at some point, if you want the federal government to have any role whatsoever, you do have to shit or get off the pot.\" The bottom line: While frontier industry players appear to be having an identity crisis, Trump and his allies have made their position clear -- if the industry is alarmed, it should regulate itself.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The country is struggling to reconcile alarming AI disclosures from the same ind",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The country is struggling to reconcile alarming AI disclosures from the same industry players eager to show off their latest, most advanced tech. Meanwhile in Washington, administration officials hold deep-seated skepticism about regulation",
+      "source": "Axios — The AI industry's contradictions take center stage in Washington, Silicon Valley (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: While frontier industry players appear to be having an identity crisis, Trump an",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: While frontier industry players appear to be having an identity crisis, Trump and his allies have made their position clear -- if the industry is alarmed, it should regulate itself.",
+      "source": "Axios — The AI industry's contradictions take center stage in Washington, Silicon Valley (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-29T14:24:20+00:00"
+}

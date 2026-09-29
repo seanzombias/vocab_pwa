@@ -1,0 +1,33 @@
+{
+  "title": "The future is AI vs. AI",
+  "url": "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai",
+  "pub_date": "2026-09-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — The future is AI vs. AI (2026-09-29)",
+  "body": "More AI is the surest solution to an emerging AI security crisis, industry execs and researchers say. Why it matters : The revelation in Axios that researchers are investigating tens of thousands of problematic AI security incidents — rather than the dozens that had been publicly revealed — raised questions about whether AI leaders have control over their technology. Nvidia CEO Jensen Huang sought to calm escalating fears across governments, markets and industries, announcing an open-source safety platform for monitoring and potentially quarantining AI agents. \"We all need to hope that it's an engineering problem,\" he said in an interview on CNBC Monday. \"If it's not an engineering problem, it's not solvable.\" The fact that companies continue to advance the frontier means they also believe it's a problem they can solve, he said. Between the lines: The fundamental challenge humans face in policing powerful AI is that it requires them to imagine all the ways the models may behave in unexpected ways order to meet their given objectives. One top AI executive compared the process to finding ways to keep a teenager from sneaking out at night. A parent might make rules such as don't leave through the front or back doors, don't open the garage or don't leave through any windows. But what if the teen could build a bulldozer and use it to break through a brick wall, allowing an escape? Would any parent have thought to tell them not to do that? The solution, according to executives, researchers and cybersecurity professionals, is to use AI to help create those guardrails, to help investigate and stop rogue agents, to help secure systems and to build safer training environments. The big picture: The AI-vs.-AI approach has been taking shape across cybersecurity as hackers and rogue agents outrun human-only response capabilities. Companies are increasingly turning to AI to automate threat detection, red teaming and patching. Nvidia's platform brings that approach to the systems running agents. Microsoft, Cisco, Google and CrowdStrike have introduced cyber-focused AI models. Palo Alto Networks recently launched a service that uses frontier and open-weight models to find security flaws and recommend fixes. \"If security agents or validation models are running alongside production agents, that creates another inference workload that did not previously exist,\" Brad Gastwirth, global head of research and market intelligence at Circular Technology, writes. The dynamic was on display recently when OpenAI agents escaped a testing environment and breached Hugging Face. The open-source AI platform then used a Chinese AI model to assess the attack after running into guardrails when trying to use U.S. models. Hugging Face was blocked from using Anthropic's Mythos, which had been designed to limit its responses to certain cybersecurity requests to thwart potentially harmful usage. In other words, AI investigated AI. Threat level: The recent security incidents have created a crisis of confidence in AI safety. Models have sought to bypass guardrails, escape sandboxes, hijack websites, self-prompt and attempt to evade monitors. Companies are also working on ways to learn from those failures. In addition to the new agent security platform, which involved more than 100 companies in addition to Nvidia, industry players have proposed a framework for reporting incidents and preserving records. The idea is to give investigators a kind of flight recorder for AI agents. Yes, but: More AI defense tools don't mean every company can adopt them quickly. Some security teams are already overwhelmed by the changing threat landscape and choices about what to buy. Reality check : AI will be needed to police AI, but that doesn't mean it will happen automatically. Humans will have to successfully set priorities and goals to keep powerful models safe.",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The fundamental challenge humans face in policing powerful AI is that it require",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The fundamental challenge humans face in policing powerful AI is that it requires them to imagine all the ways the models may behave in unexpected ways order to meet their given objectives. One top AI executive compared the process to findi",
+      "source": "Axios — The future is AI vs. AI (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-29T14:24:20+00:00"
+}

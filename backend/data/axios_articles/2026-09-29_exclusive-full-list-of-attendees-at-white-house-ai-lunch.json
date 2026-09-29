@@ -1,0 +1,46 @@
+{
+  "title": "Exclusive: Full list of attendees at White House AI lunch",
+  "url": "https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson",
+  "pub_date": "2026-09-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Full list of attendees at White House AI lunch (2026-09-29)",
+  "body": "A host of industry titans and Washington power players are slated to meet with President Trump and House Speaker Mike Johnson on Tuesday for a crucial meeting on AI as calls for government intervention mount. Why it matters: The Trump administration wants to take a hands off approach and rely on the industry's own expertise to set guardrails. A list of RSVPs obtained by Axios shows 31 confirmed attendees for lunch at the summit — spanning industry and key government officials. What's inside: White House Chief of Staff Susie Wiles, Treasury Secretary Scott Bessent, White House Deputy Chief of Staff Richard Walters and White House counsel Will Scharf will attend. Craft Ventures' David Sacks, former White House AI czar, will attend. Palo Alto Networks CEO Nikesh Arora, Amazon founder Jeff Bezos, Altimeter CEO Brad Gerstner, ServiceNow CEO Bill McDermott, Micron CEO Sanjay Mehrotra and Elon Musk will attend. So will Microsoft CEO Satya Nadella, Social Capital founder Chamath Palihapitiya, Exiger CEO Brandon Rahbar Daniels, Palantir CTO Shyam Sankar, AMD CEO Lisa Su, Broadcom CEO Hock Tan. The CEOs of Meta, Nvidia, Palantir, Google and Anthropic will attend, as previously reported. OpenAI President Greg Brockman will attend while CEO Sam Altman attends the company's annual conference in San Francisco. Other government officials who will attend include: Vice President JD Vance, Commerce Secretary Howard Lutnick, NASA Administrator Jared Isaacman, White House science adviser Michael Kratsios. Also: National Cyber Director Sean Cairncross and National Intelligence Director Jay Clayton. The bottom line: Expect a flashy gathering of the world's most powerful officials and executives but few specifics on regulation.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The Trump administration wants to take a hands off approach and rely on the indu",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The Trump administration wants to take a hands off approach and rely on the industry's own expertise to set guardrails. A list of RSVPs obtained by Axios shows 31 confirmed attendees for lunch at the summit — spanning industry and key gover",
+      "source": "Axios — Exclusive: Full list of attendees at White House AI lunch (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Expect a flashy gathering of the world's most powerful officials and executives",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Expect a flashy gathering of the world's most powerful officials and executives but few specifics on regulation.",
+      "source": "Axios — Exclusive: Full list of attendees at White House AI lunch (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-29T14:24:20+00:00"
+}
