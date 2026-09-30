@@ -1,0 +1,85 @@
+{
+  "title": "Trump's AI \"constitution\" crowns day of accelerating ambition",
+  "url": "https://www.axios.com/2026/09/30/ai-constitution-trump-white-house",
+  "pub_date": "2026-09-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Trump's AI \"constitution\" crowns day of accelerating ambition (2026-09-30)",
+  "body": "With America's tech titans crowded around a single White House table Tuesday, President Trump extracted what he called a \"morally binding\" compact on AI safety. The terms were simple: Press ahead, project optimism and police yourselves. Why it matters: The White House Accord on Super Intelligence , signed by OpenAI, Anthropic, Google, Meta, xAI and Nvidia, formalizes industry self-regulation as Washington's response to the most alarming run of AI safety failures yet . Zoom in: Trump, who increasingly treats American AI dominance as central to his legacy, cast the accord as proof that an industry fractured over safety can still govern itself. He compared the document to \"a constitution,\" claimed there was \"a lot of commonality\" among the tech leaders, and praised what he described as \"tremendous self-policing.\" The one-page pact, which is deliberately light-touch, calls for \"four layers of controls and auditing,\" including outside evaluators and independent board oversight. Between the lines: The accord makes a vague reference to future \"laws or regulations,\" preserving the possibility of a tougher federal regime if ultimately needed. Anthropic CEO Dario Amodei, a MAGA bogeyman and the industry's most prominent advocate for slowing frontier development, signed the pact but stressed to reporters that it was only \"a start.\" Trump AI adviser David Sacks, by contrast, treated the accord as mission accomplished — declaring on X that the companies were \"accepting responsibility\" for AI safety thanks to Trump's leadership. Zoom out: The White House pact capped an extraordinary day for the AI race across three capitals of American power. 1. In Washington, Trump spent Tuesday pulling AI deeper into both the machinery and mythology of his presidency. In the morning, he unveiled America.gov , an AI-powered front door to federal services, and vowed not to \"stifle\" a technology he says will eclipse the Industrial Revolution. Hours later, Trump signed an executive order directing the federal government to replace \"AI\" with \" Super Intelligence \" in official usage — and called on Congress to write the new terminology into law. 2. In Silicon Valley, OpenAI spent the day racing deeper into the age of autonomous AI while struggling to contain its risks. At its highly anticipated DevDay, the company unveiled a sweeping slate of products designed to make AI more persistent, capable and independent in everyday life, including a new personal assistant. But midway through Sam Altman's keynote, an explosive New York Times report revealed that OpenAI executives had brushed aside internal safety warnings months before its models began hacking outside systems. 3. On Wall Street, Anthropic's leaked IPO prospectus distilled the surreal economics of the AI race. According to Reuters , the company laid out a path to a valuation north of $2 trillion while warning prospective investors that its technology could pose \"catastrophic or existential risks to humanity.\" Altman, meanwhile, said OpenAI would delay its own IPO until it could \"make confident safety decisions\" — even as the company reportedly seeks at least $30 billion in private funding at a roughly $1.4 trillion valuation. The bottom line: Nvidia CEO Jensen Huang, seated beside Trump at the White House, supplied the day's credo: \"Trust and innovation are not in conflict. Safety is how trust is earned.\"",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The White House Accord on Super Intelligence , signed by OpenAI, Anthropic, Goog",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The White House Accord on Super Intelligence , signed by OpenAI, Anthropic, Google, Meta, xAI and Nvidia, formalizes industry self-regulation as Washington's response to the most alarming run of AI safety failures yet .",
+      "source": "Axios — Trump's AI \"constitution\" crowns day of accelerating ambition (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The White House pact capped an extraordinary day for the AI race across three ca",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The White House pact capped an extraordinary day for the AI race across three capitals of American power. 1. In Washington, Trump spent Tuesday pulling AI deeper into both the machinery and mythology of his presidency. In the morning, he un",
+      "source": "Axios — Trump's AI \"constitution\" crowns day of accelerating ambition (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Trump, who increasingly treats American AI dominance as central to his legacy, c",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Trump, who increasingly treats American AI dominance as central to his legacy, cast the accord as proof that an industry fractured over safety can still govern itself. He compared the document to \"a constitution,\" claimed there was \"a lot o",
+      "source": "Axios — Trump's AI \"constitution\" crowns day of accelerating ambition (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The accord makes a vague reference to future \"laws or regulations,\" preserving t",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The accord makes a vague reference to future \"laws or regulations,\" preserving the possibility of a tougher federal regime if ultimately needed. Anthropic CEO Dario Amodei, a MAGA bogeyman and the industry's most prominent advocate for slow",
+      "source": "Axios — Trump's AI \"constitution\" crowns day of accelerating ambition (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Nvidia CEO Jensen Huang, seated beside Trump at the White House, supplied the da",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Nvidia CEO Jensen Huang, seated beside Trump at the White House, supplied the day's credo: \"Trust and innovation are not in conflict. Safety is how trust is earned.\"",
+      "source": "Axios — Trump's AI \"constitution\" crowns day of accelerating ambition (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-30T14:19:55+00:00"
+}

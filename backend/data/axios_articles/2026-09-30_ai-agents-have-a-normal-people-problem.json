@@ -1,0 +1,72 @@
+{
+  "title": "AI agents have a normal-people problem",
+  "url": "https://www.axios.com/2026/09/30/ai-agents-adoption-meta-muse",
+  "pub_date": "2026-09-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI agents have a normal-people problem (2026-09-30)",
+  "body": "AI companies are staking their future on the mass adoption of agents , hoping that they can solve the annoyances of modern life — email, travel bookings, online purchases. Why it matters: The frenzy around Meta's Muse shows there's serious consumer curiosity about the technology. But most Americans live life beyond a computer screen and find much of their meaning outside of the 9-5. There's little evidence that they're willing to invest the time needed to re-engineer their lives in a way that puts AI at the center. And the more worrying issue for AI companies: What happens if people just don't want an assistant that leads them to do more work or allows them to be more productive? Driving the news: Muse vaulted to the top of Apple's App Store on the back of its integrations with Facebook and Instagram and a cute, fuzzy mascot . Meta expanded it to business customers, too. Muse's early success has given the industry hope that there's potential for the tech to break through. Meta isn't alone. Microsoft released a souped-up Copilot with an agentic Autopilot feature, folding more advanced AI into the workplace. And OpenAI announced its own agentic assistant, dots, this week. The big roadblock is that most Americans don't use AI chatbots, let alone agents. Back in February, Pew found that 51% avoided using AI chatbots entirely. Of those people, 79% who didn't use chatbots cited privacy concerns and 67% were unlikely to use a chatbot in the next year. The even bigger problem: Agents only become truly useful when people hand them access to their digital lives — and people really don't want to. A huge international Thales poll this year found broad pushback against the core uses of agents — only 13% of respondents would let an \"AI helper\" read their emails, 11% would let one rebook travel and just 7% would let it move money between bank accounts. Even shopping is a no-go: 56% told YouGov they wouldn't let an agent shop for them at all. Only 10% trust one with more than $25 without approval. That means the people embracing AI agents right now probably look a lot like the people building them. Menlo Ventures, working with Morning Consult, found that households with incomes over $100,000 are substantially more likely to use AI than households making less than $50,000. People who pay for AI are twice as likely to use it daily — and people who pay for it are five times more likely to use agents. Menlo sums up AI's power spenders this way: \"a millennial parent with a post-grad degree working in technology or financial services\" who \"[tends] to have more money than time.\" It'd be wrong to pretend that AI use isn't happening at all. The St. Louis Fed pegs AI adoption as \"widespread but shallow\" — at least 20% of workers use AI in more than 80% of occupations. But that's heavily weighted toward the same white-collar, tech-adjacent jobs. Adoption for computer programmers, PR people, financial advisors and CEOs all clock around or above 80%. Licensed practical nurses, receptionists and animal caretakers land just at or less than 10%. The St. Louis fed sums it up this way: \"Currently, AI works on screens and cannot drive a truck or draw blood.\" Between the lines: The frontier labs' own user data shows the same skew. Anthropic found that the two massively overindexed professions in its Economic Index Survey — which the company says isn't representative — were computer/math-related (30% of respondents, 4% of U.S. employment) and management (23% of respondents, 7% of U.S. employment). The big picture: Only 6% of Americans think that utilizing AI tools like ChatGPT is a very important ingredient for a good life, per Gallup . Compare that to: spending time with a partner, friends or family (78%), exercising or other physical activity (58%), cooking (49%), spending time in nature (45%) or practicing spirituality (42%). The bottom line: Agentic AI might well be transformative someday — but, for right now, it seems like it'll most impact people who have used the phrase \"inbox triage\" and feel overwhelmed by Google Calendar notifications. 🎓 Go deeper ... AI 101: Explaining AI to anyone",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The frenzy around Meta's Muse shows there's serious consumer curiosity about the",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The frenzy around Meta's Muse shows there's serious consumer curiosity about the technology. But most Americans live life beyond a computer screen and find much of their meaning outside of the 9-5. There's little evidence that they're willi",
+      "source": "Axios — AI agents have a normal-people problem (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Muse vaulted to the top of Apple's App Store on the back of its integrations wit",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Muse vaulted to the top of Apple's App Store on the back of its integrations with Facebook and Instagram and a cute, fuzzy mascot . Meta expanded it to business customers, too. Muse's early success has given the industry hope that there's p",
+      "source": "Axios — AI agents have a normal-people problem (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The frontier labs' own user data shows the same skew. Anthropic found that the t",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The frontier labs' own user data shows the same skew. Anthropic found that the two massively overindexed professions in its Economic Index Survey — which the company says isn't representative — were computer/math-related (30% of respondents",
+      "source": "Axios — AI agents have a normal-people problem (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Agentic AI might well be transformative someday — but, for right now, it seems l",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Agentic AI might well be transformative someday — but, for right now, it seems like it'll most impact people who have used the phrase \"inbox triage\" and feel overwhelmed by Google Calendar notifications. 🎓 Go deeper ... AI 101: Explaining A",
+      "source": "Axios — AI agents have a normal-people problem (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-30T14:19:55+00:00"
+}

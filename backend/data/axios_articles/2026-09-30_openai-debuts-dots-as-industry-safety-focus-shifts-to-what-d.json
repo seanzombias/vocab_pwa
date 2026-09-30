@@ -1,0 +1,66 @@
+{
+  "title": "OpenAI debuts \"dots\" as industry safety focus shifts to \"What did my AI assistant do now?\"",
+  "url": "https://www.axios.com/2026/09/30/openai-dots-ai-agent-safety",
+  "pub_date": "2026-09-30",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — OpenAI debuts \"dots\" as industry safety focus shifts to \"What did my AI assistant do now?\" (2026-09-30)",
+  "body": "OpenAI is equipping high-end subscribers with always-on agents, known as Dots . It's a bold move from a company that continues to deal with reports of its agents breaking past intended safeguards. Why it matters: AI's safety challenge has moved from \"Will the chatbot say something harmful?\" to \"How can we stop autonomous agents from attempting hacks online?\" to \"Uh-oh, what did my AI assistant do now?\" Driving the news: The unveiling of Dots was the signature debut among a flurry of announcements at OpenAI's developer conference on Tuesday. Think of a Dot as an AI assistant running on its own virtual computer in the cloud. It can browse the web, use connected apps, create files and run tools while keeping track of a project over time. Dots can be summoned on mobile devices or computers and work across connected apps, browsers and their own virtual computer. The big picture: Dots (like Meta's Muse ) are being launched publicly despite a spate of revelations about agents from OpenAI and other AI companies taking unintended actions. In just the last few days, OpenAI has been making fresh disclosures of unintended behavior and apologizing to Australia for hacking into its Medicare system's websites. OpenAI also said this week it was scrapping an update to its most powerful Astra model after it failed to meet safety thresholds. Between the lines: It's not the first time OpenAI has been at the center of safety concerns. In the early days of ChatGPT, much of the focus was on the potential for dangerous discussions, such as encouraging suicide or eating disorders, issues for which OpenAI faces multiple lawsuits. Now, the conversation is shifting to potentially harmful agentic actions. In the most serious security incident to date, OpenAI's agents were behind a July attack on Hugging Face. What they're saying: OpenAI leaders expressed confidence that the Dots it is sending into the world won't run amok. The company said Dots include safeguards from ChatGPT and Codex, plus additional protections from a system internally called Guardian, known publicly as Auto-review. By default, the new agents require people to approve significant actions. For example, a Dot can draft a message but should not send it to another person or agent unless the user has asked it to do so, OpenAI member of product staff Alexander Embiricos told Axios. It also will not complete some consequential financial transactions, instead handing control back to the user. \"We're not going to do this for you, but we can take you all the way up until the point where you do it yourself, and we'll hand over to you,\" Embiricos said. Another key part of OpenAI's strategy is limiting its initial rollout to a smaller group of its most faithful users before expanding. Dots are initially available to Pro, Business Premium and Enterprise users, with each person having a single assistant. CEO Sam Altman said the goal is not to plow blindly forward nor to halt progress entirely, but instead to keep safety, alignment and monitoring ahead of advances in capability. \"My hope is that, in this industry, we can come together and say we need to get down this middle path,\" Altman told reporters.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI's safety challenge has moved from \"Will the chatbot say something harmful?\" t",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI's safety challenge has moved from \"Will the chatbot say something harmful?\" to \"How can we stop autonomous agents from attempting hacks online?\" to \"Uh-oh, what did my AI assistant do now?\"",
+      "source": "Axios — OpenAI debuts \"dots\" as industry safety focus shifts to \"What did my AI assistant do now?\" (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The unveiling of Dots was the signature debut among a flurry of announcements at",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The unveiling of Dots was the signature debut among a flurry of announcements at OpenAI's developer conference on Tuesday. Think of a Dot as an AI assistant running on its own virtual computer in the cloud. It can browse the web, use connec",
+      "source": "Axios — OpenAI debuts \"dots\" as industry safety focus shifts to \"What did my AI assistant do now?\" (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: It's not the first time OpenAI has been at the center of safety concerns. In the",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: It's not the first time OpenAI has been at the center of safety concerns. In the early days of ChatGPT, much of the focus was on the potential for dangerous discussions, such as encouraging suicide or eating disorders, issues for which Open",
+      "source": "Axios — OpenAI debuts \"dots\" as industry safety focus shifts to \"What did my AI assistant do now?\" (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: OpenAI leaders expressed confidence that the Dots it is sending into the world w",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: OpenAI leaders expressed confidence that the Dots it is sending into the world won't run amok. The company said Dots include safeguards from ChatGPT and Codex, plus additional protections from a system internally called Guardian, known publ",
+      "source": "Axios — OpenAI debuts \"dots\" as industry safety focus shifts to \"What did my AI assistant do now?\" (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-30T14:19:55+00:00"
+}

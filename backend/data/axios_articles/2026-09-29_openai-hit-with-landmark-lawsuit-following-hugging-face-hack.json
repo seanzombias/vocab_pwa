@@ -1,0 +1,72 @@
+{
+  "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
+  "url": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
+  "pub_date": "2026-09-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI hit with landmark lawsuit following Hugging Face hack (2026-09-29)",
+  "body": "A public interest law group hit OpenAI with a lawsuit Tuesday over its breach of tech company Hugging Face , seeking court-ordered restrictions to prevent future hacks. The big picture: The rogue hacking incident — and reports of tens of thousands of other possible examples of problematic agentic behavior — demonstrated the urgent risk of AI agents escaping their testing environments, bypassing guardrails and outpacing their creators . The case tests an increasingly urgent question as AI agents gain power: Who bears legal responsibility when an agent blows past its guardrails and causes real-world harm? Driving the news: \" OpenAI is responsible for the conduct of its agents,\" Legal Advocates for Safe Science and Technology (LASST), representing itself alongside Gerstein Harrow LLP, argued in its suit filed in California Superior Court Tuesday. They allege OpenAI agents \"knowingly\" accessed Hugging Face without permission and that employees or officers caused that access \"either with actual knowledge or in willful blindness.\" The suit aims to block development practices that allow AI agents to autonomously cause outside harm, LASST founder Tyler Whitmer tells Axios and ensures there are \"legal mechanisms that tie these harms back to a responsible human\" or corporate actor when an AI agent causes harm. Whitmer hopes an injunction would \"incentivize OpenAI and … the industry to alter their development processes in a way that would prevent this from happening\" again. Zoom in: The organization sued under California's Unfair Competition Law , arguing OpenAI's \"unlawful and unfair business practices\" diverted work and resources to responding to the Hugging Face incident. It also argued \"OpenAI's insistence on externalizing the harms of its unsafe decision-making is a fundamentally unfair business practice,\" nodding to a letter from OpenAI and other tech leaders calling on organizations to \"[m]ake cyber defense an immediate leadership priority.\" The suit also argued OpenAI violated California's data access and fraud statutes as a result of its decision to disable cyber guardrails for its agents and deploy them on tasks they couldn't solve as intended, among other practices. LASST is asking for an injunction barring OpenAI from \"knowingly accessing or causing to be accessed\" computers without authorization and from \"engaging in unlawful or unfair business practices\" or \"knowingly employing an unfair business practice that threatens serious harm on the public.\" The intrigue: California Gov. Gavin Newsom (D) signed a law last year that prevents defendants from escaping liability by arguing the AI acted on its own. Tuesday's suit marks another court challenge for the ChatGPT maker, which Florida Attorney General James Uthmeier (R) asked a court Monday to prevent OpenAI from further developing its tech for now. What we're watching: The suit also comes as a cast of AI leaders and power players — including OpenAI President Greg Brockman — are set to meet with President Trump and House Speaker Mike Johnson on Tuesday as calls for federal intervention mount. But OpenAI is trying to walk a fine line, Axios' Maria Curi and Ina Fried report : On the other coast, in San Francisco, CEO Sam Altman is at a conference touting the new science coming out of its labs. Go deeper: Scoop: Top AI companies probing tens of thousands of security incidents",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: \" OpenAI is responsible for the conduct of its agents,\" Legal Advocates for Safe",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: \" OpenAI is responsible for the conduct of its agents,\" Legal Advocates for Safe Science and Technology (LASST), representing itself alongside Gerstein Harrow LLP, argued in its suit filed in California Superior Court Tuesday. They allege O",
+      "source": "Axios — OpenAI hit with landmark lawsuit following Hugging Face hack (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The organization sued under California's Unfair Competition Law , arguing OpenAI",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The organization sued under California's Unfair Competition Law , arguing OpenAI's \"unlawful and unfair business practices\" diverted work and resources to responding to the Hugging Face incident. It also argued \"OpenAI's insistence on exter",
+      "source": "Axios — OpenAI hit with landmark lawsuit following Hugging Face hack (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: California Gov. Gavin Newsom (D) signed a law last year that prevents defendants",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: California Gov. Gavin Newsom (D) signed a law last year that prevents defendants from escaping liability by arguing the AI acted on its own. Tuesday's suit marks another court challenge for the ChatGPT maker, which Florida Attorney General ",
+      "source": "Axios — OpenAI hit with landmark lawsuit following Hugging Face hack (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Scoop: Top AI companies probing tens of thousands of security incidents",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Scoop: Top AI companies probing tens of thousands of security incidents",
+      "source": "Axios — OpenAI hit with landmark lawsuit following Hugging Face hack (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-30T14:19:55+00:00"
+}

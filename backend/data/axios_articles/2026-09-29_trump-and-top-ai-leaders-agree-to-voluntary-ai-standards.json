@@ -1,0 +1,59 @@
+{
+  "title": "Trump and top AI leaders agree to voluntary ​AI ​standards",
+  "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
+  "pub_date": "2026-09-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Trump and top AI leaders agree to voluntary ​AI ​standards (2026-09-29)",
+  "body": "President Trump said Tuesday that top AI executives agreed to voluntary standards aimed at increasing industry oversight. Why it matters: The agreement puts AI companies at the center of policing their own technology as pressure grows for stronger safeguards. Driving the news: Trump and Speaker Mike Johnson announced Tuesday afternoon that several AI titans signed a voluntary agreement, which they called an \"accord,\" outlining standards for reviewing AI systems. \"This starts with every company that is training and deploying frontier models having robust internal processes and controls,\" the accord reads. \"This is a statement of principles ... a statement of standards, commitments that are voluntary on behalf of the industry. It sets forth expectations,\" Johnson told reporters. \"That's important because you need people to be providing oversight and transparency, and that's what these leaders are going to do.\" Trump also announced a name change for the technology, rebranding AI as \"SI,\" or super intelligence. Zoom in: Mark Zuckerberg outlined some of the steps participating companies expect to take, including internal risk reviews and outside audits. He said the leaders drafted a list of principles that include reviewing internal controls and detecting issues with the technology, which could include multiple layers of auditing controls. He said there will be internal risk review and external auditors to examine the technology. The Information reported that top AI labs Anthropic, OpenAI and Google were working together before the White House meeting on a self-regulation framework to coordinate on \"testing and auditing the technology.\" Friction point: Sources who work in AI told Axios they were concerned self-policing would not solve the safety problem currently embroiling the industry. The agreement's scope and enforcement remain unclear because full details have not yet been released. When asked for comment Tuesday, the White House told Axios: \"Turn on TRUTH notifications,\" a reference to the president's Truth Social account. Trump added that the accord is \"morally binding.\" \"If something goes wrong, their companies are at stake ... They're really going to be policing each other.\" Anthropic CEO Dario Amodei was asked to go to the front by a reporter to answer a question, and Trump, Zuckerberg and previous AI Czar David Sacks were seen laughing as he addressed reporters. As he often does, Amodei emphasized the safety risks of the technology. \"Dario has been fantastic and we had dinner the other night,\" Trump said. \"And he agrees with everyone.\" Amodei quickly retreated to the back again when Trump called on a CNN reporter and said \" fake news .\" The intrigue : In a panel following the event, Nvidia CEO Jensen Huang was already referring to AI as \"SI,\" or superintelligence, the term Trump is pushing to refer to the technology. \"I am going to get good at this,\" Huang said after accidentally calling it AI. What's next: More details on how the voluntary standards will work are still expected after Tuesday's meeting between AI executives and Washington officials. An AI czar is also expected to be selected over the next three or four days. Trump wants to check in with Johnson and Majority Leader John Thune about the selection.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The agreement puts AI companies at the center of policing their own technology a",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The agreement puts AI companies at the center of policing their own technology as pressure grows for stronger safeguards.",
+      "source": "Axios — Trump and top AI leaders agree to voluntary ​AI ​standards (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Trump and Speaker Mike Johnson announced Tuesday afternoon that several AI titan",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Trump and Speaker Mike Johnson announced Tuesday afternoon that several AI titans signed a voluntary agreement, which they called an \"accord,\" outlining standards for reviewing AI systems. \"This starts with every company that is training an",
+      "source": "Axios — Trump and top AI leaders agree to voluntary ​AI ​standards (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Mark Zuckerberg outlined some of the steps participating companies expect to tak",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Mark Zuckerberg outlined some of the steps participating companies expect to take, including internal risk reviews and outside audits. He said the leaders drafted a list of principles that include reviewing internal controls and detecting i",
+      "source": "Axios — Trump and top AI leaders agree to voluntary ​AI ​standards (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-30T14:19:55+00:00"
+}
