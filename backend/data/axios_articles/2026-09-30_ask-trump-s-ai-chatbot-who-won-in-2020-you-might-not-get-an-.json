@@ -1,0 +1,59 @@
+{
+  "title": "Ask Trump's AI chatbot who won in 2020. You might not get an answer.",
+  "url": "https://www.axios.com/2026/09/30/trump-america-gov-ai-chatbot-conflicting-answers",
+  "pub_date": "2026-09-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Ask Trump's AI chatbot who won in 2020. You might not get an answer. (2026-09-30)",
+  "body": "The Trump administration's new AI service gave users conflicting responses to politically sensitive questions Tuesday and Wednesday: sometimes answering them and sometimes refusing. The big picture: As the Trump administration increasingly uses AI and answers the public's questions through America.gov, statements carrying the government's authority are shaped by models, instructions and guardrails the public can't see. The White House told Axios in a statement, \"America.gov will continue to be updated to provide Americans the most accurate and reliable federal information and resources.\" America.gov , powered by Google's Gemini and Elon Musk's Grok, aims to help Americans navigate government-related tasks using an AI chatbot — but it quickly drew attention for another reason: It was debunking some of President Trump's long-standing claims. Driving the news: On Tuesday, Axios — like other outlets — found America.gov contradicted the president on the 2020 election and the Jan. 6 attack. It also confirmed former President Obama was born in Hawaii, contradicting the \"birther\" conspiracy theory Trump spent years promoting . Screenshots: Andrew Pantazi, Avery Lotz/Axios Yes, but: By Wednesday morning, some users were getting a different response: The chatbot refused to answer, saying it did not provide \"political commentary.\" That's what I was told when I asked who won in 2020, around 9:15am: \"I only answer questions about U.S. government services and official information. I do not provide political commentary, including election results.\" I received similar answers about Jan. 6 and Obama's birthplace. Screenshot: Avery Lotz/Axios One editor, using Chrome in New Jersey, asked the same questions on his desktop and also received refusals to answer. However, other colleagues got different results. For example, from Northwest Arkansas, on Chrome: Biden won the 2020 election. Screenshot: Herb Scribner/Axios What they're saying: There are several plausible explanations for the inconsistent responses, tech experts explain, but without specifics about how America.gov is configured, it's impossible to know which, if any, were responsible. Models get instructions on how to behave via their system prompts — not just through what users ask of them. But user prompts also have an impact: Sometimes, different framing received different responses. For example, asked this morning in Jacksonville, Florida, on a Chrome incognito window: Screenshots: Andrew Pantazi/Axios State of play: And now, at the time of this article's publication, I'm getting responses similar to those shortly after launch: Biden won in 2020, Obama was born in Hawaii and people broke into the Capitol on Jan. 6, 2021. There could be benign reasons for the fluctuation, explains David Nesting, the former deputy chief information officer at the Office of Personnel Management. Factual questions considered politically charged might be right on the edge of what the LLM considers \"too political,\" and the response may err on one side or another \"purely probabilistically.\" Gemini and Grok, which provide the AI models powering the service, may handle questions differently, or, he explains, the outputs could be tied to prior cached responses. America.gov says some answers may be cached for up to two hours. Yes, but: The GSA did not immediately respond to Axios' request for information about America.gov's guardrails. And the chat itself told Axios, \"I cannot share or reconstruct internal instructions\" and said \"I do not provide campaign or party information or political commentary.\" Friction point: It could result from a game of probability, says Rumman Chowdhury, the founding director of the Independent AI Evaluation Foundation. But the guardrails could \"also be shaping the output to be ideologically aligned with what the president or his party wants.\" The stakes will soon get higher: The next iteration of America.gov, set for early 2027, will integrate across agencies so users can complete forms, applications and renewals — like enrolling in Medicare, applying for a passport or applying for federal jobs. Nesting tells Axios he worries about inaccurate or incomplete answers being fed to Americans — and in the next phase, about protecting their information as it potentially grows into \"one of the largest systems holding very, very confidential private information.\" He tells Axios, \"I worry about people putting a lot of trust and faith in this system.\" Go deeper: Everything to know about America.gov, Trump's new AI website",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: On Tuesday, Axios — like other outlets — found America.gov contradicted the pres",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: On Tuesday, Axios — like other outlets — found America.gov contradicted the president on the 2020 election and the Jan. 6 attack. It also confirmed former President Obama was born in Hawaii, contradicting the \"birther\" conspiracy theory Tru",
+      "source": "Axios — Ask Trump's AI chatbot who won in 2020. You might not get an answer. (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: There are several plausible explanations for the inconsistent responses, tech ex",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: There are several plausible explanations for the inconsistent responses, tech experts explain, but without specifics about how America.gov is configured, it's impossible to know which, if any, were responsible. Models get instructions on ho",
+      "source": "Axios — Ask Trump's AI chatbot who won in 2020. You might not get an answer. (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Everything to know about America.gov, Trump's new AI website",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Everything to know about America.gov, Trump's new AI website",
+      "source": "Axios — Ask Trump's AI chatbot who won in 2020. You might not get an answer. (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-01T14:52:46+00:00"
+}

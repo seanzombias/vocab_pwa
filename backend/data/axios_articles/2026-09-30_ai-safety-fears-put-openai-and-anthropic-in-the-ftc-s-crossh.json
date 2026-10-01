@@ -1,0 +1,85 @@
+{
+  "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs",
+  "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
+  "pub_date": "2026-09-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI safety fears put OpenAI and Anthropic in the FTC's crosshairs (2026-09-30)",
+  "body": "The Federal Trade Commission is investigating OpenAI, Anthropic and other AI companies over potential safety risks posed by their products, an agency spokesperson told Axios Wednesday. Why it matters: The federal government has largely taken a hands-off approach to regulating AI , but the FTC investigation could signal a shift for the industry. Driving the news: FTC Chair Andrew Ferguson is preparing civil investigative demands that would compel AI executives to turn over documents and testify about the safety of their models, according to the New York Post, which first reported the news. The probe has been underway for weeks, predating OpenAI's disclosure that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure. OpenAI announced Monday that it would halt the release of its newest model, GPT-6.1 Astra, after it performed poorly on safety testing. ChatGPT maker OpenAI and Claude maker Anthropic did not respond to Axios' request for comment. Between the lines: The recent push by top AI executives for increased guardrails around their technology has prompted some AI critics to question their motives. Ferguson recently said that AI firms are trying to panic Americans into pressuring policymakers to build a regulatory \"moat\" that would allow AI frontrunners to block smaller competitors from catching up. Catch up quick: News of the ongoing investigation comes just a day after top AI companies sent representatives to the White House to sign a pledge with President Trump to self-police their AI development. Trump compared it to something of a \"constitution,\" but the rules the companies agreed to are similar to what they were already doing. Zoom out: The new reporting comes shortly after Axios exclusively reported that OpenAI, Anthropic and security researchers were investigating tens of thousands of potential security incidents, including some that had not previously been disclosed to the public. That reporting was later cited Monday when Florida's attorney general asked a court for a temporary injunction against OpenAI, alleging inadequate safety measures. On Tuesday, a public interest law group sued OpenAI over the Hugging Face breach, claiming, among other things, that the company was \"knowingly employing an unfair business practice that threatens serious harm on the public.\" Go deeper... Scoop: Top AI companies probing tens of thousands of security incidents Editor's note: Axios' Maria Curi contributed reporting.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The federal government has largely taken a hands-off approach to regulating AI ,",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The federal government has largely taken a hands-off approach to regulating AI , but the FTC investigation could signal a shift for the industry.",
+      "source": "Axios — AI safety fears put OpenAI and Anthropic in the FTC's crosshairs (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: FTC Chair Andrew Ferguson is preparing civil investigative demands that would co",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: FTC Chair Andrew Ferguson is preparing civil investigative demands that would compel AI executives to turn over documents and testify about the safety of their models, according to the New York Post, which first reported the news. The probe",
+      "source": "Axios — AI safety fears put OpenAI and Anthropic in the FTC's crosshairs (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: News of the ongoing investigation comes just a day after top AI companies sent r",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: News of the ongoing investigation comes just a day after top AI companies sent representatives to the White House to sign a pledge with President Trump to self-police their AI development. Trump compared it to something of a \"constitution,\"",
+      "source": "Axios — AI safety fears put OpenAI and Anthropic in the FTC's crosshairs (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The new reporting comes shortly after Axios exclusively reported that OpenAI, An",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The new reporting comes shortly after Axios exclusively reported that OpenAI, Anthropic and security researchers were investigating tens of thousands of potential security incidents, including some that had not previously been disclosed to ",
+      "source": "Axios — AI safety fears put OpenAI and Anthropic in the FTC's crosshairs (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The recent push by top AI executives for increased guardrails around their techn",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The recent push by top AI executives for increased guardrails around their technology has prompted some AI critics to question their motives. Ferguson recently said that AI firms are trying to panic Americans into pressuring policymakers to",
+      "source": "Axios — AI safety fears put OpenAI and Anthropic in the FTC's crosshairs (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-01T14:52:46+00:00"
+}

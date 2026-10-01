@@ -1,0 +1,85 @@
+{
+  "title": "Google unveils long-awaited Gemini 4",
+  "url": "https://www.axios.com/2026/09/30/google-gemini-4",
+  "pub_date": "2026-09-30",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Google unveils long-awaited Gemini 4 (2026-09-30)",
+  "body": "Google is unveiling its long-awaited next-generation AI model, Gemini 4 Argon, to a small group of cybersecurity partners, the company said Wednesday. Why it matters: Gemini 4 arrives after a long gap at the top of Google's model lineup, in which the company kept rolling out smaller, cheaper Flash models while rivals OpenAI and Anthropic sprinted forward. State of play: Google says Gemini 4 Argon is built to handle complex, long-running tasks in software engineering, finance, legal work and cybersecurity. Google said the new model is state of the art on certain coding and knowledge work benchmarks, outperforming competing OpenAI frontier model GPT-6 Astra on several. The company is rolling the model out only to a group of trusted cybersecurity defenders and is participating in the U.S. government's voluntary pre-release process. Google says it will expand access after additional testing, with paying subscribers first in line. What they're saying: \"Argon is a well-rounded model that has frontier capabilities across several domains,\" Tulsee Doshi, head of Gemini products at Google DeepMind, told Axios. \"We've seen strong performance up close as Googlers have put the model through its paces in recent weeks, with many relying on it for their hardest coding and research problems.\" Yes, but: Bloomberg reported Wednesday, citing anonymous sources, that some of those employees found the model's performance lacking in internal testing. (The company told Bloomberg that was inaccurate.) This is the challenge with benchmarks: models can be trained to perform well on them, but the real testing and results come in the real word. Flashback: Gemini 4 comes out nearly a year after the previous flagship model generation, Gemini 3. In May, Google CEO Sundar Pichai said the company's next major model release would come in June. That model, widely expected to be Gemini 3.5 Pro, never came out. In July, Axios reported that poor morale among Google DeepMind employees was part of the reason for the delay. Zoom in: Google's additional time investment may not be viewed as negatively in the context of the AI safety debate that has embroiled companies and users. OpenAI has had issues with agents going rogue, and recently said it is scrapping GPT-6.1 Astra due to security issues . Top AI developers OpenAI and Anthropic are investigating tens of thousands of incidents involving their agents misbehaving, Axios previously reported. The bottom line: If the developer community finds Gemini 4 to be as competitive with OpenAI and Anthropic's frontier systems as the benchmarks indicate, it would result in a massive catch-up for an AI company some had started to doubt . Editor's note: This story has been updated with additional reports on the model's performance.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Gemini 4 arrives after a long gap at the top of Google's model lineup, in which",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Gemini 4 arrives after a long gap at the top of Google's model lineup, in which the company kept rolling out smaller, cheaper Flash models while rivals OpenAI and Anthropic sprinted forward. State of play: Google says Gemini 4 Argon is buil",
+      "source": "Axios — Google unveils long-awaited Gemini 4 (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: Gemini 4 comes out nearly a year after the previous flagship model generation, G",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: Gemini 4 comes out nearly a year after the previous flagship model generation, Gemini 3. In May, Google CEO Sundar Pichai said the company's next major model release would come in June. That model, widely expected to be Gemini 3.5 Pro, neve",
+      "source": "Axios — Google unveils long-awaited Gemini 4 (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Google's additional time investment may not be viewed as negatively in the conte",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Google's additional time investment may not be viewed as negatively in the context of the AI safety debate that has embroiled companies and users. OpenAI has had issues with agents going rogue, and recently said it is scrapping GPT-6.1 Astr",
+      "source": "Axios — Google unveils long-awaited Gemini 4 (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Argon is a well-rounded model that has frontier capabilities across several dom",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Argon is a well-rounded model that has frontier capabilities across several domains,\" Tulsee Doshi, head of Gemini products at Google DeepMind, told Axios. \"We've seen strong performance up close as Googlers have put the model through its ",
+      "source": "Axios — Google unveils long-awaited Gemini 4 (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: If the developer community finds Gemini 4 to be as competitive with OpenAI and A",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: If the developer community finds Gemini 4 to be as competitive with OpenAI and Anthropic's frontier systems as the benchmarks indicate, it would result in a massive catch-up for an AI company some had started to doubt . Editor's note: This ",
+      "source": "Axios — Google unveils long-awaited Gemini 4 (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-01T14:52:47+00:00"
+}

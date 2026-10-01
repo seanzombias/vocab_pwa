@@ -1,0 +1,72 @@
+{
+  "title": "Trump and CEOs try to shed AI's toxic branding",
+  "url": "https://www.axios.com/2026/10/01/superintelligence-si-ai-trump",
+  "pub_date": "2026-10-01",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Trump and CEOs try to shed AI's toxic branding (2026-10-01)",
+  "body": "The great AI rebranding is on, led by President Trump and tech titans like Nvidia CEO Jensen Huang, who are embracing an alternative term: \"Superintelligence,\" or SI. Why it matters: Leaders in D.C. and Silicon Valley are worried the public backlash against AI and data centers will hamper the development of this staggeringly powerful and existentially dangerous technology. The new label is part of a broader effort to shift the narrative. Driving the news: Flanked by the most powerful figures in tech on Tuesday, Trump officially declared \"superintelligence\" the preferred terminology of the executive branch. He'd previously solicited alternative terms for AI on Truth Social. \"Now we're calling it, again, super. We can say the word super, because the other word is a fake word,\" Trump said after Tuesday's White House summit. Leaders from Google, Anthropic, Meta, OpenAI, xAI and Nvidia all signed the \"White House Accord on Super Intelligence.\" Huang has recently extended the label to physical infrastructure, referring to data centers as \"superintelligence factories.\" Opposition to the huge, energy-guzzling facilities is dimming the prospects for fast-growing AI firms and some congressional candidates. Between the lines: A rose by any other name would smell as sweet, and AI by any other name will likely seem as scary. Communities are building bipartisan coalitions against data centers, younger workers are anxious about their career prospects, and AI insiders continue to warn about catastrophic risks, notes Axios Communicators author Simon Hernandez-Arthur. Calling it \"super intelligence\" attempts to evoke the technology's promise without immediately bringing to mind all that negative baggage. What they're saying: Some of the tech executives who appeared with Trump continued to use \"AI\" in their remarks, but xAI CEO Elon Musk caught himself and pivoted to \"SI.\" Meta CEO Mark Zuckerberg has long used the \"superintelligenc\" branding. Huang, CEO of the world's most valuable company, appears to be leading the charge. He used the term superintelligence twice in a post about the accord and repeatedly invoked it in a panel discussion at the White House. When he slipped once and said \"AI,\" Huang corrected himself: \"I am going to get good at this.\" AI company representatives declined to comment about the name change on the record. Some said their companies were generally supportive of the rebrand and plan to use \"SI\" when meeting with the president and working with the federal government. Others said they didn't expect it to catch fire outside of those contexts. One source compared it to Trump's renaming of the Gulf of Mexico as the Gulf of America, which many (though not all) oil executives adopted in their external comms and internal communications. By the numbers : \"SI\" has yet to catch on with the public. A YouGov poll conducted this week found that 53% of respondents considered \"artificial intelligence\" the better term for the tech, vs. 9% who preferred \"super intelligence.\" What to watch: Trump said on Tuesday that \"artificial\" intelligence made the technology sound like a hoax: \"The name is now superintelligence. That's not a hoax, in fact it's the exact opposite.\" Polls suggest most Americans agree with him that AI is anything but a hoax. That's why they're so worried.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Leaders in D.C. and Silicon Valley are worried the public backlash against AI an",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Leaders in D.C. and Silicon Valley are worried the public backlash against AI and data centers will hamper the development of this staggeringly powerful and existentially dangerous technology. The new label is part of a broader effort to sh",
+      "source": "Axios — Trump and CEOs try to shed AI's toxic branding (2026-10-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Flanked by the most powerful figures in tech on Tuesday, Trump officially declar",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Flanked by the most powerful figures in tech on Tuesday, Trump officially declared \"superintelligence\" the preferred terminology of the executive branch. He'd previously solicited alternative terms for AI on Truth Social. \"Now we're calling",
+      "source": "Axios — Trump and CEOs try to shed AI's toxic branding (2026-10-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: A rose by any other name would smell as sweet, and AI by any other name will lik",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: A rose by any other name would smell as sweet, and AI by any other name will likely seem as scary. Communities are building bipartisan coalitions against data centers, younger workers are anxious about their career prospects, and AI insider",
+      "source": "Axios — Trump and CEOs try to shed AI's toxic branding (2026-10-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Some of the tech executives who appeared with Trump continued to use \"AI\" in the",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Some of the tech executives who appeared with Trump continued to use \"AI\" in their remarks, but xAI CEO Elon Musk caught himself and pivoted to \"SI.\" Meta CEO Mark Zuckerberg has long used the \"superintelligenc\" branding. Huang, CEO of the ",
+      "source": "Axios — Trump and CEOs try to shed AI's toxic branding (2026-10-01)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-01T14:52:46+00:00"
+}
