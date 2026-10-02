@@ -1,0 +1,85 @@
+{
+  "title": "Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies",
+  "url": "https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion",
+  "pub_date": "2026-10-02",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies (2026-10-02)",
+  "body": "A small cadre of elite AI researchers is wielding extraordinary influence inside OpenAI and other leading companies, challenging executives, shaping policy and complicating negotiations with Washington. Why it matters: As a safety crisis has unfolded across the industry, it's an open question who is doing more to shape the national AI debate — top researchers or the executives they report to. The researchers, some of whom are among the most highly paid and sought-after scientists in the world, are outspoken online and have repeatedly clashed with company strategy. The big picture: The situation has the makings of a grassroots uprising, where any potential deal the companies may strike — with the Trump administration, one another, or even globally — will also have to pass muster with their top scientists. Behind the scenes: OpenAI, Anthropic and others at the frontier of AI aren't like other companies. Many began years ago as idealistic research labs with scientific cultures that prized openness and collaboration. To function, and to continue to build better and better models, the companies need highly specialized machine learning researchers and scientists to push the frontiers of what's technologically possible. The trouble is, the best of those researchers are in extraordinarily short supply. Last year's talent wars drove compensation packages into the hundreds of millions of dollars for the most elite, giving top researchers enormous leverage over their employers. Perks include favorable vesting schedules for their compensation and largely freewheeling policies that allow them to share triumphs, trash rivals and offer their perspectives about the AI race frequently on X. AI CEOs must prioritize safety and embrace regulation to retain top research talent, an OpenAI investor told Axios. Zoom in: OpenAI president Greg Brockman scrapped plans to donate another $25 million to a pro-AI political group that some researchers had openly criticized. Researchers and employees say they helped push OpenAI from resisting regulation — and candidates who supported it — toward working more closely with lawmakers in several states. The company recently backed a transparency bill in Illinois and, at the 11th hour, an independent auditing bill in California. \"We have a lot of debate inside OpenAI, and that's a good thing, but what ultimately drives our policy positions is what we're seeing in our own technology and how quickly its capabilities are advancing,\" an OpenAI spokesperson said. Yes, but: OpenAI signaled Thursday that there are limits to how much dissent it will tolerate, firing three employees for allegedly mishandling sensitive information. The employees broke the \"deep level of trust\" needed to keep systems safe, the company said. Friction point: In Washington, the unusual dynamic has frustrated policymakers who see AI companies as inconsistent on regulation — opposing proposals at some points and supporting them at others, sources tell Axios. OpenAI is \"no longer seen as or acting as a leader in driving policy,\" one source close to the administration said, arguing researchers have \"neutered\" the company. A White House official said OpenAI has been an incredible partner and pointed to the recent accord the company signed with the president. Zoom out: It's not just OpenAI. Researchers also complicated Anthropic's efforts to strike a deal with the Pentagon after a clash between the company and senior administration officials earlier this year. Employees at OpenAI, Anthropic and Google have signed high-profile letters at pivotal moments between companies and the government, including more than 1,000 who backed the viral \"Pacing the Frontier\" petition. In a remarkable show of internal solidarity, Anthropic researcher Jacob Coxon resigned and publicly blasted the company's safety practices — only to have several colleagues still inside Anthropic endorse his concerns. Reality check: Executives have also adapted as political backlash to AI has grown and safety incidents have drawn more scrutiny, sources close to the companies say. With some level of regulation seen as inevitable, companies have focused on molding the rules as favorably as possible rather than simply resisting them. The bottom line: In the debate over AI safety and regulation, some researchers have become nearly as influential in setting the terms as OpenAI's Sam Altman or Anthropic's Dario Amodei.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: As a safety crisis has unfolded across the industry, it's an open question who i",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: As a safety crisis has unfolded across the industry, it's an open question who is doing more to shape the national AI debate — top researchers or the executives they report to. The researchers, some of whom are among the most highly paid an",
+      "source": "Axios — Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: It's not just OpenAI. Researchers also complicated Anthropic's efforts to strike",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: It's not just OpenAI. Researchers also complicated Anthropic's efforts to strike a deal with the Pentagon after a clash between the company and senior administration officials earlier this year. Employees at OpenAI, Anthropic and Google hav",
+      "source": "Axios — Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: OpenAI president Greg Brockman scrapped plans to donate another $25 million to a",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: OpenAI president Greg Brockman scrapped plans to donate another $25 million to a pro-AI political group that some researchers had openly criticized. Researchers and employees say they helped push OpenAI from resisting regulation — and candi",
+      "source": "Axios — Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: In the debate over AI safety and regulation, some researchers have become nearly",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: In the debate over AI safety and regulation, some researchers have become nearly as influential in setting the terms as OpenAI's Sam Altman or Anthropic's Dario Amodei.",
+      "source": "Axios — Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Executives have also adapted as political backlash to AI has grown and safety in",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Executives have also adapted as political backlash to AI has grown and safety incidents have drawn more scrutiny, sources close to the companies say. With some level of regulation seen as inevitable, companies have focused on molding the ru",
+      "source": "Axios — Inside the AI industry's grassroots rebellion, led by elite researchers at frontier companies (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-02T14:14:14+00:00"
+}

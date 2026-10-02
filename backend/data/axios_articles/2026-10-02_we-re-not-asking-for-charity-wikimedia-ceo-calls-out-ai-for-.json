@@ -1,0 +1,98 @@
+{
+  "title": "\"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use",
+  "url": "https://www.axios.com/2026/10/02/wikipedia-ceo-ai-traffic-loss",
+  "pub_date": "2026-10-02",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use (2026-10-02)",
+  "body": "Wikipedia is starting to feel the effects of the AI-driven shift in how people find information, with page views falling 8% in the latest year, new Wikimedia Foundation CEO Bernadette Meehan tells Axios. Why it matters: Wikipedia is a crucial source of information for AI models, but those same models increasingly allow people to get Wikipedia-derived information without ever visiting the site — potentially threatening the ecosystem that keeps the online encyclopedia running. Driving the news: Wikipedia page views declined 8% in 2025, and while the drop wasn't unexpected, \"that doesn't mean that we're sort of starry-eyed about it and not concerned about it,\" Meehan said. Follow the money: The problem is that even though generative AI systems rely heavily on Wikipedia's vast trove of human-created information, some companies won't pay for it, she said. Wikimedia has a program that charges large-scale commercial users for reliable, high-volume access to its data. Publicly disclosed enterprise customers, whose payments make up 10% of the organization's operating expenses, include Amazon, Google, Microsoft, Meta, Perplexity and others. OpenAI and Anthropic, two of the largest makers of generative AI models, aren't among Wikimedia's publicly disclosed enterprise customers. Meehan noted that Wikimedia has other agreements that aren't publicly disclosed and declined to identify those companies. OpenAI and Anthropic both declined to comment. What they're saying: Meehan, a former U.S. ambassador to Chile who took over Wikimedia's top job in January, said the reception from big technology companies has been mixed. Some have embraced the idea that companies benefiting from Wikipedia should help sustain it. Others, she said, have acknowledged what Wikimedia considers excessive use of its data but declined to pay for enterprise access. \"We're not asking for charity,\" Meehan said. Between the lines: There's an unusual economic tension here: Wikipedia makes its content freely available and has no intention of changing that, leaving it with limited leverage over AI companies that don't want to pay. The big picture: Traffic matters to Wikimedia for reasons that go well beyond bragging rights for being one of the most popular destinations on the internet. Roughly 80% of Wikimedia's operating budget comes from small donations, many prompted by banners shown to visitors to its site. Readers also provide the pipeline for future Wikipedia editors. \"If less readers are coming, that's less conversion to editors,\" Meehan said. The irony: Wikipedia has arguably never been more valuable to the broader information ecosystem. \"We're the backbone,\" Meehan said when asked about Wikipedia's importance to AI knowledge engines. Meanwhile: Meehan is drawing a distinction between AI using Wikipedia and AI creating Wikipedia. AI remains controversial among Wikipedia's volunteer communities, which set their own rules, but it is already being used for tasks such as translation, finding broken links and helping new editors spot problems with their contributions. Meehan sees a clear boundary, though : AI should assist Wikipedia's human editors rather than replace them. \"I don't think you will ever see AI writing or generating Wikipedia articles,\" she said. Asked whether Wikipedia articles five years from now will still be written by humans for humans, Meehan replied: \"I do.\" Zoom out: Meehan also pointed out who and what gets left out if commercially developed AI becomes a principal gateway to knowledge. Wikipedia exists in roughly 300 languages, including many that aren't likely to represent commercially attractive markets for AI companies. She also raises the possibility of a knowledge divide in which the best access to information increasingly requires paying for an AI subscription. The bottom line: Wikipedia spent the first phase of the generative AI boom becoming indispensable to AI. Its next challenge is ensuring that AI doesn't weaken the human and financial ecosystem that made Wikipedia indispensable in the first place.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Wikipedia is a crucial source of information for AI models, but those same model",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Wikipedia is a crucial source of information for AI models, but those same models increasingly allow people to get Wikipedia-derived information without ever visiting the site — potentially threatening the ecosystem that keeps the online en",
+      "source": "Axios — \"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Wikipedia page views declined 8% in 2025, and while the drop wasn't unexpected,",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Wikipedia page views declined 8% in 2025, and while the drop wasn't unexpected, \"that doesn't mean that we're sort of starry-eyed about it and not concerned about it,\" Meehan said. Follow the money: The problem is that even though generativ",
+      "source": "Axios — \"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Meehan also pointed out who and what gets left out if commercially developed AI",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Meehan also pointed out who and what gets left out if commercially developed AI becomes a principal gateway to knowledge. Wikipedia exists in roughly 300 languages, including many that aren't likely to represent commercially attractive mark",
+      "source": "Axios — \"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: There's an unusual economic tension here: Wikipedia makes its content freely ava",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: There's an unusual economic tension here: Wikipedia makes its content freely available and has no intention of changing that, leaving it with limited leverage over AI companies that don't want to pay. The big picture: Traffic matters to Wik",
+      "source": "Axios — \"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Meehan, a former U.S. ambassador to Chile who took over Wikimedia's top job in J",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Meehan, a former U.S. ambassador to Chile who took over Wikimedia's top job in January, said the reception from big technology companies has been mixed. Some have embraced the idea that companies benefiting from Wikipedia should help sustai",
+      "source": "Axios — \"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Wikipedia spent the first phase of the generative AI boom becoming indispensable",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Wikipedia spent the first phase of the generative AI boom becoming indispensable to AI. Its next challenge is ensuring that AI doesn't weaken the human and financial ecosystem that made Wikipedia indispensable in the first place.",
+      "source": "Axios — \"We're not asking for charity\": Wikimedia CEO calls out AI for unpaid data use (2026-10-02)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-02T14:14:14+00:00"
+}
