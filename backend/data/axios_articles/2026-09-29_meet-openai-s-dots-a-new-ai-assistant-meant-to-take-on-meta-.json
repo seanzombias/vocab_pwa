@@ -1,0 +1,46 @@
+{
+  "title": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse.",
+  "url": "https://www.axios.com/2026/09/29/openai-dots-ai-assistant-devday",
+  "pub_date": "2026-09-29",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse. (2026-09-29)",
+  "body": "OpenAI launched Dots, its take on the AI assistant and an answer to Meta's Muse, a personal agent that has gone viral and moved markets since its release. Why it matters: ChatGPT defined the chatbot era, but that status will have to be earned again as the world shifts from talking with AI to making it go out and do things. What they're saying : \"This is the real deal version of AI we've always imagined,\" Altman said of Dots at the OpenAI developer event, adding that it is inspired by the \"cool\" examples of AI assistants we've all seen in movies for years. Driving the news: Dots, as OpenAI calls them, are agents that can be instructed to perform a wide range of tasks. Users provide a goal to a dot and set boundaries for what it can do on its own. The assistant can keep work moving in the background and reach out when it needs attention or more detail to complete a task. Dots \"are an extension of you,\" OpenAI says, and are meant to compete with a growing crop of consumer-focused AI assistants that people have used to book travel, cancel subscriptions and for all manner of other tasks. The intrigue : Altman briefly addressed the timing for OpenAI's future IPO in the context of the intense scrutiny the company — and the industry — has faced over problematic model behavior. \"We feel very good about the decision to say we are going to prioritize the mission and safety and making sure that we can very confidently scale to the next stage of AI,\" Altman said during the event. He said it would be \"ill-advised\" to be a newly public company at a time when the industry is going through a \"significant change\" to deal with the level of power and capabilities in new models. The big picture: Agents are all the rage, and while the technology or goal is often the same, the approaches and capabilities vary, especially for Meta and OpenAI. Meta dove head first into the consumer market, launching Muse widely to its massive multi-billion-number user base, with the app topping the download charts in its early days of availability. OpenAI is targeting high-end subscribers, mostly developers, at least in the beginning. Apple's AI isn't really at the agent stage, but given its prominence on the iPhone, the newly revamped Siri will still be part of the conversation. Other start-ups, such as Instinct, are also taking aim at this space. OpenAI took the risk of live demos at the event, creating some oohs and ahas at times, but also saw a couple fails as well, such as when OpenAI's Holly Li tried to speak to her dot \"dottie\" and there was a lag. At the other end of the extreme, Apple has moved to entirely recorded videos for its product launches. Zoom in : Dots are available to Pro, Business and Enterprise users, with one dot per user to start. OpenAI says it eventually envisions teams of Dots working together. Powered by GPT-6 Astra, each dot has its own cloud computer and can work across connected apps, Codex and ChatGPT Work to research, analyze data, prepare documents and build software. OpenAI also debuted GPT-6.1 Sol, which it says delivers near-Astra performance at one-fifth the cost. The company is lowering usage caps for new $200-a-month ChatGPT Pro customers. Existing customers will be able to keep their limits for an unspecified time. As OpenAI moves toward power users as a first-adopter assistant strategy, Muse is moving towards the workplace. Earlier Tuesday, Meta announced Muse now can connect to a range of tools used by small businesses.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: ChatGPT defined the chatbot era, but that status will have to be earned again as",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: ChatGPT defined the chatbot era, but that status will have to be earned again as the world shifts from talking with AI to making it go out and do things. What they're saying : \"This is the real deal version of AI we've always imagined,\" Alt",
+      "source": "Axios — Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse. (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Dots, as OpenAI calls them, are agents that can be instructed to perform a wide",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Dots, as OpenAI calls them, are agents that can be instructed to perform a wide range of tasks. Users provide a goal to a dot and set boundaries for what it can do on its own. The assistant can keep work moving in the background and reach o",
+      "source": "Axios — Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse. (2026-09-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-03T12:48:39+00:00"
+}

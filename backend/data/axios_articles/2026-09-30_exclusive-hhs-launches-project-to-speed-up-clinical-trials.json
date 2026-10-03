@@ -1,0 +1,61 @@
+{
+  "title": "Exclusive: HHS launches project to speed up clinical trials",
+  "url": "https://www.axios.com/2026/09/30/hhs-clinical-trials-redesign",
+  "pub_date": "2026-09-30",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Exclusive: HHS launches project to speed up clinical trials (2026-09-30)",
+  "body": "The Trump administration on Wednesday is launching an effort to reimagine the way clinical trials are designed, with a goal of drastically reducing the time and money it takes to develop new drugs. Why it matters: The program, shared first with Axios, could provide a template for reconfiguring the drug development process and boosting U.S. competitiveness in the global biotech race. Driving the news: Health Secretary Robert F. Kennedy, Jr. and Advanced Research Projects Agency for Health Director Alicia Jackson are unveiling the new effort in Austin, Texas. CMS Administrator Mehmet Oz and FDA Acting Commissioner Kyle Diamantas will also attend the announcement. The effort — dubbed the Simulation-augmented, Real-time Platform Adaptive Seamless Trials (SURPASS) program — features teams selected through a bidding process that will bring drug candidates through experimental clinical trial processes. How it works: The initiative under ARPA-H will begin by soliciting ideas from \"teams\" that include a drug sponsor. Winners will receive funding and support over five years. ARPA-H is looking for proposals that innovate in three technical areas: Phaseless trials that allow faster trials with fewer patients, the ability to analyze data in real time during the trial instead of than only when it ends, and using automation to reduce inefficiencies. Teams will also likely include medical centers or other clinical sites, biostatisticians, and companies that have the ability to predict drug outcomes via a computer. The FDA has been included in the planning of the program, and \"there won't be any surprises for regulators in this,\" said Daria Fedyukina, the program manager. The big picture: One of the reasons China has become such a popular location for drug manufacturers is because it's much cheaper and faster to do early-stage clinical trials there. Experts and the biopharmaceutical community largely agree that in order to compete, the U.S. needs to streamline its trial processes. Today, developing a drug can take longer than a decade and cost around $2 billion. More than 90% of drug candidates fail, according to HHS. What they're saying: \"The goal is to develop the tech that is missing and blaze the trail of a new clinical trial paradigm,\" Fedyukina said. The program will require the development of \"blueprints and standards that then can be deployed and used by all other trials in the U.S,\" she added. While \"it's hard to put a number to how much cost savings or time savings we can achieve,\" Fedyukina said, \"there is no reason why we cannot target, let's say, a 10x reduction in the cost of clinical development for a drug.\" \"There's no reason why we cannot cut timeline in half or more,\" she added. Details: ARPA-H is also announcing three related projects today aimed at improving the infrastructure around clinical trials. One is focused on setting up more clinical trial sites, with the help of AI to speed up site activation and prepare sites that haven't held trials before. This will allow patients who live near hospitals that don't currently participate in clinical trials to gain access to experimental drugs they may benefit from. The other two projects focus on clinical trial data infrastructure and helping patients with complex cancers benefit from their own data and better navigate the care system. The bottom line: This is all an experiment, but if successful it could pay big dividends.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The program, shared first with Axios, could provide a template for reconfiguring",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The program, shared first with Axios, could provide a template for reconfiguring the drug development process and boosting U.S. competitiveness in the global biotech race.",
+      "source": "Axios — Exclusive: HHS launches project to speed up clinical trials (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Health Secretary Robert F. Kennedy, Jr. and Advanced Research Projects Agency fo",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Health Secretary Robert F. Kennedy, Jr. and Advanced Research Projects Agency for Health Director Alicia Jackson are unveiling the new effort in Austin, Texas. CMS Administrator Mehmet Oz and FDA Acting Commissioner Kyle Diamantas will also",
+      "source": "Axios — Exclusive: HHS launches project to speed up clinical trials (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"The goal is to develop the tech that is missing and blaze the trail of a new cl",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"The goal is to develop the tech that is missing and blaze the trail of a new clinical trial paradigm,\" Fedyukina said. The program will require the development of \"blueprints and standards that then can be deployed and used by all other tr",
+      "source": "Axios — Exclusive: HHS launches project to speed up clinical trials (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: This is all an experiment, but if successful it could pay big dividends",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: This is all an experiment, but if successful it could pay big dividends.",
+      "source": "Axios — Exclusive: HHS launches project to speed up clinical trials (2026-09-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-03T12:48:39+00:00"
+}
