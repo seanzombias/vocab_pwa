@@ -1,0 +1,72 @@
+{
+  "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\"",
+  "url": "https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models",
+  "pub_date": "2026-10-03",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — OpenAI's Altman: Ascribing religion to models a \"safety issue\" (2026-10-03)",
+  "body": "OpenAI CEO Sam Altman on Saturday took a veiled shot at Anthropic and its work on the soul of AI, saying he was \"very uncomfortable\" with the idea of attributing some kind of religious power to models. Why it matters: It's yet another point of division between Altman and his former colleague Dario Amodei, whose company has reportedly pursued scholars across faiths to make the case for moral, conscious models. But some of the top voices in AI are starting to publicly line up against Anthropic's efforts to infuse consciousness into models. What they're saying: \"I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue,\" Altman said in a post to X. Context: Earlier this week, the New York Times reported that Anthropic co-founder Christopher Olah has been meeting with religious leaders to consider questions of model consciousness — but also to figure out how to infuse morals and moral behavior into AI. At one point, the Times reported, Olah considered the possibility of models engaging in Catholic-style confession, not just to admit their mistakes but to shape their future behavior. The big picture: Spirituality is suddenly becoming something of a flashpoint around AI's future. On Friday Pope Leo, an outspoken AI critic, called on the church to ally with artists to preserve human creativity, saying: \"Algorithms lack the spark of humanity.\" Between the lines: The pope's stance put renewed focus on a fundamental question: Do models have souls and feelings? The Times reported that Olah, before a Vatican event in May, tried to persuade the pope's advisers that they should take the prospect of conscious models more seriously. So far, other top scientists seem to be lining up against the idea. \"I am disturbed by how some of my fellow AI researchers keep trying to elevate the moral standing of checkpoints and harnesses,\" Google DeepMind principal research scientist Jon Barron posted to X. \"I hope the rest of us on Team Meatbag reject this movement and stay focused on solving real problems and helping actual humans.\" For the record: Neither OpenAI nor Anthropic immediately responded to requests for comment on Altman's post. The bottom line: The AI safety debate largely focuses on things like cybersecurity and bioweapons. The real problem may be more spiritual than that.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It's yet another point of division between Altman and his former colleague Dario",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It's yet another point of division between Altman and his former colleague Dario Amodei, whose company has reportedly pursued scholars across faiths to make the case for moral, conscious models. But some of the top voices in AI are starting",
+      "source": "Axios — OpenAI's Altman: Ascribing religion to models a \"safety issue\" (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The pope's stance put renewed focus on a fundamental question: Do models have so",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The pope's stance put renewed focus on a fundamental question: Do models have souls and feelings? The Times reported that Olah, before a Vatican event in May, tried to persuade the pope's advisers that they should take the prospect of consc",
+      "source": "Axios — OpenAI's Altman: Ascribing religion to models a \"safety issue\" (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"I am very uncomfortable about people trying to ascribe religious force or a sur",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue,\" Altman said in a post to X. Context: Earlier this week, the New York Times reported",
+      "source": "Axios — OpenAI's Altman: Ascribing religion to models a \"safety issue\" (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The AI safety debate largely focuses on things like cybersecurity and bioweapons",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The AI safety debate largely focuses on things like cybersecurity and bioweapons. The real problem may be more spiritual than that.",
+      "source": "Axios — OpenAI's Altman: Ascribing religion to models a \"safety issue\" (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-04T13:32:30+00:00"
+}

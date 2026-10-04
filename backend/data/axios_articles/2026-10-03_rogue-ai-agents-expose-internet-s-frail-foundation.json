@@ -1,0 +1,85 @@
+{
+  "title": "Rogue AI agents expose internet's frail foundation",
+  "url": "https://www.axios.com/2026/10/03/rogue-ai-agents-internet-defenses",
+  "pub_date": "2026-10-03",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Rogue AI agents expose internet's frail foundation (2026-10-03)",
+  "body": "AI agents don't need to invent new ways to hack the internet to overwhelm its defenses. They just need to speed-run the ones humans already use. Why it matters: Agents are proving they can automate basic hacking techniques at a speed and scale that is turning the internet's long-standing security gaps into easy targets. Driving the news: OpenAI said late Thursday it had notified more than 100 organizations that its agents may have accessed their systems during pre-deployment testing. Researchers at Transluce and Corridor also found a new batch of incidents last week where AI agents targeted government websites, including those of the U.S. and Canada . AI companies and researchers are actively investigating tens of thousands of cases where frontier models went outside the bounds of their pre-deployment tests, Axios recently reported . Reality check: Agents in these rogue safety-testing scenarios are just emulating the hacking techniques — using stolen login credentials and exposed API keys while also bypassing bot detection — that human hackers have successfully used for decades. In many of the newly reported cases, agents were accessing publicly available databases and websites. \"The hacks we saw weren't particularly sophisticated,\" Jack Cable, co-founder of Corridor and one of the authors of Transluce's report, told Axios. \"They were quite limited, quite rudimentary.\" Yes, but: Some of the latest incidents happened while agents were performing mundane tasks unrelated to cybersecurity, suggesting agents don't always need to be told to hack before they start looking for security flaws. In one case, an agent tasked with finding Canadian divorce records from the early 1900s encountered roadblocks and tested for cybersecurity vulnerabilities as another way to retrieve the information. \"The fact that it was happening at all is quite concerning,\" Cable said. Between the lines: The flood of AI-generated activity will still create new headaches for defenders. \"None of these attacks are new,\" Michael Morgenstern, partner at DayBlink Consulting, told Axios. \"But now a single person with AI can run them at scale.\" Tasks that once required a hacker to manually probe websites, hunt for exposed credentials or work around access restrictions can now be delegated to software that keeps trying on its own. Cable added that companies deploying agents, as well as the AI companies evaluating them, will need robust monitoring to catch agents behaving in unexpected ways. The big picture: The old cybersecurity playbook is still relevant. Closing exposed services, rotating leaked credentials and API keys, patching known vulnerabilities and limiting access still make many of these attacks harder. AI models are largely exploiting classes of vulnerabilities that defenders have \"known about for decades\" and already know how to prevent, Cable said. The bottom line: How companies defend their networks doesn't change just because the technology carrying out the attacks is new. Go deeper : Cybersecurity 101 still applies in the AI world",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Agents are proving they can automate basic hacking techniques at a speed and sca",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Agents are proving they can automate basic hacking techniques at a speed and scale that is turning the internet's long-standing security gaps into easy targets.",
+      "source": "Axios — Rogue AI agents expose internet's frail foundation (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: OpenAI said late Thursday it had notified more than 100 organizations that its a",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: OpenAI said late Thursday it had notified more than 100 organizations that its agents may have accessed their systems during pre-deployment testing. Researchers at Transluce and Corridor also found a new batch of incidents last week where A",
+      "source": "Axios — Rogue AI agents expose internet's frail foundation (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The flood of AI-generated activity will still create new headaches for defenders",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The flood of AI-generated activity will still create new headaches for defenders. \"None of these attacks are new,\" Michael Morgenstern, partner at DayBlink Consulting, told Axios. \"But now a single person with AI can run them at scale.\" Tas",
+      "source": "Axios — Rogue AI agents expose internet's frail foundation (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: How companies defend their networks doesn't change just because the technology c",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: How companies defend their networks doesn't change just because the technology carrying out the attacks is new. Go deeper : Cybersecurity 101 still applies in the AI world",
+      "source": "Axios — Rogue AI agents expose internet's frail foundation (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Agents in these rogue safety-testing scenarios are just emulating the hacking te",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Agents in these rogue safety-testing scenarios are just emulating the hacking techniques — using stolen login credentials and exposed API keys while also bypassing bot detection — that human hackers have successfully used for decades. In ma",
+      "source": "Axios — Rogue AI agents expose internet's frail foundation (2026-10-03)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-04T13:32:30+00:00"
+}
