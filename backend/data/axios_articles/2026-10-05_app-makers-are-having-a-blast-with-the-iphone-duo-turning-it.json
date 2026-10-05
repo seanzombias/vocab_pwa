@@ -1,0 +1,61 @@
+{
+  "title": "App-makers are having a blast with the iPhone Duo, turning it into a retro Walkman",
+  "url": "https://www.axios.com/2026/10/05/apple-iphone-duo-foldable-walkman-app",
+  "pub_date": "2026-10-05",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — App-makers are having a blast with the iPhone Duo, turning it into a retro Walkman (2026-10-05)",
+  "body": "The iPhone Duo isn't even out yet but developers are already having fun with the new design, creating apps that turn Apple's first foldable smartphone into everything from an accordion to a retro Walkman. Why it matters: Clever apps that couldn't exist on a traditional iPhone could help persuade early adopters to fork over nearly $2,000 for Apple's first foldable. Flashback: It's reminiscent of the early days of the iPhone, when developers turned its giant touchscreen and sensors into virtual versions of familiar objects, such as the virtual lighter apps whose flame flickered and swayed as the phone moved. Zoom in: Among the apps is Duo Man , a music player that turns the latest iPhone into a portable cassette player reminiscent of Sony's Walkman. Users open the Duo to choose an album and \"insert\" a cassette, then close it to start listening. Even the clicks and static are actual recordings from a real Walkman. It's the brainchild of indie app developer Vidit Bhargava, who created it during a four-hour hackathon last week. \"I love the Walkman,\" he said. \"I was just staring at it. I was like, this thing opens exactly like the iPhone Duo. What if your iPhone Duo was your Walkman, and you had to open up the door to change the album, and once you closed it, it would start playing the music.\" Bhargava has a particular affinity for the Walkman, having previously altered one of the vintage players to only work when a person is moving. Zoom out: Developers are finding ways to make the fold itself part of the software. The four-hour San Francisco hackathon where Duo-Man was born produced 73 submitted Duo projects, ranging from games to music tools and a virtual pop-up book. Accorduon turns the hinge into the bellows of a virtual accordion: The faster you fold and unfold the phone, the louder the instrument plays. Crate , which took first place at the same hackathon where Duo-Man finished second, turns the Duo into a beat machine, with folding controlling effects and snapping the phone open triggering a musical drop. Foldtales uses the hinge to create a virtual pop-up book, with castles, trees and other objects rising as the phone opens. Twofold uses the partially folded screen to hide each player's pieces in virtual versions of classic tabletop games. And Delta developer Riley Testut is working on Duo support that could make the foldable iPhone resemble another familiar hinged gadget: Nintendo's dual-screen DS. My thought bubble: Apple is years behind Samsung and Google in releasing a foldable phone. But its large developer ecosystem could help it catch-up quick. And the timing could turn out to be fortuitous. Developers are getting a new piece of hardware just as AI coding tools are making it faster and easier to turn a quirky idea into working software. What we're watching: Whether the initial burst of experimentation produces enduring apps — and whether Apple sells enough Duos to reward developers for building custom apps.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Clever apps that couldn't exist on a traditional iPhone could help persuade earl",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Clever apps that couldn't exist on a traditional iPhone could help persuade early adopters to fork over nearly $2,000 for Apple's first foldable.",
+      "source": "Axios — App-makers are having a blast with the iPhone Duo, turning it into a retro Walkman (2026-10-05)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: It's reminiscent of the early days of the iPhone, when developers turned its gia",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: It's reminiscent of the early days of the iPhone, when developers turned its giant touchscreen and sensors into virtual versions of familiar objects, such as the virtual lighter apps whose flame flickered and swayed as the phone moved.",
+      "source": "Axios — App-makers are having a blast with the iPhone Duo, turning it into a retro Walkman (2026-10-05)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Developers are finding ways to make the fold itself part of the software. The fo",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Developers are finding ways to make the fold itself part of the software. The four-hour San Francisco hackathon where Duo-Man was born produced 73 submitted Duo projects, ranging from games to music tools and a virtual pop-up book. Accorduo",
+      "source": "Axios — App-makers are having a blast with the iPhone Duo, turning it into a retro Walkman (2026-10-05)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Among the apps is Duo Man , a music player that turns the latest iPhone into a p",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Among the apps is Duo Man , a music player that turns the latest iPhone into a portable cassette player reminiscent of Sony's Walkman. Users open the Duo to choose an album and \"insert\" a cassette, then close it to start listening. Even the",
+      "source": "Axios — App-makers are having a blast with the iPhone Duo, turning it into a retro Walkman (2026-10-05)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-05T16:30:24+00:00"
+}
