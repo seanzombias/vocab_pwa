@@ -1,0 +1,59 @@
+{
+  "title": "Inside Trump's new AI playbook",
+  "url": "https://www.axios.com/2026/10/06/trump-ai-strategy-task-force",
+  "pub_date": "2026-10-06",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Inside Trump's new AI playbook (2026-10-06)",
+  "body": "President Trump's newly minted \"Super Intelligence\" task force faces a daunting mandate: reconcile fiercely divided cabinet factions to forge a tech policy that keeps pace with the blistering AI race. Why it matters: The task force brings the administration's scattered AI work under one roof, but it also makes it likely that any new rules will be forged in the crossfire of competing internal camps. In an interview, Task force co-chair Scott Kupor rejected the assertion that the administration is asleep at the wheel on AI policy, arguing that rigid, static legislation would risk becoming instantly obsolete. What they're saying : \"The worst thing for us to do would be to assume a static set of knowledge that allows us to put a regulatory schema in place that then has unintended consequences,\" said Kupor, a Silicon Valley veteran who is currently serving as director of the U.S. Office of Personnel Management, akin to an HR director for the federal government. \"Look, we live in D.C.,\" he said. \"There's nothing that's not political in this town. People have different views and that's totally fine. Our obligation is to demonstrate to the American people that this is good and also that we take the anxieties and the concerns seriously.\" \"At the end of the day there is no daylight between the president and anyone else, which is we need to win,\" he said. Kupor was the first employee hired by venture giant Andreessen Horowitz. Between the lines : The group's makeup highlights the competing fiefdoms driving Trump's AI strategy , with some working on model approval and coordination and others continuing to voice deep skepticism about pro-regulation forces in the industry. Treasury Secretary Scott Bessent and Trump Chief of Staff Susie Wiles have worked behind the scenes to encourage some oversight, including through the voluntary model-review process that already exists. Managed within the Commerce Department, the reviews have already been used for top models at Anthropic, OpenAI and now Google, sources tell Axios. On the other end of the spectrum, figures like David Sacks and the Pentagon's Emil Michael represent an approach that is wary of the potential for a slowdown in model development or new regulation to reduce competition for frontier companies. Jay Clayton, the director of national intelligence and the new AI czar , is expected to bring cohesion to the group's collective work, much as he does with the myriad intelligence agencies. The entire committee is set to operate under Trump's explicit marching orders: Innovation cannot be bottlenecked, and America must stay ahead while finding a safe path forward, Kupor said. Kupor suggested one outcome may be that AI regulation is divided among different federal agencies, although it is too early to know what the group — which will do its work over 120 days — will ultimately recommend to the president. His primary area of focus initially will be to seek input from stakeholders in the energy, manufacturing, security and financial services industries. Kupor said he expects Clayton will keep close tabs on the intelligence community and the committee will continue to stay in close touch with the AI companies. Zoom in: The administration is leaning hard into corporate self-policing to manage the risks. Kupor and other officials believe that third-party audits and direct reporting to corporate boards carry severe securities law implications that rival traditional government oversight. The bottom line: The task force's goal isn't to draft a bureaucratic \"PhD dissertation,\" in Kupor's words. But it remains to be seen whether streamlining existing efforts without new legislation will satisfy Americans who are increasingly anxious about AI safety.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The task force brings the administration's scattered AI work under one roof, but",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The task force brings the administration's scattered AI work under one roof, but it also makes it likely that any new rules will be forged in the crossfire of competing internal camps. In an interview, Task force co-chair Scott Kupor reject",
+      "source": "Axios — Inside Trump's new AI playbook (2026-10-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The administration is leaning hard into corporate self-policing to manage the ri",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The administration is leaning hard into corporate self-policing to manage the risks. Kupor and other officials believe that third-party audits and direct reporting to corporate boards carry severe securities law implications that rival trad",
+      "source": "Axios — Inside Trump's new AI playbook (2026-10-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The task force's goal isn't to draft a bureaucratic \"PhD dissertation,\" in Kupor",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The task force's goal isn't to draft a bureaucratic \"PhD dissertation,\" in Kupor's words. But it remains to be seen whether streamlining existing efforts without new legislation will satisfy Americans who are increasingly anxious about AI s",
+      "source": "Axios — Inside Trump's new AI playbook (2026-10-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-06T14:32:40+00:00"
+}
