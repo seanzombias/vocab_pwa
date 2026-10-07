@@ -1,0 +1,72 @@
+{
+  "title": "\"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT",
+  "url": "https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media",
+  "pub_date": "2026-10-07",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT (2026-10-07)",
+  "body": "Common Sense Media is urging OpenAI to keep teens off ChatGPT, saying its new teen experience poses an \"Unacceptable Risk\" after extensive testing found shortcomings in safeguards meant to protect younger users. Why it matters: OpenAI has made protecting younger users a central part of its effort to make ChatGPT safer, but the findings suggest some of those protections may give parents more confidence than they warrant. \"We welcome rigorous independent evaluation, but we do not believe Common Sense Media's testing accurately reflects how ChatGPT's teen safeguards work in practice,\" an OpenAI spokesperson said. Driving the news: Common Sense Media's Youth AI Safety Institute said it tested more than 4,000 prompts on accounts registered to 13- to 17-year-olds. The group found ChatGPT generally did not provide instructions facilitating suicide or self-harm, eating disorders or sexual or romantic roleplay, but said it was less reliable at recognizing when a teen needed outside help. Common Sense Media said ChatGPT missed more than one in four instances in which its testers determined a crisis referral was warranted. The group also said that on more than a dozen newly created, parent-linked accounts, testers could spend up to an hour discussing suicide, self-harm or disordered eating without triggering a parental alert. Common Sense also found that Study Mode could be circumvented: Teens could choose \"Show me the answer\" and, during parent-set Study Hours, could easily bypass the rules. OpenAI confirmed to Axios that the ability to exit Study Mode during Study Hours is intentional, not a loophole. The company said it designed Study Hours as a more flexible experience after consulting education experts and teens, rather than as a hard parental lock. What they're saying: \"ChatGPT is not safe for kids to use,\" Common Sense Media Youth Safety Institute head Tom Siegel told Axios. Siegel said that what the company announced in August still has the potential to be industry-leading, but gaps remain between what was promised and the current reality. \"It feels much more of a marketing announcement that really was not backed up with the engineering work.\" The other side: OpenAI says it has issues with Common Sense Media's methodology and findings. OpenAI says much of Common Sense's testing of parental alerts occurred before the parent and teen accounts had finished linking, a process the company says can take several hours. As for its age prediction system, OpenAI says it deliberately relies on multiple signals rather than simply accepting a user's stated age and can take up to two weeks to make a prediction. During that time, the company says users are given added content protection, though not as strong as the ones used in ChatGPT for Teens. On crisis referrals, OpenAI says its larger-scale data shows an increase in hotline resources being displayed to under-18 users during the period studied. Between the lines: Some of the disagreement reflects different ideas of what the safeguards are supposed to accomplish. Common Sense treats the ability to exit Study Hours as evidence that the parental control is ineffective; OpenAI says that flexibility is deliberate. Similarly, Common Sense's age test treats a user repeatedly identifying themselves as 13 without being moved into ChatGPT for Teens as a failure, while OpenAI says it intentionally requires multiple signals before making an age determination, while offering some strengthened protections during the time it is making its assessment. Bottom line: Siegel says parents need to have strong conversations about AI and its risks with their teenage children and find other ways to make sure they are getting support, whether it be for homework or the challenges of life. \"We just can't outsource taking care of our kids to a tech product that is very early on and still quite buggy,\" he said.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: OpenAI has made protecting younger users a central part of its effort to make Ch",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: OpenAI has made protecting younger users a central part of its effort to make ChatGPT safer, but the findings suggest some of those protections may give parents more confidence than they warrant. \"We welcome rigorous independent evaluation,",
+      "source": "Axios — \"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Common Sense Media's Youth AI Safety Institute said it tested more than 4,000 pr",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Common Sense Media's Youth AI Safety Institute said it tested more than 4,000 prompts on accounts registered to 13- to 17-year-olds. The group found ChatGPT generally did not provide instructions facilitating suicide or self-harm, eating di",
+      "source": "Axios — \"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Some of the disagreement reflects different ideas of what the safeguards are sup",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Some of the disagreement reflects different ideas of what the safeguards are supposed to accomplish. Common Sense treats the ability to exit Study Hours as evidence that the parental control is ineffective; OpenAI says that flexibility is d",
+      "source": "Axios — \"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"ChatGPT is not safe for kids to use,\" Common Sense Media Youth Safety Institute",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"ChatGPT is not safe for kids to use,\" Common Sense Media Youth Safety Institute head Tom Siegel told Axios. Siegel said that what the company announced in August still has the potential to be industry-leading, but gaps remain between what ",
+      "source": "Axios — \"Not safe for kids\": Advocacy group urges OpenAI to keep teens off ChatGPT (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-07T14:49:34+00:00"
+}

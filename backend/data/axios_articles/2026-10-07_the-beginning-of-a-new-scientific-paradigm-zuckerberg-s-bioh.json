@@ -1,0 +1,85 @@
+{
+  "title": "\"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell",
+  "url": "https://www.axios.com/2026/10/07/zuckerberg-biohub-ai-biology-data",
+  "pub_date": "2026-10-07",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell (2026-10-07)",
+  "body": "Mark Zuckerberg's Biohub is partnering with Google and the federal government in its ambitious effort to use AI for generating vast quantities of biological data that can predict how cells behave. Why it matters: The ultimate goal is an AI model that lets scientists test potential experiments virtually, helping them identify the most promising ones before spending the time and money to perform them in the lab. AI is capable of understanding proteins and other pieces of biology, but modeling an entire living cell is orders of magnitude more complex — and researchers don't yet have enough of the right data to do it. Driving the news: Biohub, the Department of Energy, the National Institutes of Health, Google DeepMind, Isomorphic Labs, Meta and a collection of scientific organizations are collaborating to create and standardize data for what Biohub calls a \"universal virtual cell.\" The big picture: The goal is to use AI to explore many more scientific questions in biology virtually, allowing scientists to reserve expensive lab work for experiments most likely to teach them something important. \"If we can put more and more reasoning and intelligence into every single question that we actually ask in the lab, the value of those empirical results will be far greater,\" Biohub head of science Alex Rives told Axios. Much of AI's recent progress has come from combining better algorithms, more computing power and enormous amounts of data. Biology presents an additional challenge: Much of the information AI needs doesn't exist yet and has to be painstakingly measured from the physical world. \"We're at the beginning of a new scientific paradigm with AI,\" Rives said. Yes, but: Biology is harder than many other AI domains because researchers need what Rives calls \"empirical AI\" — models that learn from biological evidence and can accurately predict what happens in the physical world. \"The big challenge in biology is to bridge that gap between compute and the digital world and the real physical world of biology and life,\" Rives said. \"The way to do that is through data.\" Such models could eventually help scientists investigate fundamental questions such as how aging and regeneration work — or medical questions such as which molecular mechanisms are responsible for Alzheimer's disease. How it works: The first phase will create a broad map of cellular biology, gathering different kinds of information about cells and how they respond to changes. Further out, Rives envisions models that could examine an individual's disease and predict its molecular causes and the best way to intervene. The intrigue: The commercial partners will have one year of exclusive access to the data they develop before it is shared publicly. Rives said the temporary advantage is intended to give companies a reason to contribute money while still ensuring the resulting data becomes an open scientific resource. \"We have to have some incentive for commercial players to be a part of this, and the embargo period creates that,\" Rives said. \"But it's a one-year embargo. So what that means is that very rapidly, data becomes available broadly to scientific efforts.\" Zoom in: The effort involves $1.8 billion in funding, data, computing and measurement technology. DOE plans to invest more than $500 million over five years in biological measurement, modeling and computing, while NIH is bringing datasets and other resources resulting from more than $500 million in previous federal investment. Google DeepMind, Isomorphic Labs and Meta are collectively investing another $300 million, while Biohub previously committed $500 million to the effort. Flashback: When Biohub announced its initial $500 million effort in April, Rives told Axios one of the biggest unanswered questions was whether cellular biology would exhibit the same kind of \"scaling laws\" seen elsewhere in AI — with models becoming predictably better as they are trained on increasing amounts of data. What we're watching: Rives thinks researchers won't have to wait particularly long to find out whether the bet is working. Within a year of having the first large-scale dataset, he said, researchers should be able to train models, measure their capabilities and determine which kinds of additional biological data make them better. \"It's worked in every field, and it works in biology too,\" Rives said, pointing to AI's progress in protein biology.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The ultimate goal is an AI model that lets scientists test potential experiments",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The ultimate goal is an AI model that lets scientists test potential experiments virtually, helping them identify the most promising ones before spending the time and money to perform them in the lab. AI is capable of understanding proteins",
+      "source": "Axios — \"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Biohub, the Department of Energy, the National Institutes of Health, Google Deep",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Biohub, the Department of Energy, the National Institutes of Health, Google DeepMind, Isomorphic Labs, Meta and a collection of scientific organizations are collaborating to create and standardize data for what Biohub calls a \"universal vir",
+      "source": "Axios — \"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: When Biohub announced its initial $500 million effort in April, Rives told Axios",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: When Biohub announced its initial $500 million effort in April, Rives told Axios one of the biggest unanswered questions was whether cellular biology would exhibit the same kind of \"scaling laws\" seen elsewhere in AI — with models becoming ",
+      "source": "Axios — \"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The effort involves $1.8 billion in funding, data, computing and measurement tec",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The effort involves $1.8 billion in funding, data, computing and measurement technology. DOE plans to invest more than $500 million over five years in biological measurement, modeling and computing, while NIH is bringing datasets and other ",
+      "source": "Axios — \"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The commercial partners will have one year of exclusive access to the data they",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The commercial partners will have one year of exclusive access to the data they develop before it is shared publicly. Rives said the temporary advantage is intended to give companies a reason to contribute money while still ensuring the res",
+      "source": "Axios — \"The beginning of a new scientific paradigm\": Zuckerberg's Biohub, U.S. and Google build virtual cell (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-07T14:49:34+00:00"
+}

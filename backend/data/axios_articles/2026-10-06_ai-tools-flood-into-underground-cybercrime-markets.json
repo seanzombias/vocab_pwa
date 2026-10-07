@@ -1,0 +1,59 @@
+{
+  "title": "AI tools flood into underground cybercrime markets",
+  "url": "https://www.axios.com/2026/10/06/ai-cybercrime-hacker-tools-marketplace",
+  "pub_date": "2026-10-06",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI tools flood into underground cybercrime markets (2026-10-06)",
+  "body": "Hackers in underground cybercriminal forums are on shopping sprees for new AI tools , according to research shared first with Axios. Why it matters: AI is making once-specialized hacking capabilities cheaper and easier to buy, potentially transforming far more criminals into dangerous hackers. By the numbers: Advertisements for AI tools on underground forums and platforms surged from fewer than 50 per month in late 2025 to more than 1,400 by February, according to a report from Halcyon's Ransomware Research Center. Sellers offered access to ChatGPT Plus accounts for as little as 10 cents and jailbreak prompts to trick models into breaking their safeguards for 32 cents, per the research. Halcyon studied nearly 4,000 posts across 77 Telegram channels, 20 dark web forums and five specialized underground markets between October and May. Threat level: Companies are already losing millions of dollars to the types of cyberattacks enabled by the tools found on these underground markets. \"It really goes to show you how cheap it is to conduct these activities ... which should be scary for organizations,\" Cynthia Kaiser, head of Halcyon's Ransomware Research Center and former deputy director of FBI Cyber, told Axios. The big picture: Cybercriminals have completely commercialized the sale and creation of these tools, often modeling software-as-a-service subscription models and online storefronts, per the report. Some sellers are now offering AI tools they tested and promoted on traditional dark web forums through easier-to-manage storefronts hosted on Telegram. \"It shouldn't have been shocking to me,\" Kaiser said. \"But what we should take away from this is also how much cybercriminals have learned throughout the years about how to sell and package — and they applied this really quickly to the AI models.\" Zoom in: Hackers are selling four types of AI tools: Jailbroken and stolen AI services, including prompts that allow users to strip the safety guardrails from mainstream models for as little as $10. Identity fraud and phishing tools that make impersonating real people quick and easy. Access to models trained on malicious data to aid cybercrime, such as the popular WormGPT that's designed to write phishing emails and malware. AI-augmented malware and infrastructure, including a system that can call as many as 120 people at once as part of a scam operation. Flashback: In 2023, hackers could only tap a handful of one-off tools. Now, there's a robust marketplace. Still, AI is largely helping criminals perform discrete elements of existing attacks more cheaply and efficiently, Kaiser said. \"What you're not seeing for sale is an agent that does it all for you and has this amazing success rate,\" she said. What to watch: Halcyon didn't find evidence of criminals selling AI systems capable of running fully autonomous cyberattacks. Even in AI-enabled malware and infrastructure, Kaiser said, much of what researchers are seeing involves coding assistance, infrastructure and other individual tasks rather than AI creating and deploying malware on its own. Go deeper : Rogue AI agents expose internet's frail foundation",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI is making once-specialized hacking capabilities cheaper and easier to buy, po",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI is making once-specialized hacking capabilities cheaper and easier to buy, potentially transforming far more criminals into dangerous hackers. By the numbers: Advertisements for AI tools on underground forums and platforms surged from fe",
+      "source": "Axios — AI tools flood into underground cybercrime markets (2026-10-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: In 2023, hackers could only tap a handful of one-off tools. Now, there's a robus",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: In 2023, hackers could only tap a handful of one-off tools. Now, there's a robust marketplace. Still, AI is largely helping criminals perform discrete elements of existing attacks more cheaply and efficiently, Kaiser said. \"What you're not ",
+      "source": "Axios — AI tools flood into underground cybercrime markets (2026-10-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Hackers are selling four types of AI tools: Jailbroken and stolen AI services, i",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Hackers are selling four types of AI tools: Jailbroken and stolen AI services, including prompts that allow users to strip the safety guardrails from mainstream models for as little as $10. Identity fraud and phishing tools that make impers",
+      "source": "Axios — AI tools flood into underground cybercrime markets (2026-10-06)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-07T14:49:34+00:00"
+}
