@@ -1,0 +1,72 @@
+{
+  "title": "Exclusive: Inside Trump's AI science summit",
+  "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
+  "pub_date": "2026-10-07",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Inside Trump's AI science summit (2026-10-07)",
+  "body": "President Trump will attend a summit Thursday meant to empower scientists and position the U.S. as a leader in breakthroughs driven by \"super intelligence,\" according to an announcement shared first with Axios. Why it matters: The Trump administration is looking for industry to step in amid its cuts to government funding for science research and development. Driving the news: The White House is announcing more than $1 billion in industry commitments for the Genesis Mission from AMD, OpenAI, Anthropic and others. The White House is also announcing a compute hub of more than 14 institutions across 10 southeast states, and a $1 billion investment in Georgia for student and faculty compute access. The National Science Foundation and the Energy Department will invest more than $100 million in AI-driven science tools. Leading scientists and \"innovators\" will attend the summit, the White House says. Zoom in: The summit was inspired by a July report from White House Office of Science and Technology Policy Director Michael Kratsios. It highlights industry's increasing role in driving research and development, plus new mechanisms for funding and organizing research. Catch up quick: Trump last November launched the Genesis Mission, which sets ambitious deadlines to accelerate scientific discovery. In July, the White House announced that the effort would be expanded to more than 15 federal agencies. Last week, the White House held another AI summit that focused on the rollout of America.gov, which aims to streamline government services using AI.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The Trump administration is looking for industry to step in amid its cuts to gov",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The Trump administration is looking for industry to step in amid its cuts to government funding for science research and development.",
+      "source": "Axios — Exclusive: Inside Trump's AI science summit (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The White House is announcing more than $1 billion in industry commitments for t",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The White House is announcing more than $1 billion in industry commitments for the Genesis Mission from AMD, OpenAI, Anthropic and others. The White House is also announcing a compute hub of more than 14 institutions across 10 southeast sta",
+      "source": "Axios — Exclusive: Inside Trump's AI science summit (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Trump last November launched the Genesis Mission, which sets ambitious deadlines",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Trump last November launched the Genesis Mission, which sets ambitious deadlines to accelerate scientific discovery. In July, the White House announced that the effort would be expanded to more than 15 federal agencies. Last week, the White",
+      "source": "Axios — Exclusive: Inside Trump's AI science summit (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The summit was inspired by a July report from White House Office of Science and",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The summit was inspired by a July report from White House Office of Science and Technology Policy Director Michael Kratsios. It highlights industry's increasing role in driving research and development, plus new mechanisms for funding and o",
+      "source": "Axios — Exclusive: Inside Trump's AI science summit (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-08T15:00:08+00:00"
+}

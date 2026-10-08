@@ -1,0 +1,50 @@
+{
+  "title": "Microsoft looks to reboot the AI PC with Nvidia",
+  "url": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia",
+  "pub_date": "2026-10-07",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Microsoft looks to reboot the AI PC with Nvidia (2026-10-07)",
+  "body": "Microsoft on Wednesday unveiled a new class of Nvidia-powered Windows laptops, its latest effort to tie the operating system more closely to the AI boom. Why it matters: Microsoft is trying to carve out a high-end laptop category for people who want to run demanding AI workloads locally, rather than rely entirely on the cloud. Driving the news: Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang and former White House AI official Sriram Krishnan were on hand in San Francisco as the company officially launched Microsoft Surface Ultra, a high-end laptop powered by Nvidia's RTX Spark chip that starts at $2,599. \"We have reinvented the computer as we know it,\" Huang said. Microsoft previewed the laptop back in June but left out key details around price and exact availability. It said at the time that Nvidia-powered devices would also be coming from the likes of Asus, Dell, HP and Lenovo, among others. Those devices, and the Surface Ultra, will be available starting Oct. 16. On the software side, Microsoft unveiled a version of Copilot that can work using local models alongside those in the cloud, and the company also announced that Meta is bringing its Muse personal agent to Windows. The big picture: Microsoft's first push into AI-powered Windows machines, known as Copilot+ PCs, got off to a rocky start after the delay of Recall, its signature feature. Between the lines: Microsoft's pitch for on-device AI is that developers' appetite exceeds their companies' AI budgets, with the ideal being an approach that uses both frontier models in the cloud and local models when they can be effective. \"Hybrid intelligence exists because people's appetite for intelligence is effectively unlimited,\" Microsoft executive VP Pavan Davuluri said. And before it even got to the hardware, Microsoft spent a fair bit of time outlining how it is making Windows more secure, ensuring that agents' actions are separated from those taken by humans and remain within preset limits.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Microsoft is trying to carve out a high-end laptop category for people who want",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Microsoft is trying to carve out a high-end laptop category for people who want to run demanding AI workloads locally, rather than rely entirely on the cloud.",
+      "source": "Axios — Microsoft looks to reboot the AI PC with Nvidia (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang and former White House AI o",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang and former White House AI official Sriram Krishnan were on hand in San Francisco as the company officially launched Microsoft Surface Ultra, a high-end laptop powered by Nvidia's RTX Spar",
+      "source": "Axios — Microsoft looks to reboot the AI PC with Nvidia (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Microsoft's pitch for on-device AI is that developers' appetite exceeds their co",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Microsoft's pitch for on-device AI is that developers' appetite exceeds their companies' AI budgets, with the ideal being an approach that uses both frontier models in the cloud and local models when they can be effective. \"Hybrid intellige",
+      "source": "Axios — Microsoft looks to reboot the AI PC with Nvidia (2026-10-07)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-08T15:00:08+00:00"
+}
