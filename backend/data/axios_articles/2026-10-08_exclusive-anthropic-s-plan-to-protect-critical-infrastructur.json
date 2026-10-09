@@ -1,0 +1,59 @@
+{
+  "title": "Exclusive: Anthropic's plan to protect critical infrastructure",
+  "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
+  "pub_date": "2026-10-08",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Anthropic's plan to protect critical infrastructure (2026-10-08)",
+  "body": "Anthropic is launching a new cybersecurity initiative designed to bring its most powerful AI models and engineers to companies protecting power grids, water utilities and other critical infrastructure, the company first shared with Axios. Why it matters: Critical infrastructure operators are struggling to secure aging, complex systems as AI threatens to make cyberattacks faster and cheaper to execute. Driving the news: Under its new Critical Infrastructure Defense Program, Anthropic will provide its frontier AI models, on-site engineers and threat research to companies already responsible for securing critical infrastructure systems. Participating companies will use these resources to identify and fix vulnerabilities in their customers' systems. The program's founding partners include Accenture, Booz Allen Hamilton, CrowdStrike, Deloitte, Dragos, Hitachi, Insane Cyber, Nozomi Networks, Palo Alto Networks, PwC and Rockwell Automation. Anthropic said several partners are already using Claude to fix vulnerabilities and help customers do the same. Zoom in: Anthropic is also launching a free AI-powered vulnerability scanning service for open-source software projects, called OSS Scanner. Participating projects will receive periodic scans from Claude, along with automated reports detailing vulnerabilities, how they could be exploited and suggested fixes. The reports won't undergo human review before being sent to software maintainers, meaning some findings could be inaccurate. The big picture: Anthropic, OpenAI and other AI developers are looking for ways to put their most powerful models in the hands of cyber defenders as hackers gain access to similar capabilities . Anthropic's new initiative builds on lessons from Project Glasswing, which gave vetted organizations access to its most capable AI models to identify security vulnerabilities. The company said the project demonstrated how quickly AI can uncover vulnerabilities, but also how difficult it remains to verify and fix them. Yes, but: It's unclear how participating companies will safely test and deploy fixes without disrupting utilities' operations, one of the biggest challenges in securing critical infrastructure. Anthropic also didn't specify whether partners will receive free model access or who will cover the computing costs associated with using its AI tools. Go deeper : AI is supercharging hacks of everyday utilities",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Critical infrastructure operators are struggling to secure aging, complex system",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Critical infrastructure operators are struggling to secure aging, complex systems as AI threatens to make cyberattacks faster and cheaper to execute.",
+      "source": "Axios — Exclusive: Anthropic's plan to protect critical infrastructure (2026-10-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Under its new Critical Infrastructure Defense Program, Anthropic will provide it",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Under its new Critical Infrastructure Defense Program, Anthropic will provide its frontier AI models, on-site engineers and threat research to companies already responsible for securing critical infrastructure systems. Participating compani",
+      "source": "Axios — Exclusive: Anthropic's plan to protect critical infrastructure (2026-10-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Anthropic is also launching a free AI-powered vulnerability scanning service for",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Anthropic is also launching a free AI-powered vulnerability scanning service for open-source software projects, called OSS Scanner. Participating projects will receive periodic scans from Claude, along with automated reports detailing vulne",
+      "source": "Axios — Exclusive: Anthropic's plan to protect critical infrastructure (2026-10-08)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-09T14:44:36+00:00"
+}

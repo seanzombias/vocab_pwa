@@ -1,0 +1,61 @@
+{
+  "title": "AI vs. the rest of the economy",
+  "url": "https://www.axios.com/2026/10/09/ai-stocks-economy-bonds",
+  "pub_date": "2026-10-09",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — AI vs. the rest of the economy (2026-10-09)",
+  "body": "Data: U.S. Bureau of Labor Statistics, FactSet; Chart: Axios/Matt Phillips; Note: Data center construction includes construction costs, such as labor, materials, profits of contractors, architectural and engineering work and miscellaneous overhead, interest and taxes. Does not include servers, racks, chips or memory. More and more, it seems as if there's the AI economy — and everything else. Why it matters: The growing chasm between the breakneck growth of the AI world and the slower pace of the economy where most Americans work and live has huge implications, especially for the markets. Zoom in: The most recent numbers on U.S. construction spending through August — shown above — paint the picture remarkably clearly. Zoom out: The same divide is an important theme in the markets as well. In corporate bonds, AI-related offerings accounted for more than half of net investment grade issuance for the year through the end of August, according to data from Apollo and Bloomberg. Data: Apollo, Bloomberg; Chart: Axios/Matt Phillips And of course, excitement over all things related to AI has supercharged the market values of Nvidia, the hyperscalers and other AI-related tech stocks. Stunning stat: The weighting of the S&P 500 technology sector in terms of market capitalization is now roughly 40%. That's higher than during the peak of the dot-com bubble. But that actually underplays the impact of AI. If you throw in the hyperscalers Meta and Amazon, which S&P doesn't include in the tech sector, the share of the AI-pilled part of the blue-chip index climbs closer to 50%. Data: FactSet, Axios; Chart: Axios/Matt Phillips The bottom line: The growth gap between AI and everything else means the U.S. economy and the markets are increasingly yoked to AI — and all the risks that come with it.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The growing chasm between the breakneck growth of the AI world and the slower pa",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The growing chasm between the breakneck growth of the AI world and the slower pace of the economy where most Americans work and live has huge implications, especially for the markets.",
+      "source": "Axios — AI vs. the rest of the economy (2026-10-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The same divide is an important theme in the markets as well. In corporate bonds",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The same divide is an important theme in the markets as well. In corporate bonds, AI-related offerings accounted for more than half of net investment grade issuance for the year through the end of August, according to data from Apollo and B",
+      "source": "Axios — AI vs. the rest of the economy (2026-10-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The most recent numbers on U.S. construction spending through August — shown abo",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The most recent numbers on U.S. construction spending through August — shown above — paint the picture remarkably clearly.",
+      "source": "Axios — AI vs. the rest of the economy (2026-10-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The growth gap between AI and everything else means the U.S. economy and the mar",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The growth gap between AI and everything else means the U.S. economy and the markets are increasingly yoked to AI — and all the risks that come with it.",
+      "source": "Axios — AI vs. the rest of the economy (2026-10-09)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-09T14:44:36+00:00"
+}

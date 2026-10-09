@@ -1,0 +1,50 @@
+{
+  "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+  "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
+  "pub_date": "2026-10-08",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it (2026-10-08)",
+  "body": "President Trump on Thursday called anyone who uses \"Artificial Intelligence\" instead of \"Super Intelligence\" \"THE ENEMY!\" — even as the White House continues using the term \"AI.\" Why it matters: Trump's push to rebrand AI as \"super intelligence\" clashes with established terminology in the technology industry. Trump's branding blurs the distinction between AI and super intelligence , a hypothetical version of AI more advanced than human intelligence. What they're saying: \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super Intelligence,' THE ENEMY!\" Trump wrote on Truth Social Thursday. Zoom out: Trump's executive order from September doubled down on using \"SI\" over \"AI,\" though it did not offer a penalty for using the term. The order specifically defines \"Super Intelligence\" using the existing federal legal definition of AI. The order calls on federal agencies to change how they describe AI in official communications. The State Department already ordered diplomats to use the term after Trump's United Nations speech on Sept. 22. Yes, but: The White House still uses \"AI\" as a term, including on its AI-focused website, AI.gov . The White House's Office of Science and Technology Policy also makes reference to \"artificial intelligence.\" But when an Axios reporter asked the America.gov chatbot about AI, the bot responded: \"The executive branch uses Super Intelligence (SI) for this topic, not the older term you used.\" What we're watching: Whether the White House could update its websites to reflect Trump's preferred terminology. The White House did not respond to Axios' request for comment Thursday.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Trump's push to rebrand AI as \"super intelligence\" clashes with established term",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Trump's push to rebrand AI as \"super intelligence\" clashes with established terminology in the technology industry. Trump's branding blurs the distinction between AI and super intelligence , a hypothetical version of AI more advanced than h",
+      "source": "Axios — Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it (2026-10-08)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Trump's executive order from September doubled down on using \"SI\" over \"AI,\" tho",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Trump's executive order from September doubled down on using \"SI\" over \"AI,\" though it did not offer a penalty for using the term. The order specifically defines \"Super Intelligence\" using the existing federal legal definition of AI. The or",
+      "source": "Axios — Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it (2026-10-08)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"The White House considers anyone that uses the term, 'Artificial Intelligence,'",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super Intelligence,' THE ENEMY!\" Trump wrote on Truth Social Thursday.",
+      "source": "Axios — Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it (2026-10-08)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-09T14:44:36+00:00"
+}
