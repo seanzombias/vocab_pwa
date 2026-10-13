@@ -1,0 +1,72 @@
+{
+  "title": "A golden age of corporate profits",
+  "url": "https://www.axios.com/2026/10/13/earnings-3q-ai-stocks",
+  "pub_date": "2026-10-13",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — A golden age of corporate profits (2026-10-13)",
+  "body": "Data: U.S. Bureau of Economic Analysis, FactSet; Chart: Axios/Matt Phillips; Note: After-tax profit data includes inventory and capital depreciation adjustments. Corporate America is raking in record profits, luxuriating in luscious margins and capturing the largest chunk of the country's income on record. Why it matters: The corporate bonanza is bolstering the stock market, but it may also be playing a role in the persistently sour sentiment among the American electorate. The latest: Tuesday is the unofficial start of third-quarter earnings season as JPMorgan Chase, Goldman Sachs and others report results. Zoom in: Wall Street expects the members of the blue-chip S&P 500 index to continue to make it rain. Third-quarter earnings per share are expected to grow roughly 29% for the index, compared with the quarter in 2025, according to estimate data collected by FactSet. That's after a massive 50% annual increase in second-quarter earnings that was supercharged by the giant, non-operating gains on valuations of tech investments reported by Amazon and Alphabet. (Amazon, for example, penciled in its stake in Anthropic as boosting its profit by more than $50 billion.) But even without those enormous gains, the numbers were quite strong, thanks to the AI boom that analysts expect to keep powering giant profits. What they're saying: The market is still all about AI, but the gains are extremely concentrated . \"At the stock level, AI infrastructure stocks are expected to drive more than half of S&P 500 EPS growth in Q3,\" wrote Ben Snider, chief U.S. equity analyst with Goldman Sachs. Snider noted that more than two-thirds of the total growth in S&P 500 earnings for the quarter is expected to come from just 10 stocks. What's more, Micron Technology and Nvidia alone are expected to generate more than one-third of the growth in earnings for the blue chips, Snider wrote. The big picture: Broader measures of U.S. corporate profitability captured by economic — rather than stock market — data also seem to show remarkable strength. For the economy as a whole, after-tax corporate profits in Q2 jumped 18.2% compared with the same quarter of 2025. And key measures of corporate profit margins across the entire U.S. economy are some of the fattest on record. Data: FactSet, U.S. Bureau of Economic Analysis; Chart: Axios/Matt Phillips; Note: After-tax U.S. corporate profits, including inventory and capital consumption adjustments as a share of gross value added of U.S. corporate business. Reflects profits made within the U.S.; does not include profits produced overseas. The other side: Boom times for corporate America have a flip side, however, with the so-called labor share of national income collapsing to some of the lowest levels on record. The labor share tells you what percentage of the giant paycheck produced by the U.S. economy goes to workers in the form of wages and benefits, rather than to corporate profits, dividends, rents and interest paid to other economic actors, commonly summarized as \"capital.\" The bottom line: That decline helps explain the persistently sour mood of the American public toward the economy and its deep skepticism toward the AI boom that's producing this bonanza for American corporations.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The corporate bonanza is bolstering the stock market, but it may also be playing",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The corporate bonanza is bolstering the stock market, but it may also be playing a role in the persistently sour sentiment among the American electorate. The latest: Tuesday is the unofficial start of third-quarter earnings season as JPMorg",
+      "source": "Axios — A golden age of corporate profits (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Wall Street expects the members of the blue-chip S&P 500 index to continue to ma",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Wall Street expects the members of the blue-chip S&P 500 index to continue to make it rain. Third-quarter earnings per share are expected to grow roughly 29% for the index, compared with the quarter in 2025, according to estimate data colle",
+      "source": "Axios — A golden age of corporate profits (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: The market is still all about AI, but the gains are extremely concentrated . \"At",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: The market is still all about AI, but the gains are extremely concentrated . \"At the stock level, AI infrastructure stocks are expected to drive more than half of S&P 500 EPS growth in Q3,\" wrote Ben Snider, chief U.S. equity analyst with G",
+      "source": "Axios — A golden age of corporate profits (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: That decline helps explain the persistently sour mood of the American public tow",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: That decline helps explain the persistently sour mood of the American public toward the economy and its deep skepticism toward the AI boom that's producing this bonanza for American corporations.",
+      "source": "Axios — A golden age of corporate profits (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-13T15:20:53+00:00"
+}
