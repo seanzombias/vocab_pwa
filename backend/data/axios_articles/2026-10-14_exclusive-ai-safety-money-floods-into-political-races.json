@@ -1,0 +1,85 @@
+{
+  "title": "Exclusive: AI safety money floods into political races",
+  "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+  "pub_date": "2026-10-14",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Exclusive: AI safety money floods into political races (2026-10-14)",
+  "body": "Advocates for AI safety and regulation are emerging as a force in U.S. elections, spending nearly $50 million this election cycle on candidates who favor regulation, a new analysis shared exclusively with Axios shows. Why it matters: The safety spending points to the unusual power dynamics in the AI race, where researchers shape policy and regulation in ways that differ at times from the priorities of the companies where they work. The researchers add to the advocacy and giving of an array of AI safety groups that have been well-funded for years, including from Coefficient Giving, a philanthropy with close ties to many top AI executives, especially at Anthropic. Driving the news: AI safety groups and individual donors have spent $48 million this cycle on Democratic and Republican races, according to new figures shared first with Axios. That includes donations from researchers, such as OpenAI's Juan Felipe Cerón Uribe and Redwood's Aryan Bhatt. It also includes Guardrails Alliance, a tech-worker backed AI safety group, which has raised $11.7 million between its super PAC and 501(c)(4). The big picture: Taking AI industry money has grown complicated due to viral warnings of catastrophic AI risk from the very same industry developing it and data center NIMBYism mobilizing communities in blue and red districts alike. OpenAI President Greg Brockman pulled a planned second $25 million donation from Leading the Future, a super PAC backed by tech execs and investors, in part because of an internal revolt at OpenAI. Forces favoring AI acceleration — who earlier in the year appeared to favor veiled threats to pro-regulation candidates — haven't spent as much as opponents expected, and safety advocates see an opportunity to fill the void. Zoom in: Jacob Eliosoff, who runs the cryptocurrency investment fund Calibrated Markets, said he decided to engage in political giving related to AI after he saw early fundraising and candidate advocacy from Leading the Future. Eliosoff, an active participant in New York's effective altruism community, said he didn't want to see a repeat of 2024, where crypto industry funding had outsized influence on the regulatory positions of most candidates. \"If politicians feel like they can't say anything because there's a very deep-pocketed and ruthless political entity that's going to go after them, that motivates me to step in,\" Eliosoff said. Between the lines: Eliosoff has donated to Democrats and Republicans who he says appear to be open to taking AI risks seriously and could be well positioned to pass regulation. Donors told Axios they are not primarily motivated by party affiliation or specific policy positions but by fears that industry spending will silence candidates on an unpopular technology. The other side: Leading the Future had retained more than $31 million at the end of the second quarter and has supported more than 15 Democrats and more than 25 Republicans. In a statement, the group said AI regulation will need 60 votes to pass in the Senate, so anyone serious about safety \"and harnessing the benefits of AI for all Americans should be focused on building a broad coalition for action.\" What's next: This cycle will be a test of whether candidates who take AI industry money and oppose real regulation lose and whether that is clearly understood as a central factor in their loss, Guardrails Alliance Executive Director Shaunna Thomas said. \"Republican leadership and the Trump administration are on the other side of the majority of Americans on AI,\" Thomas said. \"That's a very important place for Democrats to be stepping into – boldly.\" Yes, but: Guardrails faces pushback from some Democrats who warn its strategy, which includes opposing some Democrats, could help elect Republicans less inclined to regulate AI. The bottom line: Trump allies have opened a new front against Anthropic and safety advocates affiliated with the EA movement, but their political giving — as well as the insistence of AI insiders — shows that the political clout of pro-safety AI advocacy is set to grow.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The safety spending points to the unusual power dynamics in the AI race, where r",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The safety spending points to the unusual power dynamics in the AI race, where researchers shape policy and regulation in ways that differ at times from the priorities of the companies where they work. The researchers add to the advocacy an",
+      "source": "Axios — Exclusive: AI safety money floods into political races (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: AI safety groups and individual donors have spent $48 million this cycle on Demo",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: AI safety groups and individual donors have spent $48 million this cycle on Democratic and Republican races, according to new figures shared first with Axios. That includes donations from researchers, such as OpenAI's Juan Felipe Cerón Urib",
+      "source": "Axios — Exclusive: AI safety money floods into political races (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Jacob Eliosoff, who runs the cryptocurrency investment fund Calibrated Markets,",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Jacob Eliosoff, who runs the cryptocurrency investment fund Calibrated Markets, said he decided to engage in political giving related to AI after he saw early fundraising and candidate advocacy from Leading the Future. Eliosoff, an active p",
+      "source": "Axios — Exclusive: AI safety money floods into political races (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Eliosoff has donated to Democrats and Republicans who he says appear to be open",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Eliosoff has donated to Democrats and Republicans who he says appear to be open to taking AI risks seriously and could be well positioned to pass regulation. Donors told Axios they are not primarily motivated by party affiliation or specifi",
+      "source": "Axios — Exclusive: AI safety money floods into political races (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Trump allies have opened a new front against Anthropic and safety advocates affi",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Trump allies have opened a new front against Anthropic and safety advocates affiliated with the EA movement, but their political giving — as well as the insistence of AI insiders — shows that the political clout of pro-safety AI advocacy is",
+      "source": "Axios — Exclusive: AI safety money floods into political races (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-14T13:08:26+00:00"
+}

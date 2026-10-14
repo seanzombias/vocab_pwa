@@ -1,0 +1,61 @@
+{
+  "title": "AI's extreme heat challenge is moving from prediction to protection",
+  "url": "https://www.axios.com/2026/10/14/ai-extreme-heat-weather-forecast-protection",
+  "pub_date": "2026-10-14",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — AI's extreme heat challenge is moving from prediction to protection (2026-10-14)",
+  "body": "Cities and researchers are using AI to map and predict extreme heat risk, but new research suggests it's used far more to identify where people are in danger than to help officials respond. Why it matters: As climate change intensifies extreme heat, better predictions won't protect vulnerable communities unless governments can turn them into action. U.S. deaths associated with high temperatures rose 53% from an annual average of 2,670 in 2000–2009 to more than 4,000 in 2010–2020, according to a 2025 Yale study . Driving the news: A study published in Climate Risk Management examined existing research on how AI and machine learning are being used to manage extreme heat. Of the research papers reviewed, 98.4% focused on prediction and 59.2% on prevention. That's compared with just 10.4% on response, 3.2% on recovery and 1.6% on preparedness — a disparity the authors call a \"research-to-implementation gap.\" The research is heavily focused on using AI to forecast dangerous heat and identify who's at risk, with far less attention on how it can help officials decide what to do next. \"Where AI can actually add value is where prediction is central to the decision-making, and that's in scale or providing more granularity,\" said Karishma V. Patel, a RAND policy researcher who co-authored the study. State of play: Turning sophisticated heat predictions into government action requires more than advanced models. Cornell researcher Jennah Gosciak told Axios that having \"robust data systems\" that can ingest data from a variety of sources and then make it usable to practitioners \"is most of the battle here.\" Case in point: Google in June announced it had expanded its AI-powered Heat Resilience data from an initial 14-city pilot to more than 50 cities worldwide, giving urban planners building-level data to help target heat interventions. The data uses AI and high-resolution imagery to map roof reflectivity down to individual buildings. Google said data from the pilots helped inform decisions in several cities, including cool-roof ordinances and adaptation plans. Reality check: Better information doesn't necessarily equal better outcomes. Gosciak, who spent time as a Public Interest Technology Fellow with New York City Emergency Management, recently compared simpler heat-vulnerability indexes with more complex predictive algorithms for government heat decisions. She described one important distinction as \"slow versus fast data.\" Predictive algorithms may be more useful for time-sensitive decisions \"tied to a specific trigger event,\" while simpler indexes can be better suited to longer-term planning. One advantage of simpler indexes is that officials can explicitly choose which vulnerable populations to prioritize, added Gosciak, a PhD student in Cornell's Information Science Department. What's next: The next frontier may be less about making heat forecasts incrementally better and more about connecting predictions to interventions. AI's value could lie in helping officials make \"near real-time decisions\" by integrating changing signals and providing \"hyperlocal forecasting at granular levels,\" Patel said. That could help officials respond to heat risks in real time and better understand compound threats involving heat, air pollution, wildfire smoke and drought, she said. The bottom line: \"What is important is not just that we can build AI-enabled technology, but it actually solves a problem or removes a bottleneck,\" Patel said.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: As climate change intensifies extreme heat, better predictions won't protect vul",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: As climate change intensifies extreme heat, better predictions won't protect vulnerable communities unless governments can turn them into action. U.S. deaths associated with high temperatures rose 53% from an annual average of 2,670 in 2000",
+      "source": "Axios — AI's extreme heat challenge is moving from prediction to protection (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: A study published in Climate Risk Management examined existing research on how A",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: A study published in Climate Risk Management examined existing research on how AI and machine learning are being used to manage extreme heat. Of the research papers reviewed, 98.4% focused on prediction and 59.2% on prevention. That's compa",
+      "source": "Axios — AI's extreme heat challenge is moving from prediction to protection (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"What is important is not just that we can build AI-enabled technology, but it a",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"What is important is not just that we can build AI-enabled technology, but it actually solves a problem or removes a bottleneck,\" Patel said.",
+      "source": "Axios — AI's extreme heat challenge is moving from prediction to protection (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Better information doesn't necessarily equal better outcomes. Gosciak, who spent",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Better information doesn't necessarily equal better outcomes. Gosciak, who spent time as a Public Interest Technology Fellow with New York City Emergency Management, recently compared simpler heat-vulnerability indexes with more complex pre",
+      "source": "Axios — AI's extreme heat challenge is moving from prediction to protection (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-14T13:08:26+00:00"
+}

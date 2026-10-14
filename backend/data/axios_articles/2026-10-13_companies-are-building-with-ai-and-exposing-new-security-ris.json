@@ -1,0 +1,72 @@
+{
+  "title": "Companies are building with AI — and exposing new security risks",
+  "url": "https://www.axios.com/2026/10/13/censys-ai-vibe-coding-exposures",
+  "pub_date": "2026-10-13",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Companies are building with AI — and exposing new security risks (2026-10-13)",
+  "body": "The amount of AI-related infrastructure exposed to the public internet jumped 63% in nine months, according to new Censys data shared first with Axios. Why it matters: The AI boom isn't just creating new models and chatbots. It's creating a sprawling layer of software that companies will also need to inventory, patch and secure. Threat level: Many of these tools connect AI applications to sensitive corporate data and other services, creating potential entry points for hackers looking to access company systems. \"It's a little bit beyond just like the tool itself, but these [tools] talk to some really sensitive systems,\" Emily Austin, a principal researcher at Censys and co-author of the report, told Axios. The big picture: Censys identified nearly 268,000 internet-facing systems running 44 different AI-related products as of July, up from roughly 164,000 in October 2025. These include the software used to connect AI models to databases, corporate applications and other services. Between the lines: The ease of building and hosting AI applications is making it harder for companies to keep track of what software employees are using and whether it's secure. Censys CEO Zakir Durumeric told Axios that companies were already struggling to keep track of their existing software even before employees started building their own AI applications. These new AI apps can often connect to sensitive company information, such as emails, financial records and internal databases. Zoom in: The most widely exposed product was n8n, a workflow automation platform that can connect AI agents to other applications and services. Censys found nearly 114,000 internet-facing deployments of n8n, including roughly 77,000 running software versions affected by at least one recently disclosed critical vulnerability. Researchers also found more than 54,000 exposed control panels for OpenClaw, an open-source AI agent that users can connect to personal accounts and other services. Yes, but: The findings don't establish whether those deployments are actually vulnerable to exploitation, but they highlight the risks of exposing software that can access sensitive company systems. The bottom line: Companies need to treat AI infrastructure like any other software they deploy, Austin said, including regularly reviewing, updating and securing the systems. Go deeper : Shadow AI creates new headaches for company IT teams",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The AI boom isn't just creating new models and chatbots. It's creating a sprawli",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The AI boom isn't just creating new models and chatbots. It's creating a sprawling layer of software that companies will also need to inventory, patch and secure. Threat level: Many of these tools connect AI applications to sensitive corpor",
+      "source": "Axios — Companies are building with AI — and exposing new security risks (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The most widely exposed product was n8n, a workflow automation platform that can",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The most widely exposed product was n8n, a workflow automation platform that can connect AI agents to other applications and services. Censys found nearly 114,000 internet-facing deployments of n8n, including roughly 77,000 running software",
+      "source": "Axios — Companies are building with AI — and exposing new security risks (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The ease of building and hosting AI applications is making it harder for compani",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The ease of building and hosting AI applications is making it harder for companies to keep track of what software employees are using and whether it's secure. Censys CEO Zakir Durumeric told Axios that companies were already struggling to k",
+      "source": "Axios — Companies are building with AI — and exposing new security risks (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Companies need to treat AI infrastructure like any other software they deploy, A",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Companies need to treat AI infrastructure like any other software they deploy, Austin said, including regularly reviewing, updating and securing the systems. Go deeper : Shadow AI creates new headaches for company IT teams",
+      "source": "Axios — Companies are building with AI — and exposing new security risks (2026-10-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-14T13:08:26+00:00"
+}
