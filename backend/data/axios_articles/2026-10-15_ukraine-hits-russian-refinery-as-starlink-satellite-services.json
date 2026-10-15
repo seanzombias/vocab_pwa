@@ -1,0 +1,39 @@
+{
+  "title": "Ukraine hits Russian refinery as Starlink satellite services are restored",
+  "url": "https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk",
+  "pub_date": "2026-10-15",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Ukraine hits Russian refinery as Starlink satellite services are restored (2026-10-15)",
+  "body": "Ukraine's Starlink and Starshield satellite services — a critical tool in its war against Russia that was unexpectedly throttled this week by Elon Musk's SpaceX — has been restored to full capacity, a Ukrainian official tells Axios. The official also said that Ukraine conducted a strike overnight against a Russian oil refinery — defying President Trump's demand that it stop hitting those facilities. Why it matters: The twin developments further strained the U.S.-Ukraine relationship, as the war with Russia drags on and the Trump administration sided with Russian President Vladimir Putin last week by lifting sanctions on Russian oil sales. State of play: The move angered Ukraine. President Volodymyr Zelensky responded by calling it \"a weak decision\" and a \"gift to Putin.\" Trump then called for Ukraine to elect a new president. The crisis intensified this week when SpaceX restricted service of Starlink — a satellite service used for defensive purposes in battle — while Starshield, a tool used for offensive war operations that is controlled by the U.S. government, was also slowed. After more than a day, the services were restored. Ukraine, meanwhile, fired on a Russian oil refinery, which U.S. officials are unlikely to look kindly upon. The Ukrainian official said the country resumed strikes because Russia continued to hit Ukrainian energy infrastructure, despite Trump announcing that the two sides had agreed to a ceasefire. That declaration came as a surprise to Zelensky. The bottom line: It's still unclear to many inside the Trump administration and the Ukrainian government whether Trump ordered the satellite restrictions or not.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The twin developments further strained the U.S.-Ukraine relationship, as the war",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The twin developments further strained the U.S.-Ukraine relationship, as the war with Russia drags on and the Trump administration sided with Russian President Vladimir Putin last week by lifting sanctions on Russian oil sales. State of pla",
+      "source": "Axios — Ukraine hits Russian refinery as Starlink satellite services are restored (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: It's still unclear to many inside the Trump administration and the Ukrainian gov",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: It's still unclear to many inside the Trump administration and the Ukrainian government whether Trump ordered the satellite restrictions or not.",
+      "source": "Axios — Ukraine hits Russian refinery as Starlink satellite services are restored (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-15T12:54:47+00:00"
+}

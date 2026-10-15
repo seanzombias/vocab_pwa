@@ -1,0 +1,61 @@
+{
+  "title": "ICE says no to automatic body-cams",
+  "url": "https://www.axios.com/2026/10/14/ice-body-cam-automatic-gao-report",
+  "pub_date": "2026-10-14",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — ICE says no to automatic body-cams (2026-10-14)",
+  "body": "ICE is rejecting a Government Accountability Office recommendation for technology that automatically activates body cameras when weapons are drawn and safeguards to ensure agents record arrests, searches and detentions when required. Why it matters: The GAO warns that ICE risks losing crucial evidence on what happened during incidents involving force amid growing distrust over agent accountability in the wake of multiple fatal ICE shootings . The big picture: The GAO report found both CBP and ICE are struggling to manage their body-camera programs amid shifting deployment plans. CBP and ICE haven't updated their camera plans since 2022 and 2024, respectively. The plans fail to account for funding changes, expanded deployment needs and pauses in camera rollouts following one of Trump's executive orders that rescinded a Biden-era federal body-camera mandate. ICE's camera activation dispute is the central flashpoint in the GAO review, as DHS accepted all six other recommendations. CBP uses technology that automatically activates body cameras when officers draw firearms or turn on emergency lights, but ICE doesn't. Zoom in: At six of the 10 locations GAO reviewed, CBP and ICE personnel said they were unsure when they had to turn on their cameras. Some said camera use is \"not mandated,\" \"up to interpretation,\" and \"has gray areas.\" Agents specifically reported uncertainty about whether they should record during \"subpoena issuance, in-custody interviews, vehicle searches, undercover operations, and detainee transports.\" At five sites, people said they weren't sure how to use a newer camera model. The other side: DHS rejected the recommendation, arguing that automatic activation \"presents significant operational risks, including inadvertent or false activations during routine movement.\" DHS warned that accidental activation could expose sensitive interactions with informants and victims or record people engaged in protected First Amendment activities. GAO pushed back, noting that DHS offered no alternative safeguards despite the risks of critical encounters going unrecorded. DHS didn't respond to Axios' request for comment. Worth noting: ICE issued no written reprimands for failing to comply with camera policies from the program's launch through September 2025. CBP issued just one. The bottom line: Both CBP and ICE say their body-camera programs are meant to improve public trust, officer safety and accountability. But without clear standards, the agencies can't determine whether their programs are meeting those goals, GAO found. Go deeper: ICE says all its offices will have body cams in 60 days",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The GAO warns that ICE risks losing crucial evidence on what happened during inc",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The GAO warns that ICE risks losing crucial evidence on what happened during incidents involving force amid growing distrust over agent accountability in the wake of multiple fatal ICE shootings . The big picture: The GAO report found both ",
+      "source": "Axios — ICE says no to automatic body-cams (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: At six of the 10 locations GAO reviewed, CBP and ICE personnel said they were un",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: At six of the 10 locations GAO reviewed, CBP and ICE personnel said they were unsure when they had to turn on their cameras. Some said camera use is \"not mandated,\" \"up to interpretation,\" and \"has gray areas.\" Agents specifically reported ",
+      "source": "Axios — ICE says no to automatic body-cams (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Both CBP and ICE say their body-camera programs are meant to improve public trus",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Both CBP and ICE say their body-camera programs are meant to improve public trust, officer safety and accountability. But without clear standards, the agencies can't determine whether their programs are meeting those goals, GAO found.",
+      "source": "Axios — ICE says no to automatic body-cams (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: ICE says all its offices will have body cams in 60 days",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: ICE says all its offices will have body cams in 60 days",
+      "source": "Axios — ICE says no to automatic body-cams (2026-10-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-15T12:54:48+00:00"
+}

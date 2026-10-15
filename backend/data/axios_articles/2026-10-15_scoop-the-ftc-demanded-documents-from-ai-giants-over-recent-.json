@@ -1,0 +1,42 @@
+{
+  "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
+  "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+  "pub_date": "2026-10-15",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Scoop: The FTC demanded documents from AI giants over recent safety incidents (2026-10-15)",
+  "body": "The Federal Trade Commission on Wednesday sent civil subpoenas to AI giants seeking documents about safety incidents that have spiraled into an industry crisis . The FTC sought documents from Anthropic and OpenAI with the scope of the probe focused on potential consumer protection violations, a person familiar told Axios. Why it matters: The investigation is one of a number of steps the administration has taken to show a firm hand with AI companies after multiple incidents in which unreleased models hacked websites or took deceptive or aggressive steps in testing. State of play: The agency on Wednesday sent out civil investigative demands, which help the government gather evidence and investigate ahead of potential litigation. They are more than 50 pages long each and ask for documents concerning security incidents and safeguarding practices. The agency is also asking for marketing materials and documents detailing company privacy policies, the source said. Investigative demands will be sent to third party AI organizations at a later date, the person familiar said. Zoom in: The FTC has plans to compel top AI executives to testify about their products, according to the source. The agency has investigative authority to examine actions related to consumer harms that could be seen as unfair or deceptive. Those can relate to a wide range of misbehavior, from how companies charge for services or if they're alleged to have misled users. AI companies continue to face scrutiny about the safety of their products. Ferguson has echoed the view of other administration figures and executives that AI systems shouldn't be released if they aren't safe. OpenAI faces a litany of lawsuits. A group of state attorneys general on Wednesday sued OpenAI under consumer protection laws for allegedly misleading users, including children, on the safety of its chatbot. The big picture: The Trump administration has taken on a more aggressive posture toward AI companies as safety incident disclosures continue. President Trump's newly minted Super Intelligence Force, which FTC Chair Andrew Ferguson co-chairs, last week responded to Anthropic's \"fraudulent\" use of government systems by announcing an industry-wide mandate to immediately notify and remediate when incidents occur. The SI Force is set to meet on Thursday, sources familiar said.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The investigation is one of a number of steps the administration has taken to sh",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The investigation is one of a number of steps the administration has taken to show a firm hand with AI companies after multiple incidents in which unreleased models hacked websites or took deceptive or aggressive steps in testing. State of ",
+      "source": "Axios — Scoop: The FTC demanded documents from AI giants over recent safety incidents (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The FTC has plans to compel top AI executives to testify about their products, a",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The FTC has plans to compel top AI executives to testify about their products, according to the source. The agency has investigative authority to examine actions related to consumer harms that could be seen as unfair or deceptive. Those can",
+      "source": "Axios — Scoop: The FTC demanded documents from AI giants over recent safety incidents (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-15T12:54:47+00:00"
+}
