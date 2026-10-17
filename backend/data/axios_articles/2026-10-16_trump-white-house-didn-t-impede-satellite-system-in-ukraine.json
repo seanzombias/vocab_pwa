@@ -1,0 +1,39 @@
+{
+  "title": "Trump: White House didn't impede satellite system in Ukraine",
+  "url": "https://www.axios.com/2026/10/16/trump-starlink-musk-ukraine-zelensky",
+  "pub_date": "2026-10-16",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Trump: White House didn't impede satellite system in Ukraine (2026-10-16)",
+  "body": "President Trump said Friday that his administration did not disrupt an Elon Musk -owned satellite system used by Ukraine to wage war against Russia. Why it matters: The restrictions imposed earlier this week on the system hampered the Ukrainian military's ability to intercept Russian attack drones for 24 hours. It raised concerns that the Trump administration and possibly Musk were retaliating against Ukraine for its attacks on Russian oil refineries and President Volodymyr Zelensky's criticism of Trump's diesel deal with Russia. What he is saying: \"I just checked this morning — it wasn't us,\" Trump told reporters. \"I don't know if it was anybody, because it wasn't me and I don't think it was Elon.\" He was responding to a question about a Reuters report that the order to slow the satellite system came from the White House. Trump said that from what he was briefed the system is currently fully working with no restrictions. do we need this? no one is saying otherwise The other side: Ukrainian officials remain highly skeptical of Trump's claims and believe someone in the U.S. government participated in throttling the systems. \"Our guys who speak to SpaceX say the White House was involved in the decision,\" a Ukrainian official said. Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to control and operate its reconnaissance and intercept drones. When Starlink doesn't operate at full capacity, Ukraine's ability to gather intelligence, use interceptor drones and conduct long-range strikes against Russia is impeded. Ukraine relies on two satellite systems: One is SpaceX's Starlink, which it uses for communications, ground forces, logistics and defensive drones — ones that shoot down incoming drones. The other is Starshield, which is controlled by the U.S. government and used for offensive military purposes. Both systems were restricted, according to Ukraine. In a post on X on Wednesday, Musk hinted the U.S. government was involved in disrupting Starshield. \"Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS,\" he wrote. The big picture: The limitations came days after a new crisis erupted between the U.S. and Ukraine over Trump's agreement to lift sanctions on Russian oil sales. Zelensky criticized the move, then Trump called for Ukraine to elect a new president.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The restrictions imposed earlier this week on the system hampered the Ukrainian",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The restrictions imposed earlier this week on the system hampered the Ukrainian military's ability to intercept Russian attack drones for 24 hours. It raised concerns that the Trump administration and possibly Musk were retaliating against ",
+      "source": "Axios — Trump: White House didn't impede satellite system in Ukraine (2026-10-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to control and operate its reconnaissance and intercept drones. When Starlink doesn't operate at full capacity, Ukraine's ability to gather intelligence, use inte",
+      "source": "Axios — Trump: White House didn't impede satellite system in Ukraine (2026-10-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-17T11:47:43+00:00"
+}
