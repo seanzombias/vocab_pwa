@@ -1,0 +1,61 @@
+{
+  "title": "The too-hot-for-comfort economy",
+  "url": "https://www.axios.com/2026/10/15/fed-inflation-ppi-warsh",
+  "pub_date": "2026-10-15",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The too-hot-for-comfort economy (2026-10-15)",
+  "body": "Data: Bureau of Labor Statistics; Chart: Courtenay Brown/Axios Data this week has all told the same story: This is a rip-roaring U.S. economy with all the inflationary pressures that might imply. The big picture: It puts Warsh and the Fed in a difficult jam. Top officials have signaled patience in further interest rate hikes in recent weeks, but the latest data implies broader inflationary pressures than previously thought, testing that conviction. There is scant evidence that price pressures are receding on their own and growing reason to fear that they are becoming more entrenched, which could compel a more aggressive rate-hiking response. Driving the news: On Thursday the government said the Producer Price Index rose 1.3% in September, the highest since 2022 and far above the 0.6% analysts expected. It came on the heels of a too-hot-for-comfort reading on consumer prices Wednesday. Also Thursday, September retail sales notched a 0.8% rise, versus the 0.4% analysts had expected. And the August number was revised higher. There were only 199,000 initial claims for unemployment benefits last week, remaining near historic lows. Between the lines: The U.S. growth juggernaut shows no sign of diminishing — but neither do the price pressures that have bedeviled the economy for nearly five consecutive years. If anything, the PPI and CPI data released this week suggest inflation is broadening, showing up in sectors well beyond energy. State of play: In his appearance at the International Monetary Fund's meetings in Thailand Friday (11:30pm ET Thursday), Warsh has a final opportunity to comment before the Fed enters its customary quiet period in advance of a policy meeting that concludes Oct. 28. Colleagues including New York Fed president John Williams and vice chair Philip Jefferson gave rather clear signaling in the last couple of weeks that they see little urgency to raise rates at a second consecutive meeting this month. Warsh faces a dilemma. If he affirms that stance in spite of the hot price data, it could raise doubts about his determination to bring inflation under control. If he seems inclined to raise rates, he could seem overly reactive to a couple of economic releases, contrary to his stated goal of making the Fed less \"data-point dependent.\" The intrigue: Surprisingly, bond yields are down Thursday despite the hot PPI number — and a surge in yields following the CPI number Wednesday mostly reversed later in the trading session. It seems to reflect a flight to quality among traders as optimism around the AI buildout fades. With semiconductor and related stocks down, money looks to be flowing into safer Treasury securities. The policy-sensitive two-year Treasury yield briefly touched 4.95% after the CPI number Wednesday, implying significant Fed rate hikes ahead. It was down to 4.72% Thursday morning — an astonishing move for any 24-hour period, let alone one that included hotter-than-expected inflation data. What they're saying: \"Today's September PPI report reinforces Wednesday's CPI message that inflation is turning higher and moving in the wrong direction for the Fed,\" Nationwide financial market economist Oren Klachkin wrote in a note. \"AI continues to lend upside pressure from categories directly and indirectly tied to the buildout. Businesses seem to be passing higher costs onto customers as the proxy for margins rose heftily in September.\"",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: On Thursday the government said the Producer Price Index rose 1.3% in September,",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: On Thursday the government said the Producer Price Index rose 1.3% in September, the highest since 2022 and far above the 0.6% analysts expected. It came on the heels of a too-hot-for-comfort reading on consumer prices Wednesday. Also Thurs",
+      "source": "Axios — The too-hot-for-comfort economy (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Surprisingly, bond yields are down Thursday despite the hot PPI number — and a s",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Surprisingly, bond yields are down Thursday despite the hot PPI number — and a surge in yields following the CPI number Wednesday mostly reversed later in the trading session. It seems to reflect a flight to quality among traders as optimis",
+      "source": "Axios — The too-hot-for-comfort economy (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The U.S. growth juggernaut shows no sign of diminishing — but neither do the pri",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The U.S. growth juggernaut shows no sign of diminishing — but neither do the price pressures that have bedeviled the economy for nearly five consecutive years. If anything, the PPI and CPI data released this week suggest inflation is broade",
+      "source": "Axios — The too-hot-for-comfort economy (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"Today's September PPI report reinforces Wednesday's CPI message that inflation",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"Today's September PPI report reinforces Wednesday's CPI message that inflation is turning higher and moving in the wrong direction for the Fed,\" Nationwide financial market economist Oren Klachkin wrote in a note. \"AI continues to lend ups",
+      "source": "Axios — The too-hot-for-comfort economy (2026-10-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-18T12:13:09+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+  "url": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+  "pub_date": "2026-10-17",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Zelensky says Musk-owned satellite system still restricted in Ukraine (2026-10-17)",
+  "body": "Ukrainian President Volodymyr Zelensky said Ukraine's use of the Elon Musk -owned SpaceX satellite system remains partially restricted, despite earlier signs this week that it had been fully restored. Why it matters: The current restrictions limit the Ukrainian military from using drones to intercept Russian attack drones and from using its drones to send supplies to soldiers on the front lines, Zelensky said. The intrigue: Ukrainian officials say they are still scrambling to determine whether the restrictions result from a political decision by the Trump administration or Musk. Ukrainian officials have heard different versions of what happened, with the Trump administration and SpaceX executives accusing each other. \"SpaceX as a company tells us it is a technical problem. But our contacts in the company say it is coming from the White House. When we ask the White House, they say it is Elon,\" a Ukrainian official told Axios. Musk said in a Wednesday X post that the U.S. government was involved in disrupting Starshield. \"Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS,\" he wrote. President Trump said on Friday that the White House was not involved in restricting Ukraine's use of the system. Behind the scenes: The Telegraph reported Friday that Musk proposed to Trump throttling the Starlink and Starshield satellite networks used by the Ukrainian military. A source familiar with the discussion told Axios that Trump didn't push back on Elon's idea. A White House official denied the Telegraph's account. \"This is totally false. As President Trump said, we didn't slow down Starlink at all, and the service is currently operational,\" the official said. State of play: But the service is not fully operational. Before the restrictions, the Starlink and Starshield network operated even on drones that reached 400 kilometers per hour. Now it is restricted to 161 kilometers per hour, Ukrainian officials say. Zelensky told reporters on Saturday that the Ukrainian military tested the system on Friday in cars in European Union countries. The cars drove 180 kilometers per hour, and the satellite systems continued working. But once the cars crossed into Ukraine, the system disconnected at 161 kilometers per hour. \"The conclusion is that the restrictions apply inside Ukraine but do not apply in European Union countries. In other words, this is a planned operation,\" Zelensky said. Zelensky also expressed skepticism about SpaceX's claim that the speed limit results from technical problems. Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to control and operate its reconnaissance and intercept drones. When Starlink doesn't operate at full capacity, Ukraine's ability to gather intelligence, use interceptor drones and conduct long-range strikes against Russia is impeded. Ukraine relies on two satellite systems: One is SpaceX's Starlink, which it uses for communications, ground forces, logistics and defensive drones — ones that shoot down incoming drones. The other is Starshield, which is controlled by the U.S. government and used for offensive military purposes. Ukraine said both systems were restricted. What to watch: On Friday, Ukraine's chief negotiator, Rustem Umerov, spoke with Trump's adviser and envoy, Jared Kushner, to discuss the Starlink issue, Zelensky said. They also spoke about holding a meeting between U.S. and Ukrainian teams next week to continue the discussions on the latest Trump administration proposal for a deal with Russia on ending the war.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The current restrictions limit the Ukrainian military from using drones to inter",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The current restrictions limit the Ukrainian military from using drones to intercept Russian attack drones and from using its drones to send supplies to soldiers on the front lines, Zelensky said.",
+      "source": "Axios — Zelensky says Musk-owned satellite system still restricted in Ukraine (2026-10-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to control and operate its reconnaissance and intercept drones. When Starlink doesn't operate at full capacity, Ukraine's ability to gather intelligence, use inte",
+      "source": "Axios — Zelensky says Musk-owned satellite system still restricted in Ukraine (2026-10-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Ukrainian officials say they are still scrambling to determine whether the restr",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Ukrainian officials say they are still scrambling to determine whether the restrictions result from a political decision by the Trump administration or Musk. Ukrainian officials have heard different versions of what happened, with the Trump",
+      "source": "Axios — Zelensky says Musk-owned satellite system still restricted in Ukraine (2026-10-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-18T12:13:09+00:00"
+}
