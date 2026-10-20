@@ -1,0 +1,72 @@
+{
+  "title": "AI takes on great experiment in self-rule",
+  "url": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
+  "pub_date": "2026-10-20",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI takes on great experiment in self-rule (2026-10-20)",
+  "body": "Slowly but surely, the leading AI companies are creating a national self-governing structure to oversee their technology and its societal impact. With the federal government largely hands-off, Anthropic, OpenAI and others are self-regulating their technology and now setting up their own plans to redistribute their wealth. Why it matters: Not since the age of the robber barons have America's industrial titans wielded such sweeping power to shape society — and decide how their private fortunes should serve the public good. In the modern era, Washington has largely exercised those powers through regulation, taxation and public spending. The big picture: President Trump has no interest in new regulations. Instead, he has blessed a basic framework for the AI companies to regulate themselves — and potentially each other — outside of formal government monitoring. Anthropic, OpenAI, Google, Elon Musk's XSI, Meta and Nvidia are working on different versions of this. This is all voluntary and rests on the public trusting companies the size of industrialized nations to responsibly police themselves. These companies are in a frantic race to create human-surpassing superintelligence. All are pressing ahead, even as their leaders — particularly at Anthropic — warn of potentially catastrophic risks and profound economic disruption. At the same time, some AI leaders are promising to direct a portion of their vast wealth to benefit those outside their companies. Zoom in: At least three competing visions are emerging for sharing the spoils of the AI boom, each with a different answer to who should control the wealth. Anthropic: The company. On the eve of its blockbuster IPO, Anthropic pledged 5% of its shares to a new public benefit fund that could grow into one of the largest philanthropic institutions in history. At a hypothetical $2 trillion valuation, its stake would be worth $100 billion — more than the Gates Foundation's current endowment. Including earlier founder and employee pledges, roughly 20% of Anthropic's shares are earmarked for the public good. Musk: The people. Musk responded to Anthropic's announcement by urging the company to give shares \"directly to the public.\" On Monday, Musk pledged to give every American child a share of SpaceX next year — a staggering $10.5 billion giveaway at current prices. Musk called it the \"first of many,\" though he offered no details on how the unprecedented distribution would work. OpenAI: The government. CEO Sam Altman has floated giving the U.S. government a 5% stake in OpenAI through a sovereign wealth fund — potentially handing Washington a multibillion-dollar interest in one of the world's most powerful AI companies. Altman envisions an Alaska-style fund that could distribute the industry's investment returns directly to Americans, though the plan remains preliminary and would likely require congressional approval. Reality check: The numbers are staggering. So are the assumptions about future wealth, billionaire follow-through and the public's willingness to trust its benefactors. Bill Gates and Warren Buffett launched the Giving Pledge in 2010, a voluntary promise by billionaires — including Musk — to give away most of their fortunes. Gates built a philanthropic empire, only to become a lightning rod for conspiracy theories. Anthropic's ambitions depend on extraordinary growth projections — its own employees envision 17% GDP growth in 2030 — while Musk has a history of making spectacular promises that fail to materialize. Anthropic's roots in effective altruism , a philosophy deeply distrusted by the Trump administration and its allies, also raise a more fundamental question: Who gets to define the public good? Between the lines: No industry requirements or consensus exist on how best to redistribute their expected wealth. But Trump Accounts — which allow families, businesses and individuals to invest in tax-advantaged funds for children — are emerging as a favorite vehicle for free-market AI leaders. Billionaire investor Brad Gerstner, a driving force behind the program, is championing a vision of broad-based ownership in which ordinary Americans share directly in the economic upside of the AI revolution. SpaceX President Gwynne Shotwell and her husband in July pledged roughly $320 million in company shares to 2 million children through Trump Accounts — a potential blueprint for distributing an even larger slice of Musk's fortune. What to watch: The Trump administration hasn't fully relinquished its regulatory authority, potentially complicating the emerging experiment in AI self-governance. After Anthropic disclosed that its AI had submitted a false homicide tip to Philadelphia police and improperly interacted with government websites, the White House declared that AI companies must report security incidents and remedy any harm. \"This notification and remediation process is not optional,\" Trump's Super Intelligence Force warned — a striking assertion of federal authority just weeks after the president blessed a voluntary system of industry oversight. Axios' Zachary Basu and Bradley Olson contributed reporting.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Not since the age of the robber barons have America's industrial titans wielded",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Not since the age of the robber barons have America's industrial titans wielded such sweeping power to shape society — and decide how their private fortunes should serve the public good. In the modern era, Washington has largely exercised t",
+      "source": "Axios — AI takes on great experiment in self-rule (2026-10-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: At least three competing visions are emerging for sharing the spoils of the AI b",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: At least three competing visions are emerging for sharing the spoils of the AI boom, each with a different answer to who should control the wealth. Anthropic: The company. On the eve of its blockbuster IPO, Anthropic pledged 5% of its share",
+      "source": "Axios — AI takes on great experiment in self-rule (2026-10-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: No industry requirements or consensus exist on how best to redistribute their ex",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: No industry requirements or consensus exist on how best to redistribute their expected wealth. But Trump Accounts — which allow families, businesses and individuals to invest in tax-advantaged funds for children — are emerging as a favorite",
+      "source": "Axios — AI takes on great experiment in self-rule (2026-10-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The numbers are staggering. So are the assumptions about future wealth, billiona",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The numbers are staggering. So are the assumptions about future wealth, billionaire follow-through and the public's willingness to trust its benefactors. Bill Gates and Warren Buffett launched the Giving Pledge in 2010, a voluntary promise ",
+      "source": "Axios — AI takes on great experiment in self-rule (2026-10-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-20T13:05:36+00:00"
+}

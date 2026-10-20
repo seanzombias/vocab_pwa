@@ -1,0 +1,42 @@
+{
+  "title": "I let agents plan a WNBA Finals trip (but kept my wallet to myself)",
+  "url": "https://www.axios.com/2026/10/20/battle-of-bots-openai-meta-ai-agents-test",
+  "pub_date": "2026-10-20",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — I let agents plan a WNBA Finals trip (but kept my wallet to myself) (2026-10-20)",
+  "body": "Let's call it the Battle of the Bots, part 1: I decided to put two of the newest personal AI agents, OpenAI's Dots and Meta's Muse , through their paces, with the WNBA Finals providing a natural testing ground. Why it matters: AI companies are racing to create the digital assistant we turn to for everything from shopping to travel planning. But there's still a gap between what these agents can do and what I'm comfortable letting them do. They also need to pass what we'll call \"The Human Benchmark\" : that is, can they do something as fast, or as well, as a human? The answer is ... not quite yet, but the capabilities are still impressive. The big picture: For the test, I asked each assistant to plan a fantasy trip to Atlanta to see my beloved Golden State Valkyries, organize a purple-themed brunch watch party and create souvenir programs. I also had them help me shop for Valkyries merch, which eventually turned into a side quest for WNBA basketball cards. The cost: Muse is free for most uses, with optional $20 and $100 monthly subscriptions. Dots requires a ChatGPT Pro subscription, starting at $100 monthly, or access through a business or enterprise plan. More on Dots . Where they shined: Both agents were surprisingly good at handling complicated, multistep assignments. When I asked them to find flights and tickets for Game 3 in Atlanta, both caught that the game had been moved up a day and that tickets weren't yet on sale to the general public. The available seats were being offered through the resale market, likely at inflated prices. Both found good flight options. Muse opened a browser and let me enter my information to try to sign up for a ticket presale. Dots, meanwhile, flagged a scheduling conflict with an enrollment fair, which it gleaned from my AI-assisted effort to keep tabs on the joys of finding the right high school in San Francisco. Where they were creative, but imperfect: Both agents could turn broad instructions into surprisingly elaborate finished products, though neither was quite ready to replace a human editor. For my purple-themed brunch, Muse designed a colorful 10-page recipe booklet featuring ube waffles and lavender-honey butter. Dots produced a more practical eight-page packet with detailed cooking instructions and attention to dietary preferences. Muse's shopping list called for 12 eggs, while its recipes required 13. Both agents also designed invitations that needed aesthetic and language edits before I'd send them to friends. Both menus were far more elaborate than anything I'd actually make for a basketball watch party. Left to my own devices, I'd probably just buy some purple-frosted donuts. Another creative test: I asked both agents to create a 1980s-style WNBA Finals souvenir program, then later to turn my photos from Game 1 into a keepsake. Dots' 38-page vintage program was more visually engaging, with player photos, graphics and extensive statistics. Muse's 35-page version was less attractive but had some fun touches, including a fictional computer ad and an advertisement for my imaginary brunch. Both programs contained questionable statistics. Muse later sent an unsolicited update correcting several factual errors. For the photo program, Dots delivered a 12-page version in just 47 seconds, while Muse took considerably longer. It did, however, suggest an interesting photo spread highlighting different generations of Valkyries fans. Where they struggled: Actually doing things. I asked both agents to help me buy Valkyries merchandise, eventually settling on WNBA trading cards. Both helped compare options and prices. I chose Target, where my store credit card offered a 5% discount and free shipping. Muse attempted to complete the purchase but got stuck at Target's sign-in page. Dots instead directed me to the Target app, where my account and payment information were already saved. Dots' less automated approach turned out to be faster, even though both services support purchases with user approval. The trust problem: Both agents could have done more if I'd been willing to give them greater access to my accounts and wallet. I'm not yet comfortable authorizing purchases of hundreds or thousands of dollars, or at a point of trusting them enough for consequential decisions. The bottom line: For me, the sweet spot for these agents is doing the research and legwork while leaving me to make the final decisions. P.S.: I couldn't actually make the Atlanta trip or host the brunch because of other commitments. But I did end up buying three boxes of WNBA basketball cards. You know, for research.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI companies are racing to create the digital assistant we turn to for everythin",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI companies are racing to create the digital assistant we turn to for everything from shopping to travel planning. But there's still a gap between what these agents can do and what I'm comfortable letting them do. They also need to pass wh",
+      "source": "Axios — I let agents plan a WNBA Finals trip (but kept my wallet to myself) (2026-10-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: For me, the sweet spot for these agents is doing the research and legwork while",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: For me, the sweet spot for these agents is doing the research and legwork while leaving me to make the final decisions. P.S.: I couldn't actually make the Atlanta trip or host the brunch because of other commitments. But I did end up buying",
+      "source": "Axios — I let agents plan a WNBA Finals trip (but kept my wallet to myself) (2026-10-20)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-20T13:05:36+00:00"
+}
