@@ -1,0 +1,83 @@
+{
+  "title": "Executives are more likely to trust AI over themselves",
+  "url": "https://www.axios.com/2026/10/21/ai-trust-executives-survey",
+  "pub_date": "2026-10-21",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Executives are more likely to trust AI over themselves (2026-10-21)",
+  "body": "Executives are twice as likely as rank-and-file workers to trust AI over their own judgment, per a survey out Wednesday morning. Why it matters: It's a worrying development. Leaders are hired for their experience and knowledge. Outsourcing that to AI raises the risk of making decisions that don't line up with reality, which then reverberate across companies and beyond. By the numbers: 32.8% of executives said that they trust AI more than their own judgment, according to the survey from Charter, a workplace research and media company. That's twice the rate for workers, or individual contributors. Just 16.3% of individual contributors said the same. The divide shows up at the level below executives — 34.8% of managers said they trust AI more than their own judgment. Zoom out: \"Cognitive offloading\" is a term for using tools like AI to reduce mental effort. \"Executives—despite having the most experience—are doing it more than anyone,\" the report's coauthors wrote. By the numbers: Charter in August surveyed 5,002 U.S. office workers, at companies with at least 100 employees, who said they use AI at work, including 2,952 individual contributors, 1,547 managers and 503 executives — including vice presidents, C-suite executives, owners and founders. Between the lines: Most executives are under a lot of pressure to know the answers to a lot of questions really quickly — and AI can help with that at least in the short term, says report coauthor Brian Elliott, a former Slack executive who is now executive-in-residence at Charter and co-wrote the report. AI \"lends itself very well to the 'seldom wrong, never in doubt' tendency that some executives have,\" he says. \"If you feel like you have to fake it until you make it as an executive, then AI is certainly going to feed those tendencies because you can appear to be really smart, really quick.\" Zoom in: He described tech executives who use AI to build product prototypes over a weekend, then expect their teams to quickly turn those into functioning products — without appreciating the more complicated work involved. \"AI is really good at giving you the executive summary. It's not necessarily as good at giving you the very specific answer to the problem you've got today, which is more often what an individual contributor faces.\" Reality check: The Charter survey measures executives' self-reported trust in AI, but not whether they actually follow its advice when making consequential decisions. The report's findings were overall positive about AI's potential in the workplace. 42.7% of AI users said it improved both their work and personal lives. Friction point: A key tension for workers is the threat of AI job loss, the researchers observed in separate qualitative interviews with 91 more workers. The better workers become with AI, the more they realize how much can be done without them, the survey found. There's a \"persistent tension.\" The bottom line: Executives are mostly free from that tension, says Elliott. \"The odds that an AI CEO shows up and takes over a company are excruciatingly low.\"",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It's a worrying development. Leaders are hired for their experience and knowledg",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It's a worrying development. Leaders are hired for their experience and knowledge. Outsourcing that to AI raises the risk of making decisions that don't line up with reality, which then reverberate across companies and beyond. By the number",
+      "source": "Axios — Executives are more likely to trust AI over themselves (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: \"Cognitive offloading\" is a term for using tools like AI to reduce mental effort",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: \"Cognitive offloading\" is a term for using tools like AI to reduce mental effort. \"Executives—despite having the most experience—are doing it more than anyone,\" the report's coauthors wrote. By the numbers: Charter in August surveyed 5,002 ",
+      "source": "Axios — Executives are more likely to trust AI over themselves (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: He described tech executives who use AI to build product prototypes over a weeke",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: He described tech executives who use AI to build product prototypes over a weekend, then expect their teams to quickly turn those into functioning products — without appreciating the more complicated work involved. \"AI is really good at giv",
+      "source": "Axios — Executives are more likely to trust AI over themselves (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Most executives are under a lot of pressure to know the answers to a lot of ques",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Most executives are under a lot of pressure to know the answers to a lot of questions really quickly — and AI can help with that at least in the short term, says report coauthor Brian Elliott, a former Slack executive who is now executive-i",
+      "source": "Axios — Executives are more likely to trust AI over themselves (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Executives are mostly free from that tension, says Elliott. \"The odds that an AI",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Executives are mostly free from that tension, says Elliott. \"The odds that an AI CEO shows up and takes over a company are excruciatingly low.\"",
+      "source": "Axios — Executives are more likely to trust AI over themselves (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: The Charter survey measures executives' self-reported trust in AI, but not wheth",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: The Charter survey measures executives' self-reported trust in AI, but not whether they actually follow its advice when making consequential decisions. The report's findings were overall positive about AI's potential in the workplace. 42.7%",
+      "source": "Axios — Executives are more likely to trust AI over themselves (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-21T13:16:52+00:00"
+}
