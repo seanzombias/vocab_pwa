@@ -1,0 +1,72 @@
+{
+  "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+  "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+  "pub_date": "2026-10-22",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Scoop: Unvetted AI agents are accessing U.S. bank accounts (2026-10-22)",
+  "body": "Major U.S. banks are detecting unauthorized third-party AI agents operating inside customer accounts, with some agents attempting to take actions that appear to be independent of user instructions, sources tell Axios. Why it matters: AI agents are becoming a nightmare for America's banks, making their way into banking systems faster than financial institutions can respond. The difficulty in distinguishing between a human and an unauthorized bot is forcing banks to block the technology and rapidly rewrite their terms of service. Driving the news : Banks including Morgan Stanley, Bank of America, JPMorgan, Wells Fargo and others are racing to contain agent risks. Some are aware of unauthorized access, people familiar with the issue said. These are generally situations when an agent or AI assistant accesses a human's account with the user's permission and login credentials. Even if permitted by the user, this goes against the guidelines of most banks requiring that humans log in to their own accounts. This presents significant security risks : banking executives fear the steps agents with login access might take, especially if a user has granted purchase authority or the ability to shift funds. In other instances, some banks have tracked activity when agents — programmed to fulfill requests or complete tasks on a user's behalf — contact call centers or appear to take actions independent of user instructions, the people said. What they're saying: Bank executives described the situation as horrifying, with one official saying the industry has grave concerns about agents gaining access to customer accounts and taking steps that could impact user finances. State of play : The concerns are at the root of the decision by several banks to restrict third-party AI agent access, the people said. Morgan Stanley has begun blocking third-party agents from accessing its platforms, sources familiar with the decision said. JPMorgan , Bank of America and Citi are also restricting agents . A Chase spokesperson said customers should not give their usernames and passwords to anyone. A Morgan Stanley spokesperson said the bank hasn't observed instances of \"rogue AI agents accessing our platforms.\" Zoom out: Most banks have authorized or are moving in the direction of allowing read-only access , which should allow agents to see customer financial information without taking action. Banks already grant such access to third-party apps like Quicken for budgeting and other activities. Reality check: Several industry and bank executives told Axios they recognize the need to find a middle-ground with AI agents. Customers will want to use these agents going forward, which banks recognize. But for now, the risks of being too permissive are too high. Threat level: Many banks are broadly not able to parse whether agent account activity is user-directed, sources said. One bank executive told Axios they struggle to differentiate between agents, as well as whether an agent has been authorized by a user or has gone rogue and gained access to a customer account. What we're watching: On one hand, banks are best positioned to respond to the threats and opportunities of AI given their cash on hand and experience as critical infrastructure. But money isn't necessarily enough to solve this problem, one source said, because of how quickly the technology is developing and revealing new weaknesses in real time. Banks are investing in preventing worst-case scenarios, but they are also preparing for when those could happen, including with \"day after\" scenario planning that would allow them to quickly secure or restore customer access, sources said. The bottom line: The rapid pace of AI advancement is becoming a security nightmare for America's financial institutions.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI agents are becoming a nightmare for America's banks, making their way into ba",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI agents are becoming a nightmare for America's banks, making their way into banking systems faster than financial institutions can respond. The difficulty in distinguishing between a human and an unauthorized bot is forcing banks to block",
+      "source": "Axios — Scoop: Unvetted AI agents are accessing U.S. bank accounts (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Most banks have authorized or are moving in the direction of allowing read-only",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Most banks have authorized or are moving in the direction of allowing read-only access , which should allow agents to see customer financial information without taking action. Banks already grant such access to third-party apps like Quicken",
+      "source": "Axios — Scoop: Unvetted AI agents are accessing U.S. bank accounts (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Bank executives described the situation as horrifying, with one official saying",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Bank executives described the situation as horrifying, with one official saying the industry has grave concerns about agents gaining access to customer accounts and taking steps that could impact user finances. State of play : The concerns ",
+      "source": "Axios — Scoop: Unvetted AI agents are accessing U.S. bank accounts (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The rapid pace of AI advancement is becoming a security nightmare for America's",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The rapid pace of AI advancement is becoming a security nightmare for America's financial institutions.",
+      "source": "Axios — Scoop: Unvetted AI agents are accessing U.S. bank accounts (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Several industry and bank executives told Axios they recognize the need to find",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Several industry and bank executives told Axios they recognize the need to find a middle-ground with AI agents. Customers will want to use these agents going forward, which banks recognize. But for now, the risks of being too permissive are",
+      "source": "Axios — Scoop: Unvetted AI agents are accessing U.S. bank accounts (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-22T13:15:19+00:00"
+}

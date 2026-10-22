@@ -1,0 +1,33 @@
+{
+  "title": "AI uncovers massive flaw in web's foundational code",
+  "url": "https://www.axios.com/2026/10/21/php-openai-ai-bug-hunting-cyberattacks",
+  "pub_date": "2026-10-21",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI uncovers massive flaw in web's foundational code (2026-10-21)",
+  "body": "Security officials are sounding the alarm over two critical vulnerabilities in a programming language used to run millions of websites, marking one of the most consequential cybersecurity discoveries yet made with AI . Why it matters : The bugs, which researchers found partly with an OpenAI model, proves AI can uncover critical flaws humans missed for decades — raising the stakes for defenders racing to fix vulnerabilities before attackers can exploit them at machine speed. What they're saying : Matthew Prince, the CEO of Cloudflare, a global connectivity and internet security company, said the company saw thousands of attempts to exploit the flaws in the 10 hours before it was publicly announced. \"That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within 2 hours, and millions now,\" he wrote on X. What's happening: There are two problems hackers could easily exploit in an open-source programming language known as PHP that's used on nearly 70% of all websites . Government officials from the U.S. to Japan are warning companies to apply a patch to fix the bugs, or consider taking down their sites to avoid an attack. OpenAI touted the role its model played in discovering one of the vulnerabilities, which allowed PHP researchers to create a fix. Between the lines: Security researchers have been skeptical of AI-generated vulnerability reports, many of which have turned out to be minor bugs or false alarms. But the PHP discovery could force the cybersecurity community to reckon with the reality of AI threats. \"It highlights how AI can uncover security flaws with internet-scale impact, but the same capabilities can also help attackers rapidly develop offensive tools and exploits,\" OpenAI said in a blog post Wednesday. Threat level: If exploited, the PHP flaws would allow malicious hackers to take control of vulnerable web servers without needing a password or other credentials. Since PHP runs under a wide variety of internet applications, that access could allow hackers to take over websites, steal sensitive information and tamper with a website. Some website owners took their sites down earlier Wednesday, including certain services at Wikipedia and 4chan , until they had time to patch their systems. \"These findings rank among the most severe vulnerabilities discovered in PHP, and arguably in software history,\" researchers at Wiz wrote in a post. The big picture: AI-driven bug discoveries are shining a light on the fragility of the modern internet, which is heavily reliant on a slew of open-source software powered by volunteers . The two flaws in PHP existed for decades, but demonstrated that it was possible for a hacker to exploit them required \"an exceptionally complex chain of steps,\" researchers at Wiz added. \"Defenders have always relied on the gap between 'vulnerable' and 'exploitable' to buy time to patch,\" Michael Leland, field CTO at Island, said in an email to Axios. \"That gap is rapidly closing.\" What to watch : Cybersecurity defenders are on guard for what could be a wave of incidents where websites and organizations are hacked using these two vulnerabilities in the next few weeks. Go deeper : Rogue AI agents expose internet's frail foundation",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Security researchers have been skeptical of AI-generated vulnerability reports,",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Security researchers have been skeptical of AI-generated vulnerability reports, many of which have turned out to be minor bugs or false alarms. But the PHP discovery could force the cybersecurity community to reckon with the reality of AI t",
+      "source": "Axios — AI uncovers massive flaw in web's foundational code (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-22T13:15:20+00:00"
+}

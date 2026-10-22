@@ -1,0 +1,61 @@
+{
+  "title": "Meta hit with $25 billion penalty for misleading Facebook users",
+  "url": "https://www.axios.com/2026/10/21/meta-25-billion-cambridge-analytica-scandal-ruling",
+  "pub_date": "2026-10-21",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Meta hit with $25 billion penalty for misleading Facebook users (2026-10-21)",
+  "body": "A New Mexico judge ordered Meta to pay $25 billion in penalties Wednesday after a jury found in September that the social media giant misled users about their data privacy. Why it matters: The penalties come nearly a decade after the Cambridge Analytica scandal first broke and signal that Big Tech can face significant financial consequences for misleading users about their privacy. Driving the news: Judge Francis Mathew determined the penalty amount Wednesday, handing New Mexico a win as the only state to take its claims to trial after 48 others settled. Mathew concluded New Mexico was entitled to $219.5 billion based on the state's maximum $5,000 penalty multiplied by 43,899,720 violations. He reduced that to $25 billion. Meta did not immediately respond to Axios' request for comment. The company has previously said it expects to appeal the decision. Catch up quick: In September, a New Mexico jury said Meta had committed 43 million \"willful violations\" of the New Mexico Unfair Practices Act. Mathew found that Facebook's privacy controls failed to give users meaningful control over their data and that third-party app developers could access their information through the platform's systems. Mathew found Mark Zuckerberg knew users didn't understand how data privacy works, and exploited that, noting that the CEO had once written that users \"probably don't understand their current privacy settings or care about who sees their updates.\" Zuckerberg also wrote that the company should give users \"a chance to change their privacy settings but obviously don't encourage it.\" Zoom out: The suit followed reporting that revealed data firm Cambridge Analytica had harvested data from more than 50 million Facebook users to craft political ads during the 2016 election. After the scandal, Facebook promised more transparency, but the court found Meta failed to consistently inform users when their data was misused. Editor's note: This story has been updated with additional information throughout.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The penalties come nearly a decade after the Cambridge Analytica scandal first b",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The penalties come nearly a decade after the Cambridge Analytica scandal first broke and signal that Big Tech can face significant financial consequences for misleading users about their privacy.",
+      "source": "Axios — Meta hit with $25 billion penalty for misleading Facebook users (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Judge Francis Mathew determined the penalty amount Wednesday, handing New Mexico",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Judge Francis Mathew determined the penalty amount Wednesday, handing New Mexico a win as the only state to take its claims to trial after 48 others settled. Mathew concluded New Mexico was entitled to $219.5 billion based on the state's ma",
+      "source": "Axios — Meta hit with $25 billion penalty for misleading Facebook users (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: In September, a New Mexico jury said Meta had committed 43 million \"willful viol",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: In September, a New Mexico jury said Meta had committed 43 million \"willful violations\" of the New Mexico Unfair Practices Act. Mathew found that Facebook's privacy controls failed to give users meaningful control over their data and that t",
+      "source": "Axios — Meta hit with $25 billion penalty for misleading Facebook users (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The suit followed reporting that revealed data firm Cambridge Analytica had harv",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The suit followed reporting that revealed data firm Cambridge Analytica had harvested data from more than 50 million Facebook users to craft political ads during the 2016 election. After the scandal, Facebook promised more transparency, but",
+      "source": "Axios — Meta hit with $25 billion penalty for misleading Facebook users (2026-10-21)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-22T13:15:20+00:00"
+}

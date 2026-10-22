@@ -1,0 +1,39 @@
+{
+  "title": "Hackers are turning web browsing into a spyware trap",
+  "url": "https://www.axios.com/2026/10/22/spyware-phones-security-threats",
+  "pub_date": "2026-10-22",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Hackers are turning web browsing into a spyware trap (2026-10-22)",
+  "body": "Hackers are finding new ways to infect iPhones with spyware — even when victims never click a malicious link — according to new research shared with Axios. Why it matters: Software once used to spy on politicians, journalists and other high-value targets is becoming a tool for everyday cybercriminals looking to steal cryptocurrency and login credentials. Driving the news: Researchers at iVerify and Report URI said Thursday they've uncovered two campaigns in which criminal groups with suspected ties to China exploited online advertising infrastructure and legitimate websites to deliver iPhone spyware. In one case, iVerify found that a financial institution employee's iPhone was infected after they scrolled past a professional soccer advertisement on Instagram. The ad automatically triggered an attack that stole the person's login credentials and searched their cryptocurrency wallets. In another, Report URI uncovered a campaign affecting nearly 8,000 legitimate websites after hackers purchased roughly 630 expired domains that those sites still relied on. The attackers used those domains to redirect vulnerable iPhone visitors toward spyware designed to steal their credentials and cryptocurrency. How it works: Both campaigns exploited tools that load automatically as people browse the internet, eliminating the need to trick victims into clicking malicious links. In the iVerify case, malicious code began running as soon as the Instagram advertisement appeared on the victim's screen. The attack checked the iPhone's operating system before deploying a compatible exploit. In the Report URI campaign, attackers purchased expired domains once used to host legitimate website features, such as chatbots and analytics tools. Thousands of websites were still loading code from those domains, allowing criminals to quietly redirect visitors toward malicious software. Threat level: The findings show how cybercriminals are building an infrastructure for delivering spyware through everyday online activity, rather than relying on traditional phishing attacks or targeting specific individuals. Both methods also allow attackers to selectively target vulnerable devices. Advertising platforms can narrow audiences based on interests and device characteristics, while malicious website code can identify a visitor's operating system before selecting an attack. The big picture: Cybercriminals are increasingly weaponizing spyware to exploit mobile phones, whose security (whether on an iPhone or Android) has often been seen as ironclad. Last year, iVerify uncovered evidence of the first spyware campaign targeting iPhones in the U.S. and the European Union. Last week, researchers at the University of Toronto's Citizen Lab uncovered the first public confirmation of zero-click spyware delivered via targeted ads — targeting at least 45 devices within international news network Al Jazeera. Rocky Cole, co-founder and chief operating officer at iVerify, told Axios that spyware is now \"the fastest proliferating threat to mobile devices at the current moment.\" The intrigue : \"They're either Chinese or they definitely want us to think that they are,\" Scott Helme, founder and CEO at Report URI, told Axios about the groups behind the campaigns. What to watch: Researchers warn that the growing availability of sophisticated spyware is forcing consumers to rethink how they protect their phones. Cole and Helme both emphasized keeping mobile operating systems updated, since the attacks depend on exploiting vulnerabilities in specific software versions.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Software once used to spy on politicians, journalists and other high-value targe",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Software once used to spy on politicians, journalists and other high-value targets is becoming a tool for everyday cybercriminals looking to steal cryptocurrency and login credentials.",
+      "source": "Axios — Hackers are turning web browsing into a spyware trap (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Researchers at iVerify and Report URI said Thursday they've uncovered two campai",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Researchers at iVerify and Report URI said Thursday they've uncovered two campaigns in which criminal groups with suspected ties to China exploited online advertising infrastructure and legitimate websites to deliver iPhone spyware. In one ",
+      "source": "Axios — Hackers are turning web browsing into a spyware trap (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-22T13:15:19+00:00"
+}
