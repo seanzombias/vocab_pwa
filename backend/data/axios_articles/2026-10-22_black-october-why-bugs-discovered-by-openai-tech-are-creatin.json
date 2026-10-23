@@ -1,0 +1,85 @@
+{
+  "title": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
+  "url": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
+  "pub_date": "2026-10-22",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Black October: why bugs discovered by OpenAI tech are creating a cyber emergency (2026-10-22)",
+  "body": "The websites you use every day may have been vulnerable to hackers for years because of hidden flaws in their code that AI only recently discovered. Why it matters: The code, called PHP, powers millions of websites, and the vulnerabilities could allow hackers to steal sensitive data or take control of affected servers. If exploited, the bugs could allow attackers to steal sensitive information, like your passwords and data, or take control of vulnerable servers. Driving the news: A potential attack exploiting flaws in PHP emerged on Wednesday, which prompted governments and companies to temporarily take their websites offline while they installed security patches. Dozens of websites in the U.S., U.K., and around the world were briefly taken offline to make the fix. The disruption put the National Security Agency and Europe's cybersecurity agency on alert. State of play: Security patches were released to fix the issues on Oct. 21, 2026. Cybersecurity firms urged anyone using PHP to install the security updates immediately. What they're saying: OpenAI's technology helped find the bugs, and the company called the discovery \"one of the most impactful security issues in recent memory.\" \"To our knowledge, frontier AI found these vulnerabilities before attackers did,\" OpenAI said. The cybersecurity firm Wiz wrote in a blog post : \"These findings rank among the most severe vulnerabilities discovered in PHP, and arguably in software history.\" Read more below. What is PHP? You've probably never heard of PHP, even though you've interacted with it for decades. PHP, which stands for Hypertext Preprocessor , is a programming language used by roughly 70% of websites whose server-side language is known. It has been around since the 1990s to help build websites, taking data and generating content sent to a browser. It's still used today for a variety of websites, including Wikipedia, WordPress blogs and shopping websites. How it works: HTML determines what a website displays. PHP works behind the scenes to collect information and generate content. What was the PHP vulnerability, exactly? AI researchers discovered two critical vulnerabilities in PHP that could have allowed an attacker to take control of a website's server without having legitimate access to it. Hackers could exploit the flaws, dubbed \" php2shell \" by cybersecurity firms, to steal information from those websites. Between the lines: The flaws went undetected for more than a decade because exploiting them required complex technical work that AI helped researchers discover, per Wiz. Why cybersecurity incidents are a big deal Thought bubble via Axios' Bradley Olson : The PHP vulnerabilities are so serious that the NSA warned website operators to take their sites down if they didn't have enough time to patch the bug. But the cybersecurity problems in recent days have extended far beyond that and include disruptions to developer platforms, data leaks on public schools, break-ins on public companies and more. A major Axios scoop also revealed that banks are detecting unauthorized third-party agent access inside customer accounts, a problem they are racing to contain. Cyber pros are calling the series of attacks \"Black October\" due to the sheer volume and the level of risk, although so far many organizations have mitigated the risk and avoided massive real-world harm. While defenders and AI companies have warned for months that a season of cyber emergencies would imminently arrive, they have also been working to secure some of the obscure software that still underpins much of the modern internet ecosystem. The bottom line: As attacks continue, experts have urged users to secure passwords, use a password manager and also to avoid panic. As with any cyber emergency, the true barometer of harm is the extent to which damage seeps into the real world, as it has done with ransomware that took hospital software offline or a pipeline system that disrupted fuel supplies briefly on the East Coast.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The code, called PHP, powers millions of websites, and the vulnerabilities could",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The code, called PHP, powers millions of websites, and the vulnerabilities could allow hackers to steal sensitive data or take control of affected servers. If exploited, the bugs could allow attackers to steal sensitive information, like yo",
+      "source": "Axios — Black October: why bugs discovered by OpenAI tech are creating a cyber emergency (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: A potential attack exploiting flaws in PHP emerged on Wednesday, which prompted",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: A potential attack exploiting flaws in PHP emerged on Wednesday, which prompted governments and companies to temporarily take their websites offline while they installed security patches. Dozens of websites in the U.S., U.K., and around the",
+      "source": "Axios — Black October: why bugs discovered by OpenAI tech are creating a cyber emergency (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The flaws went undetected for more than a decade because exploiting them require",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The flaws went undetected for more than a decade because exploiting them required complex technical work that AI helped researchers discover, per Wiz. Why cybersecurity incidents are a big deal Thought bubble via Axios' Bradley Olson : The ",
+      "source": "Axios — Black October: why bugs discovered by OpenAI tech are creating a cyber emergency (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: OpenAI's technology helped find the bugs, and the company called the discovery \"",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: OpenAI's technology helped find the bugs, and the company called the discovery \"one of the most impactful security issues in recent memory.\" \"To our knowledge, frontier AI found these vulnerabilities before attackers did,\" OpenAI said. The ",
+      "source": "Axios — Black October: why bugs discovered by OpenAI tech are creating a cyber emergency (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: As attacks continue, experts have urged users to secure passwords, use a passwor",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: As attacks continue, experts have urged users to secure passwords, use a password manager and also to avoid panic. As with any cyber emergency, the true barometer of harm is the extent to which damage seeps into the real world, as it has do",
+      "source": "Axios — Black October: why bugs discovered by OpenAI tech are creating a cyber emergency (2026-10-22)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-23T12:54:35+00:00"
+}
