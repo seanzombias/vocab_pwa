@@ -1,0 +1,59 @@
+{
+  "title": "Washington's message to AI execs: please shut up",
+  "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+  "pub_date": "2026-10-24",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Washington's message to AI execs: please shut up (2026-10-24)",
+  "body": "Washington has always viewed Silicon Valley as culturally strange, but the current crop of AI leaders is becoming a political liability, sources close to the White House and Congress tell Axios. Why it matters : Lawmakers, hill staffers and Washington insiders in both parties wish AI founders would do what every other major industry chief does: put a sock in it and just build their products — safely. By centering the conversation around digital sentience and global catastrophe, AI leaders are turning an already complicated regulatory debate into an impossible moral panic. State of play : Rather than leading the charge to persuade Americans about the benefits of AI, and the potential for shared prosperity — the core elements of any winning political campaign — industry leaders are constantly warning of its existential dangers. What they're saying: Lawmakers say the message from AI execs too often alternates between prosperity and doom, sometimes in the same public appearances. The whiplash creates adds to political instability in the face of an already powerful public backlash, lawmakers and regulators say. \"It's obvious that they're tripping over their own shoelaces in trying to sell the value of this to the public,\" Sen. John Curtis (R-Utah) told Axios. \"It's very hard to imagine a group right now that operates more in a vacuum, more out of touch with everyday Americans, than the AI industry.\" \"CEOs like Sam Altman are saying the world should accept some bad things happening for the benefits of this technology,\" Rep. Ro Khanna (D-Calif.) told Axios. \"You cannot trust billionaires to make decisions to keep us safe.\" \"Your instinct is to wreak havoc on the public SI discourse,\" Sen. Bernie Moreno (R-Ohio) said in a letter to Anthropic CEO Dario Amodei earlier this month, complaining about Amodei's \"panic-inducing commentary.\" Democrats also have paid close attention to just how much top AI and tech leaders have cozied up to President Trump. Many see opportunity in turning AI gaffes into an easy political win. \"The American people hate that Donald Trump is cozying up to tech billionaires, while AI threatens our jobs and livelihoods,\" Sen. Chris Murphy (D-Conn.) told Axios. \"Democrats need to make the AI industry's political money an issue, data centers an issue, and go on offense to protect workers and kids.\" The big picture: Friday night news dumps and consequential weekend blog posts have become Anthropic and OpenAI's bread and butter. Regulators are left wondering whether that's a feature or a bug: deliberate attempts to quietly course-correct damaging narratives ahead of IPOs, or the work of inexperienced teams struggling to navigate Washington. \"We can all speculate on what's going on, but all it does is have everybody wake up Monday morning and say 'these guys are awful, we've had enough,'\" one source citing conversations with Hill offices said. Behind the scenes: Administration officials are once again disgruntled with Anthropic, for two reasons. Anthropic CEO Dario Amodei attended a late September gathering with Trump but didn't disclose safety incidents involving Anthropic models that affected government web sites. The company told U.S. officials on Thursday, Oct. 8, then published a Friday evening blog post about it. \"They were hiding the ball,\" one official told Axios. Then the company added to the confusion with an AI safety bill that included something the company has broadly opposed: federal preemption of state AI laws. It also defined a catastrophic incident related to AI as causing 50 deaths or more, drawing backlash. Anthropic's Head of Public Affairs has since walked back parts of the bill, prompting growing distrust from Washington given the topsy-turvy nature of the company's advocacy. Anthropic says it briefed the White House and affected agencies on the safety incidents once their reviews were complete, and it is working with the Super Intelligence Force as it develops an incident reporting process. The industry is pushing for more clarity on incident reporting, and AI companies don't see the administration's process as straightforward. Provisions defining AI catastrophe in terms of deaths have been a part of landmark state regulations in California and elsewhere , according to Politico. Zoom in: Washington's headaches with AI execs also extend to OpenAI, and both companies are targets of a developing FTC investigation. OpenAI's legislative strategy has also raised eyebrows on the Hill and in state legislatures. In response to a blog post from Chris Lehane, the company's chief lobbyist, New York state assemblymember Alex Bores said OpenAI's policy proposals are vague and the company ultimately wants to block states from regulating. An OpenAI spokesperson said the company has engaged with both parties, the administration and statehouses across the country. The company is \"talking with people around the country\" about the benefits of AI. Reality check : Those efforts have so far failed to win hearts and minds, with another recent poll showing a majority of Americans see AI as bad for society. The bottom line: For AI CEOs, the lesson is increasingly clear: do less. Axios' Stef W. Kight contributed reporting.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Washington's headaches with AI execs also extend to OpenAI, and both companies a",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Washington's headaches with AI execs also extend to OpenAI, and both companies are targets of a developing FTC investigation. OpenAI's legislative strategy has also raised eyebrows on the Hill and in state legislatures. In response to a blo",
+      "source": "Axios — Washington's message to AI execs: please shut up (2026-10-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Lawmakers say the message from AI execs too often alternates between prosperity",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Lawmakers say the message from AI execs too often alternates between prosperity and doom, sometimes in the same public appearances. The whiplash creates adds to political instability in the face of an already powerful public backlash, lawma",
+      "source": "Axios — Washington's message to AI execs: please shut up (2026-10-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: For AI CEOs, the lesson is increasingly clear: do less. Axios' Stef W. Kight con",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: For AI CEOs, the lesson is increasingly clear: do less. Axios' Stef W. Kight contributed reporting.",
+      "source": "Axios — Washington's message to AI execs: please shut up (2026-10-24)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-24T12:17:21+00:00"
+}

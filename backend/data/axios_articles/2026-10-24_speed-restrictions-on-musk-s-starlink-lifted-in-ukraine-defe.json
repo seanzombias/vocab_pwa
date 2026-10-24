@@ -1,0 +1,39 @@
+{
+  "title": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
+  "url": "https://www.axios.com/2026/10/24/musk-ukraine-starlink-starshield-speed",
+  "pub_date": "2026-10-24",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says (2026-10-24)",
+  "body": "The speed of the Elon Musk-owned satellite system used by the Ukrainian military has been fully restored after two weeks of restrictions, the country's ministry of defense said in a statement on Saturday. Why it matters: The restrictions limited the Ukrainian military from using drones to intercept Russian attack drones, and from using its own drones to send supplies to soldiers on the front lines. The restrictions were at the center of the recent crisis between the Trump administration and the Ukrainian government. Ukrainian President Volodymyr Zelensky saw the restrictions as retaliation by President Trump and Musk for his refusal to halt strikes against Russian oil refineries. The crisis led to bipartisan criticism and pressure and generated a blame game between the White House and SpaceX founder and CEO Musk. Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to control and operate its reconnaissance and intercept drones. When Starlink doesn't operate at full capacity, Ukraine's ability to gather intelligence, use interceptor drones and conduct long-range strikes against Russia is impeded. Ukraine relies on two satellite systems: One is SpaceX's Starlink, which it uses for communications, ground forces, logistics and defensive drones — ones that shoot down incoming drones. The other is Starshield, which is controlled by the U.S. government and used for offensive military purposes. President Trump denied that the White House was involved in restricting the system and for several days claimed it was fully back on. On Friday Trump denied reports that he spoke to Musk, but said that if the system was still restricted he would speak to Musk about it. What they are saying: \"Our monitoring systems are detecting a restoration of Starlink/Starshield speeds. We are recording speeds exceeding 400 kilometers per hour, with stable connectivity,\" the Ukrainian ministry of defense said. The ministry said the restrictions were lifted as a result of \"direct dialogue\" and \"firm stance at the highest level\" by Zelensky.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The restrictions limited the Ukrainian military from using drones to intercept R",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The restrictions limited the Ukrainian military from using drones to intercept Russian attack drones, and from using its own drones to send supplies to soldiers on the front lines. The restrictions were at the center of the recent crisis be",
+      "source": "Axios — Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says (2026-10-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The Ukrainian military uses SpaceX's Starlink satellite communications system to control and operate its reconnaissance and intercept drones. When Starlink doesn't operate at full capacity, Ukraine's ability to gather intelligence, use inte",
+      "source": "Axios — Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says (2026-10-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-24T12:17:21+00:00"
+}
