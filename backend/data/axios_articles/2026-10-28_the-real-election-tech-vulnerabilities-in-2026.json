@@ -1,0 +1,50 @@
+{
+  "title": "The real election tech vulnerabilities in 2026",
+  "url": "https://www.axios.com/2026/10/28/election-security-paper-ballots-audits",
+  "pub_date": "2026-10-28",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — The real election tech vulnerabilities in 2026 (2026-10-28)",
+  "body": "Some of the biggest vulnerabilities in election security are lying in plain sight. Why it matters: There's no credible evidence that voting-system vulnerabilities have been exploited to change election results. But researchers have found isolated flaws that threaten ballot secrecy, accurate vote recording and independent verification of results. The big picture: Voter-marked paper ballots and rigorous audits are the gold standard for trustworthy elections, election-security researchers and activists tell Axios. Researchers have challenged unfounded claims that elections were stolen through hacking while also warning against dismissing real vulnerabilities in voting systems. \"A vulnerability is not an exploit,\" Philip Stark, a retired UC Berkeley statistics professor who developed an audit protocol for checking paper ballots, said at a recent conference. \"You can leave a key under your doormat, and that doesn't mean someone takes the key and opens your door.\" Zoom in: Election security experts interviewed by Axios found these vulnerabilities in parts of the U.S.: 1. Paperless voting: Louisiana is the last remaining state to use paperless voting machines statewide on Election Day. Voters press buttons to select their candidates, and the machines record their votes electronically without producing a paper ballot. That leaves no independent record to check whether votes were counted correctly. Most other states retired the machines after researchers exposed their vulnerabilities to hacking and the inability to independently audit their results. Election security expert and computer scientist J. Alex Halderman, of the University of Michigan, called Louisiana \"the dinosaur of American elections.\" Louisiana's secretary of state's office declined an interview request, but in a press release said the state is expected to award a new election equipment contract at the end of the year. 2. Ballot-marking devices (BMDs) let voters select candidates on a touchscreen before printing a paper ballot. Researchers warn the machines are vulnerable to hacking and errors, and studies show voters often fail to catch mistakes on the printout. A demonstration at the hacktivist conference Def Con in 2025 showed how a machine from Georgia — which an Auburn professor got through court-sanctioned access — could be manipulated by altering what the voter sees and the choices they mark or by changing the vote tally. \"That's the kind of thing that our chief information officer and his team does track,\" said Blake Evans, executive director for Georgia's secretary of state office, when asked broadly about vulnerabilities exposed at Def Con. \"[W]e do have the physical security with the fields and the counties that store their equipment securely in secure places.\" Roughly 23% of U.S. registered voters live in jurisdictions that exclusively use BMDs for in-person voting, according to the nonprofit Verified Voting . BMDs are an essential accessibility tool for voters who can't mark a paper ballot on their own, but security researchers favor offering them alongside hand-marked paper ballots. 3. A software flaw in Georgia's vote-counting system could be used to expose how individual voters cast their ballots, according to research from Princeton University. Researcher Max Springer used public voter records and roughly $20 in AI credits to reconstruct the order in which nearly all in-person ballots were cast in the Georgia counties he studied. With an additional public record, Springer was able to match individual voters to their ballots, as he demonstrated with two counties and 2,200 votes in his study. He wrote that the method could be applied to other counties. Researchers first exposed the bug in 2022 , and Dominion Voting Systems (now Liberty Vote) released a patch the following year. At the time, about 21 states were using the software. There's no centralized database that tracks when these software updates are implemented around the country. The Georgia secretary of state's office said \"there haven't been any significant software updates since 2019.\" State of play: Georgia's secretary of state's office said it has shared guidance with counties to address the ballot secrecy issue, and it plans to limit the exposure by not making all of its election data public in November. Liberty Vote declined to comment. In a post on its website, the company says every \"Liberty Vote system is tested, certified, and verified to meet the highest standards of election security and reliability in accordance with all applicable state and federal requirements.\" The bottom line: Stark says voters should be aware of two things that can be simultaneously true: \"The systems are garbage from a software and cybersecurity point of view. There's lots of ways that they can fail.\" \"And there is no direct evidence that anything has happened on a large scale that changed the outcome of say the presidential election or federal election.\"",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: There's no credible evidence that voting-system vulnerabilities have been exploi",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: There's no credible evidence that voting-system vulnerabilities have been exploited to change election results. But researchers have found isolated flaws that threaten ballot secrecy, accurate vote recording and independent verification of ",
+      "source": "Axios — The real election tech vulnerabilities in 2026 (2026-10-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Election security experts interviewed by Axios found these vulnerabilities in pa",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Election security experts interviewed by Axios found these vulnerabilities in parts of the U.S.: 1. Paperless voting: Louisiana is the last remaining state to use paperless voting machines statewide on Election Day. Voters press buttons to ",
+      "source": "Axios — The real election tech vulnerabilities in 2026 (2026-10-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Stark says voters should be aware of two things that can be simultaneously true:",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Stark says voters should be aware of two things that can be simultaneously true: \"The systems are garbage from a software and cybersecurity point of view. There's lots of ways that they can fail.\" \"And there is no direct evidence that anyth",
+      "source": "Axios — The real election tech vulnerabilities in 2026 (2026-10-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-28T14:36:33+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ukraine's Starlink woes spur Europe to look for non-Musk alternatives",
+  "url": "https://www.axios.com/2026/10/28/starlink-musk-ukraine-war-satcom",
+  "pub_date": "2026-10-28",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Ukraine's Starlink woes spur Europe to look for non-Musk alternatives (2026-10-28)",
+  "body": "Rival satellite companies are jockeying to loosen Elon Musk's grip on battlefield communications after his company's restrictions on Ukraine's Starlink service shook officials in Europe and the U.S. Why it matters: The episode, which temporarily disrupted Ukraine's drone usage, shows how vulnerable a military can be to the whims of a single company or market dominator. State of play: Musk's SpaceX, which is the parent company of Starlink, is by far the world's leader in space-based connectivity with more than 11,000 satellites, per the American Enterprise Institute's data . Eutelsat, a France-based SATCOM firm, is behind them with more than 600 satellites in its OneWeb network. This summer, Starlink announced it hit 12 million customers across more than 160 countries and territories. SpaceX's massive lead has made it difficult for European countries that want to establish independence from the Musk-led company. Driving the news: Now, non-U.S. firms seeking to compete with SpaceX are pitching their services with more urgency. Last week, Finnish firms ICEYE and Nokia announced an agreement with Ukraine's defense ministry to explore \"sovereign satellite communications.\" The duo's initial satellites are \"expected to launch in 2028,\" an ICEYE spokesperson told Axios, adding the need for reliable satellite communications has been \"evident for years, especially in Europe.\" \"Modern warfare has proven that reliable communications are a matter of national security,\" Ukrainian President Volodymyr Zelenskyy said in the ICEYE-and-Nokia announcement. \"We must all rely on capabilities that we can control.\" Zoom in: The Wall Street Journal reported last week that Musk ordered the slowdown of Ukraine's Starlink service. Other outlets have said the White House was involved, which President Trump denied. Musk responded on Oct. 24 that Ukraine \"violated Starlink terms of service\" by using it for offensive drone strikes. That \"loophole,\" he added, was recently \"closed.\" Follow the money: After Starlink's connection was throttled, shares in Eutelsat spiked . In an interview on French TV last week, Eutelsat CEO Jean-François Fallacher said the company's service is already available in Ukraine and its service can be used for drones. \"If one day we wanted to decide to cut off a country or to no longer offer services in a country, it is not a decision made by the CEO alone. It is a decision made by our board of directors with a traditional governance system that we find in Europe,\" Fallacher said, according to a translation. Threat level: Rebecca Wasser, the defense lead at Bloomberg Economics, said the Starlink incident shows a \"loss of faith\" not only in the U.S. security commitment, but also in a U.S. company's ability to provide key services. \"I think we are going to see more of this push towards European sovereign capability when it comes down to space-based communications,\" Wasser told Axios . Our thought bubble: This is the latest development in battlefield networking and coordination, without which troops can fight but cannot win. The bottom line: \"Satellite communications are no longer simply a support function,\" Sen. Richard Blumenthal (D-Conn.) wrote in a letter to Defense Secretary Pete Hegseth last week. \"The events in Ukraine show how a single point of control can be turned against the forces that depend on it.\"",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The episode, which temporarily disrupted Ukraine's drone usage, shows how vulner",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The episode, which temporarily disrupted Ukraine's drone usage, shows how vulnerable a military can be to the whims of a single company or market dominator. State of play: Musk's SpaceX, which is the parent company of Starlink, is by far th",
+      "source": "Axios — Ukraine's Starlink woes spur Europe to look for non-Musk alternatives (2026-10-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Now, non-U.S. firms seeking to compete with SpaceX are pitching their services w",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Now, non-U.S. firms seeking to compete with SpaceX are pitching their services with more urgency. Last week, Finnish firms ICEYE and Nokia announced an agreement with Ukraine's defense ministry to explore \"sovereign satellite communications",
+      "source": "Axios — Ukraine's Starlink woes spur Europe to look for non-Musk alternatives (2026-10-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The Wall Street Journal reported last week that Musk ordered the slowdown of Ukr",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The Wall Street Journal reported last week that Musk ordered the slowdown of Ukraine's Starlink service. Other outlets have said the White House was involved, which President Trump denied. Musk responded on Oct. 24 that Ukraine \"violated St",
+      "source": "Axios — Ukraine's Starlink woes spur Europe to look for non-Musk alternatives (2026-10-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"Satellite communications are no longer simply a support function,\" Sen. Richard",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"Satellite communications are no longer simply a support function,\" Sen. Richard Blumenthal (D-Conn.) wrote in a letter to Defense Secretary Pete Hegseth last week. \"The events in Ukraine show how a single point of control can be turned aga",
+      "source": "Axios — Ukraine's Starlink woes spur Europe to look for non-Musk alternatives (2026-10-28)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-28T14:36:33+00:00"
+}
