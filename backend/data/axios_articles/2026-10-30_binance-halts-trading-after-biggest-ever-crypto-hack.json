@@ -1,0 +1,39 @@
+{
+  "title": "Binance halts trading after biggest-ever crypto hack",
+  "url": "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
+  "pub_date": "2026-10-30",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Binance halts trading after biggest-ever crypto hack (2026-10-30)",
+  "body": "Binance halted trading Thursday after hackers allegedly linked to North Korea stole more than $6 billion, the largest crypto hack in history. Why it matters : The attack comes after a wave of high-profile cyber intrusions and data breaches during \"Black October,\" when a series of security incidents and AI -discovered bugs triggered fears of a global crisis. Driving the news: Binance co-founder Yi He said on X that the crypto exchange had suspended deposits and withdrawals. \"User funds are safe,\" she wrote. \"Binance will cover all hacking losses.\" An estimated $6.3 billion were drained from wallets in the incident, Binance said , although the exchange and partners managed to freeze about $3 billion that can potentially be recovered. \"This is unprecedented,\" said Kevin March, a co-founder of JPEG Trading, a cryptocurrency trading firm that closely tracked the hack to monitor market conditions. An initial investigation found linked the hack to a compromised laptop from one Binance engineer. That access allowed an attacker to gain access to Binance's systems to make withdrawals, the exchange said. Zoom in : Researchers from TRM Labs and Pangolin Intelligence found that the attack appeared to be the work of a North Korean hacking collective. \"This was absolutely North Korea,\" Nick Carlsen, a senior TRM investigator, told The Wall Street Journal . Representatives of North Korea have previously denied allegations of hacking crypto exchanges. The country has turned hacking and scams into an industrial-scale scourge, focusing on crypto heists and a widespread practice of tricking Western companies into hiring North Korean workers . A Binance spokesperson said the exchange's security teams are \"reviewing all relevant information with urgency.\" The big picture: If estimates hold up, the suspected Binance hack would be the biggest crypto attack in history. In 2025, North Korea-linked hackers stole about $1.5 billion worth of crypto from the Bybit exchange. Between the lines : Crypto is a relatively common hacking target, but massive attacks can leave smaller exchanges vulnerable to collapse due to the potential for panicked withdrawals. Binance's size makes it more insulated, March said. \"If this happened to any other business in crypto other than Binance, it would've been catastrophic.\" The exchange is capable of covering potential losses through its insurance and balance sheet, he said, although broad reverberations in crypto markets and prices remain possible. The intrigue: Reports of a breach came just hours after Polymarket confirmed it was facing a cyberattack, prompting the decentralized predictions market operator to pause trading for an hour after an attacker made off with at least $2.7 million in user funds. Researchers at Hudson Rock tied the Polymarket incident to a breach involving third-party website monitoring tool DebugBear , which said earlier Thursday it was responding to its own security incident. What to watch: Binance has yet to confirm who may be behind the attack and the total value of the currencies suspected hackers made off with. Editor's note: This story has been updated with a statement from Binance and findings of security researchers.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Binance co-founder Yi He said on X that the crypto exchange had suspended deposi",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Binance co-founder Yi He said on X that the crypto exchange had suspended deposits and withdrawals. \"User funds are safe,\" she wrote. \"Binance will cover all hacking losses.\" An estimated $6.3 billion were drained from wallets in the incide",
+      "source": "Axios — Binance halts trading after biggest-ever crypto hack (2026-10-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Reports of a breach came just hours after Polymarket confirmed it was facing a c",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Reports of a breach came just hours after Polymarket confirmed it was facing a cyberattack, prompting the decentralized predictions market operator to pause trading for an hour after an attacker made off with at least $2.7 million in user f",
+      "source": "Axios — Binance halts trading after biggest-ever crypto hack (2026-10-30)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-30T14:38:44+00:00"
+}
