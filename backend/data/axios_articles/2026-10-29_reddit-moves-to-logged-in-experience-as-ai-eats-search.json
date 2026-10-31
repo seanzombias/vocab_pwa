@@ -1,0 +1,102 @@
+{
+  "title": "Reddit moves to logged-in experience as AI eats search",
+  "url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
+  "pub_date": "2026-10-29",
+  "topics": [
+    "llm"
+  ],
+  "tags": [
+    "AI",
+    "LLM"
+  ],
+  "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+  "body": "Reddit on Thursday said it's moving to become a primarily logged-in experience, marking one of the most significant shifts in its 21-year history. Why it matters: Reddit has long championed the open web. Now, it's pushing to build a more direct relationship with users while also protecting its data from increased scraping in the AI era. Driving the news: In an interview Thursday, Reddit co-founder and CEO Steve Huffman said the company is making the change to improve its user experience, bolster its ads business and prevent bots from scraping its proprietary data. Chief operating officer Jen Wong told Axios the move doesn't represent a change in strategy as the company has always focused on building a direct destination. \"It's just that in the last 10 years, because our [data] corpus was open, we got a lot of search traffic, so that became part of the equation\" but didn't change the company's mission. Zoom in: Huffman expressed confidence that the change would ultimately improve engagement and monetization, even as changes to traditional search continue to impact user growth in the U.S. \"When users log in, they spend more time on Reddit, and we can we better know their interests, so we can target ads better,\" he said. He also noted that the short-term risk is limited because \"the vast majority of engagement and over 80% of our monetization comes from our app and logged-in users.\" In a shareholder letter, Reddit acknowledged that search referral traffic was \"down meaningfully in Q3\" and said daily users could decline by a \"low-double-digit percentage\" in Q4 if search referral trends persist. How it works: Reddit will begin testing the fully logged-in experience this quarter outside the U.S. and collect data on the best approach before it rolls out broader changes gradually. Logged-in users can get tailored content, feeds and recommended communities based on their activity and interests, although they can opt out of personalization. The company is still working through what content will be available to users who do not login. Participation features, such as commenting and content ranking, will continue to be accessible only to logged-in users. Its homepage will still be accessible to logged-out visitors. People accessing the platform via search engines or shared links will still be able to see that linked content. Huffman said the company will monitor the conversion rate to logged-in users as one metric of success. Between the lines: Reddit has long prioritized user privacy and has supported user anonymity as a way to encourage authentic expression. Logged-in users will not be required to reveal their real name or real-world identity, the company said. The company is relaunching its incognito browsing mode within its app, which lets users browse and search without affecting their logged-in accounts. But the platform will be read-only in incognito mode, meaning users can't comment or engage. Follow the money: The changes will make user personalization more central to the Reddit experience, which Wong said will bolster the company's ads business. Logged-in user engagement is about five times that of logged-out users, Wong said. \"They see more impressions, and therefore, yield more business outcomes for advertisers,\" she noted. Performance advertising, which now amounts to more than 60% of Reddit's ad revenue, is the fastest-growing part of the company's business. Reality check: Most other major consumer internet platforms have already made this shift. Huffman said he personally resisted the changes because of his belief in the open internet. He ultimately came around because Reddit's scale made personalization more important for users today and because protecting the platform's content from unauthorized scraping has become more urgent. The company said most of its unauthorized scrapes are of content that lives outside of the logged-in experience on the open web. The big picture: The change was announced alongside Reddit's Q3 earnings results, which saw the ads business grow a whopping 54% year over year. The company beat Wall Street estimates on revenue and earnings growth, but missed expectations on U.S. user growth amid weakened search traffic. Since going public in March 2024, Reddit's ads business has nearly tripled. The company earned $222.7 million in ad revenue in Q1 2024, compared with $847 million in Q3 this year. The vast majority of Reddit's revenue (94.7%) comes from ads. Zoom out: Reddit believes its content will become more valuable in the AI era, as people look for authentic human recommendations and content to validate information from chatbots. \"We are a collection of human experiences and preferences that is extremely vast and fresh, and I don't think there's anything comparable to it,\" Wong said. As of Q3, Reddit has more than 27 billion posts and comments, an unprecedented trove of human data. Reddit will still license its content to third parties and rely on those agreements to set equitable terms for scraping and content usage. In its earnings release, the company said revenue outside of advertising, which includes data licensing, totaled $48 million in third quarter, up 35% year over year. What to watch: The shift to logged-in users will help Reddit be more intentional about third-party access to its data. Huffman explained the way that data is used and displayed on other platforms can impact the core experience of Reddit. Reddit announced an expanded partnership with Google in 2024, reportedly with $60 million annually. It announced a similar deal with OpenAI later that year. The company sued Anthropic and Perplexity in 2025 for unauthorized scraping. The bottom line: Huffman said the shift is not a response to Google Search changes, but rather \"about making the best version of Reddit.\" In five years, \"I want Reddit to be more Reddit,\" he remarked, saying he hopes the changes help users lean into the platform's core experiences, like intentional communities and up-or-down-ranking content.",
+  "vocab_count": 7,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Reddit has long championed the open web. Now, it's pushing to build a more direc",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Reddit has long championed the open web. Now, it's pushing to build a more direct relationship with users while also protecting its data from increased scraping in the AI era.",
+      "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: In an interview Thursday, Reddit co-founder and CEO Steve Huffman said the compa",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: In an interview Thursday, Reddit co-founder and CEO Steve Huffman said the company is making the change to improve its user experience, bolster its ads business and prevent bots from scraping its proprietary data. Chief operating officer Je",
+      "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Reddit believes its content will become more valuable in the AI era, as people l",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Reddit believes its content will become more valuable in the AI era, as people look for authentic human recommendations and content to validate information from chatbots. \"We are a collection of human experiences and preferences that is ext",
+      "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Huffman expressed confidence that the change would ultimately improve engagement",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Huffman expressed confidence that the change would ultimately improve engagement and monetization, even as changes to traditional search continue to impact user growth in the U.S. \"When users log in, they spend more time on Reddit, and we c",
+      "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Reddit has long prioritized user privacy and has supported user anonymity as a w",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Reddit has long prioritized user privacy and has supported user anonymity as a way to encourage authentic expression. Logged-in users will not be required to reveal their real name or real-world identity, the company said. The company is re",
+      "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Huffman said the shift is not a response to Google Search changes, but rather \"a",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Huffman said the shift is not a response to Google Search changes, but rather \"about making the best version of Reddit.\" In five years, \"I want Reddit to be more Reddit,\" he remarked, saying he hopes the changes help users lean into the pla",
+      "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Most other major consumer internet platforms have already made this shift. Huffm",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Most other major consumer internet platforms have already made this shift. Huffman said he personally resisted the changes because of his belief in the open internet. He ultimately came around because Reddit's scale made personalization mor",
+      "source": "Axios — Reddit moves to logged-in experience as AI eats search (2026-10-29)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-31T13:57:27+00:00"
+}

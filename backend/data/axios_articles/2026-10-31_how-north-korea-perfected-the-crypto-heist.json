@@ -1,0 +1,59 @@
+{
+  "title": "How North Korea perfected the crypto heist",
+  "url": "https://www.axios.com/2026/10/31/north-korea-hackers-binance-crypto",
+  "pub_date": "2026-10-31",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — How North Korea perfected the crypto heist (2026-10-31)",
+  "body": "The world's biggest crypto heist is the latest feat by North Korean hackers who have spent years perfecting an arsenal of financial theft, social engineering and sophisticated cyberattacks. Why it matters : The suspected North Korean hackers behind the $6.3 billion Binance theft appear to have combined familiar hacking tactics with extraordinary speed and automation — raising fresh questions about how AI could supercharge their already sophisticated operations. Driving the news : Binance said late Thursday that its blockchain partners have frozen at least $3 billion of those $6.3 billion assets on-chain so far, and it believes the hackers gained initial access by compromising one engineer's laptop alongside other \"points of breach.\" Several blockchain investigation firms have tied the hack to TraderTraitor, a group linked to the North Korean government's Lazarus Group collective. Binance co-CEO Richard Teng said in a video on social media Friday that the attackers also used a \"self-destruct mechanism that destroyed tooling and traces\" as they went, making it more difficult to investigate what happened. \"This was a complex attack,\" he said. The big picture: North Korean government hackers have spent more than a decade carrying out financial heists and disruptive cyberattacks, and they have turned cryptocurrency theft into an industrial-scale operation. In 2016, hackers attempted to steal nearly $1 billion from Bangladesh's central bank, successfully making off with $81 million. In 2017, North Korea was blamed for the WannaCry ransomware outbreak , which disrupted hundreds of thousands of computers across more than 150 countries. In recent years, the country has intensified its focus on pillaging crypto exchanges in part because the digital assets can more easily be transferred and laundered across borders — although those attacks tend to leave more of a paper trail. The same North Korean hacking group, TraderTraitor, also set the last record for the world's largest crypto heist last year when they stole $1.5 billion from the ByBit crypto exchange. Between the lines: North Korean hackers are only getting better and faster at their attacks, experts tell Axios. \"They're essentially crowding out other threat actors by stealing the bulk of the value that's taken in any given year,\" Eric Jardine, head of research at Chainalysis, told Axios. Zoom in : Chainalysis said in a research report Friday that hackers made off with the billions of funds in as little as 20 minutes. The hackers also laundered and destroyed evidence of their operations at an unprecedented speed, suggesting they used automation throughout the heist, researchers found. Researchers at TRM Labs found that the hackers started preparing for the attack just 36 hours before it began. \"There were transactions happening with a frequency and a scale that just meant there could not have been someone involved in the approval of these,\" Jardine said. \"It had to have been done by a computer.\" The intrigue: Social engineering and automation has been hallmarks of the latest North Korean cyberattacks, Vijay Balasubramaniyan, CEO and co-founder of Pindrop Security, told Axios. Advances in AI-powered video and audio tools have allowed North Koreans to vastly expand their widespread IT worker fraud , where American companies are tricked into hiring North Koreans for IT jobs. Balasubramaniyan said last year, North Korean job applicants made up 1 in every 343 applications. This year, across their customer base, these applicants make up 1 in 47. \"It is absolutely underpinning everything,\" Balasubramaniyan said. \"It's just not AI, it's the scale of AI — you have so many AI choices that the number of such tools is crazy, the cost is so cheap and it's becoming an ecosystem.\" What to watch: Law enforcement and blockchain investigators may still be able to recover the other half of the stolen Binance funds if they enter specific exchange infrastructure and operators can move quickly enough to freeze them, Jardine said. \"It's still early days,\" he added. Go deeper: How North Korea's IT army is hacking the global job market",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Social engineering and automation has been hallmarks of the latest North Korean",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Social engineering and automation has been hallmarks of the latest North Korean cyberattacks, Vijay Balasubramaniyan, CEO and co-founder of Pindrop Security, told Axios. Advances in AI-powered video and audio tools have allowed North Korean",
+      "source": "Axios — How North Korea perfected the crypto heist (2026-10-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: North Korean hackers are only getting better and faster at their attacks, expert",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: North Korean hackers are only getting better and faster at their attacks, experts tell Axios. \"They're essentially crowding out other threat actors by stealing the bulk of the value that's taken in any given year,\" Eric Jardine, head of res",
+      "source": "Axios — How North Korea perfected the crypto heist (2026-10-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: How North Korea's IT army is hacking the global job market",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: How North Korea's IT army is hacking the global job market",
+      "source": "Axios — How North Korea perfected the crypto heist (2026-10-31)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-10-31T13:57:27+00:00"
+}
