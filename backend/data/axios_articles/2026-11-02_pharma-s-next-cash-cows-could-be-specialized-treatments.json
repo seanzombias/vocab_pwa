@@ -1,0 +1,50 @@
+{
+  "title": "Pharma's next cash cows could be specialized treatments",
+  "url": "https://www.axios.com/2026/11/02/pharma-profits-specialized-treatments-blockbuster-drugs",
+  "pub_date": "2026-11-02",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Pharma's next cash cows could be specialized treatments (2026-11-02)",
+  "body": "Pharmaceutical companies facing a steep patent cliff are concluding the key to future profits may be customized treatments tailored to patients' genes and lifestyles — not blockbusters aimed at large patient populations. Why it matters: The pivot could influence which diseases get treated in the decades to come, and how much the health system pays. The stakes are huge. More than $500 billion in brand-name drug sales is potentially at risk from generic competition between 2026 and 2032, according to the consulting firm Evaluate. The latest: The race is on to find new treatments that each generate at least $2.4 billion in global sales, a new Iqvia Institute report finds. They're increasingly specialty treatments, biologics and rare disease drugs — with a small group of flagship products accounting for an outsized share of industry sales. GLP-1 drugs like Novo Nordisk's Ozempic and Eli Lilly's Zepbound now define that elite category. The next wave could include \"biological missiles\" that combine antibodies with chemotherapy to target specific cancer cells. \"As precision medicine continues to advance, similar approaches may extend beyond oncology into areas such as immunology, metabolic disease and neurology,\" the report states. Reality check: It's not clear whether all of the innovation will cure more people, or just make health care more expensive. Novel RNA drugs and cell and gene therapies are expensive, hard to make and target small groups of patients. Challenges identifying eligible patients and getting insurers to pay for treatments have already revealed a disconnect between promising R&D and patient benefit. Widespread concern over high drug prices will force manufacturers to find more unmet needs and build sales more quickly after a drug's launch, according to the report. Context: Top-selling drugs historically were aimed at large patient populations with chronic conditions like high cholesterol. The ulcer drug Tagamet became the first to exceed $1 billion in sales in 1986. Over time, cancer and immunology drugs became major drivers of growth, followed by GLP-1s, which are sparking huge demand for conditions beyond obesity and diabetes but also driving up health costs. Iqvia found that blockbusters on average maintain a dominant market position for 12.1 years before losing market exclusivity, or nearly 80% of their commercial life. Specialty drugs for rare or complex diseases lasted even longer. Yes, but: A substantial number of top-sellers will lose patent protection and face potential competition from generics between 2028 and 2036. Bristol Myers Squibb's blood thinner Eliquis and Merck's cancer blockbuster Keytruda, which are both due to lose market exclusivity in 2028, accounted for a combined $65 billion in global sales in 2024. Follow the money: The search for new blockbusters is playing out in a highly charged environment. Drugmakers and biotechs not only have to figure out how to grow outside of crowded categories but also how much payers value new classes of drugs, Evaluate says . There's also uncertainty over China , where Western drug giants have invested tens of billions of dollars to bolster their product pipelines. Evaluate predicts that only autoimmune disease drugs will come close to rivaling GLP-1s, because of their potential to treat dozens of conditions. One example is AbbVie's injectable Skyrizi for plaque psoriasis, arthritis, Crohn's disease and ulcerative colitis, which could find more uses and generate more than $33 billion in sales in 2032. Iqvia identifies RNA therapeutics as a potentially important middle ground between traditional \"small molecule\" drugs for chronic diseases and highly specialized genetic treatments. These drugs can target disease-causing mutations across many genes and conditions, with applications for central nervous system, cardiovascular and kidney disease, as well as rare conditions. The bottom line: The success at innovating while also making sure patients have access to the new treatments \"will ultimately determine whether the growth in blockbuster medicines observed over the past 25 years can continue at its extraordinary pace,\" Iqvia concludes.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The pivot could influence which diseases get treated in the decades to come, and",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The pivot could influence which diseases get treated in the decades to come, and how much the health system pays. The stakes are huge. More than $500 billion in brand-name drug sales is potentially at risk from generic competition between 2",
+      "source": "Axios — Pharma's next cash cows could be specialized treatments (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The success at innovating while also making sure patients have access to the new",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The success at innovating while also making sure patients have access to the new treatments \"will ultimately determine whether the growth in blockbuster medicines observed over the past 25 years can continue at its extraordinary pace,\" Iqvi",
+      "source": "Axios — Pharma's next cash cows could be specialized treatments (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: It's not clear whether all of the innovation will cure more people, or just make",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: It's not clear whether all of the innovation will cure more people, or just make health care more expensive. Novel RNA drugs and cell and gene therapies are expensive, hard to make and target small groups of patients. Challenges identifying",
+      "source": "Axios — Pharma's next cash cows could be specialized treatments (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-02T17:30:03+00:00"
+}
