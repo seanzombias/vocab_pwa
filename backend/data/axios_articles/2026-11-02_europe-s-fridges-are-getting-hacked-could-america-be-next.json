@@ -1,0 +1,72 @@
+{
+  "title": "Europe's fridges are getting hacked. Could America be next?",
+  "url": "https://www.axios.com/2026/11/02/europe-supermarket-fridges-attacks-food",
+  "pub_date": "2026-11-02",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Europe's fridges are getting hacked. Could America be next? (2026-11-02)",
+  "body": "Cyberattacks are wreaking havoc on an unlikely target across Europe: supermarket refrigerators. Why it matters: Hackers are turning everyday, internet-connected equipment into physical hazards, spoiling food and causing costly damage. U.S. supermarkets use similar technology, and the Pentagon is already investigating suspected cyberattacks involving refrigeration systems at six military commissaries. Driving the news: Suspected cyberattacks sent refrigerator and freezer temperatures soaring at dozens of European supermarkets overnight, spoiling food and threatening costly losses. Grocery chains Ahold Delhaize and Colruyt reported incidents affecting stores in Belgium and Luxembourg, while Swedish chains ICA and Coop reported similar disruptions, per Reuters . A Belgian company that operates Delhaize's refrigeration systems said hackers switched the units into defrost mode. Here's what to know. Supermarkets hacked in Europe Supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg, the Netherlands and Sweden reported cyberattacks or IT disruptions, forcing some stores to discard spoiled food. Dozens of stores were affected, including an ICA supermarket in Sweden that said hackers set its refrigerator and freezer temperatures to 122°F, per ABC News . Authorities haven't shared who specifically is behind the attacks, per NBC News . Empty refrigerated shelves at a Proxy Delhaize supermarket in Maleizen, Belgium, following a refrigeration outage. Photo: Wiktor Dabkowski/Bloomberg via Getty Images Flashback: The incidents follow similar attacks in France last month, when hackers seized control of hundreds of refrigeration units, causing fires and spoiling food. It's unclear whether the attacks are connected. What they're saying: France's finance minister Roland Lescure said at the time that the attack \"touches the heart of our food security.\" \"It was a wake-up call for everyone,\" he said. How fridges get hacked How it works: Hackers aren't opening up each individual fridge and setting new temperatures. Instead, they target computer systems that control the temperatures of multiple refrigerated units remotely. Many stores use internet-connected controllers — small computer-like devices, sometimes with touchscreens — that allow maintenance workers to remotely monitor temperatures without having to visit every store. Hackers can exploit software flaws or stolen login credentials to change temperatures or activate defrost functions. Case in point: Danish manufacturer Danfoss said it identified security flaws last year and had long recommended customers install updates, according to The Guardian . In the Netherlands, some affected refrigeration systems used default passwords and were connected to unsecured networks. A supermarket manager discards spoiled food following a refrigeration outage linked to suspected cyberattacks across Europe on Nov. 2 in Belgium. Photo: Wiktor Dabkowski/Bloomberg via Getty Images The cost of hacked refrigerators Spoiled food: If temperatures rise overnight, the stores end up finding ruined meat, dairy and frozen products the next morning. In some French supermarkets, the soaring hot temperatures lasted for six hours, per Reuters. Spoiled food becomes unsafe to sell. Overheating and fires: Refrigerators can also overheat and cause fires. French prosecutors confirmed that the October attacks caused fires and food losses. Supermarkets lose money: Some stores lost more than €130,000. Two markets in the French region of Alsace reported combined losses of €270,000, per The Guardian . Intermarché's parent company estimated its nationwide losses in the tens of millions of euros. Yes, but: Not every attack causes extensive damage. In Estonia, a refrigeration company said technicians responded to the breach within minutes and halted any massive losses, per AP . Fridge attacks in the U.S. Zoom out: Many U.S. supermarkets use refrigeration technology similar to that found in Europe. Danfoss markets refrigeration monitoring and management systems in the U.S. Copeland, a U.S.-based refrigeration technology company, sells controllers that manage the grocery store display cases and walk-in refrigerators. What we're watching: The Pentagon is investigating whether cyberattacks caused freezer malfunctions at at least six U.S. military commissaries in August.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Hackers are turning everyday, internet-connected equipment into physical hazards",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Hackers are turning everyday, internet-connected equipment into physical hazards, spoiling food and causing costly damage. U.S. supermarkets use similar technology, and the Pentagon is already investigating suspected cyberattacks involving ",
+      "source": "Axios — Europe's fridges are getting hacked. Could America be next? (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Suspected cyberattacks sent refrigerator and freezer temperatures soaring at doz",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Suspected cyberattacks sent refrigerator and freezer temperatures soaring at dozens of European supermarkets overnight, spoiling food and threatening costly losses. Grocery chains Ahold Delhaize and Colruyt reported incidents affecting stor",
+      "source": "Axios — Europe's fridges are getting hacked. Could America be next? (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: The incidents follow similar attacks in France last month, when hackers seized c",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: The incidents follow similar attacks in France last month, when hackers seized control of hundreds of refrigeration units, causing fires and spoiling food. It's unclear whether the attacks are connected.",
+      "source": "Axios — Europe's fridges are getting hacked. Could America be next? (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Many U.S. supermarkets use refrigeration technology similar to that found in Eur",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Many U.S. supermarkets use refrigeration technology similar to that found in Europe. Danfoss markets refrigeration monitoring and management systems in the U.S. Copeland, a U.S.-based refrigeration technology company, sells controllers that",
+      "source": "Axios — Europe's fridges are getting hacked. Could America be next? (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: France's finance minister Roland Lescure said at the time that the attack \"touch",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: France's finance minister Roland Lescure said at the time that the attack \"touches the heart of our food security.\" \"It was a wake-up call for everyone,\" he said. How fridges get hacked How it works: Hackers aren't opening up each individua",
+      "source": "Axios — Europe's fridges are getting hacked. Could America be next? (2026-11-02)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-03T15:32:07+00:00"
+}
