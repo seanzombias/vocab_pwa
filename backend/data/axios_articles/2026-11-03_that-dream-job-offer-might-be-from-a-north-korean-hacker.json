@@ -1,0 +1,39 @@
+{
+  "title": "That dream job offer might be from a North Korean hacker",
+  "url": "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist",
+  "pub_date": "2026-11-03",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — That dream job offer might be from a North Korean hacker (2026-11-03)",
+  "body": "North Korea appears to have used a fake job interview as part of its months-long preparations to steal $6.3 billion from Binance, the crypto exchange said Tuesday. Why it matters : The country's hackers are weaponizing both sides of the job market , posing as recruiters and job applicants to infiltrate companies and steal billions. Driving the news : Binance said one of its software engineers was contacted in September through a \"legitimate job-hunting platform\" by someone posing as a project director at a fictitious company. During the first-round interview, a fake HR representative conducted a live video call with the engineer and showed off a seemingly legitimate social media profile featuring personal photos and videos. The hackers waited until the second round — after building trust with the employee — to ask them to download an infected code repository as part of an interview assignment. Separately, another software engineer also downloaded a \"tampered Homebrew installation\" in June to install a popular AI coding tool onto their device. Binance's security team detected the installation and replaced the device, as well as rotated all credentials, but the engineer and colleagues were all exposed to the hacker. The intrigue: The fake interview was just one of several suspected North Korean attempts to compromise Binance employees. So far in 2026, Binance said it has detected and prevented 57 suspected North Korea-linked cyber incidents, including attempts involving fake job interviews and compromised software packages. Between the lines: North Korean hackers have spent years exploiting both sides of the hiring process. As job applicants, North Korean operatives pose as legitimate IT workers to land high-paying jobs at American companies. Those salaries are then funneled back to Pyongyang. Operatives are also increasingly posing as recruiters and prospective employees to lure in people who work at cryptocurrency firms in the hopes of tricking them into downloading malware. Data from Pindrop Security shows that IT worker fraud has been rampant in 2026: Last year, North Korean job applicants made up 1 in every 343 applications. This year, across Pindrop's customer base, those applicants now make up 1 in 47. The big picture: North Korea has found an opening in a difficult job market, where companies are eager to find qualified workers and job seekers are anxious for their next opportunity. Hiring managers have struggled to find qualified candidates , while job applicants have been anxious for years about their ability to find new roles in a tough market. Go deeper : How North Korea perfected the crypto heist",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: The fake interview was just one of several suspected North Korean attempts to co",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: The fake interview was just one of several suspected North Korean attempts to compromise Binance employees. So far in 2026, Binance said it has detected and prevented 57 suspected North Korea-linked cyber incidents, including attempts invol",
+      "source": "Axios — That dream job offer might be from a North Korean hacker (2026-11-03)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: North Korean hackers have spent years exploiting both sides of the hiring proces",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: North Korean hackers have spent years exploiting both sides of the hiring process. As job applicants, North Korean operatives pose as legitimate IT workers to land high-paying jobs at American companies. Those salaries are then funneled bac",
+      "source": "Axios — That dream job offer might be from a North Korean hacker (2026-11-03)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-04T15:49:14+00:00"
+}
