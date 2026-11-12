@@ -1,0 +1,61 @@
+{
+  "title": "Zelensky says Musk-owned satellite system throttled again",
+  "url": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky",
+  "pub_date": "2026-11-12",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Zelensky says Musk-owned satellite system throttled again (2026-11-12)",
+  "body": "The Ukrainian government has asked the Pentagon and SpaceX to explain new restrictions it says are disrupting the satellite system its military uses to intercept Russian drones. Why it matters: This is the second time in recent weeks that Ukraine reported that Starshield, made by Elon Musk's SpaceX, was impeded. The Ukrainian military uses Starshield — the military version of SpaceX's Starlink satellite communications system — to control and operate its reconnaissance and to intercept drones. Driving the news: Ukrainian President Zelensky said Thursday he was briefed by the minister of defense and the commander of the Ukrainian military that \"units have been recording significant disruptions to Starshield's operations\" along the entire front line and in the parts of Ukraine occupied by Russia. \"The Ukrainian military have already investigated the circumstances, and these are not random errors but systematic speed restrictions,\" he wrote on X. \"We are trying to establish all the circumstances with the American side.\" Zoom in: A Ukrainian official said the restrictions have been happening for three days. \"On the first day there were 10% limitations, on the second day 50%, and today 100% of the missions fail because of restrictions,\" the official said. Ukraine's charge d'affaires to the U.S., Denys Sienik, said the Starshield system shuts down when drones fly at more than 100 miles per hour. \"We don't have clarification from SpaceX or Pentagon at the moment,\" he said. State of play: Zelensky said the new restrictions began shortly before President Trump's envoys Jared Kushner and Steve Witkoff met at the Kremlin with Russian President Vladimir Putin on Thursday. Kushner and Witkoff are expected to meet Zelensky later on Thursday in Dublin. Catch up quick: Ukraine relies on two SpaceX satellite services. Starlink, the commercial service, supports battlefield communications and logistics. Starshield is designed for government and military customers. Ukraine accesses it through a U.S. government agreement and uses it to operate reconnaissance drones and intercept Russian attack drones. The Defense Department and SpaceX did not immediately return requests for comment.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: This is the second time in recent weeks that Ukraine reported that Starshield, m",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: This is the second time in recent weeks that Ukraine reported that Starshield, made by Elon Musk's SpaceX, was impeded. The Ukrainian military uses Starshield — the military version of SpaceX's Starlink satellite communications system — to ",
+      "source": "Axios — Zelensky says Musk-owned satellite system throttled again (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Ukrainian President Zelensky said Thursday he was briefed by the minister of def",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Ukrainian President Zelensky said Thursday he was briefed by the minister of defense and the commander of the Ukrainian military that \"units have been recording significant disruptions to Starshield's operations\" along the entire front line",
+      "source": "Axios — Zelensky says Musk-owned satellite system throttled again (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Ukraine relies on two SpaceX satellite services. Starlink, the commercial servic",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Ukraine relies on two SpaceX satellite services. Starlink, the commercial service, supports battlefield communications and logistics. Starshield is designed for government and military customers. Ukraine accesses it through a U.S. governmen",
+      "source": "Axios — Zelensky says Musk-owned satellite system throttled again (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: A Ukrainian official said the restrictions have been happening for three days. \"",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: A Ukrainian official said the restrictions have been happening for three days. \"On the first day there were 10% limitations, on the second day 50%, and today 100% of the missions fail because of restrictions,\" the official said. Ukraine's c",
+      "source": "Axios — Zelensky says Musk-owned satellite system throttled again (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-12T16:23:55+00:00"
+}
