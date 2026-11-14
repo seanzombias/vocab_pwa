@@ -1,0 +1,61 @@
+{
+  "title": "FAA ends hours-long nationwide ground stop",
+  "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+  "pub_date": "2026-11-14",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — FAA ends hours-long nationwide ground stop (2026-11-14)",
+  "body": "The FAA lifted its nationwide ground stop Friday night after hours of chaos and thousands of delays and cancellations. Why it matters: The effects of the rare and extreme move will likely ripple through the weekend, with travelers stranded and airlines' planes and crews out of position. Driving the news: In a Friday evening press conference, Transportation Secretary Sean Duffy said the ground stop was issued after outdated air traffic control communications equipment suffered from \"overloaded data, and they went down.\" Homeland Security Secretary Markwayne Mullin added that officials are looking into incompatibilities between that older equipment and newer technology currently being installed. Mullin added that there's no evidence that the problems were tied to a cyberattack. Yes, but: Duffy and Mullin didn't specify the exact initial cause of the problems. \"We're still working on the details of what went wrong today,\" Duffy said. Duffy spent much of the press conference pushing Congress for more funding for air traffic control upgrades. \"I can't build things if I don't have money,\" he told reporters at the White House briefing room. He later added that similar problems could occur again without more funding. Catch up quick: The FAA initially issued the stop due to \"extraordinary circumstances\" and \"reasons of safety.\" \"The FAA issued a nationwide ground stop for all U.S. airports following communication issues impacting multiple Air Route Traffic Control Centers,\" the agency said in an earlier statement after the ground stop was issued. \"FAA technicians are investigating the issue. We will provide updates.\" Air Route Traffic Control Centers, often simply called \"centers,\" mostly handle high-altitude en route airspace between airports. Between the lines: The FAA has been rolling out a new AI tool designed to help manage airspace congestion, but it's unclear if that system has any connection to Friday's communication issues. The developer of that tool denied any connection. By the numbers: As of 9 p.m. ET, FlightAware reported more than 6,000 cancellations over the course of the day Friday. Many travelers are stuck at the airport or on their planes on the tarmac Friday evening. This is a breaking news story and will be updated.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The effects of the rare and extreme move will likely ripple through the weekend,",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The effects of the rare and extreme move will likely ripple through the weekend, with travelers stranded and airlines' planes and crews out of position.",
+      "source": "Axios — FAA ends hours-long nationwide ground stop (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: In a Friday evening press conference, Transportation Secretary Sean Duffy said t",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: In a Friday evening press conference, Transportation Secretary Sean Duffy said the ground stop was issued after outdated air traffic control communications equipment suffered from \"overloaded data, and they went down.\" Homeland Security Sec",
+      "source": "Axios — FAA ends hours-long nationwide ground stop (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: The FAA initially issued the stop due to \"extraordinary circumstances\" and \"reas",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: The FAA initially issued the stop due to \"extraordinary circumstances\" and \"reasons of safety.\" \"The FAA issued a nationwide ground stop for all U.S. airports following communication issues impacting multiple Air Route Traffic Control Cente",
+      "source": "Axios — FAA ends hours-long nationwide ground stop (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The FAA has been rolling out a new AI tool designed to help manage airspace cong",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The FAA has been rolling out a new AI tool designed to help manage airspace congestion, but it's unclear if that system has any connection to Friday's communication issues. The developer of that tool denied any connection. By the numbers: A",
+      "source": "Axios — FAA ends hours-long nationwide ground stop (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-14T14:35:02+00:00"
+}

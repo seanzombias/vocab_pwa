@@ -1,0 +1,50 @@
+{
+  "title": "3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day",
+  "url": "https://www.axios.com/2026/11/14/faa-ground-stop-saturday",
+  "pub_date": "2026-11-14",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — 3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day (2026-11-14)",
+  "body": "The chaos from the FAA's nationwide ground stop lingered into early Saturday morning, with thousands of flights cancelled as airlines played catch-up. Why it matters: Millions of travelers will find themselves inconvenienced over what the government says was simply old technology that couldn't keep up with modern upgrades. Driving the news: As of 5:15 a.m. ET Saturday, nearly 3,300 flights into, out of, or within the United States were already cancelled for the day, per FlightAware . Nearly 1,000 flights already had delays. Between the lines: The most heavily impacted airports were Atlanta's Hartsfield-Jackson, New York's JFK and Boston Logan. Among the major airlines, FlightAware's data showed Delta more affected than United or American. Zoom in : The ground stop wreaked havoc on college football in particular, with many schools unable to travel to their game locations. ESPN reported a number of high-profile match-ups were postponed to either late Saturday or Sunday as a result. What to watch: Whether Congress responds to Transportation Secretary Sean Duffy's request for $50 billion in emergency funding to modernize the nation's air traffic control system. This is a developing story. Check back for updates.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Millions of travelers will find themselves inconvenienced over what the governme",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Millions of travelers will find themselves inconvenienced over what the government says was simply old technology that couldn't keep up with modern upgrades.",
+      "source": "Axios — 3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: As of 5:15 a.m. ET Saturday, nearly 3,300 flights into, out of, or within the Un",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: As of 5:15 a.m. ET Saturday, nearly 3,300 flights into, out of, or within the United States were already cancelled for the day, per FlightAware . Nearly 1,000 flights already had delays.",
+      "source": "Axios — 3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The most heavily impacted airports were Atlanta's Hartsfield-Jackson, New York's",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The most heavily impacted airports were Atlanta's Hartsfield-Jackson, New York's JFK and Boston Logan. Among the major airlines, FlightAware's data showed Delta more affected than United or American. Zoom in : The ground stop wreaked havoc ",
+      "source": "Axios — 3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-14T14:35:02+00:00"
+}

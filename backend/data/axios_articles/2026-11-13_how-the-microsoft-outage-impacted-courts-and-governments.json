@@ -1,0 +1,83 @@
+{
+  "title": "How the Microsoft outage impacted courts and governments",
+  "url": "https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress",
+  "pub_date": "2026-11-13",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — How the Microsoft outage impacted courts and governments (2026-11-13)",
+  "body": "Courts and governments worldwide felt the impact of this week's Microsoft outage, which sidelined work and stymied communication. Why it matters: When Microsoft's popular workplace software went offline Thursday, it meant an extended lunch break for some offices — but for the courts and governments, it raised questions about the vulnerabilities of the technology underpinning justice and governance. Case in point: The state of Maine's judicial branch warned in a Thursday alert that requests for protection orders filed by email — urgent requests to keep parties safe from harm — may not have been received. Multiple court documents reviewed by Axios show lawyers requesting deadline extensions or alerting judges to the outage impacting their work. That includes DOJ lawyers: Government attorneys asked for an extension in the case brought by Rep. Joyce Beatty (D-Ohio) over President Trump 's Kennedy Center takeover , saying the outage prevented them from \"completing the necessary coordination.\" In a separate filing, Beatty's team acknowledged they were impacted as well. Zoom out: The impacts were also felt in courtrooms and offices internationally. The AP reported that a U.K. criminal trial was delayed as a result, with a Manchester judge saying, per BBC's reporting , \"We are learning of the dangers of relying on computers and data systems.\" U.K.-based police forces also urged the public Friday to call first responders for aid, rather than using online forms. The Supreme Court of the Philippines said it, too, was affected by the outage. What they're saying: \"We obviously need backup methods to keep the wheels of justice turning,\" says Gissou Nia, the founder and director of the Atlantic Council's Strategic Litigation Project. She pointed to a prior incident that previewed international reliance on U.S. tech: Though not exposed by an outage, the Trump administration's sanctions on the International Criminal Court prompted the Netherlands-based court to move off of Microsoft software to avoid its work being paralyzed. While court deadlines can be pushed back, service disruption for individuals seeking urgent injunctive relief is more critical, she notes. \"If the only way to communicate ... is through these servers, and the request wasn't reached, it can result in somebody having left the country or having moved money out of an account,\" Nia says. Reality check: Shay Cleary, a National Center for State Courts consultant who specializes in tech and cybersecurity, emphasizes that courts typically have manual back-up plans in place. \"Many of the people who work in courts are dedicated public servants, and they can figure out how to do things right,\" he adds. With Congress back in session, Hill communications were also left in a holding pattern Thursday — with one staffer writing on X, \"Hope nobody needs Congress for a little while, your Legislative Branch is currently paralyzed by the Outlook outage.\" Municipal governments in Austin , Texas, and Jacksonville , Florida, among several others , warned that their emails — and in some cases, phone systems — were impacted. What we're watching: A page providing updates on the suite of Microsoft tech tools said in a Friday morning post that it was seeing \"encouraging recovery progress.\" That statement came some 22 hours after the page first said the company was investigating reports of issues with email access. The bottom line: The very tools that connect us digitally can also divide us when things go wrong — underscoring the importance of preparing old-school backup plans to fill the gaps. Go deeper: The internet's hidden security nightmare — and how AI exposed it",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: When Microsoft's popular workplace software went offline Thursday, it meant an e",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: When Microsoft's popular workplace software went offline Thursday, it meant an extended lunch break for some offices — but for the courts and governments, it raised questions about the vulnerabilities of the technology underpinning justice ",
+      "source": "Axios — How the Microsoft outage impacted courts and governments (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The impacts were also felt in courtrooms and offices internationally. The AP rep",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The impacts were also felt in courtrooms and offices internationally. The AP reported that a U.K. criminal trial was delayed as a result, with a Manchester judge saying, per BBC's reporting , \"We are learning of the dangers of relying on co",
+      "source": "Axios — How the Microsoft outage impacted courts and governments (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"We obviously need backup methods to keep the wheels of justice turning,\" says G",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"We obviously need backup methods to keep the wheels of justice turning,\" says Gissou Nia, the founder and director of the Atlantic Council's Strategic Litigation Project. She pointed to a prior incident that previewed international relianc",
+      "source": "Axios — How the Microsoft outage impacted courts and governments (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The very tools that connect us digitally can also divide us when things go wrong",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The very tools that connect us digitally can also divide us when things go wrong — underscoring the importance of preparing old-school backup plans to fill the gaps.",
+      "source": "Axios — How the Microsoft outage impacted courts and governments (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: The internet's hidden security nightmare — and how AI exposed it",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: The internet's hidden security nightmare — and how AI exposed it",
+      "source": "Axios — How the Microsoft outage impacted courts and governments (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Shay Cleary, a National Center for State Courts consultant who specializes in te",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Shay Cleary, a National Center for State Courts consultant who specializes in tech and cybersecurity, emphasizes that courts typically have manual back-up plans in place. \"Many of the people who work in courts are dedicated public servants,",
+      "source": "Axios — How the Microsoft outage impacted courts and governments (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-14T14:35:02+00:00"
+}
