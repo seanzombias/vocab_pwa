@@ -1,0 +1,61 @@
+{
+  "title": "How Nvidia's scandal knocked thousands off your 401(k)",
+  "url": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts",
+  "pub_date": "2026-11-15",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — How Nvidia's scandal knocked thousands off your 401(k) (2026-11-15)",
+  "body": "Nvidia's near-30% stock plunge in the last month is a drag on the retirement savings of millions of Americans, many who may not realize just how much their investments are tied to the scandal-engulfed chip giant. Why it matters: Nvidia's enormous weight in popular index funds means even those who have never purchased a single share of the company could feel the pain of its corporate upheaval in their 401(k)s. The resignation of CEO Jensen Huang after he had an affair with an alleged Chinese spy may have cost an average Baby Boomer thousands of dollars, according to an Axios analysis of outside estimates. By the numbers: Index funds held nearly half of the assets in large private-sector 401(k) plans in 2023, according to the Investment Company Institute. Those funds include investments tracking the S&P 500, and Nvidia accounts for roughly 8% of that index, according to Tom Graff, chief investment officer at financial planning firm Facet. That exposure rises to around 14% in growth-style index funds and can reach 25% to 30% in some technology and semiconductor funds commonly found in retirement plans, Graff said. Zoom in : For an investor with $100,000 in an S&P 500 fund, a 30% drop in Nvidia shares would knock about $2,400 off the value of that investment given an 8% S&P holding, assuming other stocks in the fund stayed flat. For a growth-style tech fund with 25% exposure to Nvidia, that decline would amount to $7,500 in lost value. An average Baby Boomer holds about $260,000 in their 401(k), according to Fidelity . A tech-style exposure applied to that amount of holdings would equate to about a $20,000 reduction. Yes, but: Remember, a drop in your investment's value doesn't mean you've actually lost that cash — unless you sell your holdings. Zoom out: The potential fallout extends beyond Nvidia itself. About 40% of the S&P 500 is tied to the AI buildout, for which Nvidia is central, providing much of the financing and infrastructure needed to fuel the tech boom. If Nvidia's troubles slow the pace of AI data center investment, the damage could spread to other stocks held in Americans' retirement portfolios, analyst Bob Iaccino notes to Axios via message. \"A lot of people are starting to realize just how much Nvidia exposure they have in funds they thought were diversified,\" Graff told Axios. \"You don't want too much of your retirement riding on whether Nvidia has a successful transition to new leadership or not,\" he added. Reality check: While Nvidia has come to define the AI trade, its competitors have also emerged as potential beneficiaries of the stock's decline. \"The mindset has flipped very quickly to 'who might benefit from this?'\" Steve Sosnick of Interactive Brokers told Axios. Chip-company AMD's stock went on a run, rising by more than 30% in a five-day stretch last week, contributing to a broader run in the semiconductor sector. Nvidia makes up a sizable portion of many semiconductor indices and ETFs, showing how rotation can keep bull runs alive even as single stocks falter. Hyperscalers with their own chip ambitions , which at times have looked competitive with Nvidia, have also beaten the growth of the S&P 500 index over the last five days. Reality check: For those who are direct shareholders, the widely held financial advice would always tell you not to lock in losses as a stock drops. It's very unclear what the investigation will unveil. Nvidia is set to report earnings on Tuesday, giving shareholders more insight into its latest quarterly performance. The bottom line: Americans don't need to own Nvidia shares directly to have their retirement savings tied to the company's successes, or failures.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Nvidia's enormous weight in popular index funds means even those who have never",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Nvidia's enormous weight in popular index funds means even those who have never purchased a single share of the company could feel the pain of its corporate upheaval in their 401(k)s. The resignation of CEO Jensen Huang after he had an affa",
+      "source": "Axios — How Nvidia's scandal knocked thousands off your 401(k) (2026-11-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The potential fallout extends beyond Nvidia itself. About 40% of the S&P 500 is",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The potential fallout extends beyond Nvidia itself. About 40% of the S&P 500 is tied to the AI buildout, for which Nvidia is central, providing much of the financing and infrastructure needed to fuel the tech boom. If Nvidia's troubles slow",
+      "source": "Axios — How Nvidia's scandal knocked thousands off your 401(k) (2026-11-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Americans don't need to own Nvidia shares directly to have their retirement savi",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Americans don't need to own Nvidia shares directly to have their retirement savings tied to the company's successes, or failures.",
+      "source": "Axios — How Nvidia's scandal knocked thousands off your 401(k) (2026-11-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: While Nvidia has come to define the AI trade, its competitors have also emerged",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: While Nvidia has come to define the AI trade, its competitors have also emerged as potential beneficiaries of the stock's decline. \"The mindset has flipped very quickly to 'who might benefit from this?'\" Steve Sosnick of Interactive Brokers",
+      "source": "Axios — How Nvidia's scandal knocked thousands off your 401(k) (2026-11-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-15T15:02:54+00:00"
+}

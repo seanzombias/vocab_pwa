@@ -1,0 +1,50 @@
+{
+  "title": "Space data centers could end stargazing as we know it",
+  "url": "https://www.axios.com/2026/11/15/space-data-centers-risks-stargazing-report",
+  "pub_date": "2026-11-15",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Space data centers could end stargazing as we know it (2026-11-15)",
+  "body": "Sprawling networks of space data centers could make it nearly impossible for humans to stargaze. That's just one of the many risks that come with placing tens of thousands of AI computers into orbit, according to a new report. Why it matters: Most Americans don't want data centers built near them, but putting them in space brings a new set of problems. Threat level: \"Companies and policymakers should proceed with great caution,\" top academic researchers warn in a report for the Innovation for Cool Earth Forum, an annual event hosted by the Japanese government. If space data centers proliferate, the \"most visible points of light in the sky during much of the night in much of the world could be satellites, not stars,\" the report said, mirroring astronomers ' worries. If the U.S. military adopts the technology, the data centers could become potential targets during future space conflicts . Thousands of orbital data centers whipping around the Earth at 17,000 miles per hour mean a growing \"risk of collisions\" and dangerous space debris . Space data centers are solar-powered, but the vast number of rocket launches needed to put them in orbit generate greenhouse gases and black carbon emissions . What they're saying: Columbia University's David Sandalow, the report's lead author, told Axios there are still \"unknown unknowns\" about space data center impacts. \"If this is going to happen, it should happen slowly and with care,\" Sandalow said. \"Not just launching lots and lots of these things and, kind of, seeing what happens. ... There's big risks.\" By the numbers: Despite those concerns, investors and tech innovators are all in on space data centers. In 2025, around $197 million in investments were tied to orbital data centers, per market research firm Quilty Space. That figure has swelled to $1.11 billion so far this year. SpaceX has applied for a constellation of 1 million data center satellites, according to the Secure World Foundation . Starcloud and Blue Origin's Project Sunrise have ambitions for 88,000 and 51,600 satellites, respectively. Yes, but: Caleb Henry, Quilty Space's director of research, said that companies may be filing for more satellites than they will likely field. \"They don't want to have to bump the number higher up later on,\" he said in an interview. \"We're at a point where people are tallying paper filings as if they are substantive and real,\" Henry said, \"and we just don't know that yet.\" The bottom line: Researchers warned that governments and companies need to wait until space data center \"risks and impacts are better understood and well managed\" before putting them in orbit.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Most Americans don't want data centers built near them, but putting them in spac",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Most Americans don't want data centers built near them, but putting them in space brings a new set of problems. Threat level: \"Companies and policymakers should proceed with great caution,\" top academic researchers warn in a report for the ",
+      "source": "Axios — Space data centers could end stargazing as we know it (2026-11-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: Columbia University's David Sandalow, the report's lead author, told Axios there",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: Columbia University's David Sandalow, the report's lead author, told Axios there are still \"unknown unknowns\" about space data center impacts. \"If this is going to happen, it should happen slowly and with care,\" Sandalow said. \"Not just lau",
+      "source": "Axios — Space data centers could end stargazing as we know it (2026-11-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Researchers warned that governments and companies need to wait until space data",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Researchers warned that governments and companies need to wait until space data center \"risks and impacts are better understood and well managed\" before putting them in orbit.",
+      "source": "Axios — Space data centers could end stargazing as we know it (2026-11-15)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-15T15:02:54+00:00"
+}

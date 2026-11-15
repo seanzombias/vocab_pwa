@@ -1,0 +1,59 @@
+{
+  "title": "Trump administration delays Medicaid work requirements by six months",
+  "url": "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay",
+  "pub_date": "2026-11-13",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Trump administration delays Medicaid work requirements by six months (2026-11-13)",
+  "body": "The Trump administration announced a six-month delay Friday in enforcing the Medicaid work requirements that were scheduled to take effect in January. Why it matters: The announcement pauses a set of rules that officials in many states warned they're not ready to handle — and that could cause millions of people to lose their health coverage. A federal court last month struck down a portion of the rules that required chronically ill Medicaid recipients to prove their condition significantly impairs the ability to work in order to qualify for an exemption. Driving the news: The Centers for Medicare and Medicaid Services said Friday there will be an \"optional hold harmless period\" through June 30 that will give states \"a transition period to further modernize systems, improve processes, and streamline the applicant and beneficiary experience.\" Hospitals have been so worried about the impact of the work requirements that they've created their own outreach campaign to prepare people on Medicaid, per the New York Times . The concern is not that people will be kicked out of the program for not working, but that a chaotic rollout of the requirements will disenroll more people because they don't understand the reporting rules and won't be able to prove they've met the requirements. What they're saying: \"States have made real progress, and they've been clear with us about what it takes to get this right for beneficiaries — at scale and for the long term,\" said Deputy Administrator and Director of the Center for Medicaid and CHIP Services Dan Brillman. How it works: The first-ever work rules mean Medicaid enrollees must report at least 80 hours a month of work, school or volunteering or get an exemption. States were facing tight timetables for setting up systems to notify millions of recipients about the requirements — and to track whether they're complying. Nebraska's early rollout of the work requirements in May led to confusion and coverage denials due to unsubmitted paperwork, per KFF Health News . What we're watching: Democrats who will control Congress next year intend to push for more delays, or to scrap the work requirements altogether. Editor's note: This story has been updated with more details on the delay.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The announcement pauses a set of rules that officials in many states warned they",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The announcement pauses a set of rules that officials in many states warned they're not ready to handle — and that could cause millions of people to lose their health coverage. A federal court last month struck down a portion of the rules t",
+      "source": "Axios — Trump administration delays Medicaid work requirements by six months (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: The Centers for Medicare and Medicaid Services said Friday there will be an \"opt",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: The Centers for Medicare and Medicaid Services said Friday there will be an \"optional hold harmless period\" through June 30 that will give states \"a transition period to further modernize systems, improve processes, and streamline the appli",
+      "source": "Axios — Trump administration delays Medicaid work requirements by six months (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"States have made real progress, and they've been clear with us about what it ta",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"States have made real progress, and they've been clear with us about what it takes to get this right for beneficiaries — at scale and for the long term,\" said Deputy Administrator and Director of the Center for Medicaid and CHIP Services D",
+      "source": "Axios — Trump administration delays Medicaid work requirements by six months (2026-11-13)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-15T15:02:54+00:00"
+}

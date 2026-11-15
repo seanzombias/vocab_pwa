@@ -1,0 +1,50 @@
+{
+  "title": "FAA back at \"full operations\" after Friday outage, Transportation Sec. says",
+  "url": "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update",
+  "pub_date": "2026-11-14",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — FAA back at \"full operations\" after Friday outage, Transportation Sec. says (2026-11-14)",
+  "body": "Transportation Secretary Sean Duffy said Saturday that all FAA systems are back to \"full operations\" after an hours-long outage Friday evening that grounded all air traffic across the U.S. The big picture: Duffy reiterated his plea to Congress to fund upgrades to the nation's air traffic control equipment, explaining that proper upgrades could have prevented the ground stop. Driving the news: Duffy explained that the outage was caused when a contractor performed routine maintenance on a telecommunications line to upgrade a copper wire to fiber-optic cable and install a new router. \"It was such an old wire that it was being discontinued, meaning that line was going to get shut down. So we had to switch it over from old copper,\" Duffy said. Duffy said it's unclear whether the outage occurred because of contractor error or faulty equipment, but they are working to figure that out. FAA Administrator Bryan Bedford warned that up to 5,000 flight cancellations will remain throughout today, but airlines have assured the agency that they should return to normal operations by the end of the day Sunday. \"I do think the worst is behind us, but we still do have a significant amount of recovery work to do,\" Bedford said. According to numbers from FlightAware , over 4,600 international and domestic flights have been canceled, and over 13,000 delayed, as of 11:30 am ET. Zoom out: Bedford and Duffy both said the ground stop was ordered out of an abundance of caution for the safety of passengers and airplane crews. Bedford added that they have no reason to believe a cyberattack or an AI issue prompted the outage. \"We see zero evidence of anything nefarious,\" Bedford said. Zoom in: Duffy used the press conference to again plead with Congress to fund upgrades for the aging air traffic control system. Duffy has previously said the FAA needs $30 billion to update airports and air traffic control. Congress had previously awarded $12.5 billion in July 2025 for upgrades into 2030. After Friday's outage, Duffy upped the funding request to $50 billion. \"For me, it gets to be frustrating where everyone says they want to do it, and the president is pushing it, but we don't get the resources,\" Duffy said. \"And I think this is the moment. If we don't start to switch out our systems, how long are we going to wait, America and Congress? And I think this is a sign for them to lean in. This is bipartisan.\" Bedford offered a blunt assessment when reporters asked about the system's function, saying it's the \"worst-kept secret in government\" that it needs an upgrade. \"We have to keep the existing system operating at the very best of our ability,\" with the funding they have, he said. \"But,\" Bedford continued, \"let's not kid ourselves. It will continue to break until we replace it.\"",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Duffy explained that the outage was caused when a contractor performed routine m",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Duffy explained that the outage was caused when a contractor performed routine maintenance on a telecommunications line to upgrade a copper wire to fiber-optic cable and install a new router. \"It was such an old wire that it was being disco",
+      "source": "Axios — FAA back at \"full operations\" after Friday outage, Transportation Sec. says (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Bedford and Duffy both said the ground stop was ordered out of an abundance of c",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Bedford and Duffy both said the ground stop was ordered out of an abundance of caution for the safety of passengers and airplane crews. Bedford added that they have no reason to believe a cyberattack or an AI issue prompted the outage. \"We ",
+      "source": "Axios — FAA back at \"full operations\" after Friday outage, Transportation Sec. says (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Duffy used the press conference to again plead with Congress to fund upgrades fo",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Duffy used the press conference to again plead with Congress to fund upgrades for the aging air traffic control system. Duffy has previously said the FAA needs $30 billion to update airports and air traffic control. Congress had previously ",
+      "source": "Axios — FAA back at \"full operations\" after Friday outage, Transportation Sec. says (2026-11-14)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-15T15:02:54+00:00"
+}

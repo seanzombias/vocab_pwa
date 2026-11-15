@@ -1,0 +1,72 @@
+{
+  "title": "Bracing for Nvidia's impact",
+  "url": "https://www.axios.com/2026/11/12/bracing-for-nvidias-impact",
+  "pub_date": "2026-11-12",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Bracing for Nvidia's impact (2026-11-12)",
+  "body": "Data: FactSet; Chart: Matt Phillips/Axios Nvidia CEO Jensen Huang's apparent fall from grace is a shock to a company at the core of the U.S. markets and the AI ecosystem that he did much to create. Why it matters: CEO scandals happen at companies. Their stocks fall. But there is no other company quite like Nvidia. Its size, financial resources and strategic position in the AI boom have made both the chipmaker and Huang, personally, pillars of the industry that has come to drive both the stock market and the economy. Catch up quick: Following revelations this week that Huang had admitted to an extramarital affair with a woman believed by the U.S. government to be a Chinese intelligence asset, the New York Times reported Wednesday evening that Huang also had a romantic relationship with an Nvidia executive who reports to him. The Wall Street Journal and other outlets are reporting that the company's board of directors was preparing to oust Huang. Nvidia shares plunged in the after-hours trading session. Context: The uncertainty surrounding Huang's position comes as the AI trade is going through one of the crises of investor confidence that have periodically hammered AI shares in recent years. The concern this time centers on the ability of the AI build-out to continue, as rising interest rates and a saturated market curtail the sale of bonds to pay for data centers. Chip makers like Nvidia have been particularly hard hit by this recent AI slump. Its shares were down roughly 30% from their recent high through Wednesday's close, vaporizing nearly $1.59 trillion in shareholder wealth. There have been market drawdowns around AI before, says Eric Sheridan, a research analyst at Goldman Sachs, in a big new report on the investment cycle. \"The stakes are undoubtedly higher now as we're further along in the cycle and the dollars being spent have grown considerably, which may be adding to investor skittishness.\" Stunning stat: Since the end of last week, the company lost over $600 billion in market value through Wednesday's after market session. Zoom out: Those losses will touch a lot of portfolios. With a market capitalization of roughly $4.18 trillion — through Wednesday's close — Nvidia is the world's second-largest publicly traded company, behind Apple, giving it significant sway in market capitalization-weighted indexes, such as the S&P 500 and the Nasdaq 100. Yes, but: If anything, a focus on Nvidia's massive size obscures how important the company is. It dominates the market for the graphics processing units, or GPUs, that are the costliest input into AI data centers — about 75% of a data center's total cost, per Goldman. It also finances and backstops significant chunks of AI computing power. That means Nvidia is bankrolling a small army of AI firms: AI coding companies, data center operators, neoclouds. For example: Nvidia has put more than $2 billion into CoreWeave, the troubled neocloud that's seen its borrowing costs soar in recent weeks. It has equity stakes in Anthropic and OpenAI. Follow the money: Such was Nvidia's — and Huang's — stature in the tech world that in recent years, the mere mention of a company by the Nvidia CEO could create big market winners and losers . In June, for example, positive comments from Huang about Marvell Technology sent the company's stock soaring nearly 33% in a single day. State of play: Now, it's Nvidia shares that might need words of encouragement. On Wednesday the stock received a downgrade to \"market perform\" from \"outperform\" from Bernstein Research. \"We admit to struggling mightily with this call, and can sympathize with the case to buy the dip,\" Bernstein's analysts wrote. \"But our gut tells us that we probably haven't yet fully probed the depths of what might be found here; we've had enough, and prefer to watch from the sidelines.\" Morgan Stanley also removed the company from its list of \"top picks\" earlier in the day, after the stock had declined more than 25% since it was named top pick last month. What's next: Whatever comes next for Nvidia, the company is likely to be in an extended period of strategic paralysis. \"Decisions about acquisitions or investments or product roadmaps, those are the kinds of things that will now have to be paused, if — again — if this happens, all these things are going to have to pause,\" Gil Luria, an analyst covering Nvidia for the brokerage firm D.A. Davidson, tells Axios. \"So it just slows the company down when it can't make the most important, biggest decisions.\" The big picture: Huang has presided over one of the most remarkable explosions of wealth creation in market history. From the closing price on its first day of trading, Nvidia's total compound return with dividend reinvestment is 462,906%, according to FactSet. He has been at the helm of the company since he co-founded it in 1993. The bottom line: But depending on how the situation plays out, shareholders may be about to find out what an Nvidia without its charismatic leader looks like.",
+  "vocab_count": 4,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: CEO scandals happen at companies. Their stocks fall. But there is no other compa",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: CEO scandals happen at companies. Their stocks fall. But there is no other company quite like Nvidia. Its size, financial resources and strategic position in the AI boom have made both the chipmaker and Huang, personally, pillars of the ind",
+      "source": "Axios — Bracing for Nvidia's impact (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Following revelations this week that Huang had admitted to an extramarital affai",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Following revelations this week that Huang had admitted to an extramarital affair with a woman believed by the U.S. government to be a Chinese intelligence asset, the New York Times reported Wednesday evening that Huang also had a romantic ",
+      "source": "Axios — Bracing for Nvidia's impact (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Those losses will touch a lot of portfolios. With a market capitalization of rou",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Those losses will touch a lot of portfolios. With a market capitalization of roughly $4.18 trillion — through Wednesday's close — Nvidia is the world's second-largest publicly traded company, behind Apple, giving it significant sway in mark",
+      "source": "Axios — Bracing for Nvidia's impact (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: But depending on how the situation plays out, shareholders may be about to find",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: But depending on how the situation plays out, shareholders may be about to find out what an Nvidia without its charismatic leader looks like.",
+      "source": "Axios — Bracing for Nvidia's impact (2026-11-12)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-15T15:02:54+00:00"
+}
