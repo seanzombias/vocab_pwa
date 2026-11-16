@@ -1,0 +1,46 @@
+{
+  "title": "The chain-reaction era: Constant shock and awe",
+  "url": "https://www.axios.com/2026/11/16/chain-reaction-nvidia-ai-politics-business",
+  "pub_date": "2026-11-16",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — The chain-reaction era: Constant shock and awe (2026-11-16)",
+  "body": "It was random, but related, that we were hit with a tectonic election result, an epic AI-and-spy scandal , and the dramatic FAA shutdown in just over one week. This is our new reality: constant shock and awe, igniting chain reactions across politics, media, AI, business and culture. Why it matters: This month's three shocks hit separately. But their speed and spread are our new reality. Politics, AI, media and business are now one wired system: A jolt in one sets off the other three, instantly. We call this post-processable velocity : Change is moving faster than any person, company, market or government can absorb. People's fears about AI are now mushrooming into jitteriness about civilization's connective tissue. An AP story on Sunday asked: \"Could everything be broken?\" Images of empty European supermarket refrigerators , cleared of spoiled food after a spate of mysterious cyberattacks, added to the sense that our connections are crumbling, with the simplest conveniences in danger. What makes all this so disorienting for all of us is how interconnected politics, AI, business and media have become. The Nvidia spy scandal is a vivid example: Media, last weekend: The New York Times reports that Secretary of State Marco Rubio warned President Trump that Nvidia founder and CEO Jensen Huang was tied to a suspected Chinese spy. Social media erupts. Business, Monday: Nvidia stock falls more than 4% at the open and keeps sliding. Fears of economy-wide AI fallout follow. Politics, all week: Trump's top team gets dragged into a \"what did they know and when\" frenzy. Democrats demand hearings. Policy, now: Lawmakers are scrambling to untangle the web of spies, lies and AI, and are racing to tighten China's access to Nvidia chips that gave Huang the power he's now surrendered. Tech, going forward: AI companies are rethinking their reliance on Nvidia chips and exploring financing options beyond Nvidia. ⏱️ Huang's resignation was announced just 14 days after last month's New York Times blockbuster exclusive that he was believed to be the target of a Chinese plot, and four days after he admitted an affair . One revelation, two weeks, and the most important CEO in AI is gone. Three forces make this permanent: 🔄 1. Politics swings wildly. This was the seventh straight election in which the White House, Senate or House changed hands. And this time, in truly unthinkable and historic ways. There were a number of \" split districts \" in 2024 that went for Kamala Harris for president and a Republican for the House. This year, every single one swung to electing a Democrat. We can't find any precedent for this. It's possible we've hit a post-ideological age where people feel very little affiliation to party tribes. How do you explain young men shifting almost 40 points from Republicans to Democrats in two years? 🤖 2. AI concentrates everything. A handful of companies are making historic bets on superhuman intelligence, and propping up the economy while they do it. That puts enormous power and risk in very few hands. One man's affair shook the whole market. Nvidia makes the vital ingredient of AI, and helps finance nearly every big player buying it. But it's not just Nvidia. Anthropic, OpenAI, Google, Microsoft or Amazon can rattle the market with one announcement too. ⛓️‍💥 3. Everything is fragile when everything is interconnected. Friday's flight shutdown had nothing to do with AI, spies or elections, but it still shook us all. It appears a contractor was swapping copper wire for fiber. Routers overloaded. Departures stopped nationwide for more than four hours. A total of 18,000+ U.S. flights were canceled over the past three days. Officials said little for hours. Rumors, speculation and gallows humor filled the void. \"The aliens have landed,\" the novelist Stephen King tweeted . \"That's the REAL reason for the ground stop. They don't want to start a worldwide panic.\" The bottom line: The shocks will change. The speed won't. Go deeper : New signs of rising risk.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: This month's three shocks hit separately. But their speed and spread are our new",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: This month's three shocks hit separately. But their speed and spread are our new reality. Politics, AI, media and business are now one wired system: A jolt in one sets off the other three, instantly. We call this post-processable velocity :",
+      "source": "Axios — The chain-reaction era: Constant shock and awe (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The shocks will change. The speed won't. Go deeper : New signs of rising risk",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The shocks will change. The speed won't. Go deeper : New signs of rising risk.",
+      "source": "Axios — The chain-reaction era: Constant shock and awe (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-16T17:35:46+00:00"
+}

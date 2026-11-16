@@ -1,0 +1,85 @@
+{
+  "title": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
+  "url": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble",
+  "pub_date": "2026-11-16",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"No sane person questions whether AI works\" — but an AI bubble appears ready to pop. (2026-11-16)",
+  "body": "The downfall of Nvidia CEO Jensen Huang adds an explosive new risk to an already-strained AI boom, threatening to burst a financial bubble even if the technology ultimately succeeds. Why it matters: History shows that world-changing technology and devastating financial bubbles often go hand in hand. A market reckoning won't stop the AI revolution. But as with the dot-com crash, it could vaporize trillions in investor wealth as expectations come crashing back to earth. The big picture: \"No sane person questions whether AI works. And that 'working' status is precisely what makes a bubble possible,\" veteran technology investor Paul Kedrosky told Axios. The risks have grown as technology companies commit trillions to infrastructure, increasingly relying on debt, investments in one another and complicated financing arrangements to keep the expansion going. Driving the news: Huang's stunning resignation Thursday has shaken confidence in the company at the center of the AI boom — and raised fresh questions about the sustainability of the broader investment frenzy. Nvidia, which named CFO Colette Kress as interim CEO, faces a leadership vacuum at a time when the industry is already grappling with financial and political uncertainty. Beyond selling chips, Nvidia has helped finance the massive expansion of computing infrastructure by investing in its customers and providing financial backstops for major projects. A more cautious approach by Huang's successor could undermine confidence in projects that have depended on Nvidia's financial support. What they're saying: RSM chief economist Joe Brusuelas told Axios that Huang's departure could trigger a \"wholesale bursting\" of the AI bubble. \"The turmoil around Jensen Huang matters for the buildout if it makes lenders less confident that Nvidia will back the next round of projects,\" Columbia Business School professor Stijn Van Nieuwerburgh told Axios. Zoom out: The financial and political vulnerabilities were piling up well before the Nvidia scandal. Spending is outpacing expected returns. AI providers are projected to spend $7 trillion on infrastructure through 2030, while Gartner forecasts no more than $3.6 trillion in related revenue over the same period, according to Axios reporting . Valuation expectations are being reset. Anthropic's newly announced IPO terms imply a valuation well below earlier hopes of as much as $2 trillion. OpenAI also reportedly secured less cash and a lower valuation than it had hoped in a recent funding round. Investors are growing more cautious. Retail traders, who have routinely bought previous AI-related market dips, instead became net sellers of U.S. stocks during the sharp Nov. 5 selloff, according to Vanda Research. Financing is getting harder. The debt-fueled expansion was already showing signs of strain before the latest turmoil. Rising borrowing costs and an avalanche of new bond offerings have made lenders wary. Political opposition is growing. A wave of election victories for AI-skeptical candidates, along with widespread voter support for data center restrictions, threatens to delay construction, increase costs and undermine the assumptions behind some projects. Regulatory risks are mounting. Huang's downfall has intensified bipartisan demands for tighter restrictions on advanced chip exports to China, which increasingly appear likely to pass. The risk: A retreat in AI investment could become self-reinforcing, turning a market correction into a much broader financial reckoning. Falling valuations and tighter credit could make it harder for startups and cloud providers to finance additional data centers, reducing demand for chips, power and other infrastructure. That could put further pressure on the investors, lenders and companies financing the expansion, spreading the consequences well beyond the companies developing AI models. Yes, but: There is considerable evidence that AI itself is a real and potentially transformative technology — and that demand is growing rapidly. Anthropic reported an annualized revenue run rate of $81 billion at the end of October, up from $71 billion a month earlier. OpenAI grew quarterly revenue roughly 50% to $10 billion in the third quarter, according to The Wall Street Journal, even as its adjusted operating losses reached $10.9 billion. Businesses are already using AI to write software, automate tasks and perform work that previously required significant human effort. Tighter U.S. export controls could also benefit American AI developers by limiting Chinese rivals' access to advanced computing power, even as they complicate Nvidia's business prospects. The historical lesson: Some of the greatest technological transformations have been accompanied by speculative investment booms that ended painfully for investors. \"I have no doubt that AI will be transformative. That does not preclude a financial bubble,\" MIT economics professor Ricardo Caballero told Axios. Caballero argues that excessive optimism may even be necessary to marshal the enormous investments required for a new technology to reach its potential. Such booms can leave behind valuable infrastructure and lasting economic gains, as they did in the dot-com boom-bust cycle, even if many investors suffer losses along the way. The bottom line: \"AI can deliver enormous value to users while the companies building the infrastructure earn far less than their investors expected,\" Van Nieuwerburgh said.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: History shows that world-changing technology and devastating financial bubbles o",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: History shows that world-changing technology and devastating financial bubbles often go hand in hand. A market reckoning won't stop the AI revolution. But as with the dot-com crash, it could vaporize trillions in investor wealth as expectat",
+      "source": "Axios — \"No sane person questions whether AI works\" — but an AI bubble appears ready to pop. (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Huang's stunning resignation Thursday has shaken confidence in the company at th",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Huang's stunning resignation Thursday has shaken confidence in the company at the center of the AI boom — and raised fresh questions about the sustainability of the broader investment frenzy. Nvidia, which named CFO Colette Kress as interim",
+      "source": "Axios — \"No sane person questions whether AI works\" — but an AI bubble appears ready to pop. (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The financial and political vulnerabilities were piling up well before the Nvidi",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The financial and political vulnerabilities were piling up well before the Nvidia scandal. Spending is outpacing expected returns. AI providers are projected to spend $7 trillion on infrastructure through 2030, while Gartner forecasts no mo",
+      "source": "Axios — \"No sane person questions whether AI works\" — but an AI bubble appears ready to pop. (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: RSM chief economist Joe Brusuelas told Axios that Huang's departure could trigge",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: RSM chief economist Joe Brusuelas told Axios that Huang's departure could trigger a \"wholesale bursting\" of the AI bubble. \"The turmoil around Jensen Huang matters for the buildout if it makes lenders less confident that Nvidia will back th",
+      "source": "Axios — \"No sane person questions whether AI works\" — but an AI bubble appears ready to pop. (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: \"AI can deliver enormous value to users while the companies building the infrast",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: \"AI can deliver enormous value to users while the companies building the infrastructure earn far less than their investors expected,\" Van Nieuwerburgh said.",
+      "source": "Axios — \"No sane person questions whether AI works\" — but an AI bubble appears ready to pop. (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-16T17:35:46+00:00"
+}
