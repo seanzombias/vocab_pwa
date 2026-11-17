@@ -1,0 +1,39 @@
+{
+  "title": "United Airlines resolves \"widespread system outage\" that delayed flights",
+  "url": "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
+  "pub_date": "2026-11-16",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — United Airlines resolves \"widespread system outage\" that delayed flights (2026-11-16)",
+  "body": "United Airlines said Monday that it resolved what it called a \"widespread system outage\" that delayed departing flights for about 90 minutes. Why it matters: It was a quick resolution to yet another issue affecting the U.S.' beleaguered airspace, which spent days digging itself out of thousands of flight delays and cancellations following Friday's hours-long ground stop . What they're saying: \"We sincerely apologize for the inconvenience. We're aware of the widespread system outage, and our teams are working hard to get things back up and running as soon as possible,\" United Airlines wrote on X in reply to a customer. \"We appreciate your patience while we work through this. Please check back with us for updates, and keep an eye on your flight status through the United app or at http://united.com . Thanks for bearing with us!\" The customer said the issue stemmed from planes being unable to determine weight limits, though United did not confirm that was the problem. United Airlines told Axios that the company is \"troubleshooting a technology issue affecting departing flights.\" \"There is no impact on flights in progress, or on United Express flights. There is no indication that this is a cybersecurity-related issue,\" they said. About an hour and fifteen minutes after United posted its apology, the company tweeted again to say the issue was resolved and encouraged passengers to check their flight status at the company's website. United gave no additional information about what caused the outage, and it's unclear how many flights were impacted. Editor's note: This story has been updated with additional information.",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: It was a quick resolution to yet another issue affecting the U.S.' beleaguered a",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: It was a quick resolution to yet another issue affecting the U.S.' beleaguered airspace, which spent days digging itself out of thousands of flight delays and cancellations following Friday's hours-long ground stop .",
+      "source": "Axios — United Airlines resolves \"widespread system outage\" that delayed flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"We sincerely apologize for the inconvenience. We're aware of the widespread sys",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"We sincerely apologize for the inconvenience. We're aware of the widespread system outage, and our teams are working hard to get things back up and running as soon as possible,\" United Airlines wrote on X in reply to a customer. \"We apprec",
+      "source": "Axios — United Airlines resolves \"widespread system outage\" that delayed flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-17T17:09:03+00:00"
+}
