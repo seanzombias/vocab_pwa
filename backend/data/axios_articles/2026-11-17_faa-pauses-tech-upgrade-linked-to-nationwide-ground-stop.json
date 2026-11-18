@@ -1,0 +1,72 @@
+{
+  "title": "FAA pauses tech upgrade linked to nationwide ground stop",
+  "url": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
+  "pub_date": "2026-11-17",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — FAA pauses tech upgrade linked to nationwide ground stop (2026-11-17)",
+  "body": "The Federal Aviation Administration is halting the installation of new routers following Friday's nearly five-hour nationwide ground stop , the agency confirmed to Axios Tuesday. Why it matters: The technology rollout is suspected to be connected to massive travel disruptions that continued through the weekend, inconveniencing travelers across the country. Catch up quick: Over 12,000 flights were canceled Friday after the telecommunications failure, and thousands more were delayed. The issue stemmed from routine work to upgrade the FAA's aging telecommunications network, replacing copper wires with fiber-optic connections. The agency is adding Juniper routers to the network as part of the transition. The FAA said its system became overwhelmed by roughly 1,000 connection attempts every four to five seconds after a router was installed, disabling communication and radar in 17 of the nation's 22 regional air traffic control centers. Investigators identified two potential sources of the problem — one in Arkansas and another in Texas. Hewlett Packard Enterprise, which owns Juniper, said the device functioned as programmed by the installer and wasn't faulty. The FAA is still investigating the root cause. What they're saying: \"We believe we have addressed the initial cause of the disruption by immediately disabling the functionality of the originating Juniper routers,\" the FAA announced in a statement . \"As a precaution, we disabled the same functionality on more than 60 other Juniper routers in the system, and we have paused installing them.\" Zoom in: A group of Democratic senators demanded the agency halt the router installation on Tuesday, though the agency had already done so. \"DOT, FAA and OMB must provide Congress with a complete account of what happened and how additional funding would address the vulnerabilities presented on November 13,\" the senators wrote in a letter to Transportation Secretary Scott Duffy and FAA Administrator Bryan Bedford. \"Congress deserves clear answers on how the FAA is ensuring the safety of the aviation system for the traveling public while these new systems are being deployed.\" They added that identifying the problematic router is not the same as determining why it malfunctioned. The senators — all part of the Senate Committee for Commerce, Science and Transportation — requested a response to its questions by no later than Nov. 23. The FAA did not address Axios' questions about whether the agency would meet all the senators' demands. \"[T]he Department has provided updates as we have them and will continue to do so,\" a spokesperson said. By the numbers: The FAA is slated to convert more than 3,600 routers to Juniper devices, and 400 are already installed, per the senator's letter. Just 69 are operational. Go deeper: What we know about what caused the FAA's nationwide ground stop Editor's note: This story has been updated with additional information throughout.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The technology rollout is suspected to be connected to massive travel disruption",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The technology rollout is suspected to be connected to massive travel disruptions that continued through the weekend, inconveniencing travelers across the country.",
+      "source": "Axios — FAA pauses tech upgrade linked to nationwide ground stop (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Over 12,000 flights were canceled Friday after the telecommunications failure, a",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Over 12,000 flights were canceled Friday after the telecommunications failure, and thousands more were delayed. The issue stemmed from routine work to upgrade the FAA's aging telecommunications network, replacing copper wires with fiber-opt",
+      "source": "Axios — FAA pauses tech upgrade linked to nationwide ground stop (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: A group of Democratic senators demanded the agency halt the router installation",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: A group of Democratic senators demanded the agency halt the router installation on Tuesday, though the agency had already done so. \"DOT, FAA and OMB must provide Congress with a complete account of what happened and how additional funding w",
+      "source": "Axios — FAA pauses tech upgrade linked to nationwide ground stop (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"We believe we have addressed the initial cause of the disruption by immediately",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"We believe we have addressed the initial cause of the disruption by immediately disabling the functionality of the originating Juniper routers,\" the FAA announced in a statement . \"As a precaution, we disabled the same functionality on mor",
+      "source": "Axios — FAA pauses tech upgrade linked to nationwide ground stop (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: What we know about what caused the FAA's nationwide ground stop Editor's note: T",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: What we know about what caused the FAA's nationwide ground stop Editor's note: This story has been updated with additional information throughout.",
+      "source": "Axios — FAA pauses tech upgrade linked to nationwide ground stop (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-18T16:46:11+00:00"
+}

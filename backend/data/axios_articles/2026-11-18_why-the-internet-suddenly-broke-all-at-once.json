@@ -1,0 +1,124 @@
+{
+  "title": "Why the internet suddenly broke all at once",
+  "url": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
+  "pub_date": "2026-11-18",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+  "body": "Americans were locked out of bank accounts, blocked from boarding flights and unable to check emails in rapid succession over the past week. Why it matters: The internet immediately pointed fingers toward an AI agent doomsday, sending people into a frenzy that the Big One™was about to happen. Reality check: Experts tell Axios these disruptions don't appear linked to hacking. To the extent they involve AI, the incidents may have just as much to do with widespread efforts to fix outdated code as they do with slop software. Downdetector data also show that while the seven days through Monday represent the highest number of weekly outages in the last 12 months, the pattern over longer periods such as 30 days is far from unprecedented. Driving the news: Some Americans struggled to access JPMorgan Chase banking services Monday. United Airlines briefly delayed departing flights later that day, days after the FAA executed the longest nationwide ground stop since 9/11. Microsoft Outlook's outage left users unable to access emails and other Microsoft 365 services. Homeland Security Secretary Markwayne Mullin suggested Monday that AI systems capable of writing and changing code could be contributing to the outages. Yes, but: No evidence so far points to AI-assisted hacking. In most cases, the outages have been attributed to software patching and appear otherwise unrelated, even as small technical problems snowballed into big ones. Chase blamed an internal software bug that delayed transactions involving other banks. United cited a technology problem; the FAA said a flood of network traffic destabilized older, legacy equipment. Microsoft cited a months-old bug, increased traffic and reduced server capacity. Between the lines: There are ways AI may have played a role that have nothing to do with hacking. Institutions around the world are racing to update software in order to solidify systems, given that AI models are capable of finding and exploiting vulnerabilities with shocking speed. That race has accelerated a lot of coding work, a process that can lead to more downtime, outages and unexpected hiccups, experts say. AI has also dramatically accelerated the rate at which engineers write and improve software, leading to new bottlenecks for reviewing the safety and reliability of new code. To the extent reviewers or the systems they work with are overwhelmed, mistakes are possible. What they're saying : Increasingly complex systems are being pushed to operate faster and cheaper without enough attention to how they might fail, David Woods, a professor emeritus of integrated systems engineering at Ohio State University, told Axios. \"We're cutting out the cross checks, we're cutting out the tests, we're cutting out the stress tests, we're cutting out the safeguards,\" Woods says. \"Humans see patterns in everything, regardless of whether they're there, and generally interpret coincidences as conspiracies,\" said Bruce Schneier, a security technologist. \"It's human psychology.\" \"There's very little that these incidents have in common, actually,\" Liz Fong-Jones a technical fellow at Honeycomb tells Axios. \"No one notices when things go right.\" By the numbers: Downdetector received nearly 6 million U.S. problem reports in the seven days ending Nov. 16, the highest weekly total in a year, Ookla analyst Luke Kehoe tells Axios. However, the past 30 days saw just three major outages, compared with a typical five. The intrigue: Some experts doubt that AI is to blame. \"The outages that we've seen are a decades-old phenomenon ... cascading failures,\" Fong-Jones says. \"Nothing to do with writing code, nothing to do with shipping code with AI.\" Zoom in: Fong-Jones compares cascading failures to a busy intersection where a traffic light stops working. Cars back up, drivers turn to surrounding streets, and soon the entire area is gridlocked. That's essentially what happened at Microsoft, where a software bug combined with increased traffic and reduced capacity, overwhelming servers as they tried to recover. The bottom line: New technology can make systems faster and more efficient, but it can't eliminate the unexpected. When companies rush to embrace it without preparing for what could go wrong, \"the world bites back and bites your ass,\" Woods warns. Go deeper: Behind the Curtain: If competence were cool",
+  "vocab_count": 8,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The internet immediately pointed fingers toward an AI agent doomsday, sending pe",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The internet immediately pointed fingers toward an AI agent doomsday, sending people into a frenzy that the Big One™was about to happen.",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Some Americans struggled to access JPMorgan Chase banking services Monday. Unite",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Some Americans struggled to access JPMorgan Chase banking services Monday. United Airlines briefly delayed departing flights later that day, days after the FAA executed the longest nationwide ground stop since 9/11. Microsoft Outlook's outa",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Fong-Jones compares cascading failures to a busy intersection where a traffic li",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Fong-Jones compares cascading failures to a busy intersection where a traffic light stops working. Cars back up, drivers turn to surrounding streets, and soon the entire area is gridlocked. That's essentially what happened at Microsoft, whe",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Some experts doubt that AI is to blame. \"The outages that we've seen are a decad",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Some experts doubt that AI is to blame. \"The outages that we've seen are a decades-old phenomenon ... cascading failures,\" Fong-Jones says. \"Nothing to do with writing code, nothing to do with shipping code with AI.\"",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: There are ways AI may have played a role that have nothing to do with hacking. I",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: There are ways AI may have played a role that have nothing to do with hacking. Institutions around the world are racing to update software in order to solidify systems, given that AI models are capable of finding and exploiting vulnerabilit",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: New technology can make systems faster and more efficient, but it can't eliminat",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: New technology can make systems faster and more efficient, but it can't eliminate the unexpected. When companies rush to embrace it without preparing for what could go wrong, \"the world bites back and bites your ass,\" Woods warns.",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Go deeper",
+      "phrase": "Go deeper: Behind the Curtain: If competence were cool",
+      "meaning": "Axios 专栏固定用语：Go deeper",
+      "sentence": "Go deeper: Behind the Curtain: If competence were cool",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Experts tell Axios these disruptions don't appear linked to hacking. To the exte",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Experts tell Axios these disruptions don't appear linked to hacking. To the extent they involve AI, the incidents may have just as much to do with widespread efforts to fix outdated code as they do with slop software. Downdetector data also",
+      "source": "Axios — Why the internet suddenly broke all at once (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-18T16:46:11+00:00"
+}
