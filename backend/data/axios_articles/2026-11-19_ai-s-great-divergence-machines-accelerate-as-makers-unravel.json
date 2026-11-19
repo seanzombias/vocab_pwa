@@ -1,0 +1,85 @@
+{
+  "title": "AI's great divergence: Machines accelerate as makers unravel",
+  "url": "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast",
+  "pub_date": "2026-11-19",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — AI's great divergence: Machines accelerate as makers unravel (2026-11-19)",
+  "body": "Anthropic will make its Wall Street debut Thursday at a moment of profound contradiction in the history of AI: The humans are embattled — bogged down by scandal, financial turmoil and political revolt. But the machines are ascendant — accelerating toward an \"intelligence explosion\" they expect will transform civilization. Why it matters: The industry's recent chaos has obscured a breathtaking surge in technological progress, forcing some of the world's leading researchers to reconsider just how soon AI could surpass human intelligence. Zoom in: Inside Anthropic, soon to be valued north of $1 trillion, independent researchers at METR found that AI models are advancing at nearly twice their historical pace — largely fueled, they believe, by AI itself. Anthropic's own data shows Claude went from leading fewer than 1% of the company's AI research tasks in February to more than a quarter by August, with humans still supervising. METR found no clear obstacles to sustaining this pace over the next year, and reviewed confidential evidence suggesting the acceleration itself may be gathering speed. Zoom out: Across the frontier, leading companies are racing up what Anthropic CEO Dario Amodei calls \"the exponential.\" OpenAI disclosed Tuesday that Astra 6.2 is its first publicly released model to reach the \"High\" threshold for AI self-improvement — equivalent, the company says, to giving every researcher another highly capable engineer. The advances span both software and silicon: OpenAI says its models helped AMD compress a year of chip-design progress into less than five months, while Google's Gemini is reducing weeks of chip-layout work to hours. The big picture: These breakthroughs are pushing some of AI's top forecasters to shorten their timelines for the fabled \"intelligence explosion\" — a runaway cascade of self-improving AI that could propel machine intelligence far beyond human comprehension. The influential AI Futures Project now expects machines to surpass the world's best human AI researchers next year, a dramatic revision driven largely by METR's findings at Anthropic. Paul Christiano, an AI safety pioneer who recently joined OpenAI's board, puts the odds of superintelligence emerging within a year at one in three if development continues at its current pace. Between the lines: For all their extraordinary capabilities, the machines remain at the mercy of a fallible human race. Take Nvidia: Jensen Huang's sex scandal has plunged the chipmaker into crisis at the very height of its technological and financial power, endangering virtually the entire AI ecosystem. AI leaders' disastrous messaging , veering between promises of utopia and warnings of mass unemployment, has poisoned public trust and helped fuel a revolt against data centers. Meanwhile, the industry's enormous capital requirements, increasingly tangled financial arrangements and intensifying U.S.–China chip war threaten to impose limits that the technology itself has yet to encounter. Then there's the question of control: Months after OpenAI's agents breached Hugging Face, the company acknowledged Wednesday that it still cannot fully rely on AI behaving as intended to prevent harm. One of the industry's biggest gambles is that AI itself will help solve the problem of controlling future superintelligence. \"You're building the plane as you fly it,\" Christiano told podcaster Dwarkesh Patel this week. The bottom line: Anthropic's historic IPO captures the central contradiction: Investors are betting on nearly limitless technological progress, while the industry's future remains hostage to distinctly human failures.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The industry's recent chaos has obscured a breathtaking surge in technological p",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The industry's recent chaos has obscured a breathtaking surge in technological progress, forcing some of the world's leading researchers to reconsider just how soon AI could surpass human intelligence.",
+      "source": "Axios — AI's great divergence: Machines accelerate as makers unravel (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: Across the frontier, leading companies are racing up what Anthropic CEO Dario Am",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: Across the frontier, leading companies are racing up what Anthropic CEO Dario Amodei calls \"the exponential.\" OpenAI disclosed Tuesday that Astra 6.2 is its first publicly released model to reach the \"High\" threshold for AI self-improvement",
+      "source": "Axios — AI's great divergence: Machines accelerate as makers unravel (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Inside Anthropic, soon to be valued north of $1 trillion, independent researcher",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Inside Anthropic, soon to be valued north of $1 trillion, independent researchers at METR found that AI models are advancing at nearly twice their historical pace — largely fueled, they believe, by AI itself. Anthropic's own data shows Clau",
+      "source": "Axios — AI's great divergence: Machines accelerate as makers unravel (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: For all their extraordinary capabilities, the machines remain at the mercy of a",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: For all their extraordinary capabilities, the machines remain at the mercy of a fallible human race. Take Nvidia: Jensen Huang's sex scandal has plunged the chipmaker into crisis at the very height of its technological and financial power, ",
+      "source": "Axios — AI's great divergence: Machines accelerate as makers unravel (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Anthropic's historic IPO captures the central contradiction: Investors are betti",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Anthropic's historic IPO captures the central contradiction: Investors are betting on nearly limitless technological progress, while the industry's future remains hostage to distinctly human failures.",
+      "source": "Axios — AI's great divergence: Machines accelerate as makers unravel (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-19T16:52:36+00:00"
+}

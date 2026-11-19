@@ -1,0 +1,72 @@
+{
+  "title": "Exclusive: Bots amplified conspiracy theories and panic about recent tech outages",
+  "url": "https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies",
+  "pub_date": "2026-11-19",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Exclusive: Bots amplified conspiracy theories and panic about recent tech outages (2026-11-19)",
+  "body": "Bot accounts have helped spread conspiracy theories about a wave of major tech outages over the last week, according to new research shared exclusively with Axios. Why it matters: Purveyors of disinformation appear to be exploiting public anxiety over the cyberattacks and fragile infrastructure, amplifying suspicions of coordinated cyberattacks and government cover-ups. While it's unclear who's behind these accounts, the pattern shows that when technology failures lack substantive explanations, bot networks will fill the void to manufacture panic. Catch up quick: Microsoft, Apple, JPMorgan Chase, United, Workday, the Federal Aviation Administration and the National Security Agency each faced outages over the last week. Then came the conspiracy theories: When the FAA grounded flights for four hours Friday, people were quick to assume it was tied to the rollout of an AI tool at the agency. Some also tried linking the widespread Microsoft outage to recent company layoffs. Yes, but : There's no publicly established evidence that these outages were part of a coordinated cyberattack, despite the theories circulating online. Several companies have attributed their disruptions to technical problems, rather than malicious activity, including efforts to patch vulnerabilities in order to make software more resilient. Downdetector data show that while the seven days through Monday saw the highest number of weekly outages in the last 12 months, longer-term patterns are far from unprecedented, as Axios previously reported . By the numbers: Suspected bots accounted for roughly 30% of posts promoting conspiracy theories about several recent tech outages, according to data from social media monitoring firm PeakMetrics. During Microsoft's outage, bots accounted for 26% of conspiratorial posts. Bots accounted for 34% of conspiracy-related posts during Friday's Workday outage, compared with 27% of other posts. Likely bot accounts also made up 31% of conspiracy-related posts about Bank of America's outage and 28% of posts linking Chase's outage to other disruptions. PeakMetrics analyzed social media discussions surrounding six recent outages and automatically classification accounts that were likely to be bots and conspiracy-related posts. Threat level : Jessica Pratt, a spokesperson for PeakMetrics, told Axios that most of the bot activity is aimed at \"gaming the platforms' algorithms\" and that they see some foreign influence within that — although the company could not detail precisely how many of the bots are tied to foreign state media and governments. PeakMetrics also observed a \"small number of foreign state media and state-aligned accounts in the conversation,\" Pratt added. Zoom in: The most popular theory being pushed was that each of these incidents must be connected. More than half of posts about Chase's outage linked it to other recent disruptions, including the FAA ground stop and Microsoft's outage. A fabricated statement attributed to JPMorgan Chase CEO Jamie Dimon fueled speculation that North Korean and Russian hackers were behind the banking outages. During Microsoft's outage, suspected bots circulated identical posts linking the disruption to Nvidia CEO Jensen Huang's departure and banking outages in Japan and Paraguay. The big picture: Foreign influence operations have historically used bots to amplify political grievances and spread false narratives, but it's unclear who's operating the accounts pushing theories about the latest outages. Between the lines: The longer outages dragged on without clear explanations, the more room conspiracy theories had to spread. During Microsoft's outage, speculative posts nearly tripled on the second day, when the disruption had stretched beyond 12 hours. By then, nearly one in five posts offered an alternative explanation for the outage, according to PeakMetrics. The intrigue: Questions about whether the outages are connected have also reached Washington, where senior officials and lawmakers are raising concerns about what might be causing the disruptions. House Minority Leader Hakeem Jeffries told reporters Tuesday that \"it's unclear if (the outages are) all infrastructure related or whether there's some malignant activity.\" Jeffries said he wants briefings for lawmakers in both chambers. Sen. Josh Hawley (R-Mo.) told reporters that it would be \"the greatest coincidence in the history of the world\" if these outages aren't connected, according to NBC News. What to watch: Outages are about to become the new normal as organizations race to patch critical vulnerabilities discovered by AI before hackers can use AI to weaponize them. Go deeper : Why the internet suddenly broke all at once",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Purveyors of disinformation appear to be exploiting public anxiety over the cybe",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Purveyors of disinformation appear to be exploiting public anxiety over the cyberattacks and fragile infrastructure, amplifying suspicions of coordinated cyberattacks and government cover-ups. While it's unclear who's behind these accounts,",
+      "source": "Axios — Exclusive: Bots amplified conspiracy theories and panic about recent tech outages (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: Microsoft, Apple, JPMorgan Chase, United, Workday, the Federal Aviation Administ",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: Microsoft, Apple, JPMorgan Chase, United, Workday, the Federal Aviation Administration and the National Security Agency each faced outages over the last week. Then came the conspiracy theories: When the FAA grounded flights for four hours F",
+      "source": "Axios — Exclusive: Bots amplified conspiracy theories and panic about recent tech outages (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The most popular theory being pushed was that each of these incidents must be co",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The most popular theory being pushed was that each of these incidents must be connected. More than half of posts about Chase's outage linked it to other recent disruptions, including the FAA ground stop and Microsoft's outage. A fabricated ",
+      "source": "Axios — Exclusive: Bots amplified conspiracy theories and panic about recent tech outages (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Questions about whether the outages are connected have also reached Washington,",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Questions about whether the outages are connected have also reached Washington, where senior officials and lawmakers are raising concerns about what might be causing the disruptions. House Minority Leader Hakeem Jeffries told reporters Tues",
+      "source": "Axios — Exclusive: Bots amplified conspiracy theories and panic about recent tech outages (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: The longer outages dragged on without clear explanations, the more room conspira",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: The longer outages dragged on without clear explanations, the more room conspiracy theories had to spread. During Microsoft's outage, speculative posts nearly tripled on the second day, when the disruption had stretched beyond 12 hours. By ",
+      "source": "Axios — Exclusive: Bots amplified conspiracy theories and panic about recent tech outages (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-19T16:52:36+00:00"
+}
