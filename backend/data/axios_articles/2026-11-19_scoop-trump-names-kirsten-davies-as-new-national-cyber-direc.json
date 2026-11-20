@@ -1,0 +1,59 @@
+{
+  "title": "Scoop: Trump names Kirsten Davies as new national cyber director",
+  "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+  "pub_date": "2026-11-19",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Scoop: Trump names Kirsten Davies as new national cyber director (2026-11-19)",
+  "body": "The White House named Kirsten A. Davies to be its new national cyber director Thursday as President Trump overhauls his AI team, Axios has learned. Why it matters: Davies, who currently serves as the Pentagon's chief information officer , has more experience in the field than the outgoing director , Sean Cairncross . Cairncross' departure was described as amicable by two sources. But two White House officials said President Trump's new chief of staff, Stephen Miller, sought the change and pushed out Cairncross because, one said, he \"lacked the strong cyber credentials to perform the job.\" The search for Cairncross's replacement was begun two weeks ago, a third source said. Zoom out: The Office of the National Cyber Director coordinates cybersecurity policy and strategy across the federal government. The position requires Senate confirmation. Davies previously was cleared by the Senate as the Defense Department's chief information officer. \"Kirsten has the credentials to excel in this position and has already been Senate-confirmed,\" an administration official said. At the Pentagon, Davies has been the top adviser to Defense Secretary Pete Hegseth \"on all matters relating to information management, information technology, cybersecurity, and information assurance,\" according to her bio. Before serving in the Trump administration, Davies worked for Unilever and \"led global cyber resilience for one of the world's largest consumer goods enterprises,\" her bio says. Davies' career also has included technology and cyber roles at Estée Lauder, Barclays-Africa Group, Hewlett Packard and Siemens. She founded the Institute for Cyber, a nonprofit organization dedicated to citizen safety and security in the digital universe. State of play: The administration's AI team has taken shape on the fly , but Cairncross was involved in key decisions. He held technical meetings with Anthropic leaders over the summer after Commerce Department export controls effectively scrubbed the company's models from the internet. Cairncross brought experience in Republican politics and national security, having worked with the intelligence community and dealt with cyber threats at the Republican National Committee. During Trump's first term, Cairncross represented the White House chief of staff on National Security Council committees before leading the Millennium Challenge Corporation, a federal foreign aid agency. Cairncross' head of policy and senior adviser Thomas Lind left in June and joined OpenAI in October, further depleting the Trump administration of technical expertise. The big picture: The latest turnover in cyber personnel comes as the country grapples with critical infrastructure outages and increasingly powerful AI poised to empower cyber defenders and hackers alike. Democrats have criticized the administration's response to outages and warned that U.S. cyber defenses are falling behind AI-fueled threats. What we're watching: Trump is also filling other key cyber positions. His pick for the top job at the Cybersecurity and Infrastructure Security Agency, which helps defend federal civilian networks and critical infrastructure, Palantir executive Michael LoSapio, faced a combative confirmation hearing Thursday. What they're saying: In a written statement, Cairncross said, \"it has been the honor of a lifetime to serve President Donald J. Trump. I leave my role as Director of Cyber incredibly proud of our work to strengthen America's cybersecurity, protect our critical infrastructure, confront foreign threats, and position America to lead the world in Super Intelligence.\" This story has been updated with details on Davies' appointment and background.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Davies, who currently serves as the Pentagon's chief information officer , has m",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Davies, who currently serves as the Pentagon's chief information officer , has more experience in the field than the outgoing director , Sean Cairncross . Cairncross' departure was described as amicable by two sources. But two White House o",
+      "source": "Axios — Scoop: Trump names Kirsten Davies as new national cyber director (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The Office of the National Cyber Director coordinates cybersecurity policy and s",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The Office of the National Cyber Director coordinates cybersecurity policy and strategy across the federal government. The position requires Senate confirmation. Davies previously was cleared by the Senate as the Defense Department's chief ",
+      "source": "Axios — Scoop: Trump names Kirsten Davies as new national cyber director (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: In a written statement, Cairncross said, \"it has been the honor of a lifetime to",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: In a written statement, Cairncross said, \"it has been the honor of a lifetime to serve President Donald J. Trump. I leave my role as Director of Cyber incredibly proud of our work to strengthen America's cybersecurity, protect our critical ",
+      "source": "Axios — Scoop: Trump names Kirsten Davies as new national cyber director (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-20T16:27:39+00:00"
+}

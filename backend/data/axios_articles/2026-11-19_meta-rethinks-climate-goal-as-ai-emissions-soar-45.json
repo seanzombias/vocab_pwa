@@ -1,0 +1,28 @@
+{
+  "title": "Meta rethinks climate goal as AI emissions soar 45%",
+  "url": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
+  "pub_date": "2026-11-19",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Meta rethinks climate goal as AI emissions soar 45% (2026-11-19)",
+  "body": "Meta's greenhouse gas emissions surged 45% last year amid its AI infrastructure boom, prompting the tech giant to reconsider its goal of reaching net-zero emissions by 2030. Why it matters : Other tech giants have reported rising emissions as they race to build data centers, but Meta is going a step further by explicitly reconsidering its climate deadline. Driving the news : The just-released sustainability report of the tech giant, one of North America's largest data centers operators , shows just how much growth in the AI industry is outpacing any efficiency gains. Meta executives said they were \"re-evaluating\" the 2030 goal, first announced in 2020 when the company was still known as Facebook and before the generative AI boom. They didn't specify what changes they're considering or when they'll make a decision. By the numbers : Meta's electricity use jumped 35%, comparable to other tech giants. But Meta's emissions increase of 45% is far higher than its peers, Google (18%), Amazon (16%) and Microsoft (25%). What they're saying: \"When we set our net zero emissions goal, we anticipated steady growth, falling clean energy costs, and changes in the broader system that would enable progress at the pace we envisioned,\" wrote Rachel Peterson, vice president of data centers, and Blair Swedeen, global head of net zero and sustainability. \"The reality has been far more complex.\" Zoom out : The race among tech giants to dominate AI is pushing their climate goals into the backseat, even as they continue investing heavily in clean energy. State of play : Meta says it has contracted more than 30 gigawatts of clean energy, including nuclear, solar and geothermal, though less than half that capacity is generating electricity so far. The intrigue : Meta's report says it may turn to natural gas plants to power data centers when utilities can't deliver electricity fast enough — even though such projects are already underway. It's also seeking to offset some of the methane emissions associated with its natural gas use by paying for cleaner gas production elsewhere. Reality check : Meta's 45% emissions increase doesn't yet reflect the full impact of some of its biggest planned natural gas projects, suggesting its footprint could grow considerably more. In Louisiana, utility Entergy is pursuing seven new gas-fired generating units totaling more than 5,200 megawatts to serve Meta's data centers. Separately, Ohio regulators approved a 200-megawatt gas plant built specifically to power Meta's data centers, while research firm Cleanview identifies a 521-megawatt gas project under construction for Meta in Utah. Friction point : Meta's report was also revealing about water, a more immediate concern for many communities near data centers. The company's direct water consumption fell 4%, but consumption in highly water-stressed regions rose 24%. The estimated water consumption associated with generating its electricity — an often-overlooked environmental impact — rose 37% before accounting for its clean-energy purchases. How it works : Natural gas plants typically use substantial amounts of water for cooling, meaning Meta's growing reliance on gas could increase its indirect water footprint even as its data centers become more water-efficient. Yes, but : Meta is the only tech giant to disclose the water consumption associated with electricity, earning it high marks for transparency from Alex de Vries-Gao, a researcher at Vrije Universiteit Amsterdam who has studied AI's environmental footprint. What we're watching : Meta's reconsideration of its climate deadline raises the question of whether other tech giants will eventually follow suit as the AI boom continues to strain their environmental commitments.",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"When we set our net zero emissions goal, we anticipated steady growth, falling",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"When we set our net zero emissions goal, we anticipated steady growth, falling clean energy costs, and changes in the broader system that would enable progress at the pace we envisioned,\" wrote Rachel Peterson, vice president of data cente",
+      "source": "Axios — Meta rethinks climate goal as AI emissions soar 45% (2026-11-19)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-20T16:27:39+00:00"
+}
