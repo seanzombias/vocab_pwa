@@ -1,0 +1,28 @@
+{
+  "title": "Trust, but prepare: How to make sense of AI's age of upheaval",
+  "url": "https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare",
+  "pub_date": "2026-11-18",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Trust, but prepare: How to make sense of AI's age of upheaval (2026-11-18)",
+  "body": "Most Americans are baffled and alarmed by the daily, if not hourly, explosion of technical glitches hitting air travel, banks and work products like Microsoft Outlook. The outages seem genuinely scary and related. So what the hell is going on? The most likely answer : This is the first true wave of unintended consequences of increasingly powerful artificial intelligence hitting us at once. The big picture: In short, AI is exceptionally good at building software, and therefore exceptionally good at spotting and exploiting bugs in large technical, software-based systems. The glitches come from a mix of sources — some innocuous, some scary, including: routine updates to aging infrastructure; humans scrambling to patch vulnerabilities discovered by AI; hackers exploiting existing weaknesses; and bad actors using swarms of AI agents to launch increasingly sophisticated cyberattacks. That's the new reality that government officials and AI experts believe we're entering. They expect this period of disruption and heightened vulnerability to persist for months, as powerful new AI tools expose weaknesses buried in decades-old systems. The catchphrase gaining currency : \" Software Beirut \" — a period of cascading failures, many of our own making, that could grow worse before things get better. What this means for YOU : Understand the different causes, detailed below, and resist the temptation to panic every time something goes haywire. It's easy to hop on social media and let the algorithm drag you into doomsday thinking. You should also prepare : Reset and protect your passwords . Keep more cash on hand if possible, in case your bank is down for a day or two. Buy some basic emergency supplies in case power or water do go out. Sadly, we believe this season of glitches and possible cyberattacks will persist. Better to be prepared. Here's a more detailed look at the different causes of these glitches or breakdowns: 1. Updates to old systems: The government says last Friday's nationwide airspace outage was simply a case of replacing old copper wires with new fiber that went very, very badly. Aging infrastructure can struggle to accommodate new components. In this case, a network problem overwhelmed legacy equipment, triggering a cascade that grounded flights across the country. 2. AI spotting bugs and humans rushing to fix them: This is one of cyber expert Nicole Perlroth's core scenarios, which went viral this week. AI can find vulnerabilities faster than humans can investigate and patch them. In the frantic sprint to fix those weaknesses before hackers exploit them, systems can break. According to the Washington Sun , banking executives and NSA officials have told lawmakers that rushed efforts to patch AI-discovered vulnerabilities contributed to some of this week's outages. 3. Bad actors attacking vulnerable systems : Across Europe, supermarket refrigerators are being hacked , spoiling millions of dollars' worth of food. No one had \"protect the fridges\" on their security to-do list this year. But the attacks show how hackers can exploit even the most mundane internet-connected systems — with devastating real-world consequences. 4. AI enabling new forms of cyberattacks : Google said this week it had identified, for the first time, bad actors using AI to find weaknesses and launch cyberattacks entirely on their own — with no human in the loop. If it wasn't already clear, Google warned that \"the adversarial AI landscape has reached a critical inflection point.\" The bottom line: Most companies and much of government are woefully unprepared for the new era of AI-powered cyberattacks. Their systems are old, clunky and riddled with vulnerabilities. Fortifying them will take enormous amounts of money, time and persistence. The good news: We can see the danger coming, and still have (a little) time to protect ourselves for what may come next. Axios' Ben Berkowitz and Zachary Basu contributed.",
+  "vocab_count": 1,
+  "vocab": [
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Most companies and much of government are woefully unprepared for the new era of",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Most companies and much of government are woefully unprepared for the new era of AI-powered cyberattacks. Their systems are old, clunky and riddled with vulnerabilities. Fortifying them will take enormous amounts of money, time and persiste",
+      "source": "Axios — Trust, but prepare: How to make sense of AI's age of upheaval (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-21T15:42:13+00:00"
+}

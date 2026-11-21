@@ -1,0 +1,46 @@
+{
+  "title": "Anthropic valued at over $1 trillion in historic IPO",
+  "url": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
+  "pub_date": "2026-11-18",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Anthropic valued at over $1 trillion in historic IPO (2026-11-18)",
+  "body": "Anthropic on Wednesday raised over $81 billion in a long-awaited IPO that valued the Claude maker at over $1 trillion. Why it matters: Wall Street expects the AI boom to continue, despite some recent tumult. Zoom in: Anthropic priced at $83 per share, well above its planned range of $70 to $78 per share. It imputes an initial market cap of $1.08 trillion and a fully diluted value of around $1.5 trillion. Anthropic originally planned to sell 825 million shares, but increased it to 980 million shares. The company also could raise significantly more money if underwriters exercise their so-called \"greenshoe\" option, while Anthropic also will receive $26 billion via a concurrent private placement from tech giants like Nvidia, Google and Microsoft. Allocation decisions were expected to last several hours on Wednesday evening. Context: Anthropic was valued at $965 billion in its most recent private round. The apples-to-apples comparison would be with the fully diluted value. SpaceX is the current IPO record-holder having raised $86.25 billion, although that included the greenshoe. What we're watching: Shares are expected to begin trading Thursday, Nov. 19, on the Nasdaq under the ticker \"ANT.\"",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: Wall Street expects the AI boom to continue, despite some recent tumult",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: Wall Street expects the AI boom to continue, despite some recent tumult.",
+      "source": "Axios — Anthropic valued at over $1 trillion in historic IPO (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Anthropic priced at $83 per share, well above its planned range of $70 to $78 pe",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Anthropic priced at $83 per share, well above its planned range of $70 to $78 per share. It imputes an initial market cap of $1.08 trillion and a fully diluted value of around $1.5 trillion. Anthropic originally planned to sell 825 million ",
+      "source": "Axios — Anthropic valued at over $1 trillion in historic IPO (2026-11-18)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-21T15:42:13+00:00"
+}

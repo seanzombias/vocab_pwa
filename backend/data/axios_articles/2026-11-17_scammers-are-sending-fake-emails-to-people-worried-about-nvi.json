@@ -1,0 +1,50 @@
+{
+  "title": "Scammers are sending fake emails to people worried about Nvidia's stock",
+  "url": "https://www.axios.com/2026/11/17/nvidia-investment-phishing-emails",
+  "pub_date": "2026-11-17",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Scammers are sending fake emails to people worried about Nvidia's stock (2026-11-17)",
+  "body": "Scammers are already exploiting the scandal surrounding Nvidia to lure unsuspecting investors and business professionals into downloading malware. Why it matters: AI is making it easier for criminals to capitalize on the news cycle and tailor scams to specific audiences before people have time to recognize the threat. Driving the news: KnowBe4, the cybersecurity training platform, says it's seen scammer emails using the subject line \"Invitation: Nvidia Executive Partnership Discussion\" that purport to offer information about Nvidia's investment strategy. Inside the email, recipients see a clickable image appearing to show information about Nvidia's 2026 investment parameters. Clicking it could lead to malware being downloaded onto their devices. KnowBe4 started seeing signs of the scam Wednesday, just a few days after Nvidia CEO Jensen Huang admitted to being unfaithful to his wife and a day before he resigned, triggering a crisis at the chip-maker. KnowBe4 CEO Bryan Palma told Axios that the campaign appears to be targeting people working in finance, transportation and government. It's unclear which group is behind the emails, he added. The big picture: The Nvidia lure is part of a growing trend in which hackers borrow a page from the marketing industry's playbook to turn breaking news into targeted phishing campaigns. Just like marketers, hackers can purchase detailed contact lists and use AI to sort potential victims by industry, profession and interests, Palma said. That allows them to tailor their scams to specific audiences rather than sending the same generic email to millions of people. AI is also speeding up their ability to develop and launch timely schemes, Palma said. By the numbers: Attackers are 5.4 times faster at responding to headlines in 2026 than in 2022, according to KnowBe4 data . In one case, following a major celebrity's death, scammers launched an email phishing campaign within 16 hours. Nearly 88% of phishing attacks tied to breaking news or planned events impersonated a globally recognized brand, according to KnowBe4. The bottom line: Palma recommends taking a closer look at any unexpected email that appears to reference breaking news, even if the headline seems familiar.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: AI is making it easier for criminals to capitalize on the news cycle and tailor",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: AI is making it easier for criminals to capitalize on the news cycle and tailor scams to specific audiences before people have time to recognize the threat.",
+      "source": "Axios — Scammers are sending fake emails to people worried about Nvidia's stock (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: KnowBe4, the cybersecurity training platform, says it's seen scammer emails usin",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: KnowBe4, the cybersecurity training platform, says it's seen scammer emails using the subject line \"Invitation: Nvidia Executive Partnership Discussion\" that purport to offer information about Nvidia's investment strategy. Inside the email,",
+      "source": "Axios — Scammers are sending fake emails to people worried about Nvidia's stock (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: Palma recommends taking a closer look at any unexpected email that appears to re",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: Palma recommends taking a closer look at any unexpected email that appears to reference breaking news, even if the headline seems familiar.",
+      "source": "Axios — Scammers are sending fake emails to people worried about Nvidia's stock (2026-11-17)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-21T15:42:14+00:00"
+}
