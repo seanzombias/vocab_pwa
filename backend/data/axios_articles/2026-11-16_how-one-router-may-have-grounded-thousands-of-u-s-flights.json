@@ -1,0 +1,83 @@
+{
+  "title": "How one router may have grounded thousands of U.S. flights",
+  "url": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
+  "pub_date": "2026-11-16",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — How one router may have grounded thousands of U.S. flights (2026-11-16)",
+  "body": "A newly installed router is at the center of the investigation into the Federal Aviation Administration's nationwide ground stop last Friday, which disrupted thousands of flights nationwide. Why it matters: The technical failure exposes vulnerabilities in the FAA's aging telecommunications network, raising questions about how a technical failure could trigger a nationwide ground stop and disrupt air travel. Catch up quick: More than 12,000 flights were canceled Friday after the telecommunications failure, the FAA said , with thousands more delayed. \"I do think the worst is behind us, but we still do have a significant amount of recovery work to do,\" FAA Administrator Bryan Bedford said Sunday. Read more below. What caused the nationwide groundstop? What they're saying: The FAA says its network was flooded with data \"at a rate of 1,000 connection attempts every 4 to 5 seconds,\" causing \"instability with aircraft communications and radar feeds.\" Investigators tracked the data traffic surge to two possible locations — a radio communications facility in El Dorado, Arkansas, and a radar site in Amarillo, Texas, per the Wall Street Journal . The FAA says its network service provider, L3Harris , has been deploying a new router at the Arkansas facility, which is why it's under investigation for potentially disrupting flights nationwide. After L3Harris blocked network traffic from both facilities, the system stabilized, allowing normal flight operations to eventually resume, per the FAA. \"L3Harris takes the nationwide ground stop and its impact on travelers, airlines and air traffic operations seriously,\" the company said in a statement. How did a router disrupt flights nationwide? How it works: Air traffic controllers speak with pilots over radio frequencies and receive radar information used to track aircraft. The network connects air traffic control facilities and carries communications and radar information that controllers need to safely manage aircraft. A router directs data traffic across a network. Any disruption could send swaths of data across the system, potentially disrupting communications. The FAA says a massive surge of data may have overwhelmed the old equipment, disrupting aircraft communications and radar feeds. The disruption reportedly impacted more than half of the FAA's 22 Air Route Traffic Control Centers, which primarily handle high-altitude flights. What to know about radio frequency outages One symptom of the wider network instability: radio frequency disruptions. Some reports described this as a \" rolling frequency outage ,\" where disruptions affect different radio frequencies and plane-monitoring facilities at the same time. This could cause planes to lose contact with the air control centers. Reality check: Losing contact with air traffic controllers can complicate the instructions pilots rely on to navigate crowded airspace safely. It doesn't mean they're flying completely in the dark, but it can make air travel and airspace management messy. What happens to pilots during the outages? Zoom in: The FAA normally has backup systems and procedures designed to keep communications going when radio frequencies fail. These include backup radio transmitters and receivers at air traffic control centers, per the FAA's Aeronautical Information Manual . The FAA says switching to a backup radio system seldom takes more than 60 seconds during a typical frequency outage. Pilots who lose communication with their controllers can also try to reach controllers through alternative frequencies or by contacting specific facilities. Yes, but: Backup systems don't eliminate the safety concerns posed by widespread communications failures, particularly when multiple air traffic control facilities are affected. What does this mean for flights? Zoom out: The nationwide ground stop ended Friday after massive flight delays and cancellations, but airlines have continued to experience schedule disruptions. Departing flights were grounded for several hours, with about 3,500 aircraft already in the air landing safely, per reports. Delays and cancellations continued as airlines worked to reposition crews, staff and aircraft. What's next: The FAA says it will investigate the cause of the disruption with L3Harris. The agency says it has disabled the relevant broadcasting function on about 60 similar routers to prevent another disruption.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The technical failure exposes vulnerabilities in the FAA's aging telecommunicati",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The technical failure exposes vulnerabilities in the FAA's aging telecommunications network, raising questions about how a technical failure could trigger a nationwide ground stop and disrupt air travel.",
+      "source": "Axios — How one router may have grounded thousands of U.S. flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: More than 12,000 flights were canceled Friday after the telecommunications failu",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: More than 12,000 flights were canceled Friday after the telecommunications failure, the FAA said , with thousands more delayed. \"I do think the worst is behind us, but we still do have a significant amount of recovery work to do,\" FAA Admin",
+      "source": "Axios — How one router may have grounded thousands of U.S. flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom out",
+      "phrase": "Zoom out: The nationwide ground stop ended Friday after massive flight delays and cancella",
+      "meaning": "Axios 专栏固定用语：Zoom out",
+      "sentence": "Zoom out: The nationwide ground stop ended Friday after massive flight delays and cancellations, but airlines have continued to experience schedule disruptions. Departing flights were grounded for several hours, with about 3,500 aircraft already in t",
+      "source": "Axios — How one router may have grounded thousands of U.S. flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The FAA normally has backup systems and procedures designed to keep communicatio",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The FAA normally has backup systems and procedures designed to keep communications going when radio frequencies fail. These include backup radio transmitters and receivers at air traffic control centers, per the FAA's Aeronautical Informati",
+      "source": "Axios — How one router may have grounded thousands of U.S. flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: The FAA says its network was flooded with data \"at a rate of 1,000 connection at",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: The FAA says its network was flooded with data \"at a rate of 1,000 connection attempts every 4 to 5 seconds,\" causing \"instability with aircraft communications and radar feeds.\" Investigators tracked the data traffic surge to two possible l",
+      "source": "Axios — How one router may have grounded thousands of U.S. flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Reality check",
+      "phrase": "Reality check: Losing contact with air traffic controllers can complicate the instructions pilo",
+      "meaning": "Axios 专栏固定用语：Reality check",
+      "sentence": "Reality check: Losing contact with air traffic controllers can complicate the instructions pilots rely on to navigate crowded airspace safely. It doesn't mean they're flying completely in the dark, but it can make air travel and airspace management messy.",
+      "source": "Axios — How one router may have grounded thousands of U.S. flights (2026-11-16)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-22T15:44:34+00:00"
+}
