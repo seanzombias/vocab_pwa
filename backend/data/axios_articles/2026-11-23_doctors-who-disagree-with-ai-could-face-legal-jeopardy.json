@@ -1,0 +1,50 @@
+{
+  "title": "Doctors who disagree with AI could face legal jeopardy",
+  "url": "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger",
+  "pub_date": "2026-11-23",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Doctors who disagree with AI could face legal jeopardy (2026-11-23)",
+  "body": "AI could put doctors who disagree with it in greater jeopardy of losing a malpractice suit, according to researchers who have tested some legal scenarios with mock juries. Why it matters: The public may still be wary about how AI is used in a hospital or doctor's office, but there's also a baked-in assumption that it's never wrong. That can put physicians in a bind when they disagree with an algorithm that flags an abnormality. Some may opt to order costly, possibly unneeded tests if they think it reduces their legal liability. Driving the news: Researchers are using simulated malpractice cases to examine how much AI influences the perception of whether a doctor exercised \"duty of care\" in treating a patient. The implications are significant: AI systems are used extensively to analyze medical images and improve the accuracy of diagnoses, and demand for tests is rising. But the systems invariably make mistakes. Experts say there are few established legal precedents for how AI might change the nature of malpractice liability in a field like radiology. Physicians are demanding more protections. The American Medical Association this month called for new federal and state legislation that shields clinicians from liability when AI products harm patients. What they found: In a series of simulated court cases, researchers discovered that mock juries were more likely to side with the plaintiff in a malpractice suit when AI disagrees with a radiologist than when AI agrees with them. One scenario involved a brain bleed on a CT scan that resulted in irreversible brain damage. When AI disagreed with the radiologist by flagging the condition when the radiologist didn't think there was one, the jurors sided with the plaintiff more often (72.9% of the time). A second case was built around a missed lung cancer on a CT scan that resulted in the patient's death. When AI was at odds with the physician by saying the patient had lung cancer when the doctor didn't think so, participants also sided with the plaintiff more often (78.7% of the time), the researchers wrote in NEJM AI . Yes, but: A smaller percentage of jurors ruled against the physician when they were given data on the AI system's error rate. Experts say that's significant because false positive readings are almost inevitable and can temper the belief that the technology is always right. What they're saying: \"We're uncovering an unintended consequence of AI adoption,\" said lead author Michael Bernstein, an associate professor at the Warren Alpert Medical School of Brown University. \"AI can do a lot in radiology, but it's not all uniformly positive.\" Bernstein said one concern is the prospect of more \"defensive medicine,\" in which clinicians overcorrect and order follow-up scans and exams, which can drive up costs and patient anxiety. Radiology is a closely watched specialty because AI is used extensively — and because missing an abnormality can be fatal. It's also among the fields with a high risk of being sued . But research on perceptions of blame is cutting across many medical disciplines and underscores how physicians who are expected to rely on AI to cut down on medical errors still have to know when to override the systems. \"Because human operators are perceived as having control over the technology's use, responsibility unduly shifts to the human operator,\" Johns Hopkins researchers wrote in JAMA Health Forum last year. They noted that physicians were consistently viewed as more liable than AI vendors, health systems that adopted the technology or regulators. What we're watching: Bernstein and his colleagues found that double-checking AI results could reduce doctors' malpractice risks and prospective jurors' perceptions of whether a doctor met the \"duty of care\" standard. The question is whether they can find the time. The AMA is trying to shift the burden on AI developers and vendors — and pressing for new laws mandating that AI companies carry adequate liability insurance and disclose product limitations and performance data.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The public may still be wary about how AI is used in a hospital or doctor's offi",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The public may still be wary about how AI is used in a hospital or doctor's office, but there's also a baked-in assumption that it's never wrong. That can put physicians in a bind when they disagree with an algorithm that flags an abnormali",
+      "source": "Axios — Doctors who disagree with AI could face legal jeopardy (2026-11-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Researchers are using simulated malpractice cases to examine how much AI influen",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Researchers are using simulated malpractice cases to examine how much AI influences the perception of whether a doctor exercised \"duty of care\" in treating a patient. The implications are significant: AI systems are used extensively to anal",
+      "source": "Axios — Doctors who disagree with AI could face legal jeopardy (2026-11-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"We're uncovering an unintended consequence of AI adoption,\" said lead author Mi",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"We're uncovering an unintended consequence of AI adoption,\" said lead author Michael Bernstein, an associate professor at the Warren Alpert Medical School of Brown University. \"AI can do a lot in radiology, but it's not all uniformly posit",
+      "source": "Axios — Doctors who disagree with AI could face legal jeopardy (2026-11-23)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-23T19:34:20+00:00"
+}
