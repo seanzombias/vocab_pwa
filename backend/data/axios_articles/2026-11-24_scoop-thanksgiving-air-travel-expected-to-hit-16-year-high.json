@@ -1,0 +1,39 @@
+{
+  "title": "Scoop: Thanksgiving air travel expected to hit 16-year high",
+  "url": "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected",
+  "pub_date": "2026-11-24",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — Scoop: Thanksgiving air travel expected to hit 16-year high (2026-11-24)",
+  "body": "Data: FAA; Note: The numbers cover the Monday before Thanksgiving through the Tuesday after. The data includes flights tracked by air traffic control under instrument flight rules.; Chart: Noah Bressner/Axios Thanksgiving week air travel is expected to reach a 16-year high, with 417,775 flights forecast over the nine-day holiday period from Nov. 23 through Dec. 1, according to FAA figures obtained by Axios. Why it matters: The surge comes on the heels of a historic ground stop that disrupted flights nationwide this month and put a spotlight on potential outages in the nation's aging air traffic control system, which the the FAA is working to modernize. The Thanksgiving rush will be a major test of the Trump administration's push to improve the system's reliability and minimize flight delays and cancellations. By the numbers: The FAA is projecting a 2.2% increase in flights over Thanksgiving week last year and a 7.5% increase over pre-pandemic levels in 2019. Tuesday is expected to be the busiest day, with more than 52,000 flights. Behind the scenes: A newly assembled team tasked with improving the air traffic control system's reliability has been meeting daily for the past week, a White House official said. The FAA is exploring ways to remove vulnerable components from the system and bolster its monitoring capability to detect and quickly address any technical problems before they cause widespread disruptions. The agency also is monitoring potential stormy weather that could disrupt holiday travel, particularly in the East and Midwest. What they're saying: \"From standing up a 'Tiger Team' to ensure a seamless travel experience for fliers to using a successful new platform to predict and address congestion in the airspace, we've taken unprecedented action to limit flight delays and cancellations,\" Transportation Secretary Sean Duffy told Axios. \"The American people can rest assured we will continue to work around the clock 24/7 to get families where they need to go.\" White House spokesperson Allison Schuster said the administration is \"working around the clock to ensure they reach their destinations safely.\"",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The surge comes on the heels of a historic ground stop that disrupted flights na",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The surge comes on the heels of a historic ground stop that disrupted flights nationwide this month and put a spotlight on potential outages in the nation's aging air traffic control system, which the the FAA is working to modernize. The Th",
+      "source": "Axios — Scoop: Thanksgiving air travel expected to hit 16-year high (2026-11-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "What they're saying",
+      "phrase": "What they're saying: \"From standing up a 'Tiger Team' to ensure a seamless travel experience for flie",
+      "meaning": "Axios 专栏固定用语：What they're saying",
+      "sentence": "What they're saying: \"From standing up a 'Tiger Team' to ensure a seamless travel experience for fliers to using a successful new platform to predict and address congestion in the airspace, we've taken unprecedented action to limit flight delays and cancellatio",
+      "source": "Axios — Scoop: Thanksgiving air travel expected to hit 16-year high (2026-11-24)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-24T19:09:16+00:00"
+}
