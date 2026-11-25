@@ -1,0 +1,85 @@
+{
+  "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI",
+  "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+  "pub_date": "2026-11-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Rival AI leaders push back against Anthropic vision of surrendering human agency to AI (2026-11-25)",
+  "body": "Top AI executives are increasingly pushing back against a common view inside Anthropic: that humanity should surrender some decision-making power to superintelligent AI systems, sources told Axios. That would put us on a slippery slope to forfeiting free will, critics say. Why it matters : The debate has picked up steam as top AI companies develop models certain employees consider too powerful to ever release . Many see Anthropic as the first company that will confront these questions due to its lead at the frontier of AI development. While critics have yet to call out the company by name, their public defenses of human agency and control take direct aim at what some have come to see as the worldview of Anthropic CEO Dario Amodei. When AI systems far surpass human intelligence, Amodei has said repeatedly that it will be preferable to turn over decision-making for \"life-critical\" cases to AI, and also said AI should oversee research and potentially distribute economic resources. Flashback: A product vision slide from several years ago that was revealed during litigation described Anthropic's \"vision for a better world\" as a \"utopia ruled by god in a box.\" The big picture: The thinking for Amodei and others is that once AI can demonstrably cure diseases, safeguard humans from harming themselves or prevent disasters better than any person, refusing to hand over control becomes irrational — or even unethical. Proponents point to self-driving cars to make their case: Once statistical evidence points to autonomous vehicles being safer than human drivers, it is logical for humans to drive far less, if at all, they say. Inside Anthropic, a broad consensus has developed among some employees that humanity will—and in many cases should — safely hand over authority to superintelligent systems rather than fighting to retain control, according to people familiar with internal discussions. An Anthropic spokesperson said Amodei has advocated for human control of AI in many public remarks and that Anthropic trains Claude not to undermine human oversight. Driving the news: Rival executives are increasingly rebuking the notion that humans will surrender agency, even as major math and reasoning breakthroughs convince insiders that superintelligence is imminent. \"We should not be okay with a 'handover' of society to AI,\" Meta's top AI leader Alexandr Wang wrote on X, reflecting on the importance of a coming superintelligence moment after an Anthropic breakthrough on a \"Holy Grail\" mathematics problem. OpenAI CEO Sam Altman rebuked this view earlier this month: \"I want people to have the agency over the future... I think it's really important that we advocate for this.\" Dean Ball, OpenAI's head of strategic futures, calls this phenomenon the \" silent consensus. \" He told Axios this is \"an extraordinarily common view in AI safety circles,\" adding that \"People don't always think it's good. Some people do.\" Zoom in: Across podcasts, public interviews and in his writing, Amodei has for years pointed to specific arenas where he believes the best choice will be for humans to step back, although he has also said there will be \"many cases where we do want to stay in charge\" even if humans make worse decisions: Safety: In a February New York Times interview, Amodei said that in \" life-critical, safety-critical cases , we really want to turn it over\" to AI, noting society will simply need time to adapt. Defense: In a CBS discussion that month, he argued that fully autonomous weapons may eventually be \"needed for the defense of democracy \" if adversaries deploy them first. Education: In November of 2024, Amodei noted that the traditional system of a professor supervising graduate students could be reversed, as \"the AI systems will be the PIs, will be the leaders, and they'll be ordering humans or other AI systems around.\" Writing: In his 2024 essay \"Machines of Loving Grace,\" Amodei suggested one possible future economy in which superintelligent AI systems distribute resources based on \"what the AI systems think makes sense to reward in humans.\" He notes that it could the distribution could be \"derived from human values.\" Between the lines: Some AI leaders are privately frustrated by rhetoric about turning over decision-making because they fear it is pouring fuel on a growing public and political backlash against the technology. That's exactly what Maryland Gov. Wes Moore — a potential 2028 Democratic presidential contender — said this week in an interview on \"The Axios Show.\" Invoking the Book of Genesis, Moore argued that God gave humanity dominion over the earth, \"not to robots, not to agents.\" Friction point: Outside of Anthropic, AI executives have appeared divided in their public views on free will in the superintelligence era. Elon Musk recently reiterated his decade-plus-long view that when we hit superintelligence, the human race will become \"like pet labradors,\" although he's also backed technology to amplify the human brain with machine computation capabilities in order to give humans a continued advantage. The bottom line: The debate over superintelligence is no longer just about how to keep rogue machines from destroying humanity — it's about whether humans should be willing to voluntarily step aside.",
+  "vocab_count": 5,
+  "vocab": [
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Rival executives are increasingly rebuking the notion that humans will surrender",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Rival executives are increasingly rebuking the notion that humans will surrender agency, even as major math and reasoning breakthroughs convince insiders that superintelligence is imminent. \"We should not be okay with a 'handover' of societ",
+      "source": "Axios — Rival AI leaders push back against Anthropic vision of surrendering human agency to AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Flashback",
+      "phrase": "Flashback: A product vision slide from several years ago that was revealed during litigatio",
+      "meaning": "Axios 专栏固定用语：Flashback",
+      "sentence": "Flashback: A product vision slide from several years ago that was revealed during litigation described Anthropic's \"vision for a better world\" as a \"utopia ruled by god in a box.\" The big picture: The thinking for Amodei and others is that once AI can",
+      "source": "Axios — Rival AI leaders push back against Anthropic vision of surrendering human agency to AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: Across podcasts, public interviews and in his writing, Amodei has for years poin",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: Across podcasts, public interviews and in his writing, Amodei has for years pointed to specific arenas where he believes the best choice will be for humans to step back, although he has also said there will be \"many cases where we do want t",
+      "source": "Axios — Rival AI leaders push back against Anthropic vision of surrendering human agency to AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Some AI leaders are privately frustrated by rhetoric about turning over decision",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Some AI leaders are privately frustrated by rhetoric about turning over decision-making because they fear it is pouring fuel on a growing public and political backlash against the technology. That's exactly what Maryland Gov. Wes Moore — a ",
+      "source": "Axios — Rival AI leaders push back against Anthropic vision of surrendering human agency to AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The debate over superintelligence is no longer just about how to keep rogue mach",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The debate over superintelligence is no longer just about how to keep rogue machines from destroying humanity — it's about whether humans should be willing to voluntarily step aside.",
+      "source": "Axios — Rival AI leaders push back against Anthropic vision of surrendering human agency to AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-25T18:14:11+00:00"
+}

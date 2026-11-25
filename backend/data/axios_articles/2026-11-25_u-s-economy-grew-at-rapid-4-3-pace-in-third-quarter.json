@@ -1,0 +1,50 @@
+{
+  "title": "U.S. economy grew at rapid 4.3% pace in third quarter",
+  "url": "https://www.axios.com/2026/11/25/economy-gdp-inflation-ai",
+  "pub_date": "2026-11-25",
+  "topics": [
+    "tech"
+  ],
+  "tags": [
+    "tech"
+  ],
+  "source": "Axios — U.S. economy grew at rapid 4.3% pace in third quarter (2026-11-25)",
+  "body": "Data: Bureau of Economic Analysis ; Chart: Courtenay Brown/Axios The U.S. economy grew substantially faster this summer than initially thought, the government said Wednesday — a blockbuster upgrade to its estimate of third-quarter GDP. By the numbers: The economy expanded at a 4.3% annualized rate, up from the 3.4% initially reported and nearly twice the rate of 2.2% in the second quarter. Why it matters: The economy has even more momentum than previously understood, a sign of remarkable resilience in the face of higher borrowing costs and stubborn inflation that could give the Fed more latitude to raise rates. Zoom in: The upward revision reflected stronger business investment fueled by the AI buildout and software investment, as well as consumer spending. A measure of underlying private-sector demand — which strips out trade, inventories and government spending — rose at a whopping 5.8% annual rate, up from the 4.9% initially reported. The backdrop: Separate data out Wednesday showed personal income jumped 0.7% in October while inflation-adjusted consumer spending stalled, pushing the saving rate up to 4.1% from 3.6% the prior month. The personal consumption expenditures price index — the Fed's preferred inflation gauge — climbed 3.8% from a year earlier, from 3.6% in September. Core inflation, which excludes food and energy, accelerated to 3.3% from 3.1%. On a monthly basis, both headline and core prices rose 0.3%. The bottom line: The U.S. economy was on remarkably strong footing heading into the end of the year, though inflation remains stubbornly high. Editor's note: This story has been updated with additional details.",
+  "vocab_count": 3,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The economy has even more momentum than previously understood, a sign of remarka",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The economy has even more momentum than previously understood, a sign of remarkable resilience in the face of higher borrowing costs and stubborn inflation that could give the Fed more latitude to raise rates.",
+      "source": "Axios — U.S. economy grew at rapid 4.3% pace in third quarter (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "Zoom in",
+      "phrase": "Zoom in: The upward revision reflected stronger business investment fueled by the AI buil",
+      "meaning": "Axios 专栏固定用语：Zoom in",
+      "sentence": "Zoom in: The upward revision reflected stronger business investment fueled by the AI buildout and software investment, as well as consumer spending. A measure of underlying private-sector demand — which strips out trade, inventories and government s",
+      "source": "Axios — U.S. economy grew at rapid 4.3% pace in third quarter (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: The U.S. economy was on remarkably strong footing heading into the end of the ye",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: The U.S. economy was on remarkably strong footing heading into the end of the year, though inflation remains stubbornly high. Editor's note: This story has been updated with additional details.",
+      "source": "Axios — U.S. economy grew at rapid 4.3% pace in third quarter (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-25T18:14:11+00:00"
+}
