@@ -1,0 +1,46 @@
+{
+  "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+  "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+  "pub_date": "2026-11-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — Anthropic CEO pushes back on Axios reporting on AI and free will (2026-11-25)",
+  "body": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios' reporting about a growing ideological divide among top AI executives. Why it matters: This is Amodei's most significant public remarks since the company went public last week. What he's saying: \"We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,\" Amodei said. Amodei distinguished between handing over governance to AI, which he opposes, and automating specific tasks, on which he holds more nuanced views. He said his view is mixed on specific instances like \"AI driving a car, designing a cancer drug, or writing software end-to-end\" where \"it is clearly desirable in many cases and will save a lot of lives\" if AI systems are allowed more agency. He also said it may make sense to slow or stop certain AI deployments to mitigate job disruption and limit AI's ability to autonomously develop more powerful systems. The big picture: The debate about control comes amid a rocky debut for Anthropic's stock, which dipped below its IPO day price on Wednesday. The intrigue: Amodei also took aim at rival AI executives, accusing them of engaging in \"vibes-based commercial and political positioning\" by championing human agency without meaningfully differentiating their products. Those executives, he said, \"repeat slogans like 'human control and agency,' or 'AI should be just a tool,' without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans.\"",
+  "vocab_count": 2,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: This is Amodei's most significant public remarks since the company went public l",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: This is Amodei's most significant public remarks since the company went public last week. What he's saying: \"We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,\" Amodei said. Amodei distinguish",
+      "source": "Axios — Anthropic CEO pushes back on Axios reporting on AI and free will (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: Amodei also took aim at rival AI executives, accusing them of engaging in \"vibes",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: Amodei also took aim at rival AI executives, accusing them of engaging in \"vibes-based commercial and political positioning\" by championing human agency without meaningfully differentiating their products. Those executives, he said, \"repeat",
+      "source": "Axios — Anthropic CEO pushes back on Axios reporting on AI and free will (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-26T17:56:07+00:00"
+}

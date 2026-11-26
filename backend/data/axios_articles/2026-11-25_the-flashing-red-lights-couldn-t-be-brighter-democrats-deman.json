@@ -1,0 +1,98 @@
+{
+  "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
+  "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+  "pub_date": "2026-11-25",
+  "topics": [
+    "llm",
+    "tech"
+  ],
+  "tags": [
+    "AI",
+    "LLM",
+    "tech"
+  ],
+  "source": "Axios — \"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI (2026-11-25)",
+  "body": "Prominent Democrats are calling for new restrictions on AI development following Axios reporting that employees at OpenAI and Anthropic increasingly fear their most powerful models cannot be safely released. Why it matters: The political debate over AI is expanding beyond the economic consequences of the technology to a more existential question: whether companies should be allowed to build systems they may not be able to control. The issue is gaining traction among Democratic leaders ahead of the 2028 presidential election. Maryland Gov. Wes Moore (D-Md.), a potential 2028 contender, outlined a playbook for AI regulations in an interview with \"The Axios Show,\" noting that voters hate the technology because they fear losing control . Driving the news: Sens. Mark Kelly (D-Ariz.), Brian Schatz (D-Hawaii), Chris Van Hollen (D-Md.) and Bernie Sanders (I-Vt.) called for immediate action: \"The people inside AI companies are sounding the alarm ,\" Kelly said. \"We built protections for nuclear weapons and other dangerous technologies, so why are we waiting with AI? We need safeguards and independent examiners in these companies, now.\" \"It is absolutely indefensible to say 'we will take this up next year' when the risks are imminent and the alarm is nearly universal,\" Schatz said. \"The flashing red lights couldn't be brighter, and yet big tech refuses stop,\" Van Hollen said. \"Inaction is not an option. Congress must step up.\" Sanders went further, calling for a halt to advanced AI development : \"The humans who are creating AI fear it could soon escape their own control,\" Sanders said. \"Congress must act and pause advanced AI development NOW.\" Catch up quick: More than two dozen sources familiar with internal debates at OpenAI and Anthropic told Axios that recent breakthroughs in AI capabilities have raised questions about whether future frontier models can be safely released. Researchers haven't found technical solutions for controlling the most advanced models. Some believe the problem is a technical one that's fixable. Others believe companies should go a step further and stop training new models entirely. The intrigue: As politicians debate how to ensure humanity retains control over AI, top industry executives are embroiled in a separate debate over how much autonomy humans should voluntarily cede to the technology as these systems become increasingly capable. Anthropic CEO Dario Amodei personally pushed back Wednesday on a separate Axios story about views within the company that humanity will inevitably surrender some autonomy to superintelligent AI systems. \"No, I do not believe that we should 'surrender human free will' to AI systems, and it's absurd to suggest that I do,\" Amodei said on X . Amodei argued that AI must be governed by legitimate democratic processes. Between the lines: Amodei's essay acknowledged room for nuance, highlighting that his views on human agency are mixed in specific instances where it could make sense for highly powerful AI systems to step in, like AI driving a car or designing a cancer drug. Both Anthropic and OpenAI have acknowledged safety challenges and indicated a willingness to slow aspects of AI development or deployment. What to watch: Whether concerns about losing control of AI become a defining issue in the Democratic presidential primary — and whether more lawmakers embrace restrictions on AI development itself, rather than just its deployment. The bottom line: A debate that has consumed the people building the world's most powerful AI systems is spilling into national politics.",
+  "vocab_count": 6,
+  "vocab": [
+    {
+      "word": "Why it matters",
+      "phrase": "Why it matters: The political debate over AI is expanding beyond the economic consequences of th",
+      "meaning": "Axios 专栏固定用语：Why it matters",
+      "sentence": "Why it matters: The political debate over AI is expanding beyond the economic consequences of the technology to a more existential question: whether companies should be allowed to build systems they may not be able to control. The issue is gaining traction",
+      "source": "Axios — \"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Driving the news",
+      "phrase": "Driving the news: Sens. Mark Kelly (D-Ariz.), Brian Schatz (D-Hawaii), Chris Van Hollen (D-Md.) an",
+      "meaning": "Axios 专栏固定用语：Driving the news",
+      "sentence": "Driving the news: Sens. Mark Kelly (D-Ariz.), Brian Schatz (D-Hawaii), Chris Van Hollen (D-Md.) and Bernie Sanders (I-Vt.) called for immediate action: \"The people inside AI companies are sounding the alarm ,\" Kelly said. \"We built protections for nuclear we",
+      "source": "Axios — \"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Catch up quick",
+      "phrase": "Catch up quick: More than two dozen sources familiar with internal debates at OpenAI and Anthrop",
+      "meaning": "Axios 专栏固定用语：Catch up quick",
+      "sentence": "Catch up quick: More than two dozen sources familiar with internal debates at OpenAI and Anthropic told Axios that recent breakthroughs in AI capabilities have raised questions about whether future frontier models can be safely released. Researchers haven'",
+      "source": "Axios — \"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The intrigue",
+      "phrase": "The intrigue: As politicians debate how to ensure humanity retains control over AI, top indust",
+      "meaning": "Axios 专栏固定用语：The intrigue",
+      "sentence": "The intrigue: As politicians debate how to ensure humanity retains control over AI, top industry executives are embroiled in a separate debate over how much autonomy humans should voluntarily cede to the technology as these systems become increasingly ca",
+      "source": "Axios — \"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "Between the lines",
+      "phrase": "Between the lines: Amodei's essay acknowledged room for nuance, highlighting that his views on huma",
+      "meaning": "Axios 专栏固定用语：Between the lines",
+      "sentence": "Between the lines: Amodei's essay acknowledged room for nuance, highlighting that his views on human agency are mixed in specific instances where it could make sense for highly powerful AI systems to step in, like AI driving a car or designing a cancer drug. ",
+      "source": "Axios — \"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    },
+    {
+      "word": "The bottom line",
+      "phrase": "The bottom line: A debate that has consumed the people building the world's most powerful AI syst",
+      "meaning": "Axios 专栏固定用语：The bottom line",
+      "sentence": "The bottom line: A debate that has consumed the people building the world's most powerful AI systems is spilling into national politics.",
+      "source": "Axios — \"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI (2026-11-25)",
+      "tags": [
+        "Axios专栏",
+        "AI",
+        "LLM",
+        "tech"
+      ]
+    }
+  ],
+  "fetched_at": "2026-11-26T17:56:07+00:00"
+}
